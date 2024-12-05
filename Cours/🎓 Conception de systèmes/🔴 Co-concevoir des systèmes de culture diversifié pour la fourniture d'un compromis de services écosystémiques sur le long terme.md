@@ -189,6 +189,15 @@ Méthodes et outils permettant de simuler dynamiquement un système de culture e
 Modèle mécaniste ➡ Modèle qui cherche à représenter les interactions et relations de cause-conséquences entre les éléments d’un système. Dans le cas d’un modèle décrivant un agro(éco)système on parle de modèle de culture. 
 
 <u>Exemple STICS :</u>
+![[Pasted image 20241205171509.png]]
+
+#### Definition of soil and climate inputs
+![[Pasted image 20241205171800.png|680]]![[Pasted image 20241205171905.png|450]]
+
+#### Climate change on Chapelle-Thouarault point (35) : Temperature
+![[Pasted image 20241205172137.png|center|1000]]
+
+#### Climate change on Chapelle-Thouarault point (35) : Seasonal rainfall
 
 
 
