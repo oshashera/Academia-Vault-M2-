@@ -198,15 +198,20 @@ Modèle mécaniste ➡ Modèle qui cherche à représenter les interactions et r
 ![[Pasted image 20241205172137.png|center|1000]]
 
 #### Climate change on Chapelle-Thouarault point (35) : Seasonal rainfall
-
-
-
-
-
+![[Pasted image 20241205172348.png|center|1000]]
+#### Carbon modelisation
+![[Pasted image 20241205172736.png|center|1000]]
+![[Pasted image 20241205172832.png|center|1000]]
+### Nitrogen modelisation
+![[Pasted image 20241205172919.png|center|1000]]
+#### Water stress modelisation
+![[Pasted image 20241205173114.png|center|1000]]
+#### Les limites de l'approche de modélisation avec STICS
+![[Pasted image 20241205173155.png|center|1000]]
 
 ### 2) Evaluation : compléter la conception et la modélisation
 
-
+#### Approche interdisci
 
 
 
