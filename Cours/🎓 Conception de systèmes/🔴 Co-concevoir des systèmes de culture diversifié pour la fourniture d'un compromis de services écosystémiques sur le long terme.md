@@ -12,20 +12,23 @@ prof: Arnaud Delbaere
 
 ### 1) La diversification des systèmes et les services écosystémiques
 
-
-
-[diapo]
-
 #### La diversification des cultures : un levier potentiel vers plus de résilience au sein des systèmes de culture
 
 >[!tldr] Diversification des cultures -> action d'augmenter le niveau de diversité végétale au sein d'un agroécosystème (Tibi & Therand, 2018)
 
-[diapos]
-
+![[Pasted image 20241205144425.png]]
 
 On considèrera qu'un SDC est diversifié lorsque la rotation comporte au moins 6 espèces différentes sur une durée de 6 ans
 
 #### Mais quels sont les avantages de systèmes de culture diversifiés ?
+
+
+
+
+
+[diapo]
+
+
 
 [diapo]
 
@@ -73,9 +76,9 @@ STL = surface totale labouable
 
 
 
+### 2) Pourquoi la conception de tel système reste marginale
 
 
-## II. La conception de système de culture diversifié
 
 
 
