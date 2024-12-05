@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "Images",
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 70
+  },
+  "alwaysUpdateLinks": true
+}

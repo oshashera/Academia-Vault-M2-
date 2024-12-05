@@ -1,0 +1,46 @@
+{
+  "callouts": {
+    "custom": [
+      "element",
+      "donc"
+    ],
+    "settings": {
+      "element": [
+        {
+          "changes": {
+            "icon": "lucide-square-asterisk",
+            "color": "174, 178, 174"
+          }
+        }
+      ],
+      "donc": [
+        {
+          "changes": {
+            "icon": "lucide-move-right"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "156, 171, 156"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "182,196,182"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
