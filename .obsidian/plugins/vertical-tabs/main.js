@@ -25197,6 +25197,7 @@ var useViewState = create()((set, get) => {
       saveHiddenGroups(get().hiddenGroups);
     },
     setLatestActiveLeaf(plugin) {
+      const oldActiveLeaf = get().latestActiveLeaf;
       const workspace = plugin.app.workspace;
       const activeView = workspace.getActiveViewOfType(import_obsidian4.ItemView);
       if (!activeView) {
@@ -25209,6 +25210,16 @@ var useViewState = create()((set, get) => {
         set({ latestActiveLeaf: activeLeaf });
       } else {
         get().lockFocus(plugin);
+      }
+      const newActiveLeaf = get().latestActiveLeaf;
+      get().checkIfGroupChanged(workspace, oldActiveLeaf, newActiveLeaf);
+    },
+    checkIfGroupChanged(workspace, oldLeaf, newLeaf) {
+      if (oldLeaf === null && newLeaf === null) return;
+      if (oldLeaf === null || newLeaf === null) {
+        workspace.trigger("vertical-tabs:update-toggle");
+      } else if (oldLeaf.parent.id !== newLeaf.parent.id) {
+        workspace.trigger("vertical-tabs:update-toggle");
       }
     },
     lockFocus(plugin) {
@@ -30781,6 +30792,16 @@ var NavigationHeader = () => {
 // src/components/NavigationContainer.tsx
 var import_react13 = __toESM(require_react());
 var import_obsidian11 = require("obsidian");
+
+// src/services/Visibility.ts
+function isSelfVisible(app) {
+  const workspace = app.workspace;
+  const self = workspace.getLeavesOfType(VIEW_TYPE).first();
+  if (!self) return false;
+  return self.isVisible();
+}
+
+// src/components/NavigationContainer.tsx
 var import_jsx_runtime10 = __toESM(require_jsx_runtime());
 var NavigationContainer = () => {
   const plugin = usePlugin();
@@ -30791,14 +30812,15 @@ var NavigationContainer = () => {
   const setNavigation = useSettings.use.setNavigation();
   const autoRefresh = () => {
     setLatestActiveLeaf(plugin);
-    refreshToggleButtons(plugin.app);
     if (selfIsNotInTheSidebar(plugin.app)) {
       moveSelfToDefaultLocation(plugin.app);
     }
     setTimeout(() => {
       setNavigation(plugin.app);
-      refresh(plugin.app);
-      sort();
+      if (isSelfVisible(plugin.app)) {
+        refresh(plugin.app);
+        sort();
+      }
     }, REFRESH_TIMEOUT);
   };
   const updateToggles = () => {
