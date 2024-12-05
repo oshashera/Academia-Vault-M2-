@@ -153,15 +153,36 @@ L'objectif de l'atelier est de proposer collectivement une (ou plusieurs) rotati
 #### Résultat de l’atelier TomorRot#1
 
 Évaluation de la rotation diversifié par les participants
+![[Pasted image 20241205170452.png|center]]
+#### TomorRot#2
+
+Reprendre la succession végétale conçue précédemment et donner pour chaque culture les ITK correspondants.
+Les critères pour le choix des actions techniques à mettre en place sont définis par les besoins alimentaires mais aussi par les conséquences agro-environnementales des propositions.
+**➡ Système de culture entier (rotation + ITK)**
+
+Evolution des ITK selon les aléas climatiques : TomorROT3
 
 
+## V. Après la conception : évaluer les objets conçue par rapport à l'existant
 
+#### Valider la conception collective
+![[Pasted image 20241205170735.png|left|200]] 
+Il existe différentes s**tratégies de diversification** des cultures visant à trouver un **compromis acceptable** entre plusieurs services écosystémiques au **cours du temps**.
 
+Le système de culture « diversifié » co-conçu permet au compromis entre services écosystémiques de se maintenir face aux **contraintes** engendrées le **changement climatique**.
 
+Comment voir si le système collectivement conçu valide ou non les hypothèses ?
 
-## V. Après la conception : évaluer les objets conçue par rapport à l ’existant
+<center><b>⬇⬇⬇</b></center>
+
+Méthodes et outils permettant de simuler dynamiquement un système de culture en prenant en compte l’environnement
+<br>
+<br>
 
 ### 1) Modélisation : description (rapide!) du modèle STICS 
+
+#### Approche interdisciplinaire: comment simuler les agro-écosystèmes ?
+
 
 
 ### 2) Evaluation : compléter la conception et la modélisation
