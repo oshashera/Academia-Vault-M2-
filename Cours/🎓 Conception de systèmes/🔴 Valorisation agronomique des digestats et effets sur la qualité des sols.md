@@ -141,4 +141,23 @@ Des points de vigilance sont soulevés autour des risques d’augmentation de:
 #### Synthèse des principaux processus en jeu
 ![[Pasted image 20241205110346.png|left|720]] ![[Pasted image 20241205110437.png|350]]
 #### Effet sur la macrofaune du sol
+![[Pasted image 20241205110802.png|center|950]]
+
+#### Messages à garder 
+
+- Tests écotoxicologiques au laboratoire montrent qu’à forte dose (doses > à ce qui est appliqué au champ), les digestats, comme d’autres PROs (ex: Lisier), peuvent être toxiques pour les vers de terre (hypothèse : teneur en ammoniaque)  
+
+- Effets positifs sur les vers de terre des apports organiques sont observés sur moyen terme (Nouzilly) sans distinction entre les formes digestat vs forme initiale (cas du lisier).  
+- Absence de différences entre digestat (DlG-Lisier) et forme initiale (Lisier) confirmée sur du moyen at long terme pour les vers de terre et carabes (EFELE).  
+- La forme digestat-lisier, réduirait I’activité biologique des nématodes, moindre enrichissement du milieu, sans modification de la  complexité du réseau trophique -) Le digestat de lisier de porc aurait un effet correspondent à une M0 plus stable que le lisier de  porc, moins disponible pour les organismes du sol (! résultats en cours d’interprétation l).  
+- Effet positif ou absence d’effet des apports de digestats (vs aucun apport, ou vs apport minéral, ou vs apport organique non  digestée) est globalement reporté dans la littérature pour les microorganismes, mais vigilance (effet délétère 1/6 des formes   digestée vs non digestée)  
+
+#### Ce qu’il reste à faire  
+- Nécessité de renforcer les résultats acquis sur effets des digestats sur la compartiment biologique (microbiologie, fauna)  
+- Développer des études sur I’effet du type de sol, l’impact du type d’intrants en ayant une bonne connaissance des intrants (C org,   N, P, pH, ETM!) et des sources
+- Élargir les digestats étudiés (source animal, végétale) aux digestats issus de déchets (ménagers, municipaux, alimentaires)  
+- Etudier les interactions entre I'épandage de digestats et les autres pratiques agricoles (travail du sol, couverture végétale, autres   fertilisations, etc...)  
+- Développer des expérimentations au terrain, proche des conditions pédo-climatiques et d’application des digestats par les   agriculteurs et développer des études à long-terme (au delà de 24 mois) et avec des apports répétés.  
+- Développer une approche holistique intégrant des paramétres biologiques, physiques et chimiques rendant compte de l’effet   global des apports de digestats  
+
 
