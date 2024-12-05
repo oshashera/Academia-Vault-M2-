@@ -4,7 +4,15 @@ prof: Arnaud Delbaere
 
 ## I. Contexte agro-environnemental
 
-#### Les systèmes de cultures agricoles actuels ont des impacts négatifs sur l'environnement et sont menacés apr ces perturbations
+#### Les systèmes de cultures agricoles actuels ont des impacts négatifs sur l'environnement et sont menacés par ces perturbations
+![[Pasted image 20241205143303.png|center|850]]
+
+## II. La conception de système de culture diversifié
+### Les systèmes basés sur la biodiversité : un levier potentiel 
+
+### 1) La diversification des systèmes et les services écosystémiques
+
+
 
 [diapo]
 
