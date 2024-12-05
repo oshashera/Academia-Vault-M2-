@@ -127,6 +127,25 @@ Des ateliers de **travail collectif** (i) construits sur les **traits fonctionne
 ![[Pasted image 20241205162345.png|center|850]]
 #### Organisation de l’atelier 
 
+L'objectif de l'atelier est de proposer collectivement une (ou plusieurs) rotation(s) de cultures impliquant au moins 6 espèces végétales, sur une période minimale de 6 ans.
+
+![[Pasted image 20241205162634.png|left|300]]
+>[!summary] 1️⃣ Sélection d'un minimum de 6 espèces à cultiver :
+• Définie par les besoins alimentaires + les impacts agro-environnementaux à long terme
+• Scénario « île déserte ». Pas d'industrie, pas de marché, pas de produit à vendre
+• Cultures choisies en fonction des traits fonctionnels
+
+>[!summary] 2️⃣ Construction des rotations :
+• Doit inclure au moins 6 cultures principales différentes et durer 6 ans Pas de techniques culturales particulières imposées.
+• Possibilité de combiner les espèces sélectionnées
+
+>[!summary] 3️⃣ Evaluation de l’atelier et des rotations :
+• Niveau de fourniture des services écosystémiques
+• Évaluation de la diversité par rapport à l’existant
+
+![[Pasted image 20241205163155.png|center|750]]
+![[Pasted image 20241205163428.png|center|800]]
+![[Pasted image 20241205163503.png|center|]]
 
 ## V. Après la conception : évaluer les objets conçue par rapport à l ’existant
 
