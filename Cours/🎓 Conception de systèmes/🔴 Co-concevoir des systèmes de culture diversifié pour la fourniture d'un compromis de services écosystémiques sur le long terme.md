@@ -22,28 +22,16 @@ On considèrera qu'un SDC est diversifié lorsque la rotation comporte au moins 
 
 #### Mais quels sont les avantages de systèmes de culture diversifiés ?
 
-
-
-
-
-[diapo]
-
-
-
-[diapo]
-
-
-#### Analyse quantitative : système diversifiées x services écosystémiques : quelques données
-
-[diapo]
-
-#### Rappel sur les services écosystémiques : cascade de Haines-Yong & Potschin 
-[diapo]
+![[Pasted image 20241205144533.png|center|900]]
+>[!tldr] Les services écosystémiques (SE) : 
+>Les biens et services que les hommes peuvent tirer du fonctionnement des (agro)écosystèmes pour assurer leur bien-être (Costanza et al., 1997)
 
 #### Les services écosystémiques considérés dans la thèse
-
-[diapo]
-
+![[Pasted image 20241205144838.png|center|900]]
+#### Analyse quantitative Système Diversifiés x Services Écosystémiques : quelques données
+![[Pasted image 20241205144958.png|center|700]]
+##### Rappel sur les services écosystémiques : cascade de Haines-Yong & Potschin (Haines-Young and Potschin, 2012) 
+![[Pasted image 20241205145133.png|center|850]]
 
 #### Comment expliquer cet effet positif sur la fourniture de services écosystémiques : apport de l'écologie fonctionnelle
 
