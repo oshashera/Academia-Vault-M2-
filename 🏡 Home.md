@@ -8,44 +8,8 @@ banner_y: 0.5
 type: clock 
 ```
 
-# Stages demandes 
-- [ ] UMR Ecosys (paris-saclay) => écologie fonctionnelle & écotoxicologie des agroécosystèmes
-	- [x] "cyril girardin" <cyril.girardin@inrae.fr>; & "sylvie la-mantia" <sylvie.la-mantia@inrae.fr>; ✅ 2024-10-17
-	- [ ] réponse : 
-- [ ] UMR Bagap (Rennes)
-	- [ ] .
-	- [ ] réponse : 
-- [ ] UMR Eco&Sols (Montpellier) => écologie fonctionnelle et biogéochimie des Sols et Agrosystèmes
-	- [x] eco-sols@ird.fr; ✅ 2024-10-17
-	- [ ] réponse : 
-- [ ] UMR Agroécologie (Dijon)
-	- [x] direction-agroecologie@inrae.fr ✅ 2024-10-17
-	- [ ] réponse : 
-- [ ] UMR Absys (Montpellier) => Agrosystème biodiversifiés (plante pérennes)
-	- [x] dirabsys@cirad.fr; leo.garcia@supagro.fr; albert.flori@cirad.fr; benoit.ricci@inrae.fr; bruno.rapidel@cirad.fr; diana.ortiz@inrae.fr; christian.dupraz@inrae.fr; ✅ 2024-10-23
-	- [ ] réponse : 
-- [ ] UMR Lisah (Montpellier) => "Laboratoire d'étude des Interactions Sol - Agrosystème - Hydrosystème"
-	- [x] frederic.jacob@ird.fr; bailly@agroparistech.fr ✅ 2024-10-23
-	- [ ] réponse :
-- [ ] UMR Sas (Rennes) :
-	- [x] VIAUD Valérie ✅ 2024-10-23
-	- [ ] réponse :
-	- [ ] Edith LeCadre
-	- [ ] réponse :
-	- [ ] Guenola Pérès 
-	- [ ] réponse :
-- [ ] Directeur de Recherche CNRS – RÉSILIENCE  
-	- [ ] vincent.bretagnolle@cebc.cnrs.fr 
-- [ ] UMR ecobio 
-	- [x] Paysabio => cendrine.mony@univ-rennes.fr;  <christophe.piscart@univ-rennes.fr>; ✅ 2024-10-23
-	- [ ] réponse :
-	- [x] Ecofun => alexis.dufresne@univ-rennes.fr; cecile.monard@univ-rennes.fr; achim.quaiser@univ-rennes.fr; ✅ 2024-10-23
-	- [ ] réponse :
+# STAGE : UMR ECOBIO
 
-# Offres à check / répondre :
-- https://institut-agro-rennes-angers.jobteaser.com/fr/job-offers/60cceff8-f10c-4e25-b507-2133a5d031dd-inrae-identification-des-trajectoires-d-adoption-des-melanges-d-especes | AVANT LE 30/10 A REPONDRE
-- https://institut-agro-rennes-angers.jobteaser.com/fr/job-offers/e24c0abf-a7ea-42b5-8cc3-9cae48ecf711-inrae-caracterisation-de-l-impact-microclimatique-de-haies-brise-vent-sur-les-performances-agronomiques-du-ble-tendre-en-plaine-de-limagne | DES QUE POSSIBLE
-- 
 # Cours
 
 - [x] 🔺 Podcast Edith ✅ 2024-10-28
