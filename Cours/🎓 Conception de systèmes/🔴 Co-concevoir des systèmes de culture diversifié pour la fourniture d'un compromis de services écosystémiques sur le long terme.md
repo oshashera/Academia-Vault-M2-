@@ -145,7 +145,11 @@ L'objectif de l'atelier est de proposer collectivement une (ou plusieurs) rotati
 
 ![[Pasted image 20241205163155.png|center|750]]
 ![[Pasted image 20241205163428.png|center|800]]
-![[Pasted image 20241205163503.png|center|]]
+![[Pasted image 20241205163503.png|center|800]]
+####
+
+
+
 
 ## V. Après la conception : évaluer les objets conçue par rapport à l ’existant
 
