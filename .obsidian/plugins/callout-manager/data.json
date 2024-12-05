@@ -2,7 +2,8 @@
   "callouts": {
     "custom": [
       "element",
-      "donc"
+      "donc",
+      "list"
     ],
     "settings": {
       "element": [
@@ -33,6 +34,13 @@
           },
           "changes": {
             "color": "182,196,182"
+          }
+        }
+      ],
+      "list": [
+        {
+          "changes": {
+            "icon": "lucide-book-open-text"
           }
         }
       ]

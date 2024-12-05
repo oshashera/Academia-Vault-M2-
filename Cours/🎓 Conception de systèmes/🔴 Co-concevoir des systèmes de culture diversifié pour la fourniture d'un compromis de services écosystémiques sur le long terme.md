@@ -10,9 +10,7 @@ prof: Arnaud Delbaere
 ## II. La conception de système de culture diversifié
 ### Les systèmes basés sur la biodiversité : un levier potentiel 
 
-### 1) La diversification des systèmes et les services écosystémiques
-
-#### La diversification des cultures : un levier potentiel vers plus de résilience au sein des systèmes de culture
+### 1) La diversification des systèmes et les services écosystémiques - La diversification des cultures : un levier potentiel vers plus de résilience au sein des systèmes de culture
 
 >[!tldr] Diversification des cultures -> action d'augmenter le niveau de diversité végétale au sein d'un agroécosystème (Tibi & Therand, 2018)
 
@@ -44,13 +42,25 @@ On considèrera qu'un SDC est diversifié lorsque la rotation comporte au moins 
 #### Knowledge Gap : Evolution du compromis entre services au cours du temps
 ![[Pasted image 20241205151249.png|center|950]]
 #### Des études sur les interactions entre SE existent : exemple des « bouquets » de SE sur des systèmes de culture simples
-![[Pasted image 20241205151508.png|c]]
+![[Pasted image 20241205151508.png|center|900]]
+Carte : Bretagne : faible niveau de services écosystémiques globale sur adventice, ravageur... plus élevée sur la stabilité du son compte de la diversification
+<center>⬇⬇⬇</center>
+<center><b>Résultats fixés pour de courtes périodes + pas de prise en compte de  la diversification</b></center>
+<center>⬇⬇⬇</center>
+
+>[!question] Dans le contexte du changement climatique, l’augmentation de la diversité cultivée dans un agroécosystème permet-elle de fournir un compromis acceptable entre services écosystémiques au fil du temps ?
 
 
 
+>[!list] STL = surface totale labourable
+
+### 2)  La conception de systèmes diversifiés - La difficulté de concevoir et de mettre en place des systèmes diversifiés en rupture avec l’existant
+
+#### En Bretagne quel(s) système(s) de culture et quel niveau de diversité dans la succession végétale?
+![[Pasted image 20241205152420.png|center|900]]
+<p align="right">Nécessité de concevoir des systèmes de culture plus diversifiés              </p>
 
 
-STL = surface totale labourable
 
 #### Pourquoi les systèmes ont du mal à se diversifier...
 
