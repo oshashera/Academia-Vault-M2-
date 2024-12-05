@@ -166,7 +166,22 @@ Des points de vigilance sont soulevés autour des risques d’augmentation de:
 #### Effet des digestats sur les microorganismes
 ![[Pasted image 20241205142215.png|center|650]]
 ### Synthèse des effets sur les propriétés des sols
-![[Pasted image 20241205142507.png|ce]]
+![[Pasted image 20241205142507.png|center|750]]
+#### CONCLUSIONS 
 
+Ces informations concernent l’effet des digestats seuls
+
+OR
+
+Il faudrait également prendre en compte l’effet du changement du système de cultures induit par la méthanisation avec parfois
+
+- Des effets positifs si :
+	- Incorporation des cives dans la rotation produisant des biomasses élevées , y compris racinaires
+	- Apports de digestats en remplacement de l’azote minéral réussis
+
+- Des effets négatifs si :
+	- Intensification des itinéraires techniques – récoltes en conditions humides, multiplication des interventions
+
+Effets négatifs également en cas d’exportation du digestat solide pour des raisons de réglementation
 
 
