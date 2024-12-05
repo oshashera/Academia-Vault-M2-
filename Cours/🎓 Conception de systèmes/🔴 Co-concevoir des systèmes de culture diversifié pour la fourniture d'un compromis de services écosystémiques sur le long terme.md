@@ -96,40 +96,36 @@ Il existe différentes **stratégies de diversification** des cultures visant à
 ### 2)  Une approche interdisciplinaire
 
 #### Typologie des approches disciplinaires possibles
+![[Pasted image 20241205155539.png|center|650]]
+#### Agronomie et agriculture des disciplines dont le dialogue reste limité
 
 
+![[network eco x agro.png]]
+*Réseau thématique obtenue par analyse bibliométrique pour "Écologie fonctionnelle X Agronomie" (Thomas HAAG, 2024)*
+**->Inclusion très limitée : les références sont rares et orientées sur de la génétique mais pas sur de l’agronomie système (cluster marron)**
 
+![[Pasted image 20241205155954.png|center|800]]
 
+## IV. La démarche de co-conception 
 
-[diapos]
+#### Théorie: les dynamiques de jeux pour favoriser l’abstraction et la créativité (Jeuffroy and al 2022)
+![[Pasted image 20241205160410.png|center|700]]
+#### Typologie de la conception (Hatchuel and Weil, 2008)
+![[Pasted image 20241205160459.png|center|700]]
 
-
-[diapos]
-[diapos]
-
-
-
-
-### 2) Pourquoi la conception de tel système reste marginale
-
-
-
-
-
-## III. 
-
-[diapos]
-
-#### Théorie KCP (knowledges, concepts, proposition) dans le cas de la co-conception
-[diapo]
+#### Théorie KCP (knowledges, concepts, proposition) dans le cas de la co-conception dans le projet de thèse
 
 
 
 
 
 
+## V. Après la conception : évaluer les objets conçue par rapport à l ’existant
+
+### 1) Modélisation : description (rapide!) du modèle STICS 
 
 
+### 2) Evaluation : compléter la conception et la modélisation
 
 
 
