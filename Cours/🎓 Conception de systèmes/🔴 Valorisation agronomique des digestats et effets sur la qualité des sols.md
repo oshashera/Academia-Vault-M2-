@@ -161,6 +161,12 @@ Des points de vigilance sont soulevés autour des risques d’augmentation de:
 - Développer une approche holistique intégrant des paramétres biologiques, physiques et chimiques rendant compte de l’effet   global des apports de digestats  
 
 #### Effet sur la biomasse microbienne
+![[Pasted image 20241205141859.png|center|900]]
+
+#### Effet des digestats sur les microorganismes
+![[Pasted image 20241205142215.png|center|650]]
+### Synthèse des effets sur les propriétés des sols
+![[Pasted image 20241205142507.png|ce]]
 
 
 
