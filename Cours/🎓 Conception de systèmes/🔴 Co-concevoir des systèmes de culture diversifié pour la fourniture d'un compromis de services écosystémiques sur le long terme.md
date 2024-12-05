@@ -182,6 +182,16 @@ Méthodes et outils permettant de simuler dynamiquement un système de culture e
 ### 1) Modélisation : description (rapide!) du modèle STICS 
 
 #### Approche interdisciplinaire: comment simuler les agro-écosystèmes ?
+![[Pasted image 20241205171230.png|center|650]]
+
+#### Modèle mécaniste de culture : utilisation du modèle STICS (Brisson et al., 2003)
+
+Modèle mécaniste ➡ Modèle qui cherche à représenter les interactions et relations de cause-conséquences entre les éléments d’un système. Dans le cas d’un modèle décrivant un agro(éco)système on parle de modèle de culture. 
+
+<u>Exemple STICS :</u>
+
+
+
 
 
 
