@@ -114,10 +114,18 @@ Il existe différentes **stratégies de diversification** des cultures visant à
 ![[Pasted image 20241205160543.png|center|700]]
 
 #### Théorie KCP (knowledges, concepts, proposition) dans le cas de la co-conception dans le projet de thèse
+![[Pasted image 20241205161509.png|center|750]]
 
+#### Construction d’une approche interdisciplinaire: combiner conception, simulation et evaluation
 
+Des ateliers de **travail collectif** (i) construits sur les **traits fonctionnels** des espèces cultivées et (ii) permettant de faire abstraction des contraintes socio-économiques et réglementaires actuelles pour se concentrer sur la fourniture et le maintien d’une **diversité de services écosystémiques**, permettent de co-concevoir un système de culture « diversifié »
+![[Pasted image 20241205161654.png|center|750]]
 
-
+#### TomorROT workshops: managing the cropping system complexity by designing the growing system in several stages
+![[Pasted image 20241205161827.png|center|750]]
+#### TomorROT#1 method
+![[Pasted image 20241205162345.png|center|850]]
+#### Organisation de l’atelier 
 
 
 ## V. Après la conception : évaluer les objets conçue par rapport à l ’existant
