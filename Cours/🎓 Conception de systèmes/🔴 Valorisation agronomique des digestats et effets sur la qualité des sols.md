@@ -114,7 +114,7 @@ Mais il existe des points de vigilance à surveiller en fonctions des digestats 
 #### Point de vigilance : Salinité du sol
 ![[Pasted image 20241204165744.png|center|650]]
 #### Etat de l’art : effet sur la rétention en eau du sol
-
+![[Pasted image 20241205105638.png|center|550]]
 
 
 
