@@ -73,11 +73,19 @@ Carte : Bretagne : faible niveau de services écosystémiques globale sur advent
 #### et comment pourrions nous dépasser ces freins ?
 ![[Pasted image 20241205153324.png|]]
 
+## III. Question de recherches et hypothèse
+### 1) Des questions qui soulèvent d’autres questions
 
-[diapos]
-[diapos]
-[diapos]
-[diapos]
+#### Co-concevoir des systèmes de culture diversifiés pour la fourniture d’un compris de services écosystémiques sur le long terme
+
+>[!question] Comment concevoir un système de culture très diversifié capable de fournir une large gamme de services écosystémiques sur le long terme, tout en restant adapter aux contraintes agronomiques locales ?
+
+>[!question] Dans le contexte du changement climatique, l’augmentation de la diversité cultivée dans un agroécosystème permet-elle de fournir un compromis acceptable entre services écosystémiques au fil du temps ?
+
+>[!]
+
+
+### 2)  Une approche interdisciplinaire
 
 
 
