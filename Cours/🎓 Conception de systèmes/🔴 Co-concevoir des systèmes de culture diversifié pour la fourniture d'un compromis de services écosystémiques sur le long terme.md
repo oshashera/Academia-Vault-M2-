@@ -58,11 +58,21 @@ Carte : Bretagne : faible niveau de services écosystémiques globale sur advent
 
 #### En Bretagne quel(s) système(s) de culture et quel niveau de diversité dans la succession végétale?
 ![[Pasted image 20241205152420.png|center|900]]
-<p align="right">Nécessité de concevoir des systèmes de culture plus diversifiés              </p>
-
-
-
+<p align="right"><b>Nécessité de concevoir des systèmes de culture plus diversifiés  &nbsp;&nbsp;&nbsp; </b>.</p>
 #### Pourquoi les systèmes ont du mal à se diversifier...
+![[Pasted image 20241205152903.png|650]]
+- Les objectifs économiques sont des objectifs de court-termes (rentabilité...) au détriment de potentielles économies sur le long terme
+	- Perception de projet à « haut risque »
+- Manque de soutien politique, commercial (manque de filière)...
+- La difficulté purement « humaine » de se projeter dans le temps
+- L’ensemble des habitudes et des préjugés
+
+>[!tldr] Path dependence ou dépendance au sentier : 
+>« résistance au changement de la façon dont les choses ont toujours été faites, même si les activités habituelles semblent de plus en plus inadaptées » (Barnett et al.,2015)
+
+#### et comment pourrions nous dépasser ces freins ?
+![[Pasted image 20241205153324.png|]]
+
 
 [diapos]
 [diapos]
