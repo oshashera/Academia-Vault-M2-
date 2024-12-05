@@ -79,7 +79,7 @@ Difficulté de chiffrer les initiatives dans le monde, mais permaculture présen
 >[!important] **Concevoir globalement un espace de vie alors qu’autres approches insistent plus sur l’échelle des pratiques agricoles ou de la parcelle**
 
 #### Petite parenthèse sur le *design* : la conception spatiale
-![[Pasted image 20241205175130.png|left|300]]
+![[Pasted image 20241205175130.png|left|350]]
 
 **Observation** et analyse du site (flux et secteurs)
 
@@ -91,12 +91,40 @@ Disposer spatialement les éléments pour **favoriser les interactions positives
 
 >[!tldr] Écotones (écologie) : zones de lisières ou bordures où il y a le plus d'interactions biologiques
 
-<br>
-<br>
-<br>
-<br><br>
-<br><br><br>
-t
+###### Les 3 éthiques et 12 principes de la permaculture selon Holmgren
+
+**Éthiques** : Prendre soin de la Terre; Prendre soin de l’humain; Partager équitablement
+![[Pasted image 20241205175506.png|left|350]]
+**Principes:**
+- 1] Observer et interagir
+
+- 2] Collecter et stocker l’énergie
+
+- 3] Créer une production
+
+- 4] Appliquer l’auto-régulation et accepter la rétroaction
+
+- 5] Utiliser et valoriser les services et les ressources renouvelables
+
+- 6] Ne pas produire de déchets
+
+- 7] Partir des structures d’ensemble pour arriver aux détails
+
+- 8] Intégrer plutôt que séparer
+
+- 9] Utiliser des solutions à de petites échelles et avec patience
+
+- 10] Utiliser et valoriser la diversité
+
+- 11] Utiliser les interfaces et valoriser les éléments en bordure
+
+- 12] Utiliser le changement et y réagir de manière créative 
+<br><br><br><br><br><br><br>
+#### Cadre de réflexion des pratiques
+
+>[!important] En termes agricoles: agriculture biologique ou agroécologique « forte»: polyculture-élevage, agroforesterie, associations de cultures, limitation du travail du sol et couverture du sol (aucun de ces critères ne définit la permaculture et une ferme qui s’inspire de la permaculture ne les présente pas forcément tous !)
+
+[diapos] (suit à 20/53)
 
 ## APPLICATIONS
 
