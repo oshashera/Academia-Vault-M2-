@@ -146,7 +146,15 @@ L'objectif de l'atelier est de proposer collectivement une (ou plusieurs) rotati
 ![[Pasted image 20241205163155.png|center|750]]
 ![[Pasted image 20241205163428.png|center|800]]
 ![[Pasted image 20241205163503.png|center|800]]
-####
+#### The two simulated reference cropping systems
+![[Pasted image 20241205165718.png|center|900]]
+<center><span style="background:#d3f8b6">Organic inputs quantity are equivalent in the 3 crops rotations modalities but neither soil tillage nor crop residues</span></center>
+
+#### Résultat de l’atelier TomorRot#1
+
+Évaluation de la rotation diversifié par les participants
+
+
 
 
 
