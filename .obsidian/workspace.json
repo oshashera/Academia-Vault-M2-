@@ -35,7 +35,8 @@
               "title": "Négociation de salaire (conférence)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4d74c584eb05dc7d",
   "lastOpenFiles": [
+    "Cours/🎓 Conception de systèmes/🔴 Co-concevoir des systèmes de culture diversifié pour la fourniture d'un compromis de services écosystémiques sur le long terme.md",
+    "Images/Pasted image 20241205145727.png",
+    "Images/Pasted image 20241205145542.png",
     "Images/Pasted image 20241205145133.png",
     "Images/Pasted image 20241205144958.png",
     "Images/Pasted image 20241205144838.png",
@@ -229,13 +233,9 @@
     "Images/Pasted image 20241205142507.png",
     "Images/Pasted image 20241205142215.png",
     "Négociation de salaire (conférence).md",
-    "Images/Pasted image 20241205141859.png",
-    "Images/Pasted image 20241205110802.png",
-    "Images/Pasted image 20241205110437.png",
     "🏡 Home.md",
     "Cours/🎓 Conception de systèmes/Permaculture - origine, principes, applications et état de l'art scientifique.md",
     "Cours/🎓 Conception de systèmes/Low-tech en agriculture.md",
-    "Cours/🎓 Conception de systèmes/🔴 Co-concevoir des systèmes de culture diversifié pour la fourniture d'un compromis de services écosystémiques sur le long terme.md",
     "Cours/🎓 Conception de systèmes/Gestion spatiale des systèmes de cultures.md",
     "Cours/🎓 Conception de systèmes/🟢 Conception innovante de systèmes agricoles - Théorie, exemples et outils associés.md",
     "Cours/🎓 Landscape ecology/🔴 Water and nutrient flows in rural landscapes.md",

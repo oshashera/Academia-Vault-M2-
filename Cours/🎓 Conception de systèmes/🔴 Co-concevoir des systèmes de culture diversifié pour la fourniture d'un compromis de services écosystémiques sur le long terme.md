@@ -34,13 +34,7 @@ On considèrera qu'un SDC est diversifié lorsque la rotation comporte au moins 
 ![[Pasted image 20241205145133.png|center|850]]
 
 #### Comment expliquer cet effet positif sur la fourniture de services écosystémiques : apport de l'écologie fonctionnelle
-
-[diapo]
-[diapo]
-
-[diapo]
-
-[diapos]
+![[Pasted image 20241205145727.png|center|750]]
 
 STL = surface totale labouable
 
