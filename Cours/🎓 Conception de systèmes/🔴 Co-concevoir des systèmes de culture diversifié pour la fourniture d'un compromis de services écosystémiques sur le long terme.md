@@ -35,8 +35,22 @@ On considèrera qu'un SDC est diversifié lorsque la rotation comporte au moins 
 
 #### Comment expliquer cet effet positif sur la fourniture de services écosystémiques : apport de l'écologie fonctionnelle
 ![[Pasted image 20241205145727.png|center|750]]
+![[Pasted image 20241205150555.png|center|1000]]
+![[Pasted image 20241205150705.png|center|1000]]
+![[schéma utilité biodiv(1).png|center|1000]]
+<center>Représentation conceptuelle des processus permis par la biodiversité (T. Haag, 2024)</center>
 
-STL = surface totale labouable
+![[Pasted image 20241205151146.png|center|900]]
+#### Knowledge Gap : Evolution du compromis entre services au cours du temps
+![[Pasted image 20241205151249.png|center|950]]
+#### Des études sur les interactions entre SE existent : exemple des « bouquets » de SE sur des systèmes de culture simples
+![[Pasted image 20241205151508.png|c]]
+
+
+
+
+
+STL = surface totale labourable
 
 #### Pourquoi les systèmes ont du mal à se diversifier...
 
