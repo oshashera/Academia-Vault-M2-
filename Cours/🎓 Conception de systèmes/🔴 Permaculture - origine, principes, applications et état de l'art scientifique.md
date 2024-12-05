@@ -20,27 +20,83 @@ Agroécologie : Mexique, pays du sud, connaissances traditionnelles et paysans i
 >[!cite] « Cadre conceptuel organisateur qui utilise la pensée systémique et des principes de design pour concevoir des paysages durables qui imitent les motifs et les relations observées dans la nature afin de répondre aux besoins locaux en alimentation, énergie, fibres et aux autres besoins matériels et immatériels» 
 >Crée par Bill Mollison et David Holmgren à la fin des années 70 en Australie
 
-
-
-[diapo]
-
-
+![[Pasted image 20241205174247.png|center|1100]]
+#### Un champ plus vaste que l’agriculture
+![[Pasted image 20241205174423.png|center|700]]
 Glissement de l'agriculture à la culture (du "culture" de permaculture)
 
+#### Les réseaux de la permaculture
 
-#### Les réseaux de la permaculture 
+Permaculture met en avant initiatives individuelles (réseau peu structuré/centralisé) mais il existe des réseaux locaux (comme en France le Réseau Brin de Paille ou l’Académie Populaire de Permaculture).
 
+Souvent, ces réseaux ne sont pas spécifiquement agricoles (et peuvent s’adresser à des jardiniers, des associations, etc...).
 
-[diapo]
+Souvent structuré autour du PDC, Permaculture Design Course avec des « professeurs itinérants ».
 
+#### Quelques professeurs influents qui ont développé différentes directions 
 
+>[!summary] Geoff Lawton (Australien)
+>
+>www.discoverpermaculture.com
+>
+A développé des pratiques de design avec un fort accent sur la conservation de
+l’eau pour l’agriculture dans des zones arides (“Greening the desert”, Jordanie).
 
+>[!summary] Rosemary Morrow (Australienne)
+>
+A développé et enseigné la permaculture dans les pays pauvres et dans des contexts post-guerre et avec des réfugiés en Asie, Afrique et Europe de l’Est.
+Focalise sur les méthodes de non-violence et le design de jardins hautement nutritionnels pour prévenir les maladies et carences en situations d’extrême pauvreté et/ou de crise.
+
+>[!summary] Rob Hopkins
+A partir de l’exemple de la ville anglaise de Totnes a promu des approches collectives pour concevoir et gérer des sociétés locales post-pétrole. A développé des approches et outils d’animation pour libérer le “génie créatif des communautés” pour trouver des solutions créatives et solidaires.
+>
+>A essaimé via le réseau des Villes en Transition https://transitionnetwork.org qui recense 1000 initiatives en 2024 et facilite les échanges locaux,
+régionaux et internationaux, dont 150 en France: https://www.entransition.fr/
+
+#### En France, la ferme du Bec Hellouin
+
+Créée en 2006 en France (Eure) https://www.fermedubec.com/
+Charles Hervé-Gruyer & Perrinne Bulgheroni
+
+Promotion de la microagriculture, microferme
+
+En combinant:
+Approche globale du design via la permaculture
+Réflexions sur outils et approches sans motorisation
+
+Intégration de pratiques de maraîchage biointensive inspirée d’autres approches (Coleman, Fortier)
+
+Plus récemment réflexion sur forêts-jardin et paysages de résilience
+
+De nombreuses collaborations avec la recherche et rapports associés https://www.fermedubec.com/la-ferme/la-recherche/
+
+#### La permaculture dans le monde
+
+Difficulté de chiffrer les initiatives dans le monde, mais permaculture présente sur tout les continents. En 2024, le site permacultureglobal.org recense 2765 projets (très sous estimé).
+
+#### Conception systémique 
+
+>[!important] **Concevoir globalement un espace de vie alors qu’autres approches insistent plus sur l’échelle des pratiques agricoles ou de la parcelle**
+
+#### Petite parenthèse sur le *design* : la conception spatiale
+![[Pasted image 20241205175130.png|left|300]]
+
+**Observation** et analyse du site (flux et secteurs)
+
+**Zonage** par intensité d’intervention décroissante (limitation du travail, zones de biodiversité)
+
+Disposer spatialement les éléments pour **favoriser les interactions positives**
+
+**Multiplier les bordures** (entre cultures avec bois, étangs, zones « naturelles ») car zones de biodiversité maximale = écotones
 
 >[!tldr] Écotones (écologie) : zones de lisières ou bordures où il y a le plus d'interactions biologiques
 
-
-(diapooooosss)
-
+<br>
+<br>
+<br>
+<br><br>
+<br><br><br>
+t
 
 ## APPLICATIONS
 
