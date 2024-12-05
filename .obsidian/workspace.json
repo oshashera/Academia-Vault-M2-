@@ -35,8 +35,7 @@
               "title": "Négociation de salaire (conférence)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d74c584eb05dc7d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Négociation de salaire (conférence).md",
     "Cours/🎓 Conception de systèmes/🔴 Valorisation agronomique des digestats et effets sur la qualité des sols.md",

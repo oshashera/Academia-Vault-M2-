@@ -160,5 +160,7 @@ Des points de vigilance sont soulevés autour des risques d’augmentation de:
 - Développer des expérimentations au terrain, proche des conditions pédo-climatiques et d’application des digestats par les   agriculteurs et développer des études à long-terme (au delà de 24 mois) et avec des apports répétés
 - Développer une approche holistique intégrant des paramétres biologiques, physiques et chimiques rendant compte de l’effet   global des apports de digestats  
 
-#### 
+#### Effet sur la biomasse microbienne
+
+
 
