@@ -79,10 +79,10 @@ Intérêt énergétique si un recours à l’azote minéral est nécessaire ?
 ![[Pasted image 20241204144153.png|center|550]]
 ### Propriétés physiques couramment étudiées
 ![[Pasted image 20241204144313.png|center|650]]
-### Relations avec les teneurs en MO des sols
+#### Relations avec les teneurs en MO des sols
 ![[Pasted image 20241204144524.png|center|950]]
 
-### Etat de l’art 
+#### Etat de l’art 
 
 Digestats liquides à partir d’une diversité de substrats (copeaux de bois, fumiers, cultures, engrais vert,…)
 
@@ -115,11 +115,30 @@ Mais il existe des points de vigilance à surveiller en fonctions des digestats 
 ![[Pasted image 20241204165744.png|center|650]]
 #### Etat de l’art : effet sur la rétention en eau du sol
 ![[Pasted image 20241205105638.png|center|550]]
+#### CONCLUSIONS sur les effets sur les propriétés physiques
 
+Peu encore d’études et encore moins sur des dispositifs de longue durée – donc peu de recul
+N’a pas été considérée ici la portance des sols et les avancées du machinisme dans ce domaine.
 
+Comme pour toute famille de produits les effets des digestats sur les propriétés physiques dépendent de :
+**➡** Type de sol ; Type de digestat ; Dose et fréquence ; Type de système de culture
 
+Ces effets présentent une dynamique temporelle marquée : cas de la stabilité structurale des sols – qu’on a espoir de pouvoir prédire
 
+En général les apports de digestats sont considérés comme favorables aux propriétés physiques du sol, surtout s’ils sont solides et enfouis dans le sol (exception faite de la stabilité des agrégats).
 
+Des points de vigilance sont soulevés autour des risques d’augmentation de:
 
+♦ La densité apparente en surface
+♦ La conductivité électrique des sols
+♦ La dispersion des argiles en sols argileux
+♦ Les conditions de récolte des résidus (Préconisation : laisser 40 % des cannes de maïs sur la parcelle)
+**➡** Attention aux apports répétés
 
+**=>** Vers une caractérisation fine et systématique des digestats et des conditions d’application
+**=>** Un suivi sur le long-terme chez les agriculteurs selon le fonctionnement du sol souhaité
+
+#### Synthèse des principaux processus en jeu
+![[Pasted image 20241205110346.png|left|720]] ![[Pasted image 20241205110437.png|350]]
+#### Effet sur la macrofaune du sol
 
