@@ -209,9 +209,29 @@ Modèle mécaniste ➡ Modèle qui cherche à représenter les interactions et r
 #### Les limites de l'approche de modélisation avec STICS
 ![[Pasted image 20241205173155.png|center|1000]]
 
+>[!important] aller checker systèmes/modèle de markov (chaines de stat proba?)
+
+
 ### 2) Evaluation : compléter la conception et la modélisation
 
-#### Approche interdisci
+#### Approche interdisciplinaire : combiner conception, simulation et évaluation dans une approche participative
+![[Pasted image 20241205173258.png|center|1000]]
+#### A step toward the evaluation of ecosystemic services trade-off evolution trands over the long time
+![[Pasted image 20241205173626.png]]
+
+## Messages clefs
+
+- La diversité des systèmes de culture a un impact positif sur la fourniture de services écosystémiques 
+
+- Le dialogue entre discipline est peu répandu dans les faits 
+
+- Les ateliers de conception basés sur des éléments ludiques ont favorisé l’abstraction et permis de créer des sorties nouvelles, l’intégration des disciplines restent toutefois limitée
+
+- Les effets de la diversité végétale sur le stock de carbone sont variables et principalement guidés par les intrants, néanmoins les tendances montrent un déstockage plus lent 
+
+- Le systèmes souffrent moins de carence azotées mais semblent en relâcher plus dans le milieu, illustrant la notion de compromis entre services 
+
+- La modélisation mécaniste est un outil utile mais limité pour représenté la diversité des systèmes de culture 
 
 
 
@@ -227,8 +247,3 @@ Modèle mécaniste ➡ Modèle qui cherche à représenter les interactions et r
 
 
 
-
-
-
-
-aller checker systèmes/modèle de markov (chaines de stat proba?)

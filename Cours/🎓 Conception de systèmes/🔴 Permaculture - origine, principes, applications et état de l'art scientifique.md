@@ -2,10 +2,14 @@
 prof: Kevin Morel
 ---
 
+## Origine et principes de la permaculture
+
+#### Préambule: la permaculture est vaste et a fait l’objet de nombreux développements. Cette présentation veut donc présenter des grands éléments structurants mais n’a pas prétention à être exhaustive.
+
+
 Post 68 important car grand mouvement étudiants altermondialistes dans plein de pays du Nord cette année là
 Post choc pétrolier 70s donc questionnement sur gestion/conception sans pétrole.
 Importance du design, pas que la parcelle, à la base c'est un lieu de vie, donc aussi questions de qualité de vie, d'esthétisme,...
-
 
 Agriculture biologique d'origine : lord anglais qui aime po minéral, va dans colonie observer ce qu'il font, utilisent engrais organique (d'ou organic agriculture); en france, questions de santé, la vie au milieu de l'agriculture, d'ou le biologique; japon, développe agriculture boudhique/naturelle, ou faut laisser le sol faire, d'ou "naturelle". 
 
@@ -13,7 +17,10 @@ Agroécologie : Mexique, pays du sud, connaissances traditionnelles et paysans i
 
 ##### La permaculture en théorie 
 
-" Cadre conceptuel organisateur qui utilise la pensée systémique [diapo]"
+>[!cite] « Cadre conceptuel organisateur qui utilise la pensée systémique et des principes de design pour concevoir des paysages durables qui imitent les motifs et les relations observées dans la nature afin de répondre aux besoins locaux en alimentation, énergie, fibres et aux autres besoins matériels et immatériels» 
+>Crée par Bill Mollison et David Holmgren à la fin des années 70 en Australie
+
+
 
 [diapo]
 
