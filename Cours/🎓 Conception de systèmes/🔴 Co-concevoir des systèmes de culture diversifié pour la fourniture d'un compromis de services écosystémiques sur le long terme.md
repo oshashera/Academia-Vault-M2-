@@ -82,14 +82,24 @@ Carte : Bretagne : faible niveau de services écosystémiques globale sur advent
 
 >[!question] Dans le contexte du changement climatique, l’augmentation de la diversité cultivée dans un agroécosystème permet-elle de fournir un compromis acceptable entre services écosystémiques au fil du temps ?
 
->[!]
+>[!summary] 1️⃣ 
+ Des ateliers de **travail collectif** (i) construits sur les **traits fonctionnels** des espèces cultivées et (ii) permettant de faire abstraction des contraintes socioéconomiques et réglementaires actuelles pour se concentrer sur la fourniture et le maintien d’une **diversité de services écosystémiques**, permettent de co-concevoir un système de culture « diversifié ».
+ 
+>[!summary] 2️⃣
+Il existe différentes **stratégies de diversification** des cultures visant à trouver un **compromis acceptable** entre plusieurs services écosystémiques au **cours du temps**.
 
+>[!summary] 3️⃣
+ Le système de culture « diversifié » co-conçu permet au compromis entre services écosystémiques de se **maintenir** face aux **contraintes** engendrées le **changement climatique**.
+
+>[!summary] La complexité des systèmes de culture (processus écologiques, décisions humaines, échelles temporelles) impose d'adopter une approche interdisciplinaire.
 
 ### 2)  Une approche interdisciplinaire
 
-
-
 #### Typologie des approches disciplinaires possibles
+
+
+
+
 
 [diapos]
 
