@@ -111,7 +111,7 @@ Il existe différentes **stratégies de diversification** des cultures visant à
 #### Théorie: les dynamiques de jeux pour favoriser l’abstraction et la créativité (Jeuffroy and al 2022)
 ![[Pasted image 20241205160410.png|center|700]]
 #### Typologie de la conception (Hatchuel and Weil, 2008)
-![[Pasted image 20241205160459.png|center|700]]
+![[Pasted image 20241205160543.png|center|700]]
 
 #### Théorie KCP (knowledges, concepts, proposition) dans le cas de la co-conception dans le projet de thèse
 
