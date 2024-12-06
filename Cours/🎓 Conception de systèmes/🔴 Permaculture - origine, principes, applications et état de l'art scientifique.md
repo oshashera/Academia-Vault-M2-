@@ -230,21 +230,52 @@ Dans le design, des compromis ont été réalisés entre **l’esthétique et la
 la parcelle sans son intervention (à partir des ronces de départ, une forêt de chênes prend progressivement le dessus). De plus, cette zone sauvage permettait de créer une limite symbolique entre la partie maraîchère et les autres espaces de la ferme. Jérôme s’écarte volontairement d’une vision trop rigide et statique du zonage. En effet, il compte intégrer à terme dans une même rotation les céréales (zone 2) et les prairies (zone 3-4). Cela résultera en un zonage cyclique (un même espace étant cycliquement dans une zone différente).
 
 
-
-
-
-
-
-
 ## État de l'art scientifique (succinct) et controverses autour de la permaculture
 
 
+#### Controverses et critiques (1)
+![[Pasted image 20241206095355.png|right|200]]
 
+**Extrapolation à partir de quelques cas**
+**Peu de références à des travaux de recherche récents**
+**Tendance à la simplification et généralisation abusive**
 
+<b><u>Exemples de simplification:</u></b>
 
+**Production Primaire Nette vs Productivité Agricole**
+>Production primaire nette de la forêt > Champ agricole
+>Mais plantes pérennes allouent plus de matière à leur structure donc pas forcément traduit en rendement de ce qui est mangeable. Donc comparaison entre pérennes et annuelles est un problème complexe à considérer au cas par cas.
 
+**Effets bordures inspirés par la notion écologique d’écotone.**
+>Écotone existe mais leur impact et la possibilité de s’appuyer dessus de manière pratique varie selon les contextes, souvent exagérée et non documentée par preuves scientifiques. Une plus grande productivité biologique dans la bordure ne se traduit pas forcément en plus de rendement et cette augmentation potentielle peut être tempérée par augmentation du travail pour gérer des bordures complexes.
 
+#### Controverses et critique (2)
 
+**Impact politique limité et difficultés du changement d’échelle**
 
+Réseau horizontal non centralisé a permis diffusion dans le monde et application dans diversité de contextes à petite échelle:
+• Transition des villes;
+• Pratiques agricoles et horticoles;
+• Initiatives communautaires et pédagogiques;
+• Ecovillages;
+• Mouvements néo-ruraux;
+• Amélioration des conditions de vie de groupes marginalisés dans les pays du Sud...
+
+À la fois dans pays industrialisés et pays du sud. Mais pas d’organisation centralisée (comme Via Campesina) qui limite la coordination d’actions
+plus larges au-delà d’initiatives à petite échelle ou des partenariat avec d’autres acteurs de la société. **➔ Focus sur l’action individuelle qui peut dépolitiser et limiter structuration du mouvement**.
+
+« La révolution s’est tellement déguisée en jardinage, que c’est devenu du jardinage ». (Citation d’un permaculteur anonyme)
+
+#### Controverses et critiques (3)
+
+Appropriation culturelle occidentale en s’inspirant de pratiques traditionnelles indigènes et les combinant hors de leur contexte ou « créer des nouvelles cultures locales avec une vigueur hybride » (Holmgren, 2002).
+Mais approprié de plus en plus par mouvements paysans du Sud.
+On va « piocher » partout dans le « pool mondial » des pratiques et des espèces végétales et animales... peut être en tension avec défense des variétés et espèces locales.
+
+**Peu de recherche:**
+• Publique car permaculture est très large et holistique et sciences souvent disciplinaires (dialogue difficile); préjugés des 2 côtés entre praticiens et
+scientifiques
+• Privée car peu d’intérêts économiques
+**➔ Un besoin de recherche sur l’efficacité de la permaculture en contexte agricole mais quelques premières études existent....**
 
 
