@@ -1,7 +1,6 @@
 ---
 prof: Kevin Morel
 ---
-
 ## Origine et principes de la permaculture
 
 #### Préambule: la permaculture est vaste et a fait l’objet de nombreux développements. Cette présentation veut donc présenter des grands éléments structurants mais n’a pas prétention à être exhaustive.
@@ -294,14 +293,81 @@ Ces études concluent que comme la permaculture combine les 3, alors il y a un p
 
 \+ Matière organique, N, nutriments, vie microbienne, biodiversité du sol
 ![[Pasted image 20241206105022.png|center|750]]
-**mais mesurés sur un échantillon très faible (quelques fermes)**
+**Mais mesurés sur un échantillon très faible (quelques fermes)**
 
 #### Rôle de la biodiversité et redondance fonctionnelle pour la résilience ?
+
 Permaculture part du principe que haut niveau de diversité et redondance fonctionnelle garantit la résilience...(très présent
-dans la littérature en écologie depuis les années 50). Mais la « stability-diversity controversy » depuis les années 70 souligne que les liens entre diversité des espèces/fonctions et la stabilité des écosystèmes sont complexes et que d’autres
-facteurs et propriétés des écosystèmes devraient être
+dans la littérature en écologie depuis les années 50). 
+
+Mais la « stability-diversity controversy » depuis les années 70 souligne que les liens entre diversité des espèces/fonctions et la stabilité des écosystèmes **sont complexes** et que d’autres facteurs et propriétés des écosystèmes devraient être
 considérés....
-La permaculture pourrait fournir des cas d’étude intéressants
-pour explorer la résilience de systèmes diversifiés en regard des
-connaissances et méthodes actuelles en écologie....
-Mais tout reste à faire !
+La permaculture pourrait fournir des cas d’étude intéressants pour explorer la résilience de systèmes diversifiés en regard des connaissances et méthodes actuelles en écologie....
+
+**Mais tout reste à faire !**
+
+### Recherches sur les intérêts socio-économiques - Des études limitées mais en croissance au Nord comme au Sud
+
+#### Synthèse des études économiques
+
+Les niveaux de production, intrants, travail, revenue des fermes inspires par la permaculture sont hautement variables et du **même ordre de grandeur que d’autres ferme**s diversifiées, bio, bas-intrants, agroécologiques (Ferguson and Lovell, 2017; Ferguson and Lovell 2019; Morel, 2016; Bastien, 2016; Didarali and Gambiza, 2019; Oliveira and Penha-Lopes, 2020; El Ouali, 2021)
+
+Cela tempère la vision que:
+• La permaculture a la solution à tous les problèmes
+• La permaculture est une utopie irréalisable
+
+Dans les pays du Sud (Malawi, Afrique du Sud, Zimbaabwe), des petits agriculteurs mettant en place la permaculture peuvent voir des bénéfices en termes de **santé et de nutrition** comparé à des pratiques conventionnels (Conrad, 2014, Didarali et Gamiza, 2019).
+
+#### Synthèse des autres études existantes depuis
+
+La part des fermes générant un revenu uniquement basé sur la production en permaculture est variable selon les contextes et le cas.
+
+Il est commun que les agriculteurs inspires par la permaculture diversifient leurs revenus **(pluriactivité)** soit avec travail extérieur ou en développant des activités culturelles, pédagogiques, de service en lien avec intérêt fort du public pour la permaculture.
+
+➔ Soulève des critiques fortes de la part des détracteurs (“Permaculteurs ne vivant que des formations”) vs autre modèle professionnel
+
+➔ Le coût des formations fait aussi débat dans le réseau de la permaculture (accessibilité) mais certaines initiatives existent pour favoriser accès au plus grand nombre.
+
+➔ Certaines fermes arrivent à vivre de la permaculture sans formation.
+
+La plupart des études sur la rentabilité de la permaculture insistent sur le fait que les bénéfices de la permaculture à l’échelle de la ferme sont limités par le contexte du système agro-alimentaire dominant, difficultés d’accès aux ressources (foncier, main d’oeuvre qualifiée), aux marchés et au contexte politique et réglementaire.
+
+## Conclusion
+
+- La permaculture est une approche visant à concevoir des sociétés humaines durables beaucoup plus large que le seul champ agricole.
+
+- La permaculture appliquée à l’agriculture présente de nombreux points communs avec d’autres démarches d’agricultures alternatives.
+
+- Elle repose sur une éthique de « soin » et de « partage » qui va bien au-delà de la sphère agricole et entend souvent intégrer d’autres aspects que la production alimentaire dans les projets (pédagogie, activité culturelle, énergie, autres économies etc.).
+
+- Elle met l’accent sur des approches globales, une conception fine de l’espace (global design) qui articule une réflexion systémique globale, subjectivité (lieu de vie) et créativité.
+
+- D’un point de vue des pratiques agricole, elle représente une version « forte » de l’agriculture biologique ou de l’agroécologie en termes de diversification, d’imbrication entre espèces (polyculture-élevage, agroforesterie), de soin au sol (non labour, couverts végétaux etc.), de volonté d’imiter les écosystèmes naturels.
+
+- Il existe encore assez peu de travaux sur les « performances » économiques, écologiques et agronomiques de la permaculture donc plus de recherche est nécessaire.
+
+- Au-delà des controverses, ce concept a peut-être le mérite d’ouvrir les imaginaires et de promouvoir une approche globale de la durabilité.
+
+###### Références :
+
+Cette présentation est largement basée sur:
+- Morel K., Léger, F., Sass Ferguson, R., 2019. Permaculture. In : Encyclopedia of Ecology, 2nd edition. Elsevier, 559-567, https://dx.doi.org/10.1016/B978-0-12-409548-9.10598-6, https://hal.inrae.fr/hal-01742154, Nouvelle édition augmentée et mise à jour devrait être disponible fin 2024-début 2025
+Références citées (au-delà de celles de Holmgren déjà présentées)
+
+- Conrad, A., 2014. We are farmers: agriculture, food security, and adaptive capacity among the permaculture and conventional farmers in central Malawi. Doctoral dissertation. American University. http://pri-kenya.org/wp-content/uploads/2015/04/Conrad-FINAL-Dissertation-We-are-farmers-Copy.pdf
+- De Tombeur, F., Sohy, V., Chenu, C., Colinet, G., Cornelis, J.-T., 2018. Effects of permaculture practices on soil physicochemical properties and organic matter distribution in aggregates: A case study of the Bec-Hellouin Farm (France). Frontiers in Environmental Science 6, 116.
+- Didarali, Z., Gambiza, J., 2019. Permaculture: Challenges and benefits in improving rural livelihoods in South Africa and Zimbabwe. Sustainability 11, 2219.
+- El Ouali, H., 2021. Permaculture, a way to improve small family farmers livelihood in rural areas? Estonian Institute of Life Sciences. Master’s thesis
+- Fadaee, S., 2019. The permaculture movement in India: a social movement with Southern characteristics. Social Movement Studies 18, 720–734. https://doi.org/10.1080/14742837.2019.1628732
+- Ferguson, R.S., Lovell, S.T., 2014. Permaculture for agroecology: design, movement, practice, and worldview. A review. Agron. Sustain. Dev. 34. 251–274.
+- Ferguson, R.S., Lovell, S.T., 2015. Grassroots engagement with transition to sustainability: diversity and modes of participation in the international permaculture movement. Ecol. Soc. 20.
+- Ferguson, R.S., Lovell, S.T., 2017. Livelihoods and production diversity on U.S. permaculture farms. Agroecol. Sustain. Food Syst. 41, 588–613.
+- Ferguson, R.S., Lovell, S.T., 2019. Diversification and labor productivity on US permaculture farms. Renewable Agriculture and Food Systems 34, 326–337. https://doi.org/10.1017/S1742170517000497
+- Hawken, P., Rand, E., 2014. Sustainable revolution: permaculture in ecovillages, urban farms, and communities worldwide. North Atlantic Books.
+- Hirschfeld, S., Van Acker, R., 2021. Review: ecosystem services in permaculture systems. Agroecology and Sustainable Food Systems 45, 794–816. https://doi.org/10.1080/21683565.2021.1881862
+- Kolářová, M., 2023. Permaculture and back‐to‐the‐land migration: Pursuing self‐sufficiency in Czech rural areas. Sociologia Ruralis 63, 865–885. https://doi.org/10.1111/soru.12448
+- Krebs, J., Bach, S., 2018. Permaculture—Scientific evidence of principles for the agroecological design of farming systems. Sustainability 10, 3218.
+- Morel, K., 2016. Viabilité des microfermes maraîchères biologiques. Une étude inductive combinant méthodes qualitatives et modélisation. Doctoral dissertation. University Paris Saclay. https://hal.inrae.fr/tel-02801554
+- Oliveira, H., Penha-Lopes, G., 2020. Permaculture in Portugal: Social-Ecological Inventory of a Re-Ruralizing Grassroots Movement. European Countryside 12, 30–52. https://doi.org/10.2478/euco-2020-0002
+- Reiff, J., Jungkunst, H.F., Mauser, K.M., Kampel, S., Regending, S., Rösch, V., Zaller, J.G., Entling, M.H., 2024. Permaculture enhances carbon stocks, soil quality and biodiversity in Central Europe. Communications Earth & Environment 5, 305.
+- Williamson, R.F., Reay, M., Sgouridis, F., 2024. Permaculture Management of Arable Soil Increases Soil Microbial Abundance, Nutrients, and Carbon Stocks Compared to Conventional Agriculture. Agronomy 14, 1446.
