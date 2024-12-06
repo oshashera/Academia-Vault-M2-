@@ -1,7 +1,7 @@
 ---
 prof: Fabrice Beline
 ---
-#### La méthanisation ?
+#### La méthanisation ? 
 
 - Un bioprocédé anérobique qui va produire 2 produits : biogaz (CH4, C02 et qq autres trucs) et du digestat (eau, matière organique réfractaire.
 - Ce bioprocédé a un lien fort avec la production végétale : digestat sert de fertilisant, et des cultures servent d'intrant au biodigesteur (CIVEs par ex., fourrages, et même des cultures principales jusqu'à 15%)
@@ -140,15 +140,66 @@ Pas d’effet systémique et général observé à ce stade
 
 #### Freins à la méthanisation agroécologique
 
-Une vision très majoritairement énergétique
- Une majorité des décisions structurantes (PP) du développement de la
-méthanisation sont prises dans le forum des politiques publiques des ENR
- Des objectifs de compétitivité avec les autres ENR et de maîtrise des prix de
-l’énergie
- Un échec de la promesse « Agroécologique » à justifier un « surcoût » de
-production du biogaz à travers, par exemple à travers la monétarisation des
-externalités positives
- => Une réduction attendue des coûts de production
- => Une standardisation et une massification des unités
- => Des procédés couteux nécessitant des économies d’échelle et qui
-engendrent de fortes contraintes de rentabilité
+**Une vision très majoritairement énergétique**
+-  Une majorité des décisions structurantes (PP) du développement de la méthanisation sont prises dans le forum des politiques publiques des ENR
+- Des objectifs de compétitivité avec les autres ENR et de maîtrise des prix de l’énergie
+- Un échec de la promesse « Agroécologique » à justifier un « surcoût » de production du biogaz à travers, par exemple à travers la monétarisation des externalités positives
+<br>
+- => Une réduction attendue des coûts de production
+- => Une standardisation et une massification des unités
+- => Des procédés couteux nécessitant des économies d’échelle et qui engendrent de fortes contraintes de rentabilité
+
+**Un développement basé sur une intensification de la production végétale**
+
+Un système de production d’énergie qui vient s’ajouter à un système de production agricole existant :
+- avec quelques synergies potentielles (effluents, couverts, fertilisation, ...)
+- mais principalement une intensification de la production végétale (CIVE conduite de manière intensive, utilisation raisonnée de CP, baisse et changement de production des CP, ...)
+
+**Une promesse de recyclage réelle mais limitée**
+![[Pasted image 20241206113454.png|center|450]]
+
+### Les 4 défis à relever pour une méthanisation agroécologique
+
+**Défi N°1: modèle de développement et de financement**
+
+-  Construire des politiques publiques pour une méthanisation agroécologique en cohérence avec les objectifs de production d’ENR à travers une monétarisation des externalités positives
+- Des vents contraires
+	- Équilibre des comptes publics
+	- Guerre en Ukraine
+- A ce jour, les externalités positives restent limités ou masquées par les externalités négatives
+- La méthanisation agroécologique reste théorique ou limitée à quelques cas
+
+==> Développer des modèles AE et les modèles économiques associés pour une diffusion à grande échelle
+
+**Défi N°2: des technologies diversifiées et sobres**
+
+- Des procédés moins couteux (taille, gouvernance, technologie) et adaptés au territoire
+- Une dimensionnement « raisonnable » intégrant des critères de souplesse et de résilience
+- Un outil au service d’une approche systémique et long terme
+
+**Défi N°3: Des pratiques culturales agroécologiques**
+
+- Développement de couverts
+- Culture de CIVE dans une logique extensive (fertilisation, eau, phytosanitaire, ...)
+- Maintien ou développement des cultures pérennes (prairies)
+- Conception de rotations minimisant les besoins en produits phytosanitaires
+
+**Défi N°4: Favoriser l’autonomie en fertilisants**
+
+- Favoriser le recyclage territorial
+- Mettre en place des pratiques pour limiter les pertes de NH3
+- Développer les synergies légumineuses/méthanisation
+
+### Conclusions
+
+- Pas de catastrophe environnementale majeure liée à la méthanisation
+- Des points d’attention & des besoins de données complémentaires
+- Mais une poursuite de l’intensification du système de production agricole, notamment de la production végétale avec des impacts globalement négatifs d’un point de vue environnemental
+- La méthanisation n’est donc pas, à ce jour, un moteur important de la transition agroécologie, la priorité est donnée à la production d’énergie
+- Les défis pour y arriver sont nombreux et la marche est haute! Une implication des tous les acteurs sera nécessaire
+- Les principaux déterminants d’une méthanisation AE sont connus d’un point de vue théorique mais leur mise en œuvre reste à démontrer et développer d’un point de vue pratique, économique & systémique
+- Pour une méthanisation AE, le système de production d’énergie ne doit pas venir s’ajouter au système de production agricole existant mais le questionner/restructurer. Oubliez les promesses de synergie et de gagnant-gagnant
+- Une politique agricole globale AE sera nécessaire pour une méthanisation AE & des PP associées
+- Un développement « massif » de la méthanisation AE est-il possible? Avec quels modèles et quelles
+- PP d’accompagnement? Et pour quelle production énergétique?
+- Quid du changement climatique sur le système?
