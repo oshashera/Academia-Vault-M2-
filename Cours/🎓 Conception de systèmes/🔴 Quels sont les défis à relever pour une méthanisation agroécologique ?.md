@@ -15,8 +15,8 @@ prof: Fabrice Beline
 <center>⬇</center>
 - **2024 :** des politiques publiques d'intégration de nouvelles technologies innovantes dans le système de production agricole
 
-Au milieu d'autres concepts...
-[diapo]
+**Au milieu d'autres concepts...**
+![[Pasted image 20241206110300.png|center|650]]
 
 Deux visions opposées : une anthropocentrée (avec économie circulaire/ bioéconomie), et une plus écosystème centrée,....
 [diapos éléments bleus et diapos éléments oranges]
