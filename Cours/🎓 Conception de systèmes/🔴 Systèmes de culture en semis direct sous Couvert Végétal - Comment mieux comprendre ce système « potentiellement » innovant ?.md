@@ -119,6 +119,28 @@ Contribution à l’évaluation et à la conception des SCV avec cultures associ
 ![[Pasted image 20241206133745.png|center|450]]
 #### Un agrosystème en SCV avec CA 
 ![[Pasted image 20241206133834.png|center|650]]
+#### Hypothèses testées
+![[Pasted image 20241206133937.png|center|600]]
+#### Dispositif expérimental
+
+Une culture de blé tendre d’hiver (Triticum aestivum L.) est semée :
+- après un labour automnal ;
+- directement dans les résidus de la culture précédente ;
+- directement dans six espèces de couverture (semées au début de l’expérimentation, en 2002).
+
+|                                                                                                                                                                                                                                                                                      | 8 Traitements                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <font color="#c00000">CT</font><br><font color="#de7802">NT</font><br><font color="#92d050">Fo</font><br><font color="#92d050">Fr</font><br><font color="#00b050">Lc</font><br><font color="#00b050">Ml</font><br><font color="#00b050">Ms</font><br><font color="#00b050">Tr</font> | <font color="#c00000">• Travail conventionnel (labour)</font><br><font color="#de7802">• Semis direct (sans plante de couverture)</font><br><font color="#92d050">• Fétuque ovine (Festuca ovina L.)</font><br><font color="#92d050">• Fétuque rouge (Festuca rubra L.)</font><br><font color="#00b050">• Lotier corniculé (Lotus corniculatus L.)</font><br><font color="#00b050">• Minette (Medicago lupulina L.)</font><br><font color="#00b050">• Luzerne (Medicago sativa L.)</font><br><font color="#00b050">• Trèfle blanc (Trifolium repens L.)</font> |
+#### Espèces retenues
+
+- Vivaces ou se ressemant annuellement
+- Concurrentes des adventices, sans pénaliser la culture de vente
+- Actives pendant la période d’interculture
+- Tolérantes à l’ombrage
+- Action structurante
+- Semences disponibles dans le commerce
+
+
 
 
 
