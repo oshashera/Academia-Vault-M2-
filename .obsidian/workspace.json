@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/🎓 Conception de systèmes/🔴 Gestion spatiale des systèmes de cultures.md",
+                "file": "Cours/🎓 Conception de systèmes/TD Conception collective de système de culture diversifiée.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔴 Gestion spatiale des systèmes de cultures"
+              "title": "TD Conception collective de système de culture diversifiée"
             }
           }
         ],
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -220,6 +219,9 @@
   },
   "active": "63c10f1fdfb6d272",
   "lastOpenFiles": [
+    "Cours/🎓 Conception de systèmes/🔴 Gestion spatiale des systèmes de cultures.md",
+    "Cours/🎓 Conception de systèmes/TD Conception collective de système de culture diversifiée.md",
+    "Cours/🎓 Conception de systèmes/Untitled",
     "Cours/🎓 Conception de systèmes/🟢 Systèmes de culture en semis direct sous Couvert Végétal - Comment mieux comprendre ce système « potentiellement » innovant ?.md",
     "Images/Pasted image 20241206135037.png",
     "Images/Pasted image 20241206134651.png",
@@ -233,7 +235,6 @@
     "Images/Pasted image 20241206120630.png",
     "Images/Pasted image 20241206120556.png",
     "Images/Pasted image 20241206120403.png",
-    "Cours/🎓 Conception de systèmes/🔴 Gestion spatiale des systèmes de cultures.md",
     "Cours/🎓 Conception de systèmes/🔴 Agriculture de précision.md",
     "Cours/🎓 Conception de systèmes/🟢 Quels sont les défis à relever pour une méthanisation agroécologique ?.md",
     "Cours/🎓 Conception de systèmes/🟢 Permaculture - origine, principes, applications et état de l'art scientifique.md",
@@ -266,7 +267,6 @@
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 1 Caractériser un territoire, des EA, des SDC",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes",
     "Cours/🎓 Landscape ecology/Untitled",
-    "Cours/🎓 Landscape ecology",
     "Cours/Projet professionnel/Idées ?.canvas",
     "Autre/A explorer pour le workflow.canvas"
   ]
