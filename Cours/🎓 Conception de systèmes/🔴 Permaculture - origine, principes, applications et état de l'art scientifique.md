@@ -70,6 +70,25 @@ Plus récemment réflexion sur forêts-jardin et paysages de résilience
 
 De nombreuses collaborations avec la recherche et rapports associés https://www.fermedubec.com/la-ferme/la-recherche/
 
+
+Ils tombent sur les travaux de Coleman et Fortier, qui parle de maraichage biointensif.
+
+>[!tldr] *Biointensive farming* - Maraîchage biointensif : 
+>Vient du 19è siècle, à Paris. Pas de transport pétrolé, donc faut produire les produits frais proche du lieu de consommation. 
+>Grandes terres maraîchères autour de Paris. Techniques d'optimisation de l'espace (densification), basées sur plusieurs choses, notamment leur accès à une énorme quantité de MO de la ville (déchets des bouchers, des crottins de cheval etc qui formaient les gadoues urbaines). Tous les maraîcher parisiens venaient le matin avec des charrettes remplies de légumes, et ils ont obligations de récurer ces gadoues urbaines pour les ramener à la ferme. Puis ils les épandaient sur leur champs. Sol ultra meuble et fort taux de MO et nutriments => peut rapprocher les légumes car sol super meuble dc racines enfonce en profondeur au lieu de latéralement + peut cultiver en hivers grâce au système de "couche chaude" qui mette du fumier qui produit de la chaleur sous des coffres en bois/verre. Arrivaient à avoir fraise en avril et melons en mai. Techniques d'association de 3/4 plantes en quinconces pour optimiser l'espace. Tellement de sol qui était créé. Quand un maraîcher achète un terrain, on mesurait la hauteur de terre, et quand il se barrait, leur sol créé pouvait être récupérés et transférés dans ils changeaient de parcelle.
+>
+>Manuel pratique maraîchers Paris à checker
+>*Lire "Le ventre de Paris" de Victor Hugo qui parle de ces maraîchers*
+
+Coleman adapte ca avec planches permanentes (pas de travail du sol), travail à la main, densification et optimisation de l'espace, ajout de serre pour maximiser l'hivers => maximiser espace et temps pour la production, limitation des coûts matériels.
+
+Etude sur la viabilité du Bec Hélouin
+Isole zone 1 de 1000m² et on check tt ce qui rentre en travail et sort en légume/production.
+On modélise tt ca, en prenant prix de vente moyen de la région. On voit des chiffres d'affaire par m² et par heure supérieur aux maraîchage classique.
+Aussi, c'est biaisé pcq pour que ces 1000m² soient si productifs, c'est aussi grâce à toute les zones autour.
+Mais pas nécessairement comparable aux autres systèmes, pcq ca utilise que des cultures courtes à forte valeur ajoutée etc...
+Aller voir la section "recherche" du site du bec hélouin => rapport final revient sur controverse et tout.
+
 #### La permaculture dans le monde
 
 Difficulté de chiffrer les initiatives dans le monde, mais permaculture présente sur tout les continents. En 2024, le site permacultureglobal.org recense 2765 projets (très sous estimé).
@@ -150,49 +169,72 @@ Si une personne dit qu’elle veut « faire de la permaculture » ou qu’elle �
 De même, certains agriculteurs peuvent avoir des approches qui font un écho fort à la permaculture sans forcément même utiliser ce mot.
 
 >[!book] Pistes de lecture pour aller plus loin
-**Textes fondateurs de la permaculture**
+>**Textes fondateurs de la permaculture**
 >- Mollison Bill, et Holmgren David. 1986. Permaculture 1: une agriculture pérenne pour l'autosuffisance et les exploitations de toutes tailles. Paris : Debard, 1986. https://verslautonomie.files.wordpress.com/2012/03/permaculture-1-gp.pdf
 >- Mollison Bill. 1978. Permaculture 2: Aménagements pratiques à la campagne et en ville. https://verslautonomie.files.wordpress.com/2012/03/permaculture-2-gp.pdf
 >- Holmgren David, 2014. Permaculture : principes et pistes d’action pour un mode de vie soutenable, Rue de l’Échiquier.
 >- Mollisson Bil, 2013. Introduction à la permaculture. Passerelle Eco.
 >- Morrow, Rosemary. 2015. Manuel d'apprentissage pas à pas de la permaculture. Éditions Imagine un colibri.
+>
 >**Témoignages pratiques en agriculture**
 >- Hervé-Gruyer P., et C., Permaculture : Guérir la terre, nourrir les hommes, Actes Sud, 2014.
 >- Hervé-Gruyer C., Bulgheroni P. Vivre avec la terre. Méthode du Bec Hellouin, Actes Sud, 2019.
 >- Shepard Mark. 2016. L’ agriculture de régénération. Éditions Imagine un colibri.
 >- Holzer Sepp. 2011. La permaculture de Sepp Holzer. Éditions Imagine un colibri.
 >- Crawford Martin. 2017. La forêt-jardin: Créer une forêt comestible en permaculture pour retrouver autonomie et abondance. Ulmer
+>
 >**Approche de la transition à l’échelle du territoire**
 >- Hopkins Rob, 2010. Manuel de transition, de la dépendance au pétrole à la résilience locale. Ecosociété.
  
-
-
-
-
-
-
 ## APPLICATIONS
 
-#### En France, la ferme du Bec Hellouin
-[diapo]
+#### Illustration sur le cas concret de la ferme des Petits Pas créé par Jérôme Dehondt à Durtal (Maine et Loire)
+http://lafermedespetitspas.fr/
 
-Ils tombent sur les travaux de Coleman et Fortier, qui parle de maraichage biointensif.
+###### Zonage de la ferme
+![[Pasted image 20241206094444.png|center|600]]
+###### Zoom sur la zone 1
+![[Pasted image 20241206094550.png|center|850]]
 
->[!tldr] *Biointensive farming* - Maraîchage biointensif : 
->Vient du 19è siècle, à Paris. Pas de transport pétrolé, donc faut produire les produits frais proche du lieu de consommation. 
->Grandes terres maraîchères autour de Paris. Techniques d'optimisation de l'espace (densification), basées sur plusieurs choses, notamment leur accès à une énorme quantité de MO de la ville (déchets des bouchers, des crottins de cheval etc qui formaient les gadoues urbaines). Tous les maraîcher parisiens venaient le matin avec des charrettes remplies de légumes, et ils ont obligations de récurer ces gadoues urbaines pour les ramener à la ferme. Puis ils les épandaient sur leur champs. Sol ultra meuble et fort taux de MO et nutriments => peut rapprocher les légumes car sol super meuble dc racines enfonce en profondeur au lieu de latéralement + peut cultiver en hivers grâce au système de "couche chaude" qui mette du fumier qui produit de la chaleur sous des coffres en bois/verre. Arrivaient à avoir fraise en avril et melons en mai. Techniques d'association de 3/4 plantes en quinconces pour optimiser l'espace. Tellement de sol qui était créé. Quand un maraîcher achète un terrain, on mesurait la hauteur de terre, et quand il se barrait, leur sol créé pouvait être récupérés et transférés dans ils changeaient de parcelle.
->
->Manuel pratique maraîchers Paris à checker
->*Lire "Le ventre de Paris" de Victor Hugo qui parle de ces maraîchers*
+###### Jérôme Dehondt, installation en 2011
+12ha.
+![[Pasted image 20241206094646.png|center|850]]
+![[Pasted image 20241206094803.png|center|850]]
+###### Rôle de l’observation
 
-Coleman adapte ca avec planches permanentes (pas de travail du sol), travail à la main, densification et optimisation de l'espace, ajout de serre pour maximiser l'hivers => maximiser espace et temps pour la production, limitation des coûts matériels.
+La permaculture préconise l’observation du site pendant au moins une année avant de réaliser le design. La transaction d’achat du lieu ayant dû être réalisée rapidement, Jérôme n’a pas eu ce temps. Cependant, il a recueilli le témoignage et les observations du propriétaire précédent qui lui ont permis d’identifier les zones où l’eau avait tendance à s’accumuler en hiver (c’est là où il a creusé les réserves d’eau), d’installer les jardins maraîchers à l’endroit de la parcelle où les risques d’hydromorphie étaient les plus faibles (le site y est vulnérable) et proche de la haie qui protège des vents dominants venant du sud-ouest.
 
-Etude sur la viabilité du Bec Hélouin
-Isole zone 1 de 1000m² et on check tt ce qui rentre en travail et sort en légume/production.
-On modélise tt ca, en prenant prix de vente moyen de la région. On voit des chiffres d'affaire par m² et par heure supérieur aux maraîchage classique.
-Aussi, c'est biaisé pcq pour que ces 1000m² soient si productifs, c'est aussi grâce à toute les zones autour.
-Mais pas nécessairement comparable aux autres systèmes, pcq ca utilise que des cultures courtes à forte valeur ajoutée etc...
-Aller voir la section "recherche" du site du bec hélouin => rapport final revient sur controverse et tout.
+Les observations du site au cours des premières années de production ont confirmé la pertinence de la localisation des jardins par rapport au risque d’hydromorphie et aux vents dominants. Cependant, les jardins demeurent encore soumis aux vents non dominants venant du nord-ouest et du nord-est (vent froid) et des plantations d’arbres sont prévus dans le parcours des poules avec l’établissement d’un pré-verger.
+
+###### Exemple de redondance fonctionnelle
+
+L’élément « arbres » joue à la fois un rôle pour la biodiversité, l’esthétique, la production et la création de microclimats.
+
+La fonction « fertilité » est assuré à la fois par le fumier de l’élément « âne », de l’élément « poules » et de l’élément « compostage des débris végétaux ». 
+
+###### Intégration territoriale
+
+AMAP et circuits courts dont la dynamique a soutenu installation artisan boulanger et éleveur de brebis.
+
+Création d’un espace-test agricole à proximité dès le départ.
+
+A communiqué et a été soutenu par le « Pays des vallées d’Anjou » pour réfléchir au développement des circuits courts sur le territoire.
+
+Chantiers collectifs pour plantation d’arbres.
+
+###### Flexibilité et compromis
+
+Dans le design, des compromis ont été réalisés entre **l’esthétique et la fonctionnalité**. A la différence des premiers croquis dessinés par Jérôme, “d’une ferme très artistique mais ingérable”, les planches de maraîchage sont droites, avec des dimensions standardisées pour simplifier la planification et à proximité de la cabane à outils pour faciliter la récolte et limiter les déplacements.
+
+**Des ajustements ont également été effectués dans le zonage** par rapport à la théorie de la permaculture. Par exemple, la zone 5, sauvage, n’est pas située au point le plus éloigné du centre du site mais sépare la zone 1 et les zones moins intensives (Fig.1). Ce choix a été réalisé car après déchaumage de la parcelle dédiée au maraîchage, de l’espace restait disponible. Jérôme a eu envie de laisser un témoin de l’évolution spontanée de
+la parcelle sans son intervention (à partir des ronces de départ, une forêt de chênes prend progressivement le dessus). De plus, cette zone sauvage permettait de créer une limite symbolique entre la partie maraîchère et les autres espaces de la ferme. Jérôme s’écarte volontairement d’une vision trop rigide et statique du zonage. En effet, il compte intégrer à terme dans une même rotation les céréales (zone 2) et les prairies (zone 3-4). Cela résultera en un zonage cyclique (un même espace étant cycliquement dans une zone différente).
+
+
+
+
+
+
+
 
 ## État de l'art scientifique (succinct) et controverses autour de la permaculture
 
