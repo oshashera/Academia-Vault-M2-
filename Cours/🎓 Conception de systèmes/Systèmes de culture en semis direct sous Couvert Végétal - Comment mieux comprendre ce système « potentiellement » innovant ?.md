@@ -62,4 +62,26 @@ De manière générale, en Europe, l’évolution des surfaces en AC est plus le
 
 En Fr., l’AC représente 28% des terres arables en 2016 (FAOSTAT, 2021)
 
-<br
+<br>
+<br>
+
+#### Atouts et limites au travail réduit du sol
+![[Pasted image 20241206115331.png|center|550]]
+
+#### Quelles motivations pour les TSL ?
+![[Pasted image 20241206115500.png|center|350]]
+#### Exemple d'atout socio-économique
+![[Pasted image 20241206115636.png|450]] ![[Pasted image 20241206115732.png|650]]
+
+#### Exemple d'atout agro-environnemental
+![[Pasted image 20241206115813.png|center|650]]
+#### Exemple d'atout agronomique 
+![[Pasted image 20241206115921.png|450]]![[Pasted image 20241206120048.png|650]]
+
+#### Exemple de contrainte agronomique 
+![[Pasted image 20241206120121.png|600]]
+
+
+
+
+
