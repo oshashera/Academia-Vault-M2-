@@ -278,9 +278,10 @@ scientifiques
 • Privée car peu d’intérêts économiques
 **➔ Un besoin de recherche sur l’efficacité de la permaculture en contexte agricole mais quelques premières études existent....**
 
-#### Recherches sur les intérêts agronomiques et écologiques
+### Recherches sur les intérêts agronomiques et écologiques
 
-Des intérêts potentiels d’après les principes combinés
+#### Des intérêts potentiels d’après les principes combinés
+
 Travaux qui retrouvent dans la permaculture des principes dont la littérature scientifique a montré intérêt pour apporter des services écosystémiques de production et de régulation:
 • Diversité des cultures;
 • Intégration de pérennes dans les systèmes agricoles;
@@ -288,3 +289,19 @@ Travaux qui retrouvent dans la permaculture des principes dont la littérature s
 
 Ces études concluent que comme la permaculture combine les 3, alors il y a un potentiel fort (ex: Krebs and Bach, 2018; Hirschfeld and Van Acker, 2021). 
 **Mais ces études n’ont pas analysé directement des projets de permaculture !**
+
+##### Impact positif sur les sols et biodiversité
+
+\+ Matière organique, N, nutriments, vie microbienne, biodiversité du sol
+![[Pasted image 20241206105022.png|center|750]]
+**mais mesurés sur un échantillon très faible (quelques fermes)**
+
+#### Rôle de la biodiversité et redondance fonctionnelle pour la résilience ?
+Permaculture part du principe que haut niveau de diversité et redondance fonctionnelle garantit la résilience...(très présent
+dans la littérature en écologie depuis les années 50). Mais la « stability-diversity controversy » depuis les années 70 souligne que les liens entre diversité des espèces/fonctions et la stabilité des écosystèmes sont complexes et que d’autres
+facteurs et propriétés des écosystèmes devraient être
+considérés....
+La permaculture pourrait fournir des cas d’étude intéressants
+pour explorer la résilience de systèmes diversifiés en regard des
+connaissances et méthodes actuelles en écologie....
+Mais tout reste à faire !
