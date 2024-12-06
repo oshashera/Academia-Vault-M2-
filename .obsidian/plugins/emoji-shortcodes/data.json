@@ -4,8 +4,9 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
-    ":red_circle:",
     ":green_circle:",
+    ":arrow_lower_right:",
+    ":red_circle:",
     ":arrow_right:",
     ":arrow_down:",
     ":diamonds:",
@@ -30,7 +31,6 @@
     ":potted_plant:",
     ":grenada:",
     ":heavy_check_mark:",
-    ":arrow_lower_right:",
     ":arrow_lower_left:",
     ":large_orange_diamond:",
     ":x:",

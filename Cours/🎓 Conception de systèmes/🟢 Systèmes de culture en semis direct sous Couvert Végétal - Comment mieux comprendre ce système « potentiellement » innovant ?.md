@@ -132,18 +132,52 @@ Une culture de blé tendre d’hiver (Triticum aestivum L.) est semée :
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <font color="#c00000">CT</font><br><font color="#de7802">NT</font><br><font color="#92d050">Fo</font><br><font color="#92d050">Fr</font><br><font color="#00b050">Lc</font><br><font color="#00b050">Ml</font><br><font color="#00b050">Ms</font><br><font color="#00b050">Tr</font> | <font color="#c00000">• Travail conventionnel (labour)</font><br><font color="#de7802">• Semis direct (sans plante de couverture)</font><br><font color="#92d050">• Fétuque ovine (Festuca ovina L.)</font><br><font color="#92d050">• Fétuque rouge (Festuca rubra L.)</font><br><font color="#00b050">• Lotier corniculé (Lotus corniculatus L.)</font><br><font color="#00b050">• Minette (Medicago lupulina L.)</font><br><font color="#00b050">• Luzerne (Medicago sativa L.)</font><br><font color="#00b050">• Trèfle blanc (Trifolium repens L.)</font> |
 #### Espèces retenues
+![[Pasted image 20241206134503.png|right|700]]
 
 - Vivaces ou se ressemant annuellement
+<br>
 - Concurrentes des adventices, sans pénaliser la culture de vente
+<br>
 - Actives pendant la période d’interculture
+<br>
 - Tolérantes à l’ombrage
+<br>
 - Action structurante
+<br>
 - Semences disponibles dans le commerce
 
+#### Production de connaissances
 
+1) SCV avec CA ![[Pasted image 20241206134651.png|50]] **↘** Rendement du blé
+2) Phases de sensibilité = f(**Espèce de couverture**, ITK, Climat)
+3) Intensité compétition = f(**Espèce de couverture**, ITK, Climat)
+4) Compétition pour la lumière >> Compétition pour l’azote
+5) Compétition pour la lumière = f(**Architecture** de la plante de couverture)
+6) Structure, propriétés hydriques = f(Espèce de couverture) ?
 
+#### Perspectives
 
+>[!important] Faisabilité des SCV avec CA ?
+**|-->** Gestion de l'espèce de couverture pour gérer la compétition et favoriser la facilitation
 
+>[!important] Généraliser les acquis ?
+**|-->** Intérêts de la modélisation -> ex. : STICS-Cultures associées (Shili-Touzi et al., 2010)
 
+>[!important] Externalités positives ?
+**|-->** Étouffer les adventices, accroître la biodiversité, maîtriser les flux, etc...
+
+#### Simuler les performances des SCV
+![[Pasted image 20241206135037.png|center|750]]
+
+#### Freins et leviers à l'adoption des SCV
+
+- Exemple d’une étude menée par le Cetiom sur les « verrous socio- techniques » de la technique des couverts associés au colza (en semis direct ou non)
+	- Le machinisme fait partie des freins à l’adoption mais n’est pas l’élément le plus déterminant
+		- Matériel de semis (faire avec l’existant est souvent possible vs. coût de l’achat d’un matériel spécifique)
+		- Organisation de chantier (un passage avec double trémie ou deux passages)
+		- Débit de chantier
+	- Risque économique : quel impact sur la marge brute ?
+	- Risque de mauvaise maîtrise des adventices
+	- Complexité technique / Manque de connaissances
 
 
