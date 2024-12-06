@@ -79,7 +79,29 @@ En Fr., l’AC représente 28% des terres arables en 2016 (FAOSTAT, 2021)
 ![[Pasted image 20241206115921.png|450]]![[Pasted image 20241206120048.png|650]]
 
 #### Exemple de contrainte agronomique 
-![[Pasted image 20241206120121.png|600]]
+![[Pasted image 20241206120121.png|600]]![[Pasted image 20241206120254.png|370]]
+![[Pasted image 20241206120403.png|right]]
+
+- Sur un sol Limon argileux, il faut entre **1 et 2 ans** pour régénérer la structure d’un sol après tassement **si LABOUR**
+<br>
+- Sur un sol Limon argileux, il faut entre **4 et 5 ans** pour régénérer la structure d’un sol après tassement **si NON TRAVAIL DU SOL**
+<br>
+<br>
+
+## II. Les SCV : définition et objectifs attendus
+
+#### Des systèmes potentiellements innovants
+![[Pasted image 20241206120556.png|550]]![[Pasted image 20241206120630.png|550]]
+
+[diapo 27/41]
+
+
+
+
+
+
+
+
 
 
 
