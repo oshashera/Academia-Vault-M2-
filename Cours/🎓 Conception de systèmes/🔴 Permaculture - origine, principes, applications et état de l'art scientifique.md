@@ -124,7 +124,11 @@ Disposer spatialement les éléments pour **favoriser les interactions positives
 
 >[!important] En termes agricoles: agriculture biologique ou agroécologique « forte»: polyculture-élevage, agroforesterie, associations de cultures, limitation du travail du sol et couverture du sol (aucun de ces critères ne définit la permaculture et une ferme qui s’inspire de la permaculture ne les présente pas forcément tous !)
 
-[diapos] (suit à 20/53)
+- **Soin au sol** : sol couvert et pas/peu travaillé
+- **Imiter la nature** : écosystèmes très diversifiés avec agroforesterie, cultures associées, imbrication animaux-plantes
+- **Recherche d’autonomie locale** : recyclage de la matière, systèmes très diversifiés
+- **Place centrale de la biodiversité** : diversité des cultures et animaux, zones refuges
+
 
 ## APPLICATIONS
 

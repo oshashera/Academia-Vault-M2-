@@ -1,12 +1,9 @@
 ---
 prof: Adrien Boulet
 ---
-## MENU, RÈGLES ET RÔLES
-
-
-
 ## Trame et mon métier
 
+Asso de dev agricole des années 90s
 
 
 ## Votre perception sur l'intelligence collective
