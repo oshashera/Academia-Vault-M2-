@@ -83,12 +83,18 @@ Sites en injection devenus majoritaires (53%), et non plus en co-génération d'
 ![[Pasted image 20241206112221.png|center|550]]
 
 #### Un bioprocédé amené à se développer au coeur de...
-[diapo]
+![[Pasted image 20241206112319.png|right|300]]
+
+- La lutte contre le changement climatique à travers le développement des EnR
+
+ - Mais aussi d’autres limites planétaires largement dépassées
+ 
+- Une évaluation systémique nécessaire
+
+=> prisme de l’agroécologie
 
 #### Les principales dimensions environnementales de l'agroécologie
-
-[diapo]
-
+![[Pasted image 20241206112359.png|800]]
 #### Impacts des digestats sur les sols
 
 Qualité biologique des sols
@@ -102,17 +108,47 @@ Contaminants biologiques (et physiques)
 Fertilisation minérale > Compost > Digestat > Lisier/substrat non digéré
 
 ==> Pas d'alerte environnementale majeur
-Effets plu[diapooooo]
+==> Effets plutôt positifs par rapport à l’usage de fertilisation minérale & lisier pour la fertilisation mais plus mitigés par rapport à l’usage de fumier/compost
 
 
+#### Effets sur la production animale
 
-#### Effets sur la production végétale
+Pas d’effet systémique et général observé à ce stade
 
-[diapos]
-[diapos]
+<u>« Premières » observations (Thèse O. Baziz)</u>
+- Peu de changement en production porcine (augmentation des importations d’aliments?)
+- Une tendance à l’intensification de la production laitière?
+- Une baisse de la production de bovins allaitants?
 
+#### Effet sur la production végétale
+![[Pasted image 20241206112631.png|center|650]]
+==> Une intensification des systèmes de culture pour produire plus de biomasse
+
+#### Effets sur le bouclage des cycles et les pertes
+![[Pasted image 20241206112721.png|center|750]]
+==> Des points de vigilance importants pour C&N et un potentiel qui reste à exploiter pour l’azote
+
+#### Effets sur le système de production agricole
+![[Pasted image 20241206112928.png|center|650]]
+![[Pasted image 20241206113002.png|center|650]]
+![[Pasted image 20241206113048.png|center|650]]
+![[Pasted image 20241206113105.png|center|550]]
+==> Quelques cas qui montrent que la méthanisation peut-être un outil de transformation systémique 
+==> Mais dans la plupart des cas, un maintien des systèmes existants (majoritairement intensifs) avec des effets très mitigés +/- vertueux selon les changements de pratiques induits par la méthanisation et peu significatifs dans la globalité
+
+**La méthanisation n'est pas, à ce jour, un moteur important de la transition agroécologique**
 
 #### Freins à la méthanisation agroécologique
 
-[diapos]
-
+Une vision très majoritairement énergétique
+ Une majorité des décisions structurantes (PP) du développement de la
+méthanisation sont prises dans le forum des politiques publiques des ENR
+ Des objectifs de compétitivité avec les autres ENR et de maîtrise des prix de
+l’énergie
+ Un échec de la promesse « Agroécologique » à justifier un « surcoût » de
+production du biogaz à travers, par exemple à travers la monétarisation des
+externalités positives
+ => Une réduction attendue des coûts de production
+ => Une standardisation et une massification des unités
+ => Des procédés couteux nécessitant des économies d’échelle et qui
+engendrent de fortes contraintes de rentabilité
