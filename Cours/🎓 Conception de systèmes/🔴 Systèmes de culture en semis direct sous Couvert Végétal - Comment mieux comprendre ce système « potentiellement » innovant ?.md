@@ -107,10 +107,18 @@ En Fr., l’AC représente 28% des terres arables en 2016 (FAOSTAT, 2021)
 - Permettre les phénomènes allélopathiques
 - Limiter l’érosion
 
+## III. Exemple d’une démarche de conception de SCV en climat tempéré
 
+#### L'enjeu du travail 
 
+Contribution à l’évaluation et à la conception des SCV avec cultures associées (CA)
+→ Identification et hiérarchisation des facteurs limitant la production
+→ Analyse du fonctionnement de l’agroécosystème
 
-
+#### Combiner les deux techniques
+![[Pasted image 20241206133745.png|center|450]]
+#### Un agrosystème en SCV avec CA 
+![[Pasted image 20241206133834.png|center|650]]
 
 
 
