@@ -3,7 +3,8 @@
     "custom": [
       "element",
       "donc",
-      "list"
+      "list",
+      "book"
     ],
     "settings": {
       "element": [
@@ -41,6 +42,14 @@
         {
           "changes": {
             "icon": "lucide-book-open-text"
+          }
+        }
+      ],
+      "book": [
+        {
+          "changes": {
+            "icon": "lucide-book-text",
+            "color": "80, 226, 80"
           }
         }
       ]

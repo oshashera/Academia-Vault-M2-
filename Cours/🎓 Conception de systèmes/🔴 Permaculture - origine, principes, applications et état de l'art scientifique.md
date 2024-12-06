@@ -129,6 +129,47 @@ Disposer spatialement les éléments pour **favoriser les interactions positives
 - **Recherche d’autonomie locale** : recyclage de la matière, systèmes très diversifiés
 - **Place centrale de la biodiversité** : diversité des cultures et animaux, zones refuges
 
+>[!important] Réflexion sur autonomie énergétique de la ferme (éolienne, hydraulique, panneaux solaires, bâtiments passifs etc..;) 
+>Parfois conception en **« keylines »**
+
+#### Petite parenthèse sur le « keyline design »
+
+Une des méthodes utilisées en permaculture pour gérer l’eau de manière optimale (avec paillage et couverture du sol)
+Vient du système développé par l’australien P.A. Yeoman
+
+Utilisation de “swales”= fossé (noue) au pied d’une butte surélevée avec arbres pour favoriser infiltration et redirection de l’eau sur un site, traduit par “baissière” dans la permaculture francophone (même si incorrect étymologiquement).
+Souvent sur les lignes de niveau. Ces buttes peuvent être utilisées pour l’agroforesterie.
+![[Pasted image 20241206093450.png|center|900]]
+
+#### Points de vigilance: creuser au-delà des mots
+
+Selon les praticiens, le terme « Permaculture » peut vouloir signifier une diversité de choses.
+
+Si une personne dit qu’elle veut « faire de la permaculture » ou qu’elle « s’inspire de la permaculture », important d’interroger ce que la personne entend par là, ce qu’elle met derrière ?
+
+De même, certains agriculteurs peuvent avoir des approches qui font un écho fort à la permaculture sans forcément même utiliser ce mot.
+
+>[!book] Pistes de lecture pour aller plus loin
+**Textes fondateurs de la permaculture**
+>- Mollison Bill, et Holmgren David. 1986. Permaculture 1: une agriculture pérenne pour l'autosuffisance et les exploitations de toutes tailles. Paris : Debard, 1986. https://verslautonomie.files.wordpress.com/2012/03/permaculture-1-gp.pdf
+>- Mollison Bill. 1978. Permaculture 2: Aménagements pratiques à la campagne et en ville. https://verslautonomie.files.wordpress.com/2012/03/permaculture-2-gp.pdf
+>- Holmgren David, 2014. Permaculture : principes et pistes d’action pour un mode de vie soutenable, Rue de l’Échiquier.
+>- Mollisson Bil, 2013. Introduction à la permaculture. Passerelle Eco.
+>- Morrow, Rosemary. 2015. Manuel d'apprentissage pas à pas de la permaculture. Éditions Imagine un colibri.
+>**Témoignages pratiques en agriculture**
+>- Hervé-Gruyer P., et C., Permaculture : Guérir la terre, nourrir les hommes, Actes Sud, 2014.
+>- Hervé-Gruyer C., Bulgheroni P. Vivre avec la terre. Méthode du Bec Hellouin, Actes Sud, 2019.
+>- Shepard Mark. 2016. L’ agriculture de régénération. Éditions Imagine un colibri.
+>- Holzer Sepp. 2011. La permaculture de Sepp Holzer. Éditions Imagine un colibri.
+>- Crawford Martin. 2017. La forêt-jardin: Créer une forêt comestible en permaculture pour retrouver autonomie et abondance. Ulmer
+>**Approche de la transition à l’échelle du territoire**
+>- Hopkins Rob, 2010. Manuel de transition, de la dépendance au pétrole à la résilience locale. Ecosociété.
+ 
+
+
+
+
+
 
 ## APPLICATIONS
 
