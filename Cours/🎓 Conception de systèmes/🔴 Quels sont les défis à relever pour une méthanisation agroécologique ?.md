@@ -16,34 +16,41 @@ prof: Fabrice Beline
 - **2024 :** des politiques publiques d'intégration de nouvelles technologies innovantes dans le système de production agricole
 
 **Au milieu d'autres concepts...**
-![[Pasted image 20241206110300.png|center|650]]
+![[Pasted image 20241206111547.png|center|950]]
 
 Deux visions opposées : une anthropocentrée (avec économie circulaire/ bioéconomie), et une plus écosystème centrée,....
-[diapos éléments bleus et diapos éléments oranges]
-
-[diapo cadre rouge]
-
-[diapo pareil bioéconomie biorafinnerie osef]
 
 #### Deux visions de la durabilité !
-[diapos / graphs]
+![[Pasted image 20241206111643.png|center|600]]
 
 #### L'agroécologie ?
 
-Des pratiques qui s'appuient sur les processus biologiques et écologiques (services écosystémiques) pour la production agricole à travers plusieurs principes :
-- Diversité fonctionnelle :
-	- Espèces cultivées
-	- Durée des rotations
-	- Organisation spatiale
-[diapo]
+Des pratiques qui s’appuient sur les processus biologiques et écologiques (services écosystémiques) pour la production agricole à travers plusieurs principes:
+- Diversité fonctionnelle:
+	- espèces cultivées
+	- durée des rotations
+	- organisation spatiale...
+- Bouclage des flux matières et d’énergie par une recherche d’autonomie:
+	- alimentation animale
+	- fertilisation
+	- énergie
+	- Matériaux, matériels, ...
+- Sobriété dans l’utilisation des ressources:
+	- énergie & eau
+	- N, P, ...
+- Assurer des conditions favorables à la production moyen et long terme:
+	- raisonner usage eau
+	- favoriser la fertilité des sols...
+- Réduire les impacts sur la santé humaine et les écosystèmes:
+	- préserver la qualité de l’eau et de l’air
+	- réduire l’usage de produits phytosanitaires, des traitements vétérinaires
+
 
 #### Méthanisation & agroécologie
 
 Quels synergies et antagonismes ?
+![[Pasted image 20241206111857.png|center|550]]
 
-[diapo]
-
-[diapo]
 
 #### Bref historique des Politiques Publiques (PP) sur la méthanisation agricole
 
@@ -55,28 +62,25 @@ Quels synergies et antagonismes ?
 - Décret n°2016-929 : méthanisation : un plafond de 15% pour les cultures principales
 - Arrêté du 23 novembre 2020 : tarifs d'achats du biométhane : réviosion du tarif et ajout d'une prime "effluent d'élevage"
 - Arrêté du 10 juin 2023 - revalorisation du tarif d'achat du biométhane
-=> De enjeux énergétiques (EnR), climatiques (GES et EnR) [diapoooooo]
+=> Des enjeux énergétiques (EnR), climatiques (GES et EnR), économiques (revenu des agriculteurs), agronomiques (gestion de l’N) et alimentaires (usage des sols)
 
 #### Évolution des unités de méthanisation en France
-[diapo]
+![[Pasted image 20241206112035.png|center|550]]
 accélération depuis 2017
 
 => Au final, un développement basé principalement sur les aspects énergétiques et économiques. Les aspects environnementaux sont peux contraignants, considérés implicitement comme positifs....
 
 #### État des lieux de la méthanisation en France
-[diapo]
-
+![[Pasted image 20241206112120.png|center|650]]
 Méthanisation plus développée dans la moitié Nord
 73% des unités à la ferme
 Sites en injection devenus majoritaires (53%), et non plus en co-génération d'énergie.
 
 #### Prospectives énergétiques Françaises (2050)
-
-[diapos]
+![[Pasted image 20241206112152.png|center|550]]
 
 #### Origines des intrants pour la production de biogaz
-
-[diapo]
+![[Pasted image 20241206112221.png|center|550]]
 
 #### Un bioprocédé amené à se développer au coeur de...
 [diapo]
