@@ -5,7 +5,6 @@ prof: Adrien Boulet
 
 
 
-
 ## Trame et mon métier
 
 
