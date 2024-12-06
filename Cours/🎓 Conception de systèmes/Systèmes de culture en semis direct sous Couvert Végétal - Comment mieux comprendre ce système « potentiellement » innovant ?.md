@@ -93,9 +93,19 @@ En Fr., l’AC représente 28% des terres arables en 2016 (FAOSTAT, 2021)
 #### Des systèmes potentiellements innovants
 ![[Pasted image 20241206120556.png|550]]![[Pasted image 20241206120630.png|550]]
 
-[diapo 27/41]
+#### L'attente vis à vis de ces nouveaux systèmes
+![[Pasted image 20241206133259.png|center|450]]
 
+#### Fonctions agroécologiques de la PC (plante de couverture)
 
+- Recycler les éléments minéraux (CIPAN)
+- Faciliter les régulations biologiques entre espèces pour modifier l’environnement afin de le rendre défavorable aux adventices
+- Faire évoluer favorablement / stabiliser la structure (créer des pores)
+- Fixer symbiotiquement l’azote
+- Séquestrer du carbone
+- Augmenter la teneur en matières organiques du sol
+- Permettre les phénomènes allélopathiques
+- Limiter l’érosion
 
 
 
