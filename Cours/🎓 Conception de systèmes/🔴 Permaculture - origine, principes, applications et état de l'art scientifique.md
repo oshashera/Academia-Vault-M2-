@@ -278,4 +278,13 @@ scientifiques
 • Privée car peu d’intérêts économiques
 **➔ Un besoin de recherche sur l’efficacité de la permaculture en contexte agricole mais quelques premières études existent....**
 
+#### Recherches sur les intérêts agronomiques et écologiques
 
+Des intérêts potentiels d’après les principes combinés
+Travaux qui retrouvent dans la permaculture des principes dont la littérature scientifique a montré intérêt pour apporter des services écosystémiques de production et de régulation:
+• Diversité des cultures;
+• Intégration de pérennes dans les systèmes agricoles;
+• Hétérogénéité des paysages
+
+Ces études concluent que comme la permaculture combine les 3, alors il y a un potentiel fort (ex: Krebs and Bach, 2018; Hirschfeld and Van Acker, 2021). 
+**Mais ces études n’ont pas analysé directement des projets de permaculture !**
