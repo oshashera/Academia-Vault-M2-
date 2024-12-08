@@ -25,17 +25,10 @@ Créée en 96, trentaine d'hectare en bio, le reste en conventionnel, mais avec 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - démarche d’amélioration continue<br>- Objectif: concevoir et non évaluer<br>- Focus sur les apprentissages, évolution des règles <br>   de décision et du pilotage du système<br>- Innovation<br>- Plus difficile de conclure sur la performance du <br>   système (pas de temps très long) | - règles de décision formalisées, définies, immuables <br>   dans le temps quoi qu’il arrive<br>- Pour comparer des systèmes entre eux, tester des <br>   modalités et choisir celle qui convient le mieux au <br>   sein d’un système contraint<br>- Pas de progression possible<br>- Nécessite une expertise suffisante pour stabiliser les <br>   règles stratégiques dès le début |
 
-#### Insérer une photo de
-votre choix sur ce cadre
-gris en respectant les
-dimensions
-2018-2023
-Le projet Syno’phyt
-Concevoir, expérimenter et évaluer des
-systèmes de culture très peu consommateurs
-de phytos en Bretagne
+#### 2018-2023 Le projet Syno’phyt
+**Concevoir, expérimenter et évaluer des systèmes de culture très peu consommateurs de phytos en Bretagne**
 
-
+Associer des acteurs de différents horizons à la conception des systèmes (CRAB)
 
 
 
