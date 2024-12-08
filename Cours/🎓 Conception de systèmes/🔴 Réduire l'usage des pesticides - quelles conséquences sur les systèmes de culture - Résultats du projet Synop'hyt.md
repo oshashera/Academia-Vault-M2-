@@ -35,9 +35,7 @@ Concevoir des systèmes multiperformants
 
 #### Étape 1 : Co-conception des systèmes
 
-2018: Début du projet
-13/04/2018 : Atelier de co-conception
-
+![[Pasted image 20241208145900.png]]
 ##### Cahier des charges 
 
 • Des systèmes de grandes cultures --> Pour des exploitations en grandes cultures ou des élevages de porc ou volaille
@@ -53,15 +51,15 @@ Concevoir des systèmes multiperformants
 2) Substitution = Remplacer les phytos par autre chose
 3) Reconçeption = Repenser son système pour anticiper les indésirables
 
-#### 3 systèmes testé
+#### 3 systèmes testés
 ![[Pasted image 20241208144905.png|center|650]]
 >[!summary] SYSTÈME « REFERENCE 2025 »
 >![[Pasted image 20241208145147.png|right|300]]
 >**Efficience & Substitution**
 >
->- Fertilisation : apport de lisier chaque année + compléments minéraux
->- Fréquence de labour : 3 ans sur 4
->- Leviers mis en œuvre :
+>- <u>Fertilisation :</u> apport de lisier chaque année + compléments minéraux
+>- <u>Fréquence de labour :</u> 3 ans sur 4
+>- <u>Leviers mis en œuvre :</u>
 >	- Maïs : stratégie de désherbage mixte (hersage de pré-levée, désherbage localisé sur le rang, binage de l’inter-rang)
 >	- Blé : mélange variétal, un à deux passages de fongicides à dose réduite
 
@@ -69,18 +67,48 @@ Concevoir des systèmes multiperformants
 >![[Pasted image 20241208145229.png|right|350]]
 >**Efficience, Substitution & Reconception**
 >
+>- <u>Fertilisation :</u> apport de lisier 5 ans sur 7 + compléments minéraux
+>- <u>Fréquence de labour :</u> 1 an sur 2
+>- <u>Leviers mis en œuvre :</u>
+>	- Maïs : désherbage mécanique des adventices annuelles, désherbage chimique localisé des vivaces
+>	- Blé : désherbage mécanique et un herbicide à demi dose. Mélange variétal, un fongicide à demi-dose
+>	- Triticale-pois : mélange variétal, aucun herbicide, hersage
+>	- Féverole : aucun herbicide, hersage. Un fongicide à demi dose
+>	- Colza : associé à des plantes compagnes, aucun herbicide. Un fongicide à demi dose
 
+>[!summary] SYSTEME AGRICULTURE BIOLOGIQUE
+![[Pasted image 20241208145733.png|right|330]]
+>**Efficience, Substitution & Reconception**
+>
+>- <u>Fertilisation :</u> apport de fumier de volailles 1 an sur 5
+>- <u>Fréquence de labour :</u> chaque année
+>- <u>Leviers mis en œuvre :</u>
+>	- Cultures de ventes en alimentation humaine (avoine de floconnerie et sarrasin)
+>	- Désherbage mécanique (hersage de toutes les cultures sauf sarrasin, binage du maïs)
+>	- Couverture du sol (densités de semis élevées, association de culture)
+>	- Faux-semis de printemps (avant maïs et sarrasin)
 
+#### Écriture des règles de décision
+![[Pasted image 20241208145953.png|center|650]]
+#### Stratégie phytos 
+![[Pasted image 20241208150044.png|550]]![[Pasted image 20241208150107.png|right|450]]
 
+##### Stratégie **adventices**
 
+>[!summary] Référence 2025
+>
+>![[Pasted image 20241208150303.png|right|500]]
+>
+>**Attentes :**
+>- atteinte des OR;
+>- pas d’augmentation du salissement,
+>- pas de montée à graines (rumex) + pas d’augmentation des ronds de vivaces
+>  
+>**Adventices communes :**
+>- **annuelles** : gaillet, véronique;
+>- **vivaces** : chardons et rumex
 
-
-
-
-
-
-
-
+>[]
 
 
 
