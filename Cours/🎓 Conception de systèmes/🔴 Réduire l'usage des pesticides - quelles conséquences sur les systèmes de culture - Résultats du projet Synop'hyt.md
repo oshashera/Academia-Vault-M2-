@@ -28,7 +28,7 @@ Créée en 96, trentaine d'hectare en bio, le reste en conventionnel, mais avec 
 #### 2018-2023 Le projet Syno’phyt
 **Concevoir, expérimenter et évaluer des systèmes de culture très peu consommateurs de phytos en Bretagne**
 
-Associer des acteurs de différents horizons à la conception des systèmes (CRAB)
+Associer des acteurs de différents horizons à la conception des systèmes (CRAB, INRAE, instituts techniques, )
 
 
 
