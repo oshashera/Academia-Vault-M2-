@@ -32,7 +32,19 @@ Associer des acteurs de différents horizons à la conception des systèmes (CRA
 Mobiliser des leviers agroécologiques, les expériences issues de l'agriculture biologique, les nouvelles technologies, pour
 Concevoir des systèmes multiperformants
 
+#### Étape 1 : Co-conception des systèmes
 
+2018: Début du projet
+13/04/2018 : Atelier de co-conception
+
+##### Cahier des charges 
+
+• Des systèmes de grandes cultures --> Pour des exploitations en grandes cultures ou des élevages de porc ou volaille
+• Un usage des produits phytosanitaires « plafonné » et exigeant 
+-50%, -75%, -100% IFT par rapport à la référence bretonne
+--> Sur l’ensemble de la rotation
+--> Par poste (herbicide, fongicide, traitements de semence)
+--> 0 insecticide, 0 glyphosate, 0 régulateur
 
 
 
