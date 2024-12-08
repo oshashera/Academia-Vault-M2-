@@ -24,6 +24,7 @@ Créée en 96, trentaine d'hectare en bio, le reste en conventionnel, mais avec 
 | Conception « pas à pas »                                                                                                                                                                                                                                                                      | Conception par « prototypage »                                                                                                                                                                                                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - démarche d’amélioration continue<br>- Objectif: concevoir et non évaluer<br>- Focus sur les apprentissages, évolution des règles <br>   de décision et du pilotage du système<br>- Innovation<br>- Plus difficile de conclure sur la performance du <br>   système (pas de temps très long) | - règles de décision formalisées, définies, immuables <br>   dans le temps quoi qu’il arrive<br>- Pour comparer des systèmes entre eux, tester des <br>   modalités et choisir celle qui convient le mieux au <br>   sein d’un système contraint<br>- Pas de progression possible<br>- Nécessite une expertise suffisante pour stabiliser les <br>   règles stratégiques dès le début |
+Syno’phyt = 2 ans pas à pas et 4 ans prototypage
 
 #### 2018-2023 Le projet Syno’phyt
 **Concevoir, expérimenter et évaluer des systèmes de culture très peu consommateurs de phytos en Bretagne**
@@ -46,9 +47,28 @@ Concevoir des systèmes multiperformants
 --> Par poste (herbicide, fongicide, traitements de semence)
 --> 0 insecticide, 0 glyphosate, 0 régulateur
 
+#####  3 systèmes = 3 niveaux de rupture dans l’utilisation de produits phytosanitaires
 
+1) Efficience = Optimiser l’usage des phytos
+2) Substitution = Remplacer les phytos par autre chose
+3) Reconçeption = Repenser son système pour anticiper les indésirables
 
+#### 3 systèmes testé
+![[Pasted image 20241208144905.png|center|650]]
+>[!summary] SYSTÈME « REFERENCE 2025 »
+>![[Pasted image 20241208145147.png|right|300]]
+>**Efficience & Substitution**
+>
+>- Fertilisation : apport de lisier chaque année + compléments minéraux
+>- Fréquence de labour : 3 ans sur 4
+>- Leviers mis en œuvre :
+>	- Maïs : stratégie de désherbage mixte (hersage de pré-levée, désherbage localisé sur le rang, binage de l’inter-rang)
+>	- Blé : mélange variétal, un à deux passages de fongicides à dose réduite
 
+>[!summary] SYSTÈME AGROECOLOGIQUE
+>![[Pasted image 20241208145229.png|right|350]]
+>**Efficience, Substitution & Reconception**
+>
 
 
 
