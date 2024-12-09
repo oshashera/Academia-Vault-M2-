@@ -88,19 +88,22 @@ _____________________
 ## 1}
 ### Contexte
 
-Les ravageurs des cultures, majoritairement des insectes, sont responsable de nombreuses pertes de rendement agricoles, limitant ainsi la stabilité économique de l'exploitant agricole et l'autonomie alimentaire des territoires agricoles. Depuis plus de 70 ans, l'agriculture s'est intensifiée, industrialisée, et a eu excessivement recours aux produits phytosanitaires. Souvent peu spécialisés, ces pesticides ont participé à l'effondrement global des populations d'insectes de tous genres : On estime un déclin supérieur à 75% de tous les insectes volants (Hallmann et al.,2017). Afin de protéger la biodiversité, différentes législations ont été mise en place pour réduire l'utilisation de produits phytosanitaire. En France, c'est les plans écophyto successifs (1,2 et aujourd'hui 2+) qui pilotent la baisse d'utilisation de pesticides. Malgré ce cadre juridique, la réduction, si ce n'est l'abandon des produits phytosanitaires est complexe, notamment du fait de la dépendance au chemin. Cependant, compte tenu de la dépendance de l'industrie phytosanitaire aux énergies fossiles, 
+Les ravageurs des cultures, majoritairement des insectes, sont responsable de nombreuses pertes de rendement agricoles, limitant ainsi la stabilité économique de l'exploitant agricole et l'autonomie alimentaire des territoires agricoles. Depuis plus de 70 ans, l'agriculture s'est intensifiée, industrialisée, et a eu excessivement recours aux produits phytosanitaires. Souvent peu spécialisés, ces pesticides ont participé à l'effondrement global des populations d'insectes de tous genres : On estime un déclin supérieur à 75% de tous les insectes volants (Hallmann et al.,2017). Afin de protéger la biodiversité, différentes législations ont été mise en place pour réduire l'utilisation de produits phytosanitaire. En France, c'est les plans écophyto successifs (1,2 et aujourd'hui 2+) qui pilotent la baisse d'utilisation de pesticides. Malgré ce cadre juridique, la réduction, si ce n'est l'abandon des produits phytosanitaires est complexe, notamment du fait de la dépendance au chemin. Cependant, compte tenu de la dépendance de l'industrie phytosanitaire aux énergies fossiles, l'arrêt progressif et définitif de la production de pesticides est assuré, rendant certain le besoin de s'en passer, et ce malgré les effets du changement climatique qui peuvent accélérer les cycles de vie des ravageurs, et leur sont globalement favorable (Shrestha S, 2019). Les systèmes de push-pull (établis en exploitant des substances sémiochimiques pour repousser les insectes nuisibles de la culture (« push ») et pour les attirer dans des cultures pièges (« pull »)) constituent une potentielle solution à ce problème.
 
-Plan écophyto 2+, perte biodiv (80% insectes, cf "more than 75..."), et risque d'accélération des cycles de vie des ravageurs (cf "effects of climate change") + dépendance aux énergies fossiles pour création des phytosanitaires.
-=> faut de la lutte prophylactique, adaptée à la région, si possible pas trop complexes à mettre en oeuvre
 
 
 ### Objectifs
 
-Assurer la stabilité de la production de chou-fleur et autre cultures [citer ??] qui sont attaquées par *D. radicum*. 
-Estimer l'intérêt potentiel des mêmes cultures pour repousser d'autres ravageurs (_Brevicoryne brassicae_ (Cabbage aphid), _Plutella xylostella_ (Diamondback moth) => chercher) (=>biblio (+tests?))
-Evaluer la distance d'effet des cultures push (=> test que j'ai design)
-Estimer si la culture push peut attirer d'autres ravageurs non désirés. => biblio (tests?)
-Estimer la meilleur pull pour une multitude de ravageurs des brassica (Volatiles like **allyl isothiocyanate** are attractive to _D. radicum_ but may also attract other pests specializing in Brassica crops, such as _Pieris rapae_ (Cabbage white butterfly) or certain flea beetles (_Phyllotreta_ species). (=> biblio + tests ?)
+Nos objectifs sont :
+- de fournir une ou plusieurs solutions de push-pull qui puissent assurer la stabilité de la production de chou-fleur et autres cultures attaquées par *Delia radicum*.
+- d'estimer la distance d'effet des cultures push, et si elle peuvent repousser plusieurs ravageurs différents
+- Déterminer si la culture push peut être délétère en attirant d'autres ravageurs.
+
+		Assurer la stabilité de la production de chou-fleur et autre cultures [citer ??] qui sont attaquées par *D. radicum*. 
+		Estimer l'intérêt potentiel des mêmes cultures pour repousser d'autres ravageurs (_Brevicoryne brassicae_ (Cabbage aphid), _Plutella xylostella_ (Diamondback moth) => chercher) (=>biblio (+tests?))
+		Evaluer la distance d'effet des cultures push (=> test que j'ai design)
+		Estimer si la culture push peut attirer d'autres ravageurs non désirés. => biblio (tests?)
+		Estimer la meilleur pull pour une multitude de ravageurs des brassica (Volatiles like **allyl isothiocyanate** are attractive to _D. radicum_ but may also attract other pests specializing in Brassica crops, such as _Pieris rapae_ (Cabbage white butterfly) or certain flea beetles (_Phyllotreta_ species). (=> biblio + tests ?)
 
 ### Programme des travaux & principaux résultats attendus 
 
@@ -109,7 +112,7 @@ Estimer la meilleur pull pour une multitude de ravageurs des brassica (Volatiles
 3 mois de création du cr/finalisation
 ==>42 mois
 
-résultats attendus => 
+Résultats attendus => 
 - Quantification distance/effet pour la push utilisée + réduction des pertes en découlant
 - Viabilité de la push => attire-elle d'autres ravageurs ? Repousse-t-elle d'autres que la mouche du chou ?
 - Trouver une ou plusieurs cultures push/pull à proposer aux exploitants agricole bretons
