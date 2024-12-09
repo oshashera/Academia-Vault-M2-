@@ -194,4 +194,14 @@ Concevoir des systèmes multiperformants
 ### Analyse de la flore adventice
 
 #### Suivi de la flore adventice
-![[Pasted image 20241209172634.png|center|650]]![[Pasted image 20241209172707.png|center|650]]
+![[Pasted image 20241209172634.png|center|650]]![[Pasted image 20241209172707.png|center|650]]![[Pasted image 20241209173246.png|center|650]]![[Pasted image 20241209173105.png|center|650]]![[Pasted image 20241209173449.png|center|650]]
+![[Pasted image 20241209173556.png|center|650]]
+![[Pasted image 20241209173637.png|center|650]]
+![[Pasted image 20241209173727.png|center|650]]
+![[Pasted image 20241209173848.png|center|650]]
+#### Suivi de la flore adventice - Zoom sur le maïs
+![[Pasted image 20241209173932.png|center|650]]
+- Un cortège spécifique à la bio
+- Des densités beaucoup plus faibles que les seuils de nuisibilité connus (sur blé), sauf le chardon dans le système bio
+- Au vu des seuils connus et de la diversité du cortège: pas de problème monospécifique
+
