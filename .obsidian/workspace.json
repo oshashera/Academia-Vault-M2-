@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "AAP"
             }
+          },
+          {
+            "id": "a35a59ec438af093",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Appel à projet.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Appel à projet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +221,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "63c10f1fdfb6d272",
+  "active": "a35a59ec438af093",
   "lastOpenFiles": [
+    "Appel à projet.canvas",
+    "AAP.md",
     "Cours/🎓 Conception de systèmes/🔴 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
     "Images/Pasted image 20241208150800.png",
     "Images/Pasted image 20241208150549.png",
@@ -244,7 +264,6 @@
     "Cours/🎓 Landscape ecology/🟢 Thinking agroecology at the territorial scale - What about Integrated Crop-Livestock Systems?.md",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/Changement climatique et outils de diagnostic GES-énergie.md",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/Untitled",
-    "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/TD EDEN.md",
     "synthèse biblio",
     "Cours/Evaluer des systèmes",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 3 Diagnostic",
