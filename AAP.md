@@ -94,7 +94,19 @@ Plan écophyto 2+, perte biodiv (80% insectes, cf "more than 75..."), et risque 
 ### Objectifs
 
 Assurer la stabilité de la production de chou-fleur et autre cultures [citer ??] qui sont attaquées par *D. radicum*. 
-Estimer l'intérêt potentiel des mêmes cultures pour repousser d'autres ravageurs (_Brevicoryne brassicae_ (Cabbage aphid), _Plutella xylostella_ (Diamondback moth) => chercher)
-Evaluer la distance d'effet des cultures push 
-Estimer si la culture push peut attirer d'autres ravageurs non désirés
-Estimer la meilleur pull pour une multitude de ravageurs des brassica (Volatiles like **allyl isothiocyanate** are attractive to _D. radicum_ but may also attract other pests specializing in Brassica crops, such as _Pieris rapae_ (Cabbage white butterfly) or certain flea beetles (_Phyllotreta_ species).
+Estimer l'intérêt potentiel des mêmes cultures pour repousser d'autres ravageurs (_Brevicoryne brassicae_ (Cabbage aphid), _Plutella xylostella_ (Diamondback moth) => chercher) (=>biblio (+tests?))
+Evaluer la distance d'effet des cultures push (=> test que j'ai design)
+Estimer si la culture push peut attirer d'autres ravageurs non désirés. => biblio (tests?)
+Estimer la meilleur pull pour une multitude de ravageurs des brassica (Volatiles like **allyl isothiocyanate** are attractive to _D. radicum_ but may also attract other pests specializing in Brassica crops, such as _Pieris rapae_ (Cabbage white butterfly) or certain flea beetles (_Phyllotreta_ species). (=> biblio + tests ?)
+
+### Programme des travaux & principaux résultats attendus 
+
+
+
+### Livrables d'intérêt collectif
+Livrable = "tout résultat, document, mesurable, tangible ou vérifiable, qui résulte de l’achèvement d’une partie de projet ou du projet"
+
+- articles => 3/4 (voir selon budget qu'est-ce qu'on peut faire ou pas)
+- Présentation (qq diapos très synthétiques) pour la communication autour des résultats aux acteurs du monde agri, notamment les exploitants
+- Compte Rendu récapitulatif du projet, avec les limites et pistes de recherches futures identifiées
+

@@ -76,28 +76,6 @@
       "color": "1"
     },
     {
-      "id": "ccdd283ad9b31a01",
-      "type": "text",
-      "text": "Livrables d’intérêt collectifs",
-      "styleAttributes": {},
-      "x": -280,
-      "y": -770,
-      "width": 200,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "d1609584601a5311",
-      "type": "text",
-      "text": "Programme des travaux & principaux résultats attendus ",
-      "styleAttributes": {},
-      "x": -280,
-      "y": -700,
-      "width": 240,
-      "height": 100,
-      "color": "1"
-    },
-    {
       "id": "305981e5bab2f952",
       "type": "text",
       "text": "Description des enjeux technico-économiques et environnementaux adressés par le projet au regard des thématiques prioritaires. (1P)",
@@ -226,6 +204,39 @@
       "y": -840,
       "width": 140,
       "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "fc3f7114aa111c81",
+      "type": "text",
+      "text": "200 000 €",
+      "styleAttributes": {},
+      "x": 200,
+      "y": -930,
+      "width": 180,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "d1609584601a5311",
+      "type": "text",
+      "text": "[[AAP#Livrables d'intérêt collectif|Programme des travaux & principaux résultats attendus ]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -780,
+      "width": 240,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "ccdd283ad9b31a01",
+      "type": "text",
+      "text": "[[AAP#Livrables d'intérêt collectif|Livrables d’intérêt collectifs]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -680,
+      "width": 200,
+      "height": 70,
       "color": "1"
     }
   ],
