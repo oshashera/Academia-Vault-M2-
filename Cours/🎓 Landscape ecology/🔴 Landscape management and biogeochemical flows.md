@@ -135,7 +135,7 @@ al., 2009)
 <br>
 
 #### 1.2 Environmental challenges
-[graphs]
+![[Pasted image 20241209180113.png|center]]
 
 ##### Which actors are needed to answer challenges at landscape scale ? 
 - Farmers
@@ -145,8 +145,7 @@ al., 2009)
 
 
 #### 1.2 Different scales, challenges, actors
-[graph]
-
+![[Pasted image 20241209180459.png|center|700]]
 
 #### 1.2 Short exercise
 
@@ -159,12 +158,12 @@ I'd say landscape ? ✅
 I'd say farm ? ✅
 
 #### 1.2 Scales of knowledge, impact, action
-[graph]
+![[Pasted image 20241209180735.png|center|550]]
 
-[diapo]
-#### Example 1
+### Example 1
+Life cycle assessment of an agricultural region: North of Aube department
 
-#### 2.1 Context : evolution of farming systems
+#### 2.1 Context : évolution of farming systems
 
 - North of Aube department is specialized in crop production : cereals (wheat/barley), oilseed rape, potato, sugar beet, alfalfa
 - Important consumption of fertilizers and pesticides has a significant impact on the environment
@@ -182,7 +181,7 @@ I'd say farm ? ✅
 - Scenario analysis
 
 #### 2.1 Territorial LCA perimeter
-[graph]
+![[Pasted image 20241209180928.png|center|650]]
 
 #### 2.1 environmental profile of territory
 [graph]
