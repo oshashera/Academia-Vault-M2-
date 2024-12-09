@@ -98,6 +98,7 @@ Nos objectifs sont :
 - de fournir une ou plusieurs solutions de push-pull qui puissent assurer la stabilité de la production de chou-fleur et autres cultures attaquées par *Delia radicum*.
 - d'estimer la distance d'effet des cultures push, et si elle peuvent repousser plusieurs ravageurs différents
 - Déterminer si la culture push peut être délétère en attirant d'autres ravageurs.
+- Estimer si la culture pull peut être attractive pour différents ravageurs.
 
 		Assurer la stabilité de la production de chou-fleur et autre cultures [citer ??] qui sont attaquées par *D. radicum*. 
 		Estimer l'intérêt potentiel des mêmes cultures pour repousser d'autres ravageurs (_Brevicoryne brassicae_ (Cabbage aphid), _Plutella xylostella_ (Diamondback moth) => chercher) (=>biblio (+tests?))
@@ -107,22 +108,20 @@ Nos objectifs sont :
 
 ### Programme des travaux & principaux résultats attendus 
 
-3 mois de biblio pure
-3 ans d'expé
-3 mois de création du cr/finalisation
-==>42 mois
-
-Résultats attendus => 
-- Quantification distance/effet pour la push utilisée + réduction des pertes en découlant
-- Viabilité de la push => attire-elle d'autres ravageurs ? Repousse-t-elle d'autres que la mouche du chou ?
+Sur une durée de 42 mois, le projet peut profiter de 3 mois de bibliographie, 3 années d'expérimentation, et de 3 mois supplémentaires pour réaliser les comptes-rendus et articles liés au projet.
+Les résultats attendus comprennent :  
 - Trouver une ou plusieurs cultures push/pull à proposer aux exploitants agricole bretons
+- La quantification de l'effet distance pour au moins une culture push utilisée et la réduction des pertes de rendement en découlant
+- La viabilité de la culture push :  peut-elle attire-elle d'autres ravageurs ? Repousse-t-elle d'autres ravageurs que la mouche du chou ?
 
 ### Livrables d'intérêt collectif
 Livrable = "tout résultat, document, mesurable, tangible ou vérifiable, qui résulte de l’achèvement d’une partie de projet ou du projet"
 
-- articles => 3/4 (voir selon budget qu'est-ce qu'on peut faire ou pas)
-- Présentation (qq diapos très synthétiques) pour la communication autour des résultats aux acteurs du monde agri, notamment les exploitants
-- Compte Rendu récapitulatif du projet, avec les limites et pistes de recherches futures identifiées
+Concernant les livrables, nous désirons produire au moins 3 articles scientifiques, une présentation de quelques diapos très synthétiques et pédagogiques pour la communication autour des résultats aux acteurs du monde agricole (notamment les exploitants), et la création d'un compte-rendu récapitulatif du projet, avec les limites et pistes de recherches futures identifiées.
+Les articles porteraient à priori sur :
+- Le choix de cultures push-pull pour lutter contre D. Radicum en Bretagne.
+- L'effet de la distance d'une (ou plusieurs) push-pull sur l'activité des ravageurs
+- Les effets 
 
 ## 2} 
 
