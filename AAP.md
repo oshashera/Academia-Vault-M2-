@@ -85,7 +85,10 @@ Peut-être un léger abus de langage mais en gros :
 
 
 _____________________
+## 1}
 ### Contexte
+
+Les ravageurs des cultures, majoritairement des insectes, sont responsable de nombreuses pertes de rendement agricoles, limitant ainsi la stabilité économique de l'exploitant agricole et l'autonomie alimentaire des territoires agricoles. Depuis plus de 70 ans, l'agriculture s'
 
 Plan écophyto 2+, perte biodiv (80% insectes, cf "more than 75..."), et risque d'accélération des cycles de vie des ravageurs (cf "effects of climate change") + dépendance aux énergies fossiles pour création des phytosanitaires.
 => faut de la lutte prophylactique, adaptée à la région, si possible pas trop complexes à mettre en oeuvre
@@ -101,7 +104,15 @@ Estimer la meilleur pull pour une multitude de ravageurs des brassica (Volatiles
 
 ### Programme des travaux & principaux résultats attendus 
 
+3 mois de biblio pure
+3 ans d'expé
+3 mois de création du cr/finalisation
+==>42 mois
 
+résultats attendus => 
+- Quantification distance/effet pour la push utilisée + réduction des pertes en découlant
+- Viabilité de la push => attire-elle d'autres ravageurs ? Repousse-t-elle d'autres que la mouche du chou ?
+- Trouver une ou plusieurs cultures push/pull à proposer aux exploitants agricole bretons
 
 ### Livrables d'intérêt collectif
 Livrable = "tout résultat, document, mesurable, tangible ou vérifiable, qui résulte de l’achèvement d’une partie de projet ou du projet"
@@ -109,4 +120,7 @@ Livrable = "tout résultat, document, mesurable, tangible ou vérifiable, qui r�
 - articles => 3/4 (voir selon budget qu'est-ce qu'on peut faire ou pas)
 - Présentation (qq diapos très synthétiques) pour la communication autour des résultats aux acteurs du monde agri, notamment les exploitants
 - Compte Rendu récapitulatif du projet, avec les limites et pistes de recherches futures identifiées
+
+## 2} 
+
 
