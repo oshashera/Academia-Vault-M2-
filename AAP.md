@@ -84,5 +84,8 @@ Peut-être un léger abus de langage mais en gros :
 
 
 
+_____________________
+### Contexte
 
-
+Plan écophyto 2+, perte biodiv (80% insectes, cf "more than 75..."), et risque d'accélération des cycles de vie des ravageurs (sourcer!!!)
+=> faut de la lutte prophylactique, adaptée à la région, si possible pas trop complexes à mettre en oeuvre

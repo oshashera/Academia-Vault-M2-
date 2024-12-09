@@ -29,8 +29,8 @@
               "state": {
                 "file": "Appel à projet.canvas",
                 "viewState": {
-                  "x": 116.96816082429723,
-                  "y": 431.31293007645576,
+                  "x": -91.20624927154772,
+                  "y": -752.8749654992916,
                   "zoom": -0.44993367830911835
                 }
               },
@@ -38,8 +38,7 @@
               "title": "Appel à projet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +220,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a35a59ec438af093",
+  "active": "63c10f1fdfb6d272",
   "lastOpenFiles": [
     "Appel à projet.canvas",
     "AAP.md",

@@ -3,8 +3,8 @@
     {
       "id": "8d07c72edc15e891",
       "type": "group",
-      "x": 960,
-      "y": -300,
+      "x": -300,
+      "y": 400,
       "width": 480,
       "height": 620,
       "label": "Programmation et calendrier"
@@ -12,8 +12,8 @@
     {
       "id": "55a7f81edd59b384",
       "type": "group",
-      "x": 100,
-      "y": 180,
+      "x": -300,
+      "y": 1080,
       "width": 580,
       "height": 400,
       "label": "Perspectives de valorisation des résultats"
@@ -21,8 +21,8 @@
     {
       "id": "e66bb81230cfcbf0",
       "type": "group",
-      "x": 60,
-      "y": -300,
+      "x": -300,
+      "y": -500,
       "width": 400,
       "height": 400,
       "label": "Contexte et enjeux scientifiques (3P)"
@@ -30,8 +30,8 @@
     {
       "id": "570312b3143b05e7",
       "type": "group",
-      "x": 520,
-      "y": -300,
+      "x": -300,
+      "y": -40,
       "width": 400,
       "height": 400,
       "label": "Objectifs du projet"
@@ -39,78 +39,82 @@
     {
       "id": "8623fad4f45db569",
       "type": "group",
-      "x": -260,
-      "y": -300,
+      "x": -300,
+      "y": -920,
       "width": 280,
       "height": 340,
+      "color": "1",
       "label": "Résumé du projet (1P)"
     },
     {
       "id": "1ec5c4955b8bac85",
       "type": "group",
-      "x": -340,
-      "y": 160,
+      "x": 340,
+      "y": 1080,
       "width": 400,
       "height": 220,
       "label": "Livrables"
     },
     {
-      "id": "f7987182ff6c6ab9",
-      "type": "text",
-      "text": "Titre / partenaires",
-      "styleAttributes": {},
-      "x": -540,
-      "y": -280,
-      "width": 260,
-      "height": 60
+      "id": "6d6b75aea7c7dd92",
+      "type": "group",
+      "x": 780,
+      "y": 1090,
+      "width": 280,
+      "height": 100,
+      "label": "SATAN"
     },
     {
       "id": "5b8f78de63e1cd6e",
       "type": "text",
       "text": "Contexte",
       "styleAttributes": {},
-      "x": -240,
-      "y": -280,
+      "x": -280,
+      "y": -900,
       "width": 140,
-      "height": 60
-    },
-    {
-      "id": "ccdd283ad9b31a01",
-      "type": "text",
-      "text": "Livrables d’intérêt collectifs",
-      "styleAttributes": {},
-      "x": -240,
-      "y": -150,
-      "width": 200,
-      "height": 60
+      "height": 60,
+      "color": "1"
     },
     {
       "id": "4a82c73ebdeca5ee",
       "type": "text",
       "text": "Objectifs",
       "styleAttributes": {},
-      "x": -240,
-      "y": -220,
+      "x": -280,
+      "y": -840,
       "width": 140,
-      "height": 60
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "ccdd283ad9b31a01",
+      "type": "text",
+      "text": "Livrables d’intérêt collectifs",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -770,
+      "width": 200,
+      "height": 60,
+      "color": "1"
     },
     {
       "id": "d1609584601a5311",
       "type": "text",
       "text": "Programme des travaux & principaux résultats attendus ",
       "styleAttributes": {},
-      "x": -240,
-      "y": -80,
+      "x": -280,
+      "y": -700,
       "width": 240,
-      "height": 100
+      "height": 100,
+      "color": "1"
     },
     {
       "id": "305981e5bab2f952",
       "type": "text",
       "text": "Description des enjeux technico-économiques et environnementaux adressés par le projet au regard des thématiques prioritaires. (1P)",
       "styleAttributes": {},
-      "x": 80,
-      "y": -270,
+      "x": -280,
+      "y": -470,
       "width": 360,
       "height": 120
     },
@@ -119,8 +123,8 @@
       "type": "text",
       "text": "Résumé de l’état de l’art scientifique sur lequel s’appuiera le projet (2P)",
       "styleAttributes": {},
-      "x": 80,
-      "y": -120,
+      "x": -280,
+      "y": -320,
       "width": 360,
       "height": 80
     },
@@ -129,8 +133,8 @@
       "type": "text",
       "text": "Objectifs poursuivis, justification du caractère scientifique innovant, de l’originalité et de l’ambition des travaux. (0,5P)",
       "styleAttributes": {},
-      "x": 540,
-      "y": -280,
+      "x": -280,
+      "y": -20,
       "width": 360,
       "height": 120
     },
@@ -139,18 +143,28 @@
       "type": "text",
       "text": "Principaux résultats attendus et identification d’indicateurs de performance de la réussite du projet (0,5P)",
       "styleAttributes": {},
-      "x": 540,
-      "y": -140,
+      "x": -280,
+      "y": 120,
       "width": 360,
       "height": 120
+    },
+    {
+      "id": "bc3a3195f7b0ac9a",
+      "type": "text",
+      "text": "Equipes techniques mobilisées : préciser par partenaires, et par action le cas échéant, le nombre d’ETP (équivalents temps plein) prévus par catégorie (techniciens, ingénieurs, chercheurs), l’organisation prévue et le rôle de chaque partenaire technique. (???P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 820,
+      "width": 440,
+      "height": 180
     },
     {
       "id": "6595d5aa617b7f7f",
       "type": "text",
       "text": "Description des différentes tâches : contenu incluant les matériels et méthode : l’amplitude des essais, le protocole proposé indiquant les variables à acquérir et les mesures prévues, les méthodes d’analyse statistiques proposées ainsi que les résultats attendus. (6P)",
       "styleAttributes": {},
-      "x": 980,
-      "y": -290,
+      "x": -280,
+      "y": 410,
       "width": 440,
       "height": 240
     },
@@ -159,38 +173,18 @@
       "type": "text",
       "text": "Calendrier de réalisation par tâche, incluant la durée et le positionnement des tâches entre elles pendant la durée du projet - un diagramme de Gantt peut être présenté. (1P)",
       "styleAttributes": {},
-      "x": 980,
-      "y": -20,
+      "x": -280,
+      "y": 680,
       "width": 440,
       "height": 120
-    },
-    {
-      "id": "bc3a3195f7b0ac9a",
-      "type": "text",
-      "text": "Equipes techniques mobilisées : préciser par partenaires, et par action le cas échéant, le nombre d’ETP (équivalents temps plein) prévus par catégorie (techniciens, ingénieurs, chercheurs), l’organisation prévue et le rôle de chaque partenaire technique. (???P)",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 120,
-      "width": 440,
-      "height": 180
-    },
-    {
-      "id": "64c0f11c106b3f3a",
-      "type": "text",
-      "text": "Liste des résultats attendus : dans chaque cas, faire une description précise du livrable notamment en précisant le format de diffusion proposé (1P)",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 180,
-      "width": 340,
-      "height": 160
     },
     {
       "id": "ba330059f9fc5352",
       "type": "text",
       "text": " Valorisation prévue des résultats à court et long termes, notamment retombées futures (0,5P)",
       "styleAttributes": {},
-      "x": 120,
-      "y": 200,
+      "x": -280,
+      "y": 1100,
       "width": 360,
       "height": 80
     },
@@ -199,22 +193,61 @@
       "type": "text",
       "text": "Suites attendues du projet et utilisation ultérieure possible des résultats, selon quel horizon de temps.",
       "styleAttributes": {},
-      "x": 120,
-      "y": 300,
+      "x": -280,
+      "y": 1200,
       "width": 360,
       "height": 80
     },
     {
+      "id": "64c0f11c106b3f3a",
+      "type": "text",
+      "text": "Liste des résultats attendus : dans chaque cas, faire une description précise du livrable notamment en précisant le format de diffusion proposé (1P)",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 1100,
+      "width": 340,
+      "height": 160
+    },
+    {
       "id": "7ef1f4a9e3dd7ff3",
+      "type": "text",
+      "text": "Tableau de con",
+      "styleAttributes": {},
+      "x": 820,
+      "y": 1110,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "f7987182ff6c6ab9",
+      "type": "text",
+      "text": "Titre / partenaires",
+      "styleAttributes": {},
+      "x": -340,
+      "y": -1120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0aba92590001a355",
       "type": "text",
       "text": "",
       "styleAttributes": {},
-      "x": -500,
-      "y": 500,
+      "x": -780,
+      "y": -900,
       "width": 260,
-      "height": 60
+      "height": 260
     }
   ],
-  "edges": [],
+  "edges": [
+    {
+      "id": "a7bf6ae292b21da2",
+      "styleAttributes": {},
+      "fromNode": "5b8f78de63e1cd6e",
+      "fromSide": "left",
+      "toNode": "0aba92590001a355",
+      "toSide": "right"
+    }
+  ],
   "metadata": {}
 }
