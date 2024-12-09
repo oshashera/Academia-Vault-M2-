@@ -248,24 +248,61 @@ But
 #### 2.3 The STREAM watershed model
 ![[Pasted image 20241209181923.png|center|650]]
 #### 2.3 Results of the model
+![[Pasted image 20241209182022.png|center|550]]
 
+#### 2.3 Difficulty of erosion management
+![[Pasted image 20241209182110.png|center|400]]
+#### 2.3 A roleplay to share challenges and solutions
 
+- Identify players (stakeholders)
+- Imagine a realistic landscape
+- 8 roles: 6 farmers, 1 mayor, 1 counselor
+- Actions possible in the game: water retention pond, grass strips, intercrop management, grassland distribution, collective management of crop distribution, reduced tillage
 
+#### 2.3 Play the game
 
+Agriculteurs -> Choisir et localiser les cultures
+Maire et animateur Bassin Versant -> Risque du BV
+Animateur BV -> Conseiller agriculteur
+Agriculteur -> poste informatique
 
+\+ simuler évènements extrêmes
 
+#### 2.3. A combinaison of tools to study and act
 
+- The STREAM model calculates erosion and run-off in the watershed
+- Companion modeling (roleplay) allows the discussion, concertation and identification of action scenarios that are evaluated with STREAM model
+- This approach requires time and disponibility of actors
 
+### 2.4 Synthesis of examples
 
+![[Pasted image 20241209182526.png|center|right|450]]
+- Various methods and tools to deal with agricultural challenges at landscape scale
 
+- Lack of tools for collective action => participatory research
+<br>
+<br>
 
+#### 2.4 Genericity of tools and methods
+![[Pasted image 20241209182709.png|center|450]]
+#### 2.4. How to operationalize landscape approaches
+![[Pasted image 20241209182803.png|center|400]]
+### 3. Conclusions et perspectives
 
+#### 3.1 Conclusion
 
+Why shoud agronomists study landscapes:
 
+- Many challenges can only be treated at scales larger than the field or farm: water quality, resistance management, biodiversity maintenance, food chains, employment…
+- Many scientific disciplines are studying the interactions between farming activities and the landscape. Agronomy should contribute to this multidisciplinary effort
+**=> Requires opening toward other disciplines**
 
-
-
-
+What can agronomy bring to landscape studies:
+• Describe the influence of farming activities on landscape functions: production and consumption of resources, modifications of the landscape, environmental impacts (+/-)
+• Identify factors linked to the natural environment, plant and
+animal biology, management practices, work organization
+• Provide a diagnosis to the stakeholders, (co)conceive and
+evaluate action scenarios, identify brakes and levers to change
 
 
 
