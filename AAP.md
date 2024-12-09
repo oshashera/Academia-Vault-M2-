@@ -87,5 +87,14 @@ Peut-être un léger abus de langage mais en gros :
 _____________________
 ### Contexte
 
-Plan écophyto 2+, perte biodiv (80% insectes, cf "more than 75..."), et risque d'accélération des cycles de vie des ravageurs (sourcer!!!)
+Plan écophyto 2+, perte biodiv (80% insectes, cf "more than 75..."), et risque d'accélération des cycles de vie des ravageurs (cf "effects of climate change") + dépendance aux énergies fossiles pour création des phytosanitaires.
 => faut de la lutte prophylactique, adaptée à la région, si possible pas trop complexes à mettre en oeuvre
+
+
+### Objectifs
+
+Assurer la stabilité de la production de chou-fleur et autre cultures [citer ??] qui sont attaquées par *D. radicum*. 
+Estimer l'intérêt potentiel des mêmes cultures pour repousser d'autres ravageurs (_Brevicoryne brassicae_ (Cabbage aphid), _Plutella xylostella_ (Diamondback moth) => chercher)
+Evaluer la distance d'effet des cultures push 
+Estimer si la culture push peut attirer d'autres ravageurs non désirés
+Estimer la meilleur pull pour une multitude de ravageurs des brassica (Volatiles like **allyl isothiocyanate** are attractive to _D. radicum_ but may also attract other pests specializing in Brassica crops, such as _Pieris rapae_ (Cabbage white butterfly) or certain flea beetles (_Phyllotreta_ species).
