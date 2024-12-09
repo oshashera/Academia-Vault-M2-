@@ -160,8 +160,7 @@ I'd say farm ? ✅
 #### 1.2 Scales of knowledge, impact, action
 ![[Pasted image 20241209180735.png|center|550]]
 
-### Example 1
-Life cycle assessment of an agricultural region: North of Aube department
+### Example 1 - Life cycle assessment of an agricultural region: North of Aube department
 
 #### 2.1 Context : évolution of farming systems
 
@@ -184,17 +183,14 @@ Life cycle assessment of an agricultural region: North of Aube department
 ![[Pasted image 20241209180928.png|center|650]]
 
 #### 2.1 environmental profile of territory
-[graph]
+![[Pasted image 20241209181010.png|center|650]]
 
 #### 2.1 Scenario analysis
 
 - Scenarios conceived with farmers and local advisors
 - 40 biogas plants vs introduction of 10k sheeps
-- [graph]
+![[Pasted image 20241209181046.png|center|550]]
 - No significant effect of any of the scenarios (uncertainty ~10%)
-
-[diapo]
-[diapo]
 
 #### 2.1 Use of results
 
@@ -204,7 +200,7 @@ BUT
 - is a complex method, not transferable to local actors
 => Need for better local data sources and a more user-friendly assessment tool
 
-#### Example 2 - Participative conception and evaluation of scenarios to manage phoma on oilseed rape
+### Example 2 - Participative conception and evaluation of scenarios to manage phoma on oilseed rape
 
 #### 2.2 Context on phoma
 
@@ -217,10 +213,11 @@ BUT
 => Collective strategies need to preserve resistance as long as possible
 
 #### 2.2 A landscape model for phoma
-[graph]
+![[Pasted image 20241209181204.png|center|550]]
 
 #### 2.2 Use in a farming landscape
-[graph]
+![[Pasted image 20241209181341.png|center|500]]
+- 17 km², 121 fields (31 in oilseed rape)
 
 #### 2.2 Short exercise
 
@@ -233,19 +230,24 @@ hossard et al 2013![[Pasted image 20241104114538.png|center|350]]
 
 #### 2.2 Selection of adapted scenarios
 
-[graph]
-Isolation of resistant cultivar RlmX
+![[Pasted image 20241209181427.png|right|500]]
 - Modeling and concertation with stakeholders allows to propose solutions to prevent resistance breakage
 But
 - Hard to coordinate farmers
 - Others actors not participating (counselors, farm cooperatives, breeding)
 
-#### Example 3
-[diap]
+#### Example 3 - Mudslide management in a watershed in Normand
 
+#### 2.3 Context 
 
+• On farmland upstream: erosion (soil loss)
+![[Pasted image 20241209181656.png]]
+• In cities downstream: mudslides, flooding, material and human damage
+![[Pasted image 20241209181815.png]]
 
-
+#### 2.3 The STREAM watershed model
+![[Pasted image 20241209181923.png|center|650]]
+#### 2.3 Results of the model
 
 
 
