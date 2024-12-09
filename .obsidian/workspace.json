@@ -38,7 +38,8 @@
               "title": "Appel à projet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +221,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "63c10f1fdfb6d272",
+  "active": "a35a59ec438af093",
   "lastOpenFiles": [
-    "Appel à projet.canvas",
     "AAP.md",
+    "Appel à projet.canvas",
     "Cours/🎓 Conception de systèmes/🔴 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
     "Images/Pasted image 20241208150800.png",
     "Images/Pasted image 20241208150549.png",
