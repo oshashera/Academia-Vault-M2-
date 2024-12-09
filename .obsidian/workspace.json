@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "def7d24480d3e907",
         "type": "tabs",
         "children": [
           {
-            "id": "63c10f1fdfb6d272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diversité des modes de production/TD sur les modes de production agricoles en France.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TD sur les modes de production agricoles en France"
-            }
-          },
-          {
-            "id": "6d6660c2d6fa10a0",
+            "id": "06a3c54190d7141f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🏡 Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "🏡 Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,12 +199,12 @@
       "pomodoro-timer:Toggle timer panel": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d6660c2d6fa10a0",
+  "active": "06a3c54190d7141f",
   "lastOpenFiles": [
+    "🏡 Home.md",
     "Diversité des modes de production/TD sur les modes de production agricoles en France.md",
     "Diversité des modes de production/🔴 Prospective globales et européennes de l'agriculture et des systèmes alimentaires.md",
     "Diversité des modes de production/🔴 Comprendre les freins et leviers à la transition agroécologique - L'approche par l'analyse multi-niveaux des systèmes sociotechniques et de leurs verrouillages.md",
@@ -257,7 +242,6 @@
     "Cours/🎓 Conception de systèmes/Untitled",
     "Cours/🎓 Conception de systèmes/🟢 Systèmes de culture en semis direct sous Couvert Végétal - Comment mieux comprendre ce système « potentiellement » innovant ?.md",
     "Cours/🎓 Conception de systèmes/🟢 Quels sont les défis à relever pour une méthanisation agroécologique ?.md",
-    "Cours/🎓 Conception de systèmes/🟢 Permaculture - origine, principes, applications et état de l'art scientifique.md",
     "synthèse biblio/V2 Synthèse.canvas",
     "Cours/🎓 Conception de systèmes",
     "synthèse biblio/Synthèse biblio.canvas",
