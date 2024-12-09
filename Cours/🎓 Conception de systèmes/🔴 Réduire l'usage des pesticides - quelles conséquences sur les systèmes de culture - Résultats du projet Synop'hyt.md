@@ -200,8 +200,35 @@ Concevoir des systèmes multiperformants
 ![[Pasted image 20241209173727.png|center|650]]
 ![[Pasted image 20241209173848.png|center|650]]
 #### Suivi de la flore adventice - Zoom sur le maïs
-![[Pasted image 20241209173932.png|center|650]]
+![[Pasted image 20241209173932.png||700]]![[Pasted image 20241209174122.png|400]]
 - Un cortège spécifique à la bio
 - Des densités beaucoup plus faibles que les seuils de nuisibilité connus (sur blé), sauf le chardon dans le système bio
 - Au vu des seuils connus et de la diversité du cortège: pas de problème monospécifique
+
+### Performances économiques
+
+| Système                | Marge directe<br>moyenne<br> |
+| ---------------------- | ---------------------------- |
+| Référence 2025         | 1001 ± 138€<br>              |
+| Agro-écologique <br>   | 895 ± 96 €                   |
+| Agriculture biologique | 1066 ± 187 €                 |
+![[Pasted image 20241209174616.png|center|900]]
+- Un effet année marqué : rendements céréales exceptionnellement faibles en 2020
+- Des charges réduites dans le système Agriculture Biologique
+
+### Performances sociales
+
+| Système                | Charge de travail<br>moyenne (en h/ha, 2020-2023)<br> |
+| ---------------------- | ----------------------------------------------------- |
+| Référence 2025         | 7h36                                                  |
+| Agroécologique         | 6h44<br>                                              |
+| Agriculture biologique | 6h29                                                  |
+![[Pasted image 20241209174843.png|center|800]]
+- Travail du sol : le plus consommateur en temps ; différenciation principalement sur la fréquence de labour
+- Temps consacré au semis dépendant de la fréquence des couverts dans la rotation
+- Fertilisation 1 an sur 5 en AB, 5 ans sur 7 en agroécologique, tous les ans dans le système Référence 2025
+- Désherbage mécanique : impact fort du binage du maïs
+![[Pasted image 20241209174938.png|center|800]]
+
+
 
