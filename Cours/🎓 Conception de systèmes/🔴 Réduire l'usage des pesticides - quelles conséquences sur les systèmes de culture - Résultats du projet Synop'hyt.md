@@ -26,14 +26,14 @@ Créée en 96, trentaine d'hectare en bio, le reste en conventionnel, mais avec 
 | - démarche d’amélioration continue<br>- Objectif: concevoir et non évaluer<br>- Focus sur les apprentissages, évolution des règles <br>   de décision et du pilotage du système<br>- Innovation<br>- Plus difficile de conclure sur la performance du <br>   système (pas de temps très long) | - règles de décision formalisées, définies, immuables <br>   dans le temps quoi qu’il arrive<br>- Pour comparer des systèmes entre eux, tester des <br>   modalités et choisir celle qui convient le mieux au <br>   sein d’un système contraint<br>- Pas de progression possible<br>- Nécessite une expertise suffisante pour stabiliser les <br>   règles stratégiques dès le début |
 Syno’phyt = 2 ans pas à pas et 4 ans prototypage
 
-#### 2018-2023 Le projet Syno’phyt
+### 2018-2023 Le projet Syno’phyt
 **Concevoir, expérimenter et évaluer des systèmes de culture très peu consommateurs de phytos en Bretagne**
 
 Associer des acteurs de différents horizons à la conception des systèmes (CRAB, INRAE, instituts techniques, agriculteurs, coopératives...) et
 Mobiliser des leviers agroécologiques, les expériences issues de l'agriculture biologique, les nouvelles technologies, pour
 Concevoir des systèmes multiperformants
 
-#### Étape 1 : Co-conception des systèmes
+### Étape 1 : Co-conception des systèmes
 
 ![[Pasted image 20241208145900.png]]
 ##### Cahier des charges 
@@ -181,6 +181,17 @@ Concevoir des systèmes multiperformants
 >- Limaces,
 >- Pucerons, etc.
 
-#### 
+### Étape 2 : Mise en place et suivi des SDC
 
+![[Pasted image 20241209172116.png|850]]
 
+### Étape 3 : Évaluation des SDC
+
+![[Pasted image 20241209172239.png|850]]
+
+#### Résultats : Performances agronomiques
+![[Pasted image 20241209172448.png|center|930]]![[Pasted image 20241209172525.png|center|930]]
+### Analyse de la flore adventice
+
+#### Suivi de la flore adventice
+![[Pasted image 20241209172634.png|center|650]]![[Pasted image 20241209172707.png|center|650]]
