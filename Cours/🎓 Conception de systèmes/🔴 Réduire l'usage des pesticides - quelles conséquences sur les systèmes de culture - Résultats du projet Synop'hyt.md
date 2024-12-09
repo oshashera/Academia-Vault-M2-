@@ -132,10 +132,11 @@ Concevoir des systèmes multiperformants
 ##### Stratégie maladies et ravageurs
 
 >[!summary] Système Référence 2025
->
+>![[Pasted image 20241209170958.png|right|550]]
 >
 >**Attentes** :
->- IFT HH 0.52 sur la rotation. Atteinte des objectifs de rendement (écart aux objectifs < 5%)
+>- IFT HH 0.52 sur la rotation. 
+>- atteinte des objectifs de rendement (écart aux objectifs < 5%)
 >- Peu de perte à la levée (inférieur à 5%)
 >
 >**Maladies**:
@@ -145,4 +146,41 @@ Concevoir des systèmes multiperformants
 >**Ravageurs**:
 >- Limaces
 >- Pucerons, oscinie, pyrale
+
+>[!summary] Système agroécologique
+>![[Pasted image 20241209171458.png|right|700]]
+>
+>**Attentes** :
+>- IFT HH 0.26 sur la rotation
+>- atteinte des objectifs de rendement
+>
+>**Maladies** :
+>- céréales : septoriose, rouille;
+>- féverole : rouille, anthracnose, botrytis
+>- colza: sclérotinia
+>
+>**Ravageurs** : 
+>- limaces
+>- pucerons
+>- altises
+>- méligèthes
+>- charançons
+>- pyrales,etc.
+
+>[!summary] Système agriculture biologique
+>![[Pasted image 20241209171828.png|right|700]]
+>
+>**Résultats attendus :**
+>- Atteinte des objectifs de rendement
+>  
+>**Maladies** :
+>- Céréales : septoriose, rouille
+>- Féverole : rouille, anthracnose, botrytis
+>
+>**Ravageurs** :
+>- Limaces,
+>- Pucerons, etc.
+
+#### 
+
 
