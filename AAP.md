@@ -125,4 +125,8 @@ Les articles porteraient à priori sur :
 
 ## 2} 
 
+### Description des enjeux technico-économiques et environnementaux adressés par le projet au regard des thématiques prioritaires.
+
+Notre projet s'inscrit dans la thématique prioritaire "Élaborer des solutions contribuant à la réduction et la sortie de l’usage des produits phytosanitaires dans les futurs systèmes de production". Il doit permettre de limiter l'utilisation de pesticide au maximum (idéalement s'en passer), au moins pour la gestion d'un ravageur principale d'une culture importante pour la région. Dans ce cadre, le projet, centré sur la région Bretagne, s'intéresse au problème posé par *Delia Radicum*, la mouche du chou, dans la culture de brassicacées, plus spécifiquement du chou-fleur (selon Agreste les régions Bretagne et Basse Normandie représentent 88 % de la production nationale).  
+
 
