@@ -131,5 +131,18 @@ Concevoir des systèmes multiperformants
 
 ##### Stratégie maladies et ravageurs
 
-
+>[!summary] Système Référence 2025
+>
+>
+>**Attentes** :
+>- IFT HH 0.52 sur la rotation. Atteinte des objectifs de rendement (écart aux objectifs < 5%)
+>- Peu de perte à la levée (inférieur à 5%)
+>
+>**Maladies**:
+>- Céréales: septoriose, rouilles, fusariose
+>- Maïs: charbon commun 
+>  
+>**Ravageurs**:
+>- Limaces
+>- Pucerons, oscinie, pyrale
 
