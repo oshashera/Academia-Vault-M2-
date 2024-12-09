@@ -97,8 +97,8 @@ Les ravageurs des cultures, majoritairement des insectes, sont responsable de no
 Nos objectifs sont :
 - de fournir une ou plusieurs solutions de push-pull qui puissent assurer la stabilité de la production de chou-fleur et autres cultures attaquées par *Delia radicum*.
 - d'estimer la distance d'effet des cultures push, et si elle peuvent repousser plusieurs ravageurs différents
-- Déterminer si la culture push peut être délétère en attirant d'autres ravageurs.
-- Estimer si la culture pull peut être attractive pour différents ravageurs.
+- de déterminer si la culture push peut être délétère en attirant d'autres ravageurs.
+- d'estimer si la culture pull peut être attractive pour différents ravageurs.
 
 		Assurer la stabilité de la production de chou-fleur et autre cultures [citer ??] qui sont attaquées par *D. radicum*. 
 		Estimer l'intérêt potentiel des mêmes cultures pour repousser d'autres ravageurs (_Brevicoryne brassicae_ (Cabbage aphid), _Plutella xylostella_ (Diamondback moth) => chercher) (=>biblio (+tests?))
@@ -115,13 +115,13 @@ Les résultats attendus comprennent :
 - La viabilité de la culture push :  peut-elle attire-elle d'autres ravageurs ? Repousse-t-elle d'autres ravageurs que la mouche du chou ?
 
 ### Livrables d'intérêt collectif
-Livrable = "tout résultat, document, mesurable, tangible ou vérifiable, qui résulte de l’achèvement d’une partie de projet ou du projet"
 
 Concernant les livrables, nous désirons produire au moins 3 articles scientifiques, une présentation de quelques diapos très synthétiques et pédagogiques pour la communication autour des résultats aux acteurs du monde agricole (notamment les exploitants), et la création d'un compte-rendu récapitulatif du projet, avec les limites et pistes de recherches futures identifiées.
 Les articles porteraient à priori sur :
 - Le choix de cultures push-pull pour lutter contre *D. Radicum* en Bretagne.
 - L'effet de la distance d'une (ou plusieurs) push-pull sur l'activité des ravageurs.
-- L'optimisation spatiale des cultures sélectionnées pour le système push-pull
+- L'optimisation spatiale des cultures sélectionnées pour le système push-pull (se basant en partie sur les deux articles précédents)
+
 
 ## 2} 
 
