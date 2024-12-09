@@ -81,3 +81,8 @@ Peut-être un léger abus de langage mais en gros :
 - Potentiel boulot de lab pour avoir des D. radicum et les "inoculer" dans la parcelle (comme Lamy et al 2018) => élevage, mesure fitness
 
 - distance d'effet : "Les réponses comportementales de D. radicum au contrôle (c'est-à-dire à l'air pur) ou aux odeurs émises par les trois plantes testées ont été contrôlées à l'aide d'un olfactomètre tubulaire (60 9 5 cm ID) artificiellement divisé en six sections théoriques de 10 cm" => et si on faisait un test en labo avec des cultivés : ![[Drawing 2024-10-24 12.03.46.excalidraw|800]] *et si on mesurait (en fx de la concentration dans les airs de volatils) à quelle distance D radicum venait quand même sur culture ? Pour avoir une première estimation de la distance d'effet possible ? Potentiellement besoin de setup un tunnel spécifiquement in situ/baché pcq un tunnel pas assez long permettrait pas assez de tester. Faudra aussi des détecteurs pour mesurer la \[volatils] dans l'air aux différentes distances simultanément*
+
+
+
+
+

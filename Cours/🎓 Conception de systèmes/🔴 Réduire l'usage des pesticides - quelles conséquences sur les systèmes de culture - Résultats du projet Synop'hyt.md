@@ -108,14 +108,28 @@ Concevoir des systèmes multiperformants
 >- **annuelles** : gaillet, véronique;
 >- **vivaces** : chardons et rumex
 
->[]
+>[!summary] Système biologique
+>![[Pasted image 20241208150549.png|right|600]]
+>**Résultats attendus :** 
+>- Vivaces : pas de montée à graines (rumex) + pas d’augmentation des ronds de vivaces + pas d’augmentation densité avoine à chapelets
+>- Annuelles : Pas d’augmentation des densités par rapport à la situation initiale
+>
+>**Adventices communes :**
+>- **Annuelles** : Vesce, matricaire (cultures d’automne), chénopodes, renouées (cultures de printemps)
+>- **Vivaces** : chardons, avoine à chapelets et rumex
 
+>[!summary] Système agroécologique
+>
+![[Pasted image 20241208150800.png|right|550]]
+>
+>**Attentes :** 
+>- atteinte des OR; pas d’augmentation du salissement, pas de montée à graines (rumex) + pas d’augmentation des ronds de vivaces
+>  
+>**Adventices communes :**
+>- **annuelles** : gaillet, véroniques, pensée;
+>- **vivaces**: chardons et rumex
 
-
-
-
-
-
+##### Stratégie maladies et ravageurs
 
 
 
