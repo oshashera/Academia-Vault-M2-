@@ -291,18 +291,19 @@ Agriculteur -> poste informatique
 
 #### 3.1 Conclusion
 
-Why shoud agronomists study landscapes:
+<u>Why shoud agronomists study landscapes:</u>
 
 - Many challenges can only be treated at scales larger than the field or farm: water quality, resistance management, biodiversity maintenance, food chains, employment…
 - Many scientific disciplines are studying the interactions between farming activities and the landscape. Agronomy should contribute to this multidisciplinary effort
 **=> Requires opening toward other disciplines**
 
-What can agronomy bring to landscape studies:
-• Describe the influence of farming activities on landscape functions: production and consumption of resources, modifications of the landscape, environmental impacts (+/-)
-• Identify factors linked to the natural environment, plant and
-animal biology, management practices, work organization
-• Provide a diagnosis to the stakeholders, (co)conceive and
-evaluate action scenarios, identify brakes and levers to change
+<u>What can agronomy bring to landscape studies:</u>
 
+- Describe the influence of farming activities on landscape functions: production and consumption of resources, modifications of the landscape, environmental impacts (+/-)
+- Identify factors linked to the natural environment, plant and animal biology, management practices, work organization
+- Provide a diagnosis to the stakeholders, (co)conceive and evaluate action scenarios, identify brakes and levers to change
 
-
+#### 3.2 Perspectives 
+![[Pasted image 20241209183103.png|center|700]]
+- Farm activities are included in local and regional landscape planning schemes (local urbanism plans, territorial cohesion schemes, green and blue corridors framework…)
+-  More active participation of agronomists useful to have a holistic vision of challenges related to agriculture in landscape planning (food, energy, water, biodiversity, employment…)
