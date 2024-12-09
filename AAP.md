@@ -119,9 +119,9 @@ Livrable = "tout résultat, document, mesurable, tangible ou vérifiable, qui r�
 
 Concernant les livrables, nous désirons produire au moins 3 articles scientifiques, une présentation de quelques diapos très synthétiques et pédagogiques pour la communication autour des résultats aux acteurs du monde agricole (notamment les exploitants), et la création d'un compte-rendu récapitulatif du projet, avec les limites et pistes de recherches futures identifiées.
 Les articles porteraient à priori sur :
-- Le choix de cultures push-pull pour lutter contre D. Radicum en Bretagne.
-- L'effet de la distance d'une (ou plusieurs) push-pull sur l'activité des ravageurs
-- Les effets 
+- Le choix de cultures push-pull pour lutter contre *D. Radicum* en Bretagne.
+- L'effet de la distance d'une (ou plusieurs) push-pull sur l'activité des ravageurs.
+- L'optimisation spatiale des cultures sélectionnées pour le système push-pull
 
 ## 2} 
 
