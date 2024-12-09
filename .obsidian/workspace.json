@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/🎓 Conception de systèmes/🔴 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
+                "file": "Cours/🎓 Landscape ecology/🔴 Landscape management and biogeochemical flows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔴 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt"
+              "title": "🔴 Landscape management and biogeochemical flows"
             }
           },
           {
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -222,26 +221,27 @@
   },
   "active": "63c10f1fdfb6d272",
   "lastOpenFiles": [
+    "Cours/🎓 Apports de l'écophysiologie à l'ingénierie écologique/🔴 Crop responses and adaptation to climate change.md",
+    "Cours/🎓 Apports de l'écophysiologie à l'ingénierie écologique/🔴 Notion d'efficience d'utilisation des ressources en production végétale - exemple de la NUE.md",
+    "Cours/🎓 Conception de systèmes/🔴 Gestion spatiale des systèmes de cultures.md",
+    "Cours/🎓 Conception de systèmes/🔴 Agriculture de précision.md",
+    "Cours/🎓 Conception de systèmes/🔴Conception de systèmes et intelligence collective - TRAME.md",
+    "Cours/🎓 Conception de systèmes/🟢 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
+    "Images/Pasted image 20241209175444.png",
+    "Images/Pasted image 20241209175414.png",
+    "Images/Pasted image 20241209175329.png",
+    "Images/Pasted image 20241209175239.png",
+    "Images/Pasted image 20241209175216.png",
+    "Images/Pasted image 20241209175138.png",
+    "Images/Pasted image 20241209175117.png",
+    "Images/Pasted image 20241209175050.png",
     "Images/Pasted image 20241209174938.png",
     "Images/Pasted image 20241209174843.png",
-    "Images/Pasted image 20241209174616.png",
-    "Images/Pasted image 20241209174122.png",
-    "Images/Pasted image 20241209173932.png",
-    "Images/Pasted image 20241209173848.png",
-    "Images/Pasted image 20241209173727.png",
-    "Images/Pasted image 20241209173637.png",
-    "Images/Pasted image 20241209173556.png",
-    "Images/Pasted image 20241209173449.png",
-    "Images/Pasted image 20241209173246.png",
     "AAP.md",
     "Appel à projet.canvas",
-    "Cours/🎓 Conception de systèmes/🔴 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
-    "Cours/🎓 Conception de systèmes/🔴 Gestion spatiale des systèmes de cultures.md",
     "Cours/🎓 Conception de systèmes/TD Conception collective de système de culture diversifiée.md",
     "Cours/🎓 Conception de systèmes/Untitled",
     "Cours/🎓 Conception de systèmes/🟢 Systèmes de culture en semis direct sous Couvert Végétal - Comment mieux comprendre ce système « potentiellement » innovant ?.md",
-    "Cours/🎓 Conception de systèmes/🔴Conception de systèmes et intelligence collective - TRAME.md",
-    "Cours/🎓 Conception de systèmes/🔴 Agriculture de précision.md",
     "Cours/🎓 Conception de systèmes/🟢 Quels sont les défis à relever pour une méthanisation agroécologique ?.md",
     "Cours/🎓 Conception de systèmes/🟢 Permaculture - origine, principes, applications et état de l'art scientifique.md",
     "🏡 Home.md",
@@ -262,7 +262,6 @@
     "Cours/🎓 Landscape ecology/🟢 Biogeochemical cycles - upscaling ecological processes from plot to landscapes.md",
     "Cours/🎓 Landscape ecology/🔴 Landscape management and biogeochemical flows.md",
     "Cours/🎓 Landscape ecology/🟢 Thinking agroecology at the territorial scale - What about Integrated Crop-Livestock Systems?.md",
-    "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/Changement climatique et outils de diagnostic GES-énergie.md",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/Untitled",
     "synthèse biblio",
     "Cours/Evaluer des systèmes",

@@ -229,6 +229,22 @@ Concevoir des systèmes multiperformants
 - Fertilisation 1 an sur 5 en AB, 5 ans sur 7 en agroécologique, tous les ans dans le système Référence 2025
 - Désherbage mécanique : impact fort du binage du maïs
 ![[Pasted image 20241209174938.png|center|800]]
+Un calendrier de travail différent, lié à la diversité des cultures
 
+### Performances environnementales
+![[Pasted image 20241209175050.png|center|650]]
+![[Pasted image 20241209175117.png|center|650]]
+![[Pasted image 20241209175138.png|center|550]]![[Pasted image 20241209175216.png|center|750]]
+### Multiperformance
+![[Pasted image 20241209175239.png|600]]![[Pasted image 20241209175329.png|500]]
+![[Pasted image 20241209175414.png|550]]![[Pasted image 20241209175444.png|550]]
 
+### CONCLUSION
+
+1. **Il n’y a pas un système parfait.**
+2. **Gestion du salissement** satisfaisante dans nos systèmes (vigilance sur vivaces)
+3. **Réduction des phytos possibles** sans allonger la rotation mais au détriment du temps de travail
+4. **Allongement de la rotation** réduit le temps de travail
+5. **Marge réduite** de 10% dans le système agroécologique, du fait des rendements aléatoires des protéagineux et d’un prix de collecte faible (mais intérêt comme précédent blé)
+6. **Choix des cultures** cohérent mais des questions pour les **filières** : prix de collecte, tri des associations conventionnelles…
 
