@@ -342,22 +342,32 @@
     {
       "id": "47d7c544d190945f",
       "type": "text",
-      "text": "Pékinensis, var rapa (navet), var sylverstris (moutarde sauvage)",
+      "text": "Pékinensis, var rapa (navet), var sylverstris (moutarde sauvage), chinensis",
       "styleAttributes": {},
       "x": 780,
       "y": -100,
       "width": 260,
-      "height": 100
+      "height": 120
     },
     {
       "id": "c5a763d046f83f7d",
       "type": "text",
-      "text": "",
+      "text": "\n| Push \\ Pull | Pekinensis | var rapa | var sylvestris | chinensis |\n| ----------- | ---------- | -------- | -------------- | --------- |\n| romarin     | 1          | 2        | 3              | 4         |\n| ail         | 5          | 6        | 7              | 8         |\n| tagete      | 9          | 10       | 11             | 12        |\n+ contrôle : pas de push-pull, pesticide (IFT 0.75 ou moins pour limiter un peu l'abus)\n\n=> 13 traitements",
       "styleAttributes": {},
       "x": 1180,
       "y": -220,
       "width": 700,
-      "height": 240
+      "height": 320
+    },
+    {
+      "id": "efd014057b0af6b1",
+      "type": "text",
+      "text": "Plan expé : **bloc de fisher** car :\nPrendre en compte un gradient d’hétérogénéité continu du terrain (haies de bocage)\n► nb de modalités à tester limité (<15)\n► Très utilisé en expérimentation agronomique de plein champ\n\n► diminution de la variance résiduelle (augmente la précision de l’analyse)\n► Facilité de mise en oeuvre\n\n",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": -560,
+      "width": 600,
+      "height": 300
     }
   ],
   "edges": [
