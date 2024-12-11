@@ -265,41 +265,106 @@
       "text": "Var qualitative : variété B rapa pull",
       "styleAttributes": {},
       "x": 460,
-      "y": -200,
+      "y": -220,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "452604e78edf2d79",
-      "type": "text",
-      "text": "Var réponse => taux oviposition dans culture principale, dans culture pull, et rendement moyen/ha",
-      "styleAttributes": {},
-      "x": 460,
-      "y": -360,
-      "width": 300,
-      "height": 140
     },
     {
       "id": "a0b6469fbb070b15",
       "type": "text",
       "text": "Var qualitative : plante push ou dispositif push (diffuseur)",
       "styleAttributes": {},
-      "x": 380,
-      "y": -120,
+      "x": 460,
+      "y": -160,
       "width": 260,
       "height": 100
     },
     {
       "id": "65de9cb1462ba3d8",
       "type": "text",
-      "text": "",
+      "text": "Romarin, basilic, ail, tagetes",
       "styleAttributes": {},
-      "x": 580,
-      "y": -100,
+      "x": 760,
+      "y": -140,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "681d8d5dc5b6b729",
+      "type": "text",
+      "text": "chou fleur peut être cultivé toute l'année",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "452604e78edf2d79",
+      "type": "text",
+      "text": "Var réponse => taux oviposition dans culture principale, dans culture pull, et rendement moyen/ha de chou fleur",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -380,
+      "width": 300,
+      "height": 160
+    },
+    {
+      "id": "62fa4808c0d75f2b",
+      "type": "text",
+      "text": "Semés de janvier à septembre - 5/8 mois de culture",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -570,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "349b7d76cad36adb",
+      "type": "text",
+      "text": "\n| Janvier   |     |\n| --------- | --- |\n| Février   |     |\n| **Mars**      |     |\n| **Avril**     |     |\n| **Mais**      |     |\n| **Juin**      |     |\n| **Aout**      |     |\n| **Septembre** |     |\n| **Octobre**   |     |\n| **Novembre**  |     |\n| Décembre  |     |\n",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": -660,
+      "width": 740,
+      "height": 460
+    },
+    {
+      "id": "38464ed5f73280a0",
+      "type": "text",
+      "text": "Mouche du chou **d'avril à octobre**",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": -780,
       "width": 260,
       "height": 60
     }
   ],
-  "edges": [],
+  "edges": [
+    {
+      "id": "23a5b4246ac41352",
+      "styleAttributes": {},
+      "fromNode": "a0b6469fbb070b15",
+      "fromSide": "right",
+      "toNode": "65de9cb1462ba3d8",
+      "toSide": "left"
+    },
+    {
+      "id": "2893ae7abdfca3a3",
+      "styleAttributes": {},
+      "fromNode": "65de9cb1462ba3d8",
+      "fromSide": "top",
+      "toNode": "681d8d5dc5b6b729",
+      "toSide": "bottom"
+    },
+    {
+      "id": "73e8c5ec2b48116f",
+      "styleAttributes": {},
+      "fromNode": "681d8d5dc5b6b729",
+      "fromSide": "right",
+      "toNode": "65de9cb1462ba3d8",
+      "toSide": "top"
+    }
+  ],
   "metadata": {}
 }
