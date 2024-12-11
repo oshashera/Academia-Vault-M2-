@@ -372,12 +372,12 @@
     {
       "id": "e5e5660ab42db658",
       "type": "text",
-      "text": "2 zones climatiques :\n- cotière (st malo brest)\n- intérieure (rennes/vannes)\n\n= 2 \"blocs\" x 13 traitements x 5 répétitions sur 200m²\nHassanali et al. (2008) soulignent également que, pour une mise en œuvre à plus grande échelle dans des exploitations agricoles, des parcelles d'au moins **200 m²** et  Cook et al. (2007), les essais de stratégie **push-pull** en grande culture doivent tenir compte de la variabilité spatiale des ravageurs et des cultures, en utilisant des parcelles allant de **200 à 500 m²**\n\n**==> 500m² unité expérimentale** + tampon de 4m entre parcelles => \nPour calculer la surface totale nécessaire pour vos traitements, voici le détail des calculs :\n\n### Surface de chaque parcelle :\n\n- Parcelles de 200 m².\n\n### Zone tampon :\n\n- Chaque parcelle aura un espace tampon de 4 m autour pour séparer les parcelles et éviter l’interférence des traitements.\n\nCalcul de la surface totale :\n\n1. Chaque parcelle de 200 m² est entourée d’une zone tampon de 4 m de chaque côté. La taille totale d'une parcelle avec le tampon sera :\n\n(200 m²)+(2×4 m×20 m)+(2×4 m×10 m)=200 m²+160 m²=360 m² par parcelle avec tampon(200 \\, \\text{m²}) + (2 \\times 4 \\, \\text{m} \\times 20 \\, \\text{m}) + (2 \\times 4 \\, \\text{m} \\times 10 \\, \\text{m}) = 200 \\, \\text{m²} + 160 \\, \\text{m²} = 360 \\, \\text{m² par parcelle avec tampon}(200m²)+(2×4m×20m)+(2×4m×10m)=200m²+160m²=360m² par parcelle avec tampon\n\n2. Nombre total de parcelles avec les tampons :\n    - 2×13×4=104 parcelles au total2 \\times 13 \\times 4 = 104 \\, \\text{parcelles au total}2×13×4=104parcelles au totalDonc la surface totale nécessaire pour les 104 parcelles serait de :\n\n104×360 m²=37440 m²104 \\times 360 \\, \\text{m²} = 37 440 \\, \\text{m²}104×360m²=37440m²\n\n### Calcul du coût total de location :\n\nSi vous devez louer 37 440 m², soit 3,744 ha, à un prix de 5 500 €/ha pour 3 ans, le coût sera :\n\n3,744 ha×5500 €/ha=20592 € pour 3 ans3,744 \\, \\text{ha} \\times 5 500 \\, \\text{€/ha} = 20 592 \\, \\text{€ pour 3 ans}3,744ha×5500€/ha=20592€ pour 3 ans\n\nDonc, pour ces expérimentations, la surface totale et le coût de location seraient de **20 592 €** pour 3 ans.",
+      "text": "2 zones climatiques :\n- cotière (st malo brest)\n- intérieure (rennes/vannes)\n\n= 2 \"blocs\" x 13 traitements x 5 répétitions sur 200m²\nHassanali et al. (2008) soulignent également que, pour une mise en œuvre à plus grande échelle dans des exploitations agricoles, des parcelles d'au moins **200 m²** et  Cook et al. (2007), les essais de stratégie **push-pull** en grande culture doivent tenir compte de la variabilité spatiale des ravageurs et des cultures, en utilisant des parcelles allant de **200 à 500 m²**\n\n**==> 500m² unité expérimentale** + tampon de 4m entre parcelles => \nPour calculer la surface totale nécessaire pour vos traitements, voici le détail des calculs :\n\n### Surface de chaque parcelle :\n\n- Parcelles de 200 m².\n\n### Zone tampon :\n\n- Chaque parcelle aura un espace tampon de 4 m autour pour séparer les parcelles et éviter l’interférence des traitements.\n\nCalcul de la surface totale :\n\n1. Chaque parcelle de 200 m² est entourée d’une zone tampon de 4 m de chaque côté. La taille totale d'une parcelle avec le tampon sera :\n\n(200 m²)+(2×4 m×20 m)+(2×4 m×10 m)=200 m²+160 m²=360 m² par parcelle avec tampon(200 \\, \\text{m²}) + (2 \\times 4 \\, \\text{m} \\times 20 \\, \\text{m}) + (2 \\times 4 \\, \\text{m} \\times 10 \\, \\text{m}) = 200 \\, \\text{m²} + 160 \\, \\text{m²} = 360 \\, \\text{m² par parcelle avec tampon}(200m²)+(2×4m×20m)+(2×4m×10m)=200m²+160m²=360m² par parcelle avec tampon\n\n2. Nombre total de parcelles avec les tampons :\n    - 2×13×4=104 parcelles au total2 \\times 13 \\times 4 = 104 \\, \\text{parcelles au total}2×13×4=104parcelles au totalDonc la surface totale nécessaire pour les 104 parcelles serait de :\n\n104×360 m²=37440 m²104 \\times 360 \\, \\text{m²} = 37 440 \\, \\text{m²}104×360m²=37440m²\n\n### Calcul du coût total de location :\n\nSi vous devez louer 37 440 m², soit 3,744 ha, à un prix de 5 000 €/ha pour 3 ans, le coût sera :\n3,744 ha×5000 €/ha=18870 € pour 3 ans3,744 \\, \\text{ha} \\times 5 500 \\, \\text{€/ha} = 20 592 \\, \\text{€ pour 3 ans}3,744ha×5500€/ha=20592€ pour 3 ans\n\nDonc, pour ces expérimentations, la surface totale et le coût de location seraient de **20 592 €** pour 3 ans.",
       "styleAttributes": {},
       "x": 2080,
       "y": -260,
       "width": 780,
-      "height": 1080
+      "height": 1320
     },
     {
       "id": "66d4a8aa05a3866e",
@@ -420,26 +420,6 @@
       "height": 100
     },
     {
-      "id": "1c4f324439d4e28e",
-      "type": "text",
-      "text": "Terrain + chambre élevage+ bouffe mouche + 3 serres = 25000+5500+20592=51092 €",
-      "styleAttributes": {},
-      "x": 2180,
-      "y": 920,
-      "width": 260,
-      "height": 160
-    },
-    {
-      "id": "d78982f5a6c3b0e6",
-      "type": "text",
-      "text": "1. Mise en place du projet (semis, installation des parcelles, traitements pesticide) :\n\n    Technicien/agricole :\n        Pour la préparation des parcelles, la plantation, le semis, et la gestion des cultures. Avec une augmentation de la main-d'œuvre, on pourrait envisager 3 techniciens pendant 2 à 3 mois à temps plein.\n        Coût estimé : 3 techniciens travaillant 40h/semaine pendant 3 semaines = 3 * 2 * 40 * 15 = 3 600 € (semis initial).\n        Pour la gestion des cultures pendant le cycle complet, cela reviendrait à environ 10 000 € - 12 000 € pour 3 mois de travail intensif (augmentation de l'engagement).\n\n2. Suivi des mesures en plein champ (comptage des œufs, suivi des prédateurs, rendement, etc.) :\n\n    Technicien de terrain :\n        Augmentation de la main-d'œuvre pour le suivi des mesures : 3 à 4 techniciens, à temps partiel sur la période d'avril à septembre.\n        Ces techniciens devront suivre les changements hebdomadaires des variables (œufs, prédateurs, rendement, etc.) et faire les relevés, la collecte d'échantillons, etc.\n        Coût estimé : Si chaque technicien travaille 2 jours par semaine pendant 6 mois (avec un taux horaire de 15-18 €), cela reviendrait à environ 15 000 € à 20 000 € pour les 3 à 4 techniciens.\n\n3. Rédaction des articles scientifiques et communication sur le projet :\n\n    Chercheurs et/ou Ingénieurs :\n        La rédaction d'articles scientifiques, la préparation des présentations, et la communication sur le projet auprès des agriculteurs nécessitent du temps supplémentaire. Ce travail sera pris en charge par 2 chercheurs ou ingénieurs pendant la durée du projet.\n        Coût estimé : Un chercheur travaillant à temps partiel (50% de son temps) pendant 6 mois pour la rédaction et la communication pourrait coûter environ 12 000 € - 15 000 € par an (en fonction du salaire mensuel moyen de 2 500 à 3 000 €).\n\n4. Nombre d'ETP (Équivalents Temps Plein) estimé :\n\n    Techniciens (mise en place et suivi) : 4-5 ETP pour la mise en place et la gestion des cultures en champ.\n    Chercheurs/Ingénieurs (rédaction d'articles et communication) : 1 à 1,5 ETP pour l'analyse des données, la rédaction des articles scientifiques et la communication.\n\nEstimation des coûts totaux (année complète) :\n\n    Mise en place du projet (semis, traitements) : 10 000 € - 12 000 €.\n    Suivi en plein champ (mesures, observations, collecte de données) : 15 000 € - 20 000 € (pour 3 à 4 techniciens).\n    Rédaction d'articles scientifiques et communication : 12 000 € - 15 000 € pour 2 chercheurs/ingénieurs.\n\nTotal estimé pour la mise en place, suivi, rédaction, et communication pendant une année :\n\n    Total estimé : Entre 37 000 € et 47 000 € par an pour la main-d'œuvre et la gestion des ressources humaines.\n\nRécapitulatif des besoins en ressources humaines :\n\n    Techniciens/agricoles : 4-5 ETP pour la mise en place et le suivi des mesures pendant toute la durée du projet.\n    Chercheurs/Ingénieurs : 1 à 1,5 ETP pour l'analyse des données, la rédaction des articles scientifiques et la communication.\n\nEstimation globale pour 3 ans :\n\n    Sur trois ans, pour les ressources humaines et les activités associées (mise en place, suivi des mesures, rédaction et communication) :\n        Total estimé sur 3 ans : Entre 111 000 € et 141 000 €.",
-      "styleAttributes": {},
-      "x": 2540,
-      "y": 860,
-      "width": 880,
-      "height": 1480
-    },
-    {
       "id": "066fd12a3d235531",
       "type": "text",
       "text": "",
@@ -457,7 +437,37 @@
       "x": 3720,
       "y": 860,
       "width": 960,
-      "height": 1140
+      "height": 1240
+    },
+    {
+      "id": "1c4f324439d4e28e",
+      "type": "text",
+      "text": "Terrain + chambre élevage+ bouffe mouche + 3 serres = 25000+5500+20592=51092 €",
+      "styleAttributes": {},
+      "x": 2040,
+      "y": 1100,
+      "width": 360,
+      "height": 160
+    },
+    {
+      "id": "d78982f5a6c3b0e6",
+      "type": "text",
+      "text": "1. Mise en place du projet (semis, installation des parcelles, traitements pesticide) :\n\n    Technicien/agricole :\n        Pour la préparation des parcelles, la plantation, le semis, et la gestion des cultures. Avec une augmentation de la main-d'œuvre, on pourrait envisager 3 techniciens pendant 2 à 3 mois à temps plein.\n        Coût estimé : 3 techniciens travaillant 40h/semaine pendant 3 semaines = 3 * 2 * 40 * 15 = 3 600 € (semis initial).\n        Pour la gestion des cultures pendant le cycle complet, cela reviendrait à environ 10 000 € - 12 000 € pour 3 mois de travail intensif (augmentation de l'engagement).\n\n2. Suivi des mesures en plein champ (comptage des œufs, suivi des prédateurs, rendement, etc.) :\n\n    Technicien de terrain :\n        Augmentation de la main-d'œuvre pour le suivi des mesures : 3 à 4 techniciens, à temps partiel sur la période d'avril à septembre.\n        Ces techniciens devront suivre les changements hebdomadaires des variables (œufs, prédateurs, rendement, etc.) et faire les relevés, la collecte d'échantillons, etc.\n        Coût estimé : Si chaque technicien travaille 2 jours par semaine pendant 6 mois (avec un taux horaire de 15-18 €), cela reviendrait à environ 15 000 € à 20 000 € pour les 3 à 4 techniciens.\n\n3. Rédaction des articles scientifiques et communication sur le projet :\n\n    Chercheurs et/ou Ingénieurs :\n        La rédaction d'articles scientifiques, la préparation des présentations, et la communication sur le projet auprès des agriculteurs nécessitent du temps supplémentaire. Ce travail sera pris en charge par 2 chercheurs ou ingénieurs pendant la durée du projet.\n        Coût estimé : Un chercheur travaillant à temps partiel (50% de son temps) pendant 6 mois pour la rédaction et la communication pourrait coûter environ 12 000 € - 15 000 € par an (en fonction du salaire mensuel moyen de 2 500 à 3 000 €).\n\n4. Nombre d'ETP (Équivalents Temps Plein) estimé :\n\n    Techniciens (mise en place et suivi) : 4-5 ETP pour la mise en place et la gestion des cultures en champ.\n    Chercheurs/Ingénieurs (rédaction d'articles et communication) : 1 à 1,5 ETP pour l'analyse des données, la rédaction des articles scientifiques et la communication.\n\nEstimation des coûts totaux (année complète) :\n\n    Mise en place du projet (semis, traitements) : 10 000 € - 12 000 €.\n    Suivi en plein champ (mesures, observations, collecte de données) : 15 000 € - 20 000 € (pour 3 à 4 techniciens).\n    Rédaction d'articles scientifiques et communication : 12 000 € - 15 000 € pour 2 chercheurs/ingénieurs.\n\nTotal estimé pour la mise en place, suivi, rédaction, et communication pendant une année :\n\n    Total estimé : Entre 37 000 € et 47 000 € par an pour la main-d'œuvre et la gestion des ressources humaines.\n\nRécapitulatif des besoins en ressources humaines :\n\n    Techniciens/agricoles : 4-5 ETP pour la mise en place et le suivi des mesures pendant toute la durée du projet.\n    Chercheurs/Ingénieurs : 1 à 1,5 ETP pour l'analyse des données, la rédaction des articles scientifiques et la communication.\n\nEstimation globale pour 3 ans :\n\n    Sur trois ans, pour les ressources humaines et les activités associées (mise en place, suivi des mesures, rédaction et communication) :\n        Total estimé sur 3 ans : Entre 111 000 € et 141 000 €.",
+      "styleAttributes": {},
+      "x": 2840,
+      "y": 560,
+      "width": 880,
+      "height": 1480
+    },
+    {
+      "id": "bf669d8150e2ed47",
+      "type": "text",
+      "text": "2. Superficie Totale pour 3 Serres :\n\n    Surface totale nécessaire : 35m×31m35m×31m = 1 085 m² pour les 3 serres avec un espace tampon de 1 mètre entre elles.\n\nDonc, la superficie nécessaire pour installer les 3 serres serait 1 085 m² au lieu de 1 050 m² comme précédemment estimé, ce qui reste très similaire.\n3. Coût du Terrain :\n\nEn partant sur un terrain agricole d'une taille d'environ 0,11 hectare (1 085 m²), voici l'estimation :\n\n    Coût moyen du terrain agricole en Bretagne : 4 000 € à 6 500 € par hectare.\n    Pour 0,11 hectare, le coût serait :\n        Min : 4000 €×0,114000€×0,11 = 440 €\n        Max : 6500 €×0,116500€×0,11 = 715 €\n\n4. Coût Total pour les Serres et le Terrain :\na. Serres Tunnel + Terrain :\n\n    Serres : 24 000 à 45 000 €\n    Terrain : 440 € à 715 €\n    Total :\n        Min : 24 000 € + 440 € = 24 440 €",
+      "styleAttributes": {},
+      "x": 2470,
+      "y": 1150,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
