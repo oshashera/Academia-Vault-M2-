@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
-                "mode": "preview",
+                "file": "Cours/Projet professionnel/AAP.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏡 Home"
+              "title": "AAP"
             }
           }
         ]
@@ -199,7 +199,8 @@
       "pomodoro-timer:Toggle timer panel": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
