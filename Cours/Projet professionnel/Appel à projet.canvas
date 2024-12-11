@@ -372,12 +372,22 @@
     {
       "id": "e5e5660ab42db658",
       "type": "text",
-      "text": "2 zones climatiques :\n- cotière (st malo brest)\n- intérieure (rennes/vannes)\n\n= 2 \"blocs\" x 13 traitements x 5 répétitions sur \n",
+      "text": "2 zones climatiques :\n- cotière (st malo brest)\n- intérieure (rennes/vannes)\n\n= 2 \"blocs\" x 13 traitements x 5 répétitions sur 200m²\nHassanali et al. (2008) soulignent également que, pour une mise en œuvre à plus grande échelle dans des exploitations agricoles, des parcelles d'au moins **200 m²** et  Cook et al. (2007), les essais de stratégie **push-pull** en grande culture doivent tenir compte de la variabilité spatiale des ravageurs et des cultures, en utilisant des parcelles allant de **200 à 500 m²**\n\n**==> 500m² unité expérimentale** + tampon de 4m entre parcelles => \nPour calculer la surface totale nécessaire pour vos traitements, voici le détail des calculs :\n\n### 1. Dimensions de chaque parcelle avec zone tampon\n\n- **Parcelle principale** : 500 m² (forme rectangulaire).\n    \n- **Zone tampon** de 4 m autour de chaque parcelle.  \n    Pour simplifier, supposons que les parcelles soient rectangulaires avec une longueur LL et une largeur ll telles que L×l=500 m2L \\times l = 500 \\, \\text{m}^2.  \n    Pour ajouter un tampon de 4 m autour de chaque parcelle, cela augmente la longueur et la largeur de 8 m (4 m de chaque côté).\n    \n    Si on suppose une forme approximativement carrée pour simplifier les calculs, la dimension de la parcelle (avant ajout du tampon) serait environ 500≈22,36 m\\sqrt{500} \\approx 22,36 \\, \\text{m}.  \n    Donc, en ajoutant les 8 m de tampon (4 m de chaque côté), la nouvelle dimension totale d’une parcelle avec son tampon est :  \n    22,36+8=30,36 m22,36 + 8 = 30,36 \\, \\text{m} par côté.\n    \n    La surface totale de la parcelle avec le tampon devient donc :\n    \n    30,36×30,36=922,17 m2.30,36 \\times 30,36 = 922,17 \\, \\text{m}^2.\n\n### 2. Nombre de parcelles nécessaires\n\nVous avez 13 traitements, répartis sur 2 blocs climatiques, et chaque traitement a 4 répétitions :\n\n2 blocs×13 traitements×4 reˊpeˊtitions=104 parcelles.2 \\, \\text{blocs} \\times 13 \\, \\text{traitements} \\times 4 \\, \\text{répétitions} = 104 \\, \\text{parcelles}.\n\n### 3. Surface totale nécessaire\n\nLa surface totale nécessaire pour 104 parcelles avec un tampon de 4 m autour de chaque parcelle est :\n\n104 parcelles×922,17 m2=95907,68 m2=9,59 hectares.104 \\, \\text{parcelles} \\times 922,17 \\, \\text{m}^2 = 95 907,68 \\, \\text{m}^2 = 9,59 \\, \\text{hectares}.\n\n### Conclusion\n\nIl vous faudra environ **9,6 hectares** pour tester vos traitements avec 2 blocs climatiques, 13 traitements, 4 répétitions par traitement, et des zones tampon de 4 m autour de chaque parcelle.",
       "styleAttributes": {},
       "x": 2080,
       "y": -260,
       "width": 780,
-      "height": 360
+      "height": 1220
+    },
+    {
+      "id": "66d4a8aa05a3866e",
+      "type": "text",
+      "text": "- taux d'oviposition (pièges)\n- test sur le taux de prédation des oeufs (50 oeufs collés sur papier et disposés dans les blocs puis monitored) => test tt les 2 semaines => \n- La présence et l'abondance des prédateurs de mouches contrôlées à l'aide de pièges à fosse (comme Ferry et al 2009)\n- pupes : mesure taux parasitisme\n- Rdt / taille finale plantes en p-p vs control",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": 440,
+      "width": 700,
+      "height": 220
     }
   ],
   "edges": [
