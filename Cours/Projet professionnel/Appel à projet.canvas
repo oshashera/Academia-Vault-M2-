@@ -3,6 +3,7 @@
     {
       "id": "8d07c72edc15e891",
       "type": "group",
+      "styleAttributes": {},
       "x": -300,
       "y": 400,
       "width": 480,
@@ -12,6 +13,7 @@
     {
       "id": "55a7f81edd59b384",
       "type": "group",
+      "styleAttributes": {},
       "x": -300,
       "y": 1080,
       "width": 580,
@@ -21,15 +23,18 @@
     {
       "id": "e66bb81230cfcbf0",
       "type": "group",
+      "styleAttributes": {},
       "x": -300,
       "y": -500,
       "width": 400,
       "height": 400,
+      "color": "1",
       "label": "Contexte et enjeux scientifiques (3P)"
     },
     {
       "id": "570312b3143b05e7",
       "type": "group",
+      "styleAttributes": {},
       "x": -300,
       "y": -40,
       "width": 400,
@@ -39,6 +44,7 @@
     {
       "id": "8623fad4f45db569",
       "type": "group",
+      "styleAttributes": {},
       "x": -300,
       "y": -920,
       "width": 280,
@@ -49,6 +55,7 @@
     {
       "id": "1ec5c4955b8bac85",
       "type": "group",
+      "styleAttributes": {},
       "x": 340,
       "y": 1080,
       "width": 400,
@@ -58,6 +65,7 @@
     {
       "id": "6d6b75aea7c7dd92",
       "type": "group",
+      "styleAttributes": {},
       "x": 780,
       "y": 1090,
       "width": 280,
@@ -74,56 +82,6 @@
       "width": 140,
       "height": 60,
       "color": "1"
-    },
-    {
-      "id": "305981e5bab2f952",
-      "type": "text",
-      "text": "Description des enjeux technico-économiques et environnementaux adressés par le projet au regard des thématiques prioritaires. (1P)",
-      "styleAttributes": {},
-      "x": -280,
-      "y": -470,
-      "width": 360,
-      "height": 120
-    },
-    {
-      "id": "3466475d1c48c6c4",
-      "type": "text",
-      "text": "Résumé de l’état de l’art scientifique sur lequel s’appuiera le projet (2P)",
-      "styleAttributes": {},
-      "x": -280,
-      "y": -320,
-      "width": 360,
-      "height": 80
-    },
-    {
-      "id": "4a401ac8f38e7b2c",
-      "type": "text",
-      "text": "Objectifs poursuivis, justification du caractère scientifique innovant, de l’originalité et de l’ambition des travaux. (0,5P)",
-      "styleAttributes": {},
-      "x": -280,
-      "y": -20,
-      "width": 360,
-      "height": 120
-    },
-    {
-      "id": "c16b5a97ca08eb78",
-      "type": "text",
-      "text": "Principaux résultats attendus et identification d’indicateurs de performance de la réussite du projet (0,5P)",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 120,
-      "width": 360,
-      "height": 120
-    },
-    {
-      "id": "bc3a3195f7b0ac9a",
-      "type": "text",
-      "text": "Equipes techniques mobilisées : préciser par partenaires, et par action le cas échéant, le nombre d’ETP (équivalents temps plein) prévus par catégorie (techniciens, ingénieurs, chercheurs), l’organisation prévue et le rôle de chaque partenaire technique. (???P)",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 820,
-      "width": 440,
-      "height": 180
     },
     {
       "id": "6595d5aa617b7f7f",
@@ -144,46 +102,6 @@
       "y": 680,
       "width": 440,
       "height": 120
-    },
-    {
-      "id": "ba330059f9fc5352",
-      "type": "text",
-      "text": " Valorisation prévue des résultats à court et long termes, notamment retombées futures (0,5P)",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 1100,
-      "width": 360,
-      "height": 80
-    },
-    {
-      "id": "829740a6e728a313",
-      "type": "text",
-      "text": "Suites attendues du projet et utilisation ultérieure possible des résultats, selon quel horizon de temps.",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 1200,
-      "width": 360,
-      "height": 80
-    },
-    {
-      "id": "64c0f11c106b3f3a",
-      "type": "text",
-      "text": "Liste des résultats attendus : dans chaque cas, faire une description précise du livrable notamment en précisant le format de diffusion proposé (1P)",
-      "styleAttributes": {},
-      "x": 360,
-      "y": 1100,
-      "width": 340,
-      "height": 160
-    },
-    {
-      "id": "7ef1f4a9e3dd7ff3",
-      "type": "text",
-      "text": "Tableau de con",
-      "styleAttributes": {},
-      "x": 820,
-      "y": 1110,
-      "width": 200,
-      "height": 60
     },
     {
       "id": "f7987182ff6c6ab9",
@@ -238,6 +156,98 @@
       "width": 200,
       "height": 70,
       "color": "1"
+    },
+    {
+      "id": "3466475d1c48c6c4",
+      "type": "text",
+      "text": "Résumé de l’état de l’art scientifique sur lequel s’appuiera le projet (2P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -320,
+      "width": 360,
+      "height": 80,
+      "color": "1"
+    },
+    {
+      "id": "4a401ac8f38e7b2c",
+      "type": "text",
+      "text": "Objectifs poursuivis, justification du caractère scientifique innovant, de l’originalité et de l’ambition des travaux. (0,5P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -20,
+      "width": 360,
+      "height": 120
+    },
+    {
+      "id": "c16b5a97ca08eb78",
+      "type": "text",
+      "text": "Principaux résultats attendus et identification d’indicateurs de performance de la réussite du projet (0,5P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 120,
+      "width": 360,
+      "height": 120
+    },
+    {
+      "id": "305981e5bab2f952",
+      "type": "text",
+      "text": "Description des enjeux technico-économiques et environnementaux adressés par le projet au regard des thématiques prioritaires. (1P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -470,
+      "width": 360,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "bc3a3195f7b0ac9a",
+      "type": "text",
+      "text": "Equipes techniques mobilisées : préciser par partenaires, et par action le cas échéant, le nombre d’ETP (équivalents temps plein) prévus par catégorie (techniciens, ingénieurs, chercheurs), l’organisation prévue et le rôle de chaque partenaire technique. (???P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 820,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "ba330059f9fc5352",
+      "type": "text",
+      "text": " Valorisation prévue des résultats à court et long termes, notamment retombées futures (0,5P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1100,
+      "width": 360,
+      "height": 80
+    },
+    {
+      "id": "829740a6e728a313",
+      "type": "text",
+      "text": "Suites attendues du projet et utilisation ultérieure possible des résultats, selon quel horizon de temps.",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1200,
+      "width": 360,
+      "height": 80
+    },
+    {
+      "id": "64c0f11c106b3f3a",
+      "type": "text",
+      "text": "Liste des résultats attendus : dans chaque cas, faire une description précise du livrable notamment en précisant le format de diffusion proposé (1P)",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 1100,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "7ef1f4a9e3dd7ff3",
+      "type": "text",
+      "text": "Tableau de con",
+      "styleAttributes": {},
+      "x": 820,
+      "y": 1110,
+      "width": 200,
+      "height": 60
     }
   ],
   "edges": [],

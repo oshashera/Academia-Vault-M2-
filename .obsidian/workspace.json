@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "AAP"
             }
+          },
+          {
+            "id": "235effa54cbfd0e2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cours/Projet professionnel/Appel à projet.canvas",
+                "viewState": {
+                  "x": 415.39706980645013,
+                  "y": 194.0449523218023,
+                  "zoom": -0.6626309112035907
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Appel à projet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +221,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "235effa54cbfd0e2",
   "lastOpenFiles": [
+    "Cours/Projet professionnel/AAP.md",
     "🏡 Home.md",
     "Diversité des modes de production/TD sur les modes de production agricoles en France.md",
     "Diversité des modes de production/🔴 Prospective globales et européennes de l'agriculture et des systèmes alimentaires.md",
@@ -237,7 +256,6 @@
     "Cours/🎓 Conception de systèmes/🔴 Agriculture de précision.md",
     "Cours/🎓 Conception de systèmes/🔴Conception de systèmes et intelligence collective - TRAME.md",
     "Cours/🎓 Conception de systèmes/🟢 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
-    "Cours/Projet professionnel/AAP.md",
     "Cours/Projet professionnel/Appel à projet.canvas",
     "Cours/🎓 Conception de systèmes/TD Conception collective de système de culture diversifiée.md",
     "Cours/🎓 Conception de systèmes/Untitled",
