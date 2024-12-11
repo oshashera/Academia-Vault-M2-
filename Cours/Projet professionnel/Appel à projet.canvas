@@ -418,6 +418,46 @@
       "y": 960,
       "width": 260,
       "height": 100
+    },
+    {
+      "id": "1c4f324439d4e28e",
+      "type": "text",
+      "text": "Terrain + chambre élevage+ bouffe mouche + 3 serres = 25000+5500+20592=51092 €",
+      "styleAttributes": {},
+      "x": 2180,
+      "y": 920,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "d78982f5a6c3b0e6",
+      "type": "text",
+      "text": "1. Mise en place du projet (semis, installation des parcelles, traitements pesticide) :\n\n    Technicien/agricole :\n        Pour la préparation des parcelles, la plantation, le semis, et la gestion des cultures. Avec une augmentation de la main-d'œuvre, on pourrait envisager 3 techniciens pendant 2 à 3 mois à temps plein.\n        Coût estimé : 3 techniciens travaillant 40h/semaine pendant 3 semaines = 3 * 2 * 40 * 15 = 3 600 € (semis initial).\n        Pour la gestion des cultures pendant le cycle complet, cela reviendrait à environ 10 000 € - 12 000 € pour 3 mois de travail intensif (augmentation de l'engagement).\n\n2. Suivi des mesures en plein champ (comptage des œufs, suivi des prédateurs, rendement, etc.) :\n\n    Technicien de terrain :\n        Augmentation de la main-d'œuvre pour le suivi des mesures : 3 à 4 techniciens, à temps partiel sur la période d'avril à septembre.\n        Ces techniciens devront suivre les changements hebdomadaires des variables (œufs, prédateurs, rendement, etc.) et faire les relevés, la collecte d'échantillons, etc.\n        Coût estimé : Si chaque technicien travaille 2 jours par semaine pendant 6 mois (avec un taux horaire de 15-18 €), cela reviendrait à environ 15 000 € à 20 000 € pour les 3 à 4 techniciens.\n\n3. Rédaction des articles scientifiques et communication sur le projet :\n\n    Chercheurs et/ou Ingénieurs :\n        La rédaction d'articles scientifiques, la préparation des présentations, et la communication sur le projet auprès des agriculteurs nécessitent du temps supplémentaire. Ce travail sera pris en charge par 2 chercheurs ou ingénieurs pendant la durée du projet.\n        Coût estimé : Un chercheur travaillant à temps partiel (50% de son temps) pendant 6 mois pour la rédaction et la communication pourrait coûter environ 12 000 € - 15 000 € par an (en fonction du salaire mensuel moyen de 2 500 à 3 000 €).\n\n4. Nombre d'ETP (Équivalents Temps Plein) estimé :\n\n    Techniciens (mise en place et suivi) : 4-5 ETP pour la mise en place et la gestion des cultures en champ.\n    Chercheurs/Ingénieurs (rédaction d'articles et communication) : 1 à 1,5 ETP pour l'analyse des données, la rédaction des articles scientifiques et la communication.\n\nEstimation des coûts totaux (année complète) :\n\n    Mise en place du projet (semis, traitements) : 10 000 € - 12 000 €.\n    Suivi en plein champ (mesures, observations, collecte de données) : 15 000 € - 20 000 € (pour 3 à 4 techniciens).\n    Rédaction d'articles scientifiques et communication : 12 000 € - 15 000 € pour 2 chercheurs/ingénieurs.\n\nTotal estimé pour la mise en place, suivi, rédaction, et communication pendant une année :\n\n    Total estimé : Entre 37 000 € et 47 000 € par an pour la main-d'œuvre et la gestion des ressources humaines.\n\nRécapitulatif des besoins en ressources humaines :\n\n    Techniciens/agricoles : 4-5 ETP pour la mise en place et le suivi des mesures pendant toute la durée du projet.\n    Chercheurs/Ingénieurs : 1 à 1,5 ETP pour l'analyse des données, la rédaction des articles scientifiques et la communication.\n\nEstimation globale pour 3 ans :\n\n    Sur trois ans, pour les ressources humaines et les activités associées (mise en place, suivi des mesures, rédaction et communication) :\n        Total estimé sur 3 ans : Entre 111 000 € et 141 000 €.",
+      "styleAttributes": {},
+      "x": 2540,
+      "y": 860,
+      "width": 880,
+      "height": 1480
+    },
+    {
+      "id": "066fd12a3d235531",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 3300,
+      "y": 2340,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "678587c8db622764",
+      "type": "text",
+      "text": "1. Capteurs de Composés Volatils :\n\nVous allez installer des capteurs pour mesurer les composés volatils dans une serre de 35m de long. Vous avez mentionné qu'ils doivent être espacés de 5m. Donc, pour une serre de 35m :\n\n    Nombre de capteurs par serre : 35m / 5m = 7 capteurs\n    Si vous avez 3 serres, cela fait un total de 7 capteurs * 3 serres = 21 capteurs.\n\nCoût par capteur :\n\n    Les capteurs pour les composés volatils peuvent varier considérablement en fonction de la précision, de la sensibilité, et de la technologie utilisée. Un capteur de base pour les COVs (Composés Organiques Volatils) coûte généralement entre 100 € et 500 € (modèles de base à plus précis).\n\nPour un coût moyen d'environ 250 € par capteur, le total pour 21 capteurs serait :\n\n    21 capteurs * 250 € = 5 250 €.\n\n2. Système d'Enregistrement des Données (Collecte des Données) :\n\nPour l'enregistrement des données provenant des capteurs, vous aurez besoin d'un système de collecte et de stockage des données (loggers, enregistreurs de données) et de matériel supplémentaire pour permettre leur transmission (éventuellement en réseau sans fil ou via une connexion filaire). Voici les principaux éléments à considérer :\n\n    Enregistreur de données (Data logger) : En fonction de la marque et de la complexité du système, un enregistreur de données pour plusieurs capteurs peut coûter entre 200 € et 1 000 €.\n    Pour 21 capteurs (réseau de 3 serres), il vous faudrait probablement 1 à 3 enregistreurs (en fonction de la capacité et de la compatibilité avec le nombre de capteurs).\n\nEn moyenne, pour 3 enregistreurs à 500 € chacun, cela représente :\n\n    3 enregistreurs * 500 € = 1 500 €.\n\n    Connectivité et câblage : Pour relier les capteurs aux enregistreurs et transmettre les données, des câbles et peut-être des dispositifs sans fil seront nécessaires. Cela pourrait ajouter entre 200 € et 500 € par serre en termes de câblage et de connectivité.\n\n    Coût total pour 3 serres : Estimation de 3 serres * 400 € = 1 200 €.\n\n### 4. **Autres équipements** :\n\n- **Batteries ou alimentation pour capteurs** : Si vous utilisez des capteurs sans fil ou si les capteurs nécessitent des piles, vous devrez prévoir un budget pour cela. Environ **50 € à 100 €** par capteur pour un système de batteries de remplacement annuel.\n- **Cout estimé pour 21 capteurs** : Estimation **1 000 € - 2 000 €** en batteries de remplacement sur 3 ans.",
+      "styleAttributes": {},
+      "x": 3720,
+      "y": 860,
+      "width": 960,
+      "height": 1140
     }
   ],
   "edges": [
