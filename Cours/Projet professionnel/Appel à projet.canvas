@@ -248,6 +248,56 @@
       "y": 1110,
       "width": 200,
       "height": 60
+    },
+    {
+      "id": "db810a9cd0ee6c93",
+      "type": "text",
+      "text": "Les essais seront réalisés sur plusieurs sites en Bretagne, représentatifs des différentes conditions agricoles locales (types de sols, microclimats, etc.). Il serait pertinent d’inclure :\n\nEssais de terrain sur plusieurs parcelles de chou-fleur et d'autres cultures brassicacées.\nEssais contrôlés en laboratoire pour valider l'efficacité des composés volatils (COVs) spécifiques.\nEssais dans différents types de cultures, à diverses distances des cultures push et des zones pull, afin d'analyser l'impact de la distance d'effet.",
+      "styleAttributes": {},
+      "x": 580,
+      "y": 60,
+      "width": 520,
+      "height": 340
+    },
+    {
+      "id": "bc61fa196e4586c9",
+      "type": "text",
+      "text": "Var qualitative : variété B rapa pull",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "452604e78edf2d79",
+      "type": "text",
+      "text": "Var réponse => taux oviposition dans culture principale, dans culture pull, et rendement moyen/ha",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -360,
+      "width": 300,
+      "height": 140
+    },
+    {
+      "id": "a0b6469fbb070b15",
+      "type": "text",
+      "text": "Var qualitative : plante push ou dispositif push (diffuseur)",
+      "styleAttributes": {},
+      "x": 380,
+      "y": -120,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "65de9cb1462ba3d8",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 580,
+      "y": -100,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [],
