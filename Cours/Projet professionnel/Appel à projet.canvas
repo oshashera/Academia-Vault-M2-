@@ -260,36 +260,6 @@
       "height": 340
     },
     {
-      "id": "bc61fa196e4586c9",
-      "type": "text",
-      "text": "Var qualitative : variété B rapa pull",
-      "styleAttributes": {},
-      "x": 460,
-      "y": -220,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a0b6469fbb070b15",
-      "type": "text",
-      "text": "Var qualitative : plante push ou dispositif push (diffuseur)",
-      "styleAttributes": {},
-      "x": 460,
-      "y": -160,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "65de9cb1462ba3d8",
-      "type": "text",
-      "text": "Romarin, basilic, ail, tagetes",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -140,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "681d8d5dc5b6b729",
       "type": "text",
       "text": "chou fleur peut être cultivé toute l'année",
@@ -320,24 +290,74 @@
       "height": 100
     },
     {
-      "id": "349b7d76cad36adb",
-      "type": "text",
-      "text": "\n| Janvier   |     |\n| --------- | --- |\n| Février   |     |\n| **Mars**      |     |\n| **Avril**     |     |\n| **Mais**      |     |\n| **Juin**      |     |\n| **Aout**      |     |\n| **Septembre** |     |\n| **Octobre**   |     |\n| **Novembre**  |     |\n| Décembre  |     |\n",
-      "styleAttributes": {},
-      "x": 1020,
-      "y": -660,
-      "width": 740,
-      "height": 460
-    },
-    {
       "id": "38464ed5f73280a0",
       "type": "text",
       "text": "Mouche du chou **d'avril à octobre**",
       "styleAttributes": {},
-      "x": 1020,
-      "y": -780,
+      "x": 760,
+      "y": -770,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "349b7d76cad36adb",
+      "type": "text",
+      "text": "\n| Janvier       | Basilic | Ail   | Tagete | Romarin |\n| ------------- | ------- | ----- | ------ | ------- |\n| Février       |         |       |        |         |\n| **Mars**      |         | **x** |        |         |\n| **Avril**     |         | **x** |        |         |\n| **Mai**       |         | **x** | **x**  | **x**   |\n| **Juin**      | **x**   | **x** | **x**  | **x**   |\n| **Juillet**   | **x**   |       | **x**  | **x**   |\n| **Aout**      | **x**   |       | **x**  | **x**   |\n| **Septembre** |         |       | **x**  |         |\n| **Octobre**   |         |       |        |         |\n| **Novembre**  |         |       |        |         |\n| Décembre      |         |       |        |         |\n|               | NON     | ok    | ok     | ok?     |\n",
+      "styleAttributes": {},
+      "x": 1140,
+      "y": -780,
+      "width": 740,
+      "height": 520
+    },
+    {
+      "id": "a0b6469fbb070b15",
+      "type": "text",
+      "text": "Var qualitative : plante push ou dispositif push (diffuseur)",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -220,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "65de9cb1462ba3d8",
+      "type": "text",
+      "text": "Romarin, basilic, ail, tagetes (floraison)",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bc61fa196e4586c9",
+      "type": "text",
+      "text": "Var qualitative : variété B rapa pull",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "47d7c544d190945f",
+      "type": "text",
+      "text": "Pékinensis, var rapa (navet), var sylverstris (moutarde sauvage)",
+      "styleAttributes": {},
+      "x": 780,
+      "y": -100,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "c5a763d046f83f7d",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": -220,
+      "width": 700,
+      "height": 240
     }
   ],
   "edges": [
@@ -364,6 +384,30 @@
       "fromSide": "right",
       "toNode": "65de9cb1462ba3d8",
       "toSide": "top"
+    },
+    {
+      "id": "9dd32f44502ac04f",
+      "styleAttributes": {},
+      "fromNode": "bc61fa196e4586c9",
+      "fromSide": "right",
+      "toNode": "47d7c544d190945f",
+      "toSide": "left"
+    },
+    {
+      "id": "4b07bd89bc089c5c",
+      "styleAttributes": {},
+      "fromNode": "65de9cb1462ba3d8",
+      "fromSide": "right",
+      "toNode": "c5a763d046f83f7d",
+      "toSide": "left"
+    },
+    {
+      "id": "12bbbe2bdd2691c4",
+      "styleAttributes": {},
+      "fromNode": "47d7c544d190945f",
+      "fromSide": "right",
+      "toNode": "c5a763d046f83f7d",
+      "toSide": "left"
     }
   ],
   "metadata": {}
