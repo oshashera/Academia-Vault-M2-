@@ -368,6 +368,16 @@
       "y": -560,
       "width": 600,
       "height": 300
+    },
+    {
+      "id": "e5e5660ab42db658",
+      "type": "text",
+      "text": "2 zones climatiques :\n- cotière (st malo brest)\n- intérieure (rennes/vannes)\n\n= 2 \"blocs\" x 13 traitements x 5 répétitions sur \n",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": -260,
+      "width": 780,
+      "height": 360
     }
   ],
   "edges": [
