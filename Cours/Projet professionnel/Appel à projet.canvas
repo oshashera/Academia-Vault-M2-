@@ -56,8 +56,8 @@
       "id": "1ec5c4955b8bac85",
       "type": "group",
       "styleAttributes": {},
-      "x": 340,
-      "y": 1080,
+      "x": -220,
+      "y": 1390,
       "width": 400,
       "height": 220,
       "label": "Livrables"
@@ -66,8 +66,8 @@
       "id": "6d6b75aea7c7dd92",
       "type": "group",
       "styleAttributes": {},
-      "x": 780,
-      "y": 1090,
+      "x": -150,
+      "y": 1760,
       "width": 280,
       "height": 100,
       "label": "SATAN"
@@ -176,7 +176,8 @@
       "x": -280,
       "y": -20,
       "width": 360,
-      "height": 120
+      "height": 120,
+      "color": "1"
     },
     {
       "id": "c16b5a97ca08eb78",
@@ -186,7 +187,8 @@
       "x": -280,
       "y": 120,
       "width": 360,
-      "height": 120
+      "height": 120,
+      "color": "1"
     },
     {
       "id": "305981e5bab2f952",
@@ -228,26 +230,6 @@
       "y": 1200,
       "width": 360,
       "height": 80
-    },
-    {
-      "id": "64c0f11c106b3f3a",
-      "type": "text",
-      "text": "Liste des résultats attendus : dans chaque cas, faire une description précise du livrable notamment en précisant le format de diffusion proposé (1P)",
-      "styleAttributes": {},
-      "x": 360,
-      "y": 1100,
-      "width": 340,
-      "height": 160
-    },
-    {
-      "id": "7ef1f4a9e3dd7ff3",
-      "type": "text",
-      "text": "Tableau de con",
-      "styleAttributes": {},
-      "x": 820,
-      "y": 1110,
-      "width": 200,
-      "height": 60
     },
     {
       "id": "db810a9cd0ee6c93",
@@ -420,53 +402,73 @@
       "height": 100
     },
     {
-      "id": "066fd12a3d235531",
+      "id": "1c4f324439d4e28e",
       "type": "text",
-      "text": "",
+      "text": "Terrain + chambre élevage+ bouffe mouche + 3 serres = **25000+5500+20592=51092 €**",
       "styleAttributes": {},
-      "x": 3300,
-      "y": 2340,
-      "width": 260,
-      "height": 60
+      "x": 1380,
+      "y": 1220,
+      "width": 360,
+      "height": 120
+    },
+    {
+      "id": "bf669d8150e2ed47",
+      "type": "text",
+      "text": "2. Superficie Totale pour 3 Serres :\n\n    Surface totale nécessaire : 35m×31m35m×31m = 1 085 m² pour les 3 serres avec un espace tampon de 1 mètre entre elles.\n\nDonc, la superficie nécessaire pour installer les 3 serres serait 1 085 m² au lieu de 1 050 m² comme précédemment estimé, ce qui reste très similaire.\n3. Coût du Terrain :\n\nEn partant sur un terrain agricole d'une taille d'environ 0,11 hectare (1 085 m²), voici l'estimation :\n\n    Coût moyen du terrain agricole en Bretagne : 4 000 € à 6 500 € par hectare.\n    Pour 0,11 hectare, le coût serait :\n        Min : 4000 €×0,114000€×0,11 = 440 €\n        Max : 6500 €×0,116500€×0,11 = 715 €\n\n4. Coût Total pour les Serres et le Terrain :\na. Serres Tunnel + Terrain :\n\n    Serres : 24 000 à 45 000 €\n    Terrain : 440 € à 715 €\n    Total :\n        Min : 24 000 € + 440 € = 24 440 €\n\n**en gros 25 ke**",
+      "styleAttributes": {},
+      "x": 1150,
+      "y": 1440,
+      "width": 670,
+      "height": 700
+    },
+    {
+      "id": "49b72b20a253cfea",
+      "type": "text",
+      "text": "### **1. Coût du chercheur (2 mois par an) :**\n\n- **Salaire annuel d'un chercheur** (en fonction d'un salaire annuel de 45 000 € à 55 000 €) :\n    \n    - 45000€÷12=3750€45 000 € \\div 12 = 3 750 €45000€÷12=3750€ à 55000€÷12=4583,33€55 000 € \\div 12 = 4 583,33 €55000€÷12=4583,33€ par mois.\n- Le chercheur travaille **2 mois par an** :\n    \n    - Coût annuel : 3750€×2=7500€3 750 € \\times 2 = 7 500 €3750€×2=7500€ à 4583,33€×2=9166,67€4 583,33 € \\times 2 = 9 166,67 €4583,33€×2=9166,67€.\n- **Coût total pour le chercheur sur 3 ans** :  \n    7500€×3=22500€7 500 € \\times 3 = 22 500 €7500€×3=22500€ à 9166,67€×3=27500€9 166,67 € \\times 3 = 27 500 €9166,67€×3=27500€.\n    \n\n### **2. Mise à jour des coûts de main d'œuvre** :\n\n- **Chercheur principal (2 mois par an)** :  \n    **22 500 € à 27 500 €** sur 3 ans.\n    \n- **Techniciens de terrain (2 techniciens, à temps partiel)** :  \n    **75 000 € à 105 000 €** sur 3 ans.\n    \n- **Ingénieur agronome (2 semaines par an pour les analyses statistiques)** :  \n    **5 625 € à 6 875 €** sur 3 ans.\n    \n\n### **3. Total des coûts de main d'œuvre sur 3 ans** :\n\n- **Chercheur principal (2 mois par an)** : **22 500 € à 27 500 €**.\n- **Techniciens de terrain** : **75 000 € à 105 000 €**.\n- **Ingénieur agronome** : **5 625 € à 6 875 €**.\n\n#### **Total des coûts de main d'œuvre pour 3 ans** :\n\n**103 125 € à 139 375 €**.\n\n---\n\n### **4. Réajustement des ETP associés** :\n\n- **Chercheur principal (2 mois par an)** : environ **0,17 ETP** (2 mois de travail par an).\n- **Techniciens de terrain** : environ **0,76 ETP** (2 techniciens, à temps partiel).\n- **Ingénieur agronome** : environ **0,05 ETP** (2 semaines par an pour les analyses statistiques).\n\n#### **Total des ETP pour 3 ans** :\n\n**0,98 ETP** (environ 0,17 ETP pour le chercheur, 0,05 ETP pour l'ingénieur et environ 0,76 ETP pour les techniciens).\n\n---\n\n### **Conclusion finale :**\n\nSi le chercheur travaille **2 mois par an**, le **coût total de la main d'œuvre pour 3 ans** serait estimé entre **103 125 € et 139 375 €**. Cela représente environ **0,98 ETP sur 3 ans**.",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 1110,
+      "width": 680,
+      "height": 1450
     },
     {
       "id": "678587c8db622764",
       "type": "text",
       "text": "1. Capteurs de Composés Volatils :\n\nVous allez installer des capteurs pour mesurer les composés volatils dans une serre de 35m de long. Vous avez mentionné qu'ils doivent être espacés de 5m. Donc, pour une serre de 35m :\n\n    Nombre de capteurs par serre : 35m / 5m = 7 capteurs\n    Si vous avez 3 serres, cela fait un total de 7 capteurs * 3 serres = 21 capteurs.\n\nCoût par capteur :\n\n    Les capteurs pour les composés volatils peuvent varier considérablement en fonction de la précision, de la sensibilité, et de la technologie utilisée. Un capteur de base pour les COVs (Composés Organiques Volatils) coûte généralement entre 100 € et 500 € (modèles de base à plus précis).\n\nPour un coût moyen d'environ 250 € par capteur, le total pour 21 capteurs serait :\n\n    21 capteurs * 250 € = 5 250 €.\n\n2. Système d'Enregistrement des Données (Collecte des Données) :\n\nPour l'enregistrement des données provenant des capteurs, vous aurez besoin d'un système de collecte et de stockage des données (loggers, enregistreurs de données) et de matériel supplémentaire pour permettre leur transmission (éventuellement en réseau sans fil ou via une connexion filaire). Voici les principaux éléments à considérer :\n\n    Enregistreur de données (Data logger) : En fonction de la marque et de la complexité du système, un enregistreur de données pour plusieurs capteurs peut coûter entre 200 € et 1 000 €.\n    Pour 21 capteurs (réseau de 3 serres), il vous faudrait probablement 1 à 3 enregistreurs (en fonction de la capacité et de la compatibilité avec le nombre de capteurs).\n\nEn moyenne, pour 3 enregistreurs à 500 € chacun, cela représente :\n\n    3 enregistreurs * 500 € = 1 500 €.\n\n    Connectivité et câblage : Pour relier les capteurs aux enregistreurs et transmettre les données, des câbles et peut-être des dispositifs sans fil seront nécessaires. Cela pourrait ajouter entre 200 € et 500 € par serre en termes de câblage et de connectivité.\n\n    Coût total pour 3 serres : Estimation de 3 serres * 400 € = 1 200 €.\n\n### 4. **Autres équipements** :\n\n- **Batteries ou alimentation pour capteurs** : Si vous utilisez des capteurs sans fil ou si les capteurs nécessitent des piles, vous devrez prévoir un budget pour cela. Environ **50 € à 100 €** par capteur pour un système de batteries de remplacement annuel.\n- **Cout estimé pour 21 capteurs** : Estimation **1 000 € - 2 000 €** en batteries de remplacement sur 3 ans.",
       "styleAttributes": {},
-      "x": 3720,
-      "y": 860,
+      "x": 3080,
+      "y": 760,
       "width": 960,
       "height": 1240
     },
     {
-      "id": "1c4f324439d4e28e",
+      "id": "d0a06a8e3afa296e",
       "type": "text",
-      "text": "Terrain + chambre élevage+ bouffe mouche + 3 serres = 25000+5500+20592=51092 €",
+      "text": "**Total =** \n**139000 + 52000 + 2000 = 193000**",
       "styleAttributes": {},
-      "x": 2040,
-      "y": 1100,
-      "width": 360,
+      "x": 1485,
+      "y": 2240,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "64c0f11c106b3f3a",
+      "type": "text",
+      "text": "Liste des résultats attendus : dans chaque cas, faire une description précise du livrable notamment en précisant le format de diffusion proposé (1P)",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 1410,
+      "width": 340,
       "height": 160
     },
     {
-      "id": "d78982f5a6c3b0e6",
+      "id": "7ef1f4a9e3dd7ff3",
       "type": "text",
-      "text": "1. Mise en place du projet (semis, installation des parcelles, traitements pesticide) :\n\n    Technicien/agricole :\n        Pour la préparation des parcelles, la plantation, le semis, et la gestion des cultures. Avec une augmentation de la main-d'œuvre, on pourrait envisager 3 techniciens pendant 2 à 3 mois à temps plein.\n        Coût estimé : 3 techniciens travaillant 40h/semaine pendant 3 semaines = 3 * 2 * 40 * 15 = 3 600 € (semis initial).\n        Pour la gestion des cultures pendant le cycle complet, cela reviendrait à environ 10 000 € - 12 000 € pour 3 mois de travail intensif (augmentation de l'engagement).\n\n2. Suivi des mesures en plein champ (comptage des œufs, suivi des prédateurs, rendement, etc.) :\n\n    Technicien de terrain :\n        Augmentation de la main-d'œuvre pour le suivi des mesures : 3 à 4 techniciens, à temps partiel sur la période d'avril à septembre.\n        Ces techniciens devront suivre les changements hebdomadaires des variables (œufs, prédateurs, rendement, etc.) et faire les relevés, la collecte d'échantillons, etc.\n        Coût estimé : Si chaque technicien travaille 2 jours par semaine pendant 6 mois (avec un taux horaire de 15-18 €), cela reviendrait à environ 15 000 € à 20 000 € pour les 3 à 4 techniciens.\n\n3. Rédaction des articles scientifiques et communication sur le projet :\n\n    Chercheurs et/ou Ingénieurs :\n        La rédaction d'articles scientifiques, la préparation des présentations, et la communication sur le projet auprès des agriculteurs nécessitent du temps supplémentaire. Ce travail sera pris en charge par 2 chercheurs ou ingénieurs pendant la durée du projet.\n        Coût estimé : Un chercheur travaillant à temps partiel (50% de son temps) pendant 6 mois pour la rédaction et la communication pourrait coûter environ 12 000 € - 15 000 € par an (en fonction du salaire mensuel moyen de 2 500 à 3 000 €).\n\n4. Nombre d'ETP (Équivalents Temps Plein) estimé :\n\n    Techniciens (mise en place et suivi) : 4-5 ETP pour la mise en place et la gestion des cultures en champ.\n    Chercheurs/Ingénieurs (rédaction d'articles et communication) : 1 à 1,5 ETP pour l'analyse des données, la rédaction des articles scientifiques et la communication.\n\nEstimation des coûts totaux (année complète) :\n\n    Mise en place du projet (semis, traitements) : 10 000 € - 12 000 €.\n    Suivi en plein champ (mesures, observations, collecte de données) : 15 000 € - 20 000 € (pour 3 à 4 techniciens).\n    Rédaction d'articles scientifiques et communication : 12 000 € - 15 000 € pour 2 chercheurs/ingénieurs.\n\nTotal estimé pour la mise en place, suivi, rédaction, et communication pendant une année :\n\n    Total estimé : Entre 37 000 € et 47 000 € par an pour la main-d'œuvre et la gestion des ressources humaines.\n\nRécapitulatif des besoins en ressources humaines :\n\n    Techniciens/agricoles : 4-5 ETP pour la mise en place et le suivi des mesures pendant toute la durée du projet.\n    Chercheurs/Ingénieurs : 1 à 1,5 ETP pour l'analyse des données, la rédaction des articles scientifiques et la communication.\n\nEstimation globale pour 3 ans :\n\n    Sur trois ans, pour les ressources humaines et les activités associées (mise en place, suivi des mesures, rédaction et communication) :\n        Total estimé sur 3 ans : Entre 111 000 € et 141 000 €.",
+      "text": "Tableau de con",
       "styleAttributes": {},
-      "x": 2840,
-      "y": 560,
-      "width": 880,
-      "height": 1480
-    },
-    {
-      "id": "bf669d8150e2ed47",
-      "type": "text",
-      "text": "2. Superficie Totale pour 3 Serres :\n\n    Surface totale nécessaire : 35m×31m35m×31m = 1 085 m² pour les 3 serres avec un espace tampon de 1 mètre entre elles.\n\nDonc, la superficie nécessaire pour installer les 3 serres serait 1 085 m² au lieu de 1 050 m² comme précédemment estimé, ce qui reste très similaire.\n3. Coût du Terrain :\n\nEn partant sur un terrain agricole d'une taille d'environ 0,11 hectare (1 085 m²), voici l'estimation :\n\n    Coût moyen du terrain agricole en Bretagne : 4 000 € à 6 500 € par hectare.\n    Pour 0,11 hectare, le coût serait :\n        Min : 4000 €×0,114000€×0,11 = 440 €\n        Max : 6500 €×0,116500€×0,11 = 715 €\n\n4. Coût Total pour les Serres et le Terrain :\na. Serres Tunnel + Terrain :\n\n    Serres : 24 000 à 45 000 €\n    Terrain : 440 € à 715 €\n    Total :\n        Min : 24 000 € + 440 € = 24 440 €",
-      "styleAttributes": {},
-      "x": 2470,
-      "y": 1150,
-      "width": 260,
+      "x": -130,
+      "y": 1770,
+      "width": 200,
       "height": 60
     }
   ],
