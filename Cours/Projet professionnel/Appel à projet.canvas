@@ -232,16 +232,6 @@
       "height": 80
     },
     {
-      "id": "db810a9cd0ee6c93",
-      "type": "text",
-      "text": "Les essais seront réalisés sur plusieurs sites en Bretagne, représentatifs des différentes conditions agricoles locales (types de sols, microclimats, etc.). Il serait pertinent d’inclure :\n\nEssais de terrain sur plusieurs parcelles de chou-fleur et d'autres cultures brassicacées.\nEssais contrôlés en laboratoire pour valider l'efficacité des composés volatils (COVs) spécifiques.\nEssais dans différents types de cultures, à diverses distances des cultures push et des zones pull, afin d'analyser l'impact de la distance d'effet.",
-      "styleAttributes": {},
-      "x": 580,
-      "y": 60,
-      "width": 520,
-      "height": 340
-    },
-    {
       "id": "681d8d5dc5b6b729",
       "type": "text",
       "text": "chou fleur peut être cultivé toute l'année",
@@ -292,56 +282,6 @@
       "height": 520
     },
     {
-      "id": "a0b6469fbb070b15",
-      "type": "text",
-      "text": "Var qualitative : plante push ou dispositif push (diffuseur)",
-      "styleAttributes": {},
-      "x": 460,
-      "y": -220,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "65de9cb1462ba3d8",
-      "type": "text",
-      "text": "Romarin, basilic, ail, tagetes (floraison)",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -200,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "bc61fa196e4586c9",
-      "type": "text",
-      "text": "Var qualitative : variété B rapa pull",
-      "styleAttributes": {},
-      "x": 460,
-      "y": -120,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "47d7c544d190945f",
-      "type": "text",
-      "text": "Pékinensis, var rapa (navet), var sylverstris (moutarde sauvage), chinensis",
-      "styleAttributes": {},
-      "x": 780,
-      "y": -100,
-      "width": 260,
-      "height": 120
-    },
-    {
-      "id": "c5a763d046f83f7d",
-      "type": "text",
-      "text": "\n| Push \\ Pull | Pekinensis | var rapa | var sylvestris | chinensis |\n| ----------- | ---------- | -------- | -------------- | --------- |\n| romarin     | 1          | 2        | 3              | 4         |\n| ail         | 5          | 6        | 7              | 8         |\n| tagete      | 9          | 10       | 11             | 12        |\n+ contrôle : pas de push-pull, pesticide (IFT 0.75 ou moins pour limiter un peu l'abus)\n\n=> 13 traitements",
-      "styleAttributes": {},
-      "x": 1180,
-      "y": -220,
-      "width": 700,
-      "height": 320
-    },
-    {
       "id": "efd014057b0af6b1",
       "type": "text",
       "text": "Plan expé : **bloc de fisher** car :\nPrendre en compte un gradient d’hétérogénéité continu du terrain (haies de bocage)\n► nb de modalités à tester limité (<15)\n► Très utilisé en expérimentation agronomique de plein champ\n\n► diminution de la variance résiduelle (augmente la précision de l’analyse)\n► Facilité de mise en oeuvre\n\n",
@@ -360,16 +300,6 @@
       "y": -260,
       "width": 780,
       "height": 1320
-    },
-    {
-      "id": "66d4a8aa05a3866e",
-      "type": "text",
-      "text": "- taux d'oviposition (pièges)\n- test sur le taux de prédation des oeufs (50 oeufs collés sur papier et disposés dans les blocs puis monitored) => 1 feuille / mois sur 2/4 (tirée aléatoirement) des rep pour les 13 traitements de avril a septembre, mais comptage et relevés 1 fois par semaine pour noter évolution.\n- La présence et l'abondance des prédateurs de mouches contrôlées à l'aide de pièges à fosse (comme Ferry et al 2009)\n- pupes : mesure taux parasitisme\n- Rdt / taille finale plantes en p-p vs control\n- Rdt en t/ha vendable (selon critères grande distribution) pp vs controle",
-      "styleAttributes": {},
-      "x": 1350,
-      "y": 170,
-      "width": 700,
-      "height": 300
     },
     {
       "id": "09b39ca172161733",
@@ -470,6 +400,76 @@
       "y": 510,
       "width": 670,
       "height": 700
+    },
+    {
+      "id": "db810a9cd0ee6c93",
+      "type": "text",
+      "text": "Les essais seront réalisés sur plusieurs sites en Bretagne, représentatifs des différentes conditions agricoles locales (types de sols, microclimats, etc.). Il serait pertinent d’inclure :\n\nEssais de terrain sur plusieurs parcelles de chou-fleur et d'autres cultures brassicacées.\nEssais contrôlés en laboratoire pour valider l'efficacité des composés volatils (COVs) spécifiques.\nEssais dans différents types de cultures, à diverses distances des cultures push et des zones pull, afin d'analyser l'impact de la distance d'effet.",
+      "styleAttributes": {},
+      "x": 580,
+      "y": 60,
+      "width": 520,
+      "height": 340
+    },
+    {
+      "id": "a0b6469fbb070b15",
+      "type": "text",
+      "text": "Var qualitative : plante push ou dispositif push (diffuseur)",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -220,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "65de9cb1462ba3d8",
+      "type": "text",
+      "text": "Romarin, basilic, ail, tagetes (floraison)",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bc61fa196e4586c9",
+      "type": "text",
+      "text": "Var qualitative : variété B rapa pull",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "47d7c544d190945f",
+      "type": "text",
+      "text": "Pékinensis, var rapa (navet), var sylverstris (moutarde sauvage), chinensis",
+      "styleAttributes": {},
+      "x": 780,
+      "y": -100,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "c5a763d046f83f7d",
+      "type": "text",
+      "text": "\n| Push \\ Pull | Pekinensis | var rapa | var sylvestris | chinensis |\n| ----------- | ---------- | -------- | -------------- | --------- |\n| romarin     | 1          | 2        | 3              | 4         |\n| ail         | 5          | 6        | 7              | 8         |\n| tagete      | 9          | 10       | 11             | 12        |\n+ contrôle : pas de push-pull, pesticide (IFT 0.75 ou moins pour limiter un peu l'abus)\n\n=> 13 traitements",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": -220,
+      "width": 700,
+      "height": 320
+    },
+    {
+      "id": "66d4a8aa05a3866e",
+      "type": "text",
+      "text": "- taux d'oviposition (pièges)\n- test sur le taux de prédation des oeufs (50 oeufs collés sur papier et disposés dans les blocs puis monitored) => 1 feuille / mois sur 2/4 (tirée aléatoirement) des rep pour les 13 traitements de avril a septembre, mais comptage et relevés 1 fois par semaine pour noter évolution.\n- La présence et l'abondance des prédateurs de mouches contrôlées à l'aide de pièges à fosse (comme Ferry et al 2009)\n- pupes : mesure taux parasitisme\n- Rdt / taille finale plantes en p-p vs control\n- Rdt en t/ha vendable (selon critères grande distribution) pp vs controle",
+      "styleAttributes": {},
+      "x": 1350,
+      "y": 170,
+      "width": 700,
+      "height": 300
     }
   ],
   "edges": [
