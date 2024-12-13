@@ -414,12 +414,12 @@
     {
       "id": "0ab9c8ba0f0dc3c4",
       "type": "text",
-      "text": "l'**ANOVA à plusieurs facteurs** est bien plus adaptée, car elle vous permettra de tester les différences de moyennes entre les traitements et d’évaluer l'impact de facteurs multiples (traitement, climat",
+      "text": "l'**ANOVA à plusieurs facteurs** est bien plus adaptée, car elle vous permettra de tester les différences de moyennes entre les traitements et d’évaluer l'impact de facteurs multiples (traitement, climat)",
       "styleAttributes": {},
       "x": 1440,
       "y": 620,
       "width": 400,
-      "height": 180
+      "height": 160
     },
     {
       "id": "bf669d8150e2ed47",
