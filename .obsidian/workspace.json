@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🏡 Home.md",
-                "mode": "preview",
-                "source": false
+                "file": "Cours/Projet professionnel/Appel à projet.canvas",
+                "viewState": {
+                  "x": 2500.586070655091,
+                  "y": 518.0315231720253,
+                  "zoom": 0.03225989576446808
+                }
               },
-              "icon": "lucide-file",
-              "title": "🏡 Home"
+              "icon": "lucide-layout-dashboard",
+              "title": "Appel à projet"
             }
           }
         ]
@@ -205,9 +208,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🏡 Home.md",
     "Cours/Projet professionnel/Appel à projet.canvas",
     "Cours/Projet professionnel/AAP.md",
-    "🏡 Home.md",
     "Diversité des modes de production/TD sur les modes de production agricoles en France.md",
     "Diversité des modes de production/🔴 Prospective globales et européennes de l'agriculture et des systèmes alimentaires.md",
     "Diversité des modes de production/🔴 Comprendre les freins et leviers à la transition agroécologique - L'approche par l'analyse multi-niveaux des systèmes sociotechniques et de leurs verrouillages.md",

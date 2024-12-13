@@ -147,6 +147,16 @@
       "color": "1"
     },
     {
+      "id": "bc3a3195f7b0ac9a",
+      "type": "text",
+      "text": "Equipes techniques mobilisées : préciser par partenaires, et par action le cas échéant, le nombre d’ETP (équivalents temps plein) prévus par catégorie (techniciens, ingénieurs, chercheurs), l’organisation prévue et le rôle de chaque partenaire technique. (???P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 820,
+      "width": 440,
+      "height": 180
+    },
+    {
       "id": "ccdd283ad9b31a01",
       "type": "text",
       "text": "[[AAP#Livrables d'intérêt collectif|Livrables d’intérêt collectifs]]",
@@ -202,46 +212,6 @@
       "color": "1"
     },
     {
-      "id": "bc3a3195f7b0ac9a",
-      "type": "text",
-      "text": "Equipes techniques mobilisées : préciser par partenaires, et par action le cas échéant, le nombre d’ETP (équivalents temps plein) prévus par catégorie (techniciens, ingénieurs, chercheurs), l’organisation prévue et le rôle de chaque partenaire technique. (???P)",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 820,
-      "width": 440,
-      "height": 180
-    },
-    {
-      "id": "ba330059f9fc5352",
-      "type": "text",
-      "text": " Valorisation prévue des résultats à court et long termes, notamment retombées futures (0,5P)",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 1100,
-      "width": 360,
-      "height": 80
-    },
-    {
-      "id": "829740a6e728a313",
-      "type": "text",
-      "text": "Suites attendues du projet et utilisation ultérieure possible des résultats, selon quel horizon de temps.",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 1200,
-      "width": 360,
-      "height": 80
-    },
-    {
-      "id": "681d8d5dc5b6b729",
-      "type": "text",
-      "text": "chou fleur peut être cultivé toute l'année",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -480,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "452604e78edf2d79",
       "type": "text",
       "text": "Var réponse => taux oviposition dans culture principale, dans culture pull, et rendement moyen/ha de chou fleur",
@@ -268,6 +238,26 @@
       "styleAttributes": {},
       "x": 760,
       "y": -770,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ba330059f9fc5352",
+      "type": "text",
+      "text": " Valorisation prévue des résultats à court et long termes, notamment retombées futures (0,5P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1100,
+      "width": 360,
+      "height": 80
+    },
+    {
+      "id": "681d8d5dc5b6b729",
+      "type": "text",
+      "text": "chou fleur peut être cultivé toute l'année",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -480,
       "width": 260,
       "height": 60
     },
@@ -302,24 +292,54 @@
       "height": 1320
     },
     {
-      "id": "09b39ca172161733",
+      "id": "a0b6469fbb070b15",
       "type": "text",
-      "text": "5 000 € chambre d'élevage de mouches\nalimentation 500 €",
+      "text": "Var qualitative : plante push ou dispositif push (diffuseur)",
       "styleAttributes": {},
-      "x": 1790,
-      "y": 460,
+      "x": 460,
+      "y": -220,
       "width": 260,
       "height": 100
     },
     {
-      "id": "0ab9c8ba0f0dc3c4",
+      "id": "65de9cb1462ba3d8",
       "type": "text",
-      "text": "l'**ANOVA à plusieurs facteurs** est bien plus adaptée, car elle vous permettra de tester les différences de moyennes entre les traitements et d’évaluer l'impact de facteurs multiples (traitement, climat",
+      "text": "Romarin, basilic, ail, tagetes (floraison)",
       "styleAttributes": {},
-      "x": 1440,
-      "y": 620,
-      "width": 400,
-      "height": 180
+      "x": 760,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bc61fa196e4586c9",
+      "type": "text",
+      "text": "Var qualitative : variété B rapa pull",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c5a763d046f83f7d",
+      "type": "text",
+      "text": "\n| Push \\ Pull | Pekinensis | var rapa | var sylvestris | chinensis |\n| ----------- | ---------- | -------- | -------------- | --------- |\n| romarin     | 1          | 2        | 3              | 4         |\n| ail         | 5          | 6        | 7              | 8         |\n| tagete      | 9          | 10       | 11             | 12        |\n+ contrôle : pas de push-pull, pesticide (IFT 0.75 ou moins pour limiter un peu l'abus)\n\n=> 13 traitements",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": -220,
+      "width": 700,
+      "height": 320
+    },
+    {
+      "id": "829740a6e728a313",
+      "type": "text",
+      "text": "Suites attendues du projet et utilisation ultérieure possible des résultats, selon quel horizon de temps.",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1200,
+      "width": 360,
+      "height": 80
     },
     {
       "id": "e997e1c67deefa7c",
@@ -382,14 +402,24 @@
       "height": 60
     },
     {
-      "id": "49b72b20a253cfea",
+      "id": "09b39ca172161733",
       "type": "text",
-      "text": "### **1. Coût du chercheur (2 mois par an) :**\n\n- **Salaire annuel d'un chercheur** (en fonction d'un salaire annuel de 45 000 € à 55 000 €) :\n    \n    - 45000€÷12=3750€45 000 € \\div 12 = 3 750 €45000€÷12=3750€ à 55000€÷12=4583,33€55 000 € \\div 12 = 4 583,33 €55000€÷12=4583,33€ par mois.\n- Le chercheur travaille **2 mois par an** :\n    \n    - Coût annuel : 3750€×2=7500€3 750 € \\times 2 = 7 500 €3750€×2=7500€ à 4583,33€×2=9166,67€4 583,33 € \\times 2 = 9 166,67 €4583,33€×2=9166,67€.\n- **Coût total pour le chercheur sur 3 ans** :  \n    7500€×3=22500€7 500 € \\times 3 = 22 500 €7500€×3=22500€ à 9166,67€×3=27500€9 166,67 € \\times 3 = 27 500 €9166,67€×3=27500€.\n    \n\n### **2. Mise à jour des coûts de main d'œuvre** :\n\n- **Chercheur principal (2 mois par an)** :  \n    **22 500 € à 27 500 €** sur 3 ans.\n    \n- **Techniciens de terrain (2 techniciens, à temps partiel)** :  \n    **75 000 € à 105 000 €** sur 3 ans.\n    \n- **Ingénieur agronome (2 semaines par an pour les analyses statistiques)** :  \n    **5 625 € à 6 875 €** sur 3 ans.\n    \n\n### **3. Total des coûts de main d'œuvre sur 3 ans** :\n\n- **Chercheur principal (2 mois par an)** : **22 500 € à 27 500 €**.\n- **Techniciens de terrain** : **75 000 € à 105 000 €**.\n- **Ingénieur agronome** : **5 625 € à 6 875 €**.\n\n#### **Total des coûts de main d'œuvre pour 3 ans** :\n\n**103 125 € à 139 375 €**.\n\n---\n\n### **4. Réajustement des ETP associés** :\n\n- **Chercheur principal (2 mois par an)** : environ **0,17 ETP** (2 mois de travail par an).\n- **Techniciens de terrain** : environ **0,76 ETP** (2 techniciens, à temps partiel).\n- **Ingénieur agronome** : environ **0,05 ETP** (2 semaines par an pour les analyses statistiques).\n\n#### **Total des ETP pour 3 ans** :\n\n**0,98 ETP** (environ 0,17 ETP pour le chercheur, 0,05 ETP pour l'ingénieur et environ 0,76 ETP pour les techniciens).\n\n---\n\n### **Conclusion finale :**\n\nSi le chercheur travaille **2 mois par an**, le **coût total de la main d'œuvre pour 3 ans** serait estimé entre **103 125 € et 139 375 €**. Cela représente environ **0,98 ETP sur 3 ans**.",
+      "text": "5 000 € chambre d'élevage de mouches\nalimentation 500 €",
       "styleAttributes": {},
-      "x": 3220,
-      "y": 1120,
-      "width": 680,
-      "height": 1450
+      "x": 1790,
+      "y": 460,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "0ab9c8ba0f0dc3c4",
+      "type": "text",
+      "text": "l'**ANOVA à plusieurs facteurs** est bien plus adaptée, car elle vous permettra de tester les différences de moyennes entre les traitements et d’évaluer l'impact de facteurs multiples (traitement, climat",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": 620,
+      "width": 400,
+      "height": 180
     },
     {
       "id": "bf669d8150e2ed47",
@@ -412,36 +442,6 @@
       "height": 340
     },
     {
-      "id": "a0b6469fbb070b15",
-      "type": "text",
-      "text": "Var qualitative : plante push ou dispositif push (diffuseur)",
-      "styleAttributes": {},
-      "x": 460,
-      "y": -220,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "65de9cb1462ba3d8",
-      "type": "text",
-      "text": "Romarin, basilic, ail, tagetes (floraison)",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -200,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "bc61fa196e4586c9",
-      "type": "text",
-      "text": "Var qualitative : variété B rapa pull",
-      "styleAttributes": {},
-      "x": 460,
-      "y": -120,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "47d7c544d190945f",
       "type": "text",
       "text": "Pékinensis, var rapa (navet), var sylverstris (moutarde sauvage), chinensis",
@@ -452,16 +452,6 @@
       "height": 120
     },
     {
-      "id": "c5a763d046f83f7d",
-      "type": "text",
-      "text": "\n| Push \\ Pull | Pekinensis | var rapa | var sylvestris | chinensis |\n| ----------- | ---------- | -------- | -------------- | --------- |\n| romarin     | 1          | 2        | 3              | 4         |\n| ail         | 5          | 6        | 7              | 8         |\n| tagete      | 9          | 10       | 11             | 12        |\n+ contrôle : pas de push-pull, pesticide (IFT 0.75 ou moins pour limiter un peu l'abus)\n\n=> 13 traitements",
-      "styleAttributes": {},
-      "x": 1180,
-      "y": -220,
-      "width": 700,
-      "height": 320
-    },
-    {
       "id": "66d4a8aa05a3866e",
       "type": "text",
       "text": "- taux d'oviposition (pièges)\n- test sur le taux de prédation des oeufs (50 oeufs collés sur papier et disposés dans les blocs puis monitored) => 1 feuille / mois sur 2/4 (tirée aléatoirement) des rep pour les 13 traitements de avril a septembre, mais comptage et relevés 1 fois par semaine pour noter évolution.\n- La présence et l'abondance des prédateurs de mouches contrôlées à l'aide de pièges à fosse (comme Ferry et al 2009)\n- pupes : mesure taux parasitisme\n- Rdt / taille finale plantes en p-p vs control\n- Rdt en t/ha vendable (selon critères grande distribution) pp vs controle",
@@ -470,6 +460,16 @@
       "y": 170,
       "width": 700,
       "height": 300
+    },
+    {
+      "id": "49b72b20a253cfea",
+      "type": "text",
+      "text": "### **1. Coût du chercheur (2 mois par an) :**\n\n- **Salaire annuel d'un chercheur** (en fonction d'un salaire annuel de 45 000 € à 55 000 €) :\n    \n    - 45000€÷12=3750€45 000 € \\div 12 = 3 750 €45000€÷12=3750€ à 55000€÷12=4583,33€55 000 € \\div 12 = 4 583,33 €55000€÷12=4583,33€ par mois.\n- Le chercheur travaille **2 mois par an** :\n    \n    - Coût annuel : 3750€×2=7500€3 750 € \\times 2 = 7 500 €3750€×2=7500€ à 4583,33€×2=9166,67€4 583,33 € \\times 2 = 9 166,67 €4583,33€×2=9166,67€.\n- **Coût total pour le chercheur sur 3 ans** :  \n    7500€×3=22500€7 500 € \\times 3 = 22 500 €7500€×3=22500€ à 9166,67€×3=27500€9 166,67 € \\times 3 = 27 500 €9166,67€×3=27500€.\n    \n\n### **2. Mise à jour des coûts de main d'œuvre** :\n\n- **Chercheur principal (2 mois par an)** :  \n    **22 500 € à 27 500 €** sur 3 ans.\n    \n- **Techniciens de terrain (2 techniciens, à temps partiel)** :  \n    **75 000 € à 105 000 €** sur 3 ans.\n    \n- **Ingénieur agronome (2 semaines par an pour les analyses statistiques)** :  \n    **5 625 € à 6 875 €** sur 3 ans.\n    \n\n### **3. Total des coûts de main d'œuvre sur 3 ans** :\n\n- **Chercheur principal (2 mois par an)** : **22 500 € à 27 500 €**.\n- **Techniciens de terrain** : **75 000 € à 105 000 €**.\n- **Ingénieur agronome** : **5 625 € à 6 875 €**.\n\n#### **Total des coûts de main d'œuvre pour 3 ans** :\n\n**103 125 € à 139 375 €**.\n\n---\n\n### **4. Réajustement des ETP associés** :\n\n- **Chercheur principal (2 mois par an)** : environ **0,17 ETP** (2 mois de travail par an).\n- **Techniciens de terrain** : environ **0,76 ETP** (2 techniciens, à temps partiel).\n- **Ingénieur agronome** : environ **0,05 ETP** (2 semaines par an pour les analyses statistiques).\n\n#### **Total des ETP pour 3 ans** :\n\n**0,98 ETP** (environ 0,17 ETP pour le chercheur, 0,05 ETP pour l'ingénieur et environ 0,76 ETP pour les techniciens).\n\n---\n\n### **Conclusion finale :**\n\nSi le chercheur travaille **2 mois par an**, le **coût total de la main d'œuvre pour 3 ans** serait estimé entre **103 125 € et 139 375 €**. Cela représente environ **0,98 ETP sur 3 ans**.",
+      "styleAttributes": {},
+      "x": 4160,
+      "y": 760,
+      "width": 680,
+      "height": 1450
     }
   ],
   "edges": [
