@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/🎓 Conception de systèmes/🔴Conception de systèmes et intelligence collective - TRAME.md",
+                "file": "Cours/🎓 \"Yield gap\" les GxE/🟢 Notion de potentiel de rendement.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔴Conception de systèmes et intelligence collective - TRAME"
+              "title": "🟢 Notion de potentiel de rendement"
             }
           }
         ]
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -204,11 +205,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Cours/🎓 Conception de systèmes/🟢 Systèmes de culture en semis direct sous Couvert Végétal - Comment mieux comprendre ce système « potentiellement » innovant ?.md",
-    "Cours/🎓 Conception de systèmes/🟢 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
     "Cours/🎓 Conception de systèmes/🔴 Gestion spatiale des systèmes de cultures.md",
     "Cours/🎓 Conception de systèmes/🔴 Agriculture de précision.md",
     "Cours/🎓 Conception de systèmes/🔴Conception de systèmes et intelligence collective - TRAME.md",
+    "Cours/🎓 Conception de systèmes/🟢 Systèmes de culture en semis direct sous Couvert Végétal - Comment mieux comprendre ce système « potentiellement » innovant ?.md",
+    "Cours/🎓 Conception de systèmes/🟢 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/🟢 Évaluer sur plusieurs critères la durabilité de systèmes agricoles - exemple d'une démarche qualitative (DEXi).md",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/🔴 Analyse de cycle de vie - Life Cycle Assessment.md",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/🔴 Changement climatique et outils de diagnostic GES-énergie.md",
