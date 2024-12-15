@@ -192,6 +192,7 @@ $\large \gamma_{i\;}:\;\sum\limits{k}$      Valeur de l’axe ik pour l’enviro
 
 $$\large\pmb{E[Y_{ge}]=\mu + \alpha_{g} + \beta_{e} + \alpha\beta_{ge}}$$
 <center>⬇</center>
+
 Décomposition à l’aide de covariables environnementales
 $$\large\pmb{E[Y_{ge}] =\mu + \alpha_{g} + \color{limegreen}{\sum\limits Cove_{e}} \color{black}+ \color{limegreen}{\sum\limits \phi_{g}.Cove_{e}}}$$
 Décomposition à l’aide de covariables génotypiques
