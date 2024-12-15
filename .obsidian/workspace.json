@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/🎓 Landscape ecology/🟢 Thinking agroecology at the territorial scale - What about Integrated Crop-Livestock Systems?.md",
+                "file": "Cours/🎓 Landscape ecology/🟢 Landscape management and biogeochemical flows.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟢 Thinking agroecology at the territorial scale - What about Integrated Crop-Livestock Systems?"
+              "title": "🟢 Landscape management and biogeochemical flows"
             }
           }
         ]
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -205,6 +204,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Cours/🎓 Landscape ecology/🟢 Describing a landscape - Field trip in the hills of Bécherel.md",
+    "Cours/🎓 Landscape ecology/🟢 Thinking agroecology at the territorial scale - What about Integrated Crop-Livestock Systems?.md",
     "Cours/🎓 Landscape ecology/🔴 Water and nutrient flows in rural landscapes.md",
     "Cours/🎓 Landscape ecology/🟢 Biogeochemical cycles - upscaling ecological processes from plot to landscapes.md",
     "Cours/🎓 \"Yield gap\" les GxE/Intro Yield Gap.md",
@@ -229,8 +230,6 @@
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil ecosystem services in agroecosystems - concepts and implementation.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil pH.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Plant soil feedback.md",
-    "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter dynamics in soils.md",
-    "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter - Role cycling & ecosystem services.md",
     "Cours/Projet professionnel/Appel à projet.canvas",
     "Images/Pasted image 20241209183103.png",
     "Images/Pasted image 20241209182803.png",
