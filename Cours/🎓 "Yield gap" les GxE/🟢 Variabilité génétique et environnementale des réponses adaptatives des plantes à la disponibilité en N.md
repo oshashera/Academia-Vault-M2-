@@ -26,7 +26,7 @@ Jouer sur plasticité, les itinéraires techniques innovantes, la durabilité de
 ###### De la problématique agro-écologique à la question scientifique
 Comment améliorer l'efficacité d'utilisation de l'azote (NUE)
 
-> [!info] ContentsNUE = combien de biomasse produite à partir de combien d'azote
+> [!info] NUE = combien de biomasse produite à partir de combien d'azote
 ![[Pasted image 20241015143942.png|center|450]]
 Nitrogen Uptake Efficiency (combien on absorbe de ce qu'on a donné)
 Nitrogen Utilisation Efficiency (combien une fois absorbé on valorise, biomasse produite)
