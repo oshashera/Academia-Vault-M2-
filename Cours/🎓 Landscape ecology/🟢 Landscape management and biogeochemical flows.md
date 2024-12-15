@@ -105,7 +105,7 @@ U don't propose the same things for farmers in different agronomic units
 	- Biodiversity (agricultural and semi-natural)
 	- GHG and climate change
 
-#### 1.2 Economic challengers
+#### 1.2 Economic challenges
 ![[Pasted image 20241108133328.png]]
 Pig (left) and potato (right) production in France in 2010 (Agreste, 2010)
 
