@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cours/Projet professionnel/Appel à projet.canvas",
-                "viewState": {
-                  "x": 1448.5444229148304,
-                  "y": 1095.747879275193,
-                  "zoom": -0.36774010423553194
-                }
+                "file": "Cours/🎓 \"Yield gap\" les GxE/🟢 Notion de potentiel de rendement.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Appel à projet"
+              "icon": "lucide-file",
+              "title": "🟢 Notion de potentiel de rendement"
             }
           }
         ]
@@ -202,7 +199,8 @@
       "pomodoro-timer:Toggle timer panel": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e7a7b303c61786dc",

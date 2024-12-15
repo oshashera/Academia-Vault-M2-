@@ -1,5 +1,5 @@
 ---
-p: Christine BISSUEL
+prof: Christine BISSUEL
 ---
 #### Définition(s) et méthodes d’évaluation, facteurs d’évolution, perspectives d’amélioration, applications
 
