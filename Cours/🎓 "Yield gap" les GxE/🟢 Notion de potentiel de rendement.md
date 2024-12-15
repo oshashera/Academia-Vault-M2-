@@ -249,11 +249,14 @@ Variabilité importante, si en plus on va aller sur des modes de production plus
 # Nécessité d’un cadre d’analyse : « Yield Gap » (Lobell et al. 2009)
 
 <center><bold><font color="#c00000">YG</font> = <font color="#00b050">Yp</font> – <font color="#245bdb">Ya</font></bold></center>
+
 Yg = Yield Gap
 Yp = Yield Potentiel
 Ya = Average Farm yield
 Le Yield Gap est la différence entre le rendement potentiel d’une culture donnée et les rendements réels réalisés par les agriculteurs pour une zone géographique spécifiée et une période de temps définie.
+
 ![[Pasted image 20240919163621.png|center|300]]
+
 Y a des Yg intermédiaires !
 
 Cet écart va être plus intéressant pour observer effet G et E
