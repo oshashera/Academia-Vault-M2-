@@ -25,7 +25,7 @@ Example 1 :
 
 Beetle has more Cu or Na than plants for ex, and need its ratio
 
-=> it will shit the ratio of the ressources with the help of symbionts, or can use another strategy (more costly), to adapt its physiology (increasing its respiration to release more C for example).
+=> it will shift the ratio of the ressources with the help of symbionts, or can use another strategy (more costly), to adapt its physiology (increasing its respiration to release more C for example).
 
 - constraints on growth and reproduction
 ⬇
