@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/🎓 Conception de systèmes/🟢 Conception innovante de systèmes agricoles - Théorie, exemples et outils associés.md",
+                "file": "Cours/🎓 Apports de l'écophysiologie à l'ingénierie écologique/🟢 Quels apports de l'écophysiologie pour l'ingénierie agro-écologique ?.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟢 Conception innovante de systèmes agricoles - Théorie, exemples et outils associés"
+              "title": "🟢 Quels apports de l'écophysiologie pour l'ingénierie agro-écologique ?"
             }
           }
         ]
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -205,6 +204,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Cours/🎓 Conception de systèmes/🟢 Conception innovante de systèmes agricoles - Théorie, exemples et outils associés.md",
     "Cours/🎓 Conception de systèmes/🟢 Valorisation agronomique des digestats et effets sur la qualité des sols.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter dynamics in soils.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter - Role cycling & ecosystem services.md",
@@ -214,7 +214,6 @@
     "Cours/🎓 Conception de systèmes/🟢 Systèmes de culture en semis direct sous Couvert Végétal - Comment mieux comprendre ce système « potentiellement » innovant ?.md",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/🟢 Évaluer sur plusieurs critères la durabilité de systèmes agricoles - exemple d'une démarche qualitative (DEXi).md",
     "Cours/🎓 Conception de systèmes/🟢 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
-    "Cours/🎓 Conception de systèmes/🟢 Conception innovante de systèmes agricoles - Théorie, exemples et outils associés.md",
     "Cours/🎓 Conception de systèmes/🟢 Low-tech en agriculture.md",
     "Cours/🎓 Conception de systèmes/🟢 Co-concevoir des systèmes de culture diversifié pour la fourniture d'un compromis de services écosystémiques sur le long terme.md",
     "Cours/🎓 Conception de systèmes/🟢 Quels sont les défis à relever pour une méthanisation agroécologique ?.md",
