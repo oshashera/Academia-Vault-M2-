@@ -37,7 +37,9 @@ Yes but :
 <center>In particular, legacy effects could refer to those kinds of ecological inheritance where a physical or biological
 change in ecosystem state is caused by one species, where this change persists after the extirpation of the causal
 species and alters selection pressure of another species much later in time.
-</center> $$\Large \color{blue}\pmb\Downarrow$$
+</center> 
+
+$$\Large \color{blue}\pmb\Downarrow$$
 Plants can alter the abiotic and biotic components of the soil ecosystem and this can result in soil legacies that **facilitate or inhibit** the growth of following plants.
 
 
@@ -81,7 +83,7 @@ Indirect : litter quantity and quality
 >- Identity and diversity of neighboring plants that surround a focal plant can greatly influence the growth of this focal plant
 >
 >- Environment & climate variations
->![[Pasted image 20241011113215.png|center|450]]
+>![[Pasted image 20241011113215.png|center|750]]
 >**Outline**
 >• Two pathways of the PSF
 >• Plants traits and PSFs
