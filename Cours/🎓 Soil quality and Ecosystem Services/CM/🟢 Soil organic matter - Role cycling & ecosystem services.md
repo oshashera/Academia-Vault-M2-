@@ -37,7 +37,7 @@ Depending to what we have we might add organic matter into different phase of th
 
 
 Competing views :
-![[Pasted image 20241008095215.png|center|400]]
+![[Pasted image 20241008095215.png|center|800]]
 
 >[!tldr] Classic "humification" 
 >Relie on the synthesis of large molecules from decomposition products
