@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/🎓 Conception de systèmes/🟢 Systèmes de culture en semis direct sous Couvert Végétal - Comment mieux comprendre ce système « potentiellement » innovant ?.md",
+                "file": "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter - Role cycling & ecosystem services.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟢 Systèmes de culture en semis direct sous Couvert Végétal - Comment mieux comprendre ce système « potentiellement » innovant ?"
+              "title": "🟢 Soil organic matter - Role cycling & ecosystem services"
             }
           }
         ]
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -205,8 +204,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/🟢 Évaluer sur plusieurs critères la durabilité de systèmes agricoles - exemple d'une démarche qualitative (DEXi).md",
+    "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil pH.md",
+    "Cours/🎓 \"Yield gap\" les GxE/🟢 Interactions Génotype x Environnement.md",
+    "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter - Role cycling & ecosystem services.md",
+    "Cours/🎓 Conception de systèmes/🟢 Permaculture - origine, principes, applications et état de l'art scientifique.md",
     "Cours/🎓 Conception de systèmes/🟢 Systèmes de culture en semis direct sous Couvert Végétal - Comment mieux comprendre ce système « potentiellement » innovant ?.md",
+    "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/🟢 Évaluer sur plusieurs critères la durabilité de systèmes agricoles - exemple d'une démarche qualitative (DEXi).md",
     "Cours/🎓 Conception de systèmes/🟢 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
     "Cours/🎓 Conception de systèmes/🟢 Conception innovante de systèmes agricoles - Théorie, exemples et outils associés.md",
     "Cours/🎓 Conception de systèmes/🟢 Low-tech en agriculture.md",
@@ -215,10 +218,8 @@
     "Cours/🎓 Conception de systèmes/🟢 Quels sont les défis à relever pour une méthanisation agroécologique ?.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Bioavailability of nutrients.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil ecosystem services in agroecosystems - concepts and implementation.md",
-    "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil pH.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Plant soil feedback.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter dynamics in soils.md",
-    "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter - Role cycling & ecosystem services.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil resilience.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 An international soil perspective.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil quality and Ecosystem Services.md",
@@ -229,8 +230,6 @@
     "Cours/🎓 Landscape ecology/🔴 Water and nutrient flows in rural landscapes.md",
     "Cours/🎓 Landscape ecology/🟢 Biogeochemical cycles - upscaling ecological processes from plot to landscapes.md",
     "Cours/🎓 \"Yield gap\" les GxE/Intro Yield Gap.md",
-    "Cours/🎓 \"Yield gap\" les GxE/🟢 Interactions Génotype x Environnement.md",
-    "Cours/🎓 \"Yield gap\" les GxE/🟢 Analyse et modélisation statistique des IGEC.md",
     "Cours/Projet professionnel/Appel à projet.canvas",
     "Images/Pasted image 20241209183103.png",
     "Images/Pasted image 20241209182803.png",
