@@ -59,6 +59,7 @@ Carte : Bretagne : faible niveau de services écosystémiques globale sur advent
 #### En Bretagne quel(s) système(s) de culture et quel niveau de diversité dans la succession végétale?
 ![[Pasted image 20241205152420.png|center|900]]
 <p align="right"><b>Nécessité de concevoir des systèmes de culture plus diversifiés  &nbsp;&nbsp;&nbsp; </b>.</p>
+
 #### Pourquoi les systèmes ont du mal à se diversifier...
 ![[Pasted image 20241205152903.png|650]]
 - Les objectifs économiques sont des objectifs de court-termes (rentabilité...) au détriment de potentielles économies sur le long terme
