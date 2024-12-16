@@ -74,15 +74,14 @@ With soil legacy, we've got to have a long-term approach
 
 ##### And other ecosystems functions !
 
-[graph diapo]
+![[Pasted image 20241010155645.png|center|300]]
+<sub>Yu, Y. et al. (2015) Temporal niche differentiation increases the land equivalent ratio of annual intercrops: A meta-analysis. Field Crops Research 184, 133-144</sub>
 *Yu et al 2015 temporal niche....*
 ##### The plant-soil interactions : carbon example 
 
 - Direct and indirect 
 - Trophic and non-trophic interactions 
 
-![[Pasted image 20241010155645.png|center|300]]
-<sub>Yu, Y. et al. (2015) Temporal niche differentiation increases the land equivalent ratio of annual intercrops: A meta-analysis. Field Crops Research 184, 133-144</sub>
 
 ![[Pasted image 20241007100254.png|center]]
 
