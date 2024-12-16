@@ -95,7 +95,7 @@ Crop densities, crop functional traits
 
 ##### Our understanding ?
 
-![[Pasted image 20241010164521.png|center|500]]
+![[Pasted image 20241010164521.png|center|800]]
 - Only indicators...
 
 ![[Pasted image 20241010164811.png|center|600]]
