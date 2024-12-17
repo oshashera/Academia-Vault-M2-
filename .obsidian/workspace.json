@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter dynamics in soils.md",
-                "mode": "preview",
-                "source": false
+                "file": "synthèse biblio/V2 Synthèse.canvas",
+                "viewState": {
+                  "x": 1684.6195721526642,
+                  "y": -1089.0594502557449,
+                  "zoom": -0.9038129695193508
+                }
               },
-              "icon": "lucide-file",
-              "title": "🟢 Soil organic matter dynamics in soils"
+              "icon": "lucide-layout-dashboard",
+              "title": "V2 Synthèse"
             }
           }
         ]
@@ -205,6 +208,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🏡 Home.md",
+    "synthèse biblio/⚠🚨 Synthèse biblio.md",
+    "synthèse biblio/V2 Synthèse.canvas",
+    "synthèse biblio/Synthèse biblio.canvas",
+    "synthèse biblio",
+    "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter dynamics in soils.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Plant soil feedback.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil pH.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil ecosystem services in agroecosystems - concepts and implementation.md",
@@ -216,7 +225,6 @@
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil resilience.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 An international soil perspective.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil quality and Ecosystem Services.md",
-    "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter dynamics in soils.md",
     "Cours/🎓 Soil quality and Ecosystem Services/TD - TD+Cours/🟢 TD Soil Quality and ES.md",
     "Cours/🎓 Apports de l'écophysiologie à l'ingénierie écologique/🟢 Cultures associées, agroforesterie et changement global.md",
     "Cours/🎓 Apports de l'écophysiologie à l'ingénierie écologique/🟢 Quels apports de l'écophysiologie pour l'ingénierie agro-écologique ?.md",
@@ -229,8 +237,6 @@
     "Cours/🎓 Conception de systèmes/🟢 Réduire l'usage des pesticides - quelles conséquences sur les systèmes de culture - Résultats du projet Synop'hyt.md",
     "Cours/🎓 Conception de systèmes/🟢 Low-tech en agriculture.md",
     "Cours/🎓 Conception de systèmes/🟢 Co-concevoir des systèmes de culture diversifié pour la fourniture d'un compromis de services écosystémiques sur le long terme.md",
-    "Cours/🎓 Conception de systèmes/🟢 Quels sont les défis à relever pour une méthanisation agroécologique ?.md",
-    "Cours/Diversité des modes de production/🔴 Prospective globales et européennes de l'agriculture et des systèmes alimentaires.md",
     "Cours/Projet professionnel/Appel à projet.canvas",
     "Images/Pasted image 20241209183103.png",
     "Images/Pasted image 20241209182803.png",
@@ -243,11 +249,8 @@
     "Images/Pasted image 20241209181656.png",
     "Images/Pasted image 20241209181427.png",
     "Cours/🎓 Conception de systèmes/Untitled",
-    "synthèse biblio/V2 Synthèse.canvas",
     "Cours/🎓 Conception de systèmes",
-    "synthèse biblio/Synthèse biblio.canvas",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/Untitled",
-    "synthèse biblio",
     "Cours/Evaluer des systèmes",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 3 Diagnostic",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation",
