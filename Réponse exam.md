@@ -66,6 +66,7 @@ diversification des cultures et rotation (limitation risque sanitaires, amélior
 
 itinéraire technique (réduction travail du sol = couts et tps travail en moins + préserver biodiv + réduire émission CO2/GES , pratiques spécifiques, ferti, pe)
 
+==> on pourrait allonger la rotation
 
 
 **2. Avantages attendus potentiels**
@@ -79,4 +80,15 @@ Fourniture en SE (bouclage nutriments, autonomie)
 
 ENV : 
 - Pollution due aux intrants : [Norg vs Nmin], teneur en nitrate NO3-, pH (trop de ferti peut acidifier car passer de NH4+ à NO3- donne des 2H+ dans environnement => acidification), [NO3- et Phosphate ds eau sol], ou indicateurs biologiques (nématodes ?)
-- Cycle biogéochimiques (bouclage ?) : C/N (stabilité MO et dispo azote), taux minéralisation carbone, émissions protoxyde d'azote (NO2- => quantifier pertes gazeuses / bouclage), C:N:P (106;)
+- Cycle biogéochimiques (bouclage ?) : C/N (stabilité MO et dispo azote), taux minéralisation carbone, émissions protoxyde d'azote (NO2- => quantifier pertes gazeuses / bouclage), C:N:P
+- Fertilité/qualité des sols : stabilité aggrégats, compaction, taux MO, CEC, activité microbienne, diversité nématodes ou vdt
+
+ECONOMIQUE : 
+- autonomie économique : marge nette, rdt, coût de production / ha, revenu net/ha
+- autonomie technique : % dépenses en interventions extérieures
+
+SOCIAUX
+- pénibilité avec enquêtes qualitatives, ETP exploitants
+- Inclusivité sociale : % femmes et jeunes (-30 ans) dans travaux / exploitation
+- Perception du public : labels, appelation, brevet, valorisation ?, enquête d'opinion auprès consommateurs/riverains ?
+- Pérenité du projet : complexité technique (note exploitant => subjectivité) 
