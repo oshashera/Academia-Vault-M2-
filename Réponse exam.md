@@ -67,7 +67,8 @@ diversification des cultures et rotation (limitation risque sanitaires, amélior
 itinéraire technique (réduction travail du sol = couts et tps travail en moins + préserver biodiv + réduire émission CO2/GES , pratiques spécifiques, ferti, pe)
 
 ==> on pourrait allonger la rotation
-
+==> passer en semis direct (bcp d'avantages en biologique: physique et chimique, mais pb adventices parfois)
+==> allonger la rotation / mettre plus de cultures nettoyantes : luzerne, trèfle, sarrasin, pdt, chanvre et porter attention aux cultures salissantes 
 
 **2. Avantages attendus potentiels**
 
