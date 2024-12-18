@@ -86,19 +86,19 @@ Chanvre semis avril mai, récolte septembre octobre
 => majoritairement des cultures intermédiaires automne hivers, phacélie ou crucifères ?
 => été ce serait majoritairement légumineuse, automne faisable aussi, mais pb sécheresse selon années
 
-**2. Avantages attendus potentiels**
+**2. Avantages attendus potentiels** DU SYSTEME INNOVANT VIS A VIS DU SYSTEME REFERENCES
 
 Réduire usage intrants => environnemntal (pollution) + socio (santé) + cout en moins (éco)
 Marge maintenue => éco
 Gestion adventices et ferti du sol => environnementale
 Fourniture en SE (bouclage nutriments, autonomie)
 
-
+Innovant = plus long, délai de retour, plus opportunité pour fournir services via Cultures Intermédiaires + culture nettoyantes ajoutée (chanvre) + \[trouver]
 
 **3. Indicateurs dans chaque dimension testée pour évaluer système**
 
 ENV : 
-- Pollution due aux intrants : [Norg vs Nmin], teneur en nitrate NO3-, pH (trop de ferti peut acidifier car passer de NH4+ à NO3- donne des 2H+ dans environnement => acidification), [NO3- et Phosphate ds eau sol], ou indicateurs biologiques (nématodes ?)
+- Pollution due aux intrants : \[Norg vs Nmin], teneur en nitrate NO3-, pH (trop de ferti peut acidifier car passer de NH4+ à NO3- donne des 2H+ dans environnement => acidification), \[NO3- et Phosphate ds eau sol], ou indicateurs biologiques (nématodes ?)
 - Cycle biogéochimiques (bouclage ?) : C/N (stabilité MO et dispo azote), taux minéralisation carbone, émissions protoxyde d'azote (NO2- => quantifier pertes gazeuses / bouclage), C:N:P
 - Fertilité/qualité des sols : stabilité aggrégats, compaction, taux MO, CEC, activité microbienne, diversité nématodes ou vdt
 
