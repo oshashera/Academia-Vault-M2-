@@ -68,7 +68,17 @@ itinéraire technique (réduction travail du sol = couts et tps travail en moins
 
 ==> on pourrait allonger la rotation
 ==> passer en semis direct (bcp d'avantages en biologique: physique et chimique, mais pb adventices parfois)
-==> allonger la rotation / mettre plus de cultures nettoyantes : luzerne, trèfle, sarrasin, pdt, chanvre et porter attention aux cultures salissantes 
+==> allonger la rotation / mettre plus de cultures nettoyantes : luzerne, trèfle, sarrasin, pdt, chanvre et porter attention aux cultures salissantes (blé par ex (ou oignon et sorgho mais pas dans rotation))
+
+TCL = technique culturales siimplifiées = pas labour
+par ex : décompactage (fissurer sans mélanger horizons = décompacteur (appareil))
+
+
+ROTATIONS INFOS :
+Pois de printemps = semé décembre janvier, récolte juin juillet
+Colza : semi juillet-aout, récolte juillet
+Blé tendre (= de printemps), semi janvier/février, récolte aout
+
 
 **2. Avantages attendus potentiels**
 
@@ -76,6 +86,8 @@ Réduire usage intrants => environnemntal (pollution) + socio (santé) + cout en
 Marge maintenue => éco
 Gestion adventices et ferti du sol => environnementale
 Fourniture en SE (bouclage nutriments, autonomie)
+
+
 
 **3. Indicateurs dans chaque dimension testée pour évaluer système**
 
