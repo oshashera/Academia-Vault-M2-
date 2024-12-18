@@ -39,7 +39,18 @@ Partie 1
 
 *Élements de réponse potentiels supplémentaires :*
  il est crucial de collecter et de suivre une variété d'informations sur plusieurs années pour évaluer l'efficacité, la durabilité et les impacts des pratiques agricoles. Voici les principaux types d'informations à suivre, accompagnés des raisons pour lesquelles elles sont essentielles
+ 
 - Données sur les cultures et les rendements => rdts, qualité rdt, phénologie (stades) et itk (dates semis, floraisons, récolte etc)
 	- => impact rotation et pratique culturales + interventions (ferti, eau, etc) sur performances des cultures.
+
 - Données sur ferti/quali/santé des sols => MO, pH, C/N, teneur NPK, compaction, porosités, stabilité aggrégats, dynamique carbone dans sol
-	- => impact rotat
+	- => impact rota, pratiques et interventions sur la santé et qualité des sols
+
+- Impacts environnementaux => émissions GES, lessivage nitrates, érosion, pollution des eaux, stockage C dans sol
+	- => minimisation impact système + mitigation CC
+
+Temps travail / pénibilité ? 
+
+>[!done] Élements supplémentaires surs :
+>-  Expé système : Elle permet de tester au champ la faisabilité technique et la cohérence agronomique des systèmes de culture les plus prometteurs et d’évaluer leurs **résultats agronomiques et techniques**, ainsi que leurs **performances socio-économiques et environnementales** (source innovation agronomiques 2012)
+> J. Pourrias : réduire pesti mais mesure envir
