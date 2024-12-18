@@ -78,7 +78,13 @@ ROTATIONS INFOS :
 Pois de printemps = semé décembre janvier, récolte juin juillet
 Colza : semi juillet-aout, récolte juillet
 Blé tendre (= de printemps), semi janvier/février, récolte aout
+Orge printemps : mi février-mi mars semi, récolte fin été
+betterave (à sucre) mars avril semi, récolte aout septembre
+Pois d'hiver : semi novembre-décembre, récolte juin-juillet
+Chanvre semis avril mai, récolte septembre octobre
 
+=> majoritairement des cultures intermédiaires automne hivers, phacélie ou crucifères ?
+=> été ce serait majoritairement légumineuse, automne faisable aussi, mais pb sécheresse selon années
 
 **2. Avantages attendus potentiels**
 
