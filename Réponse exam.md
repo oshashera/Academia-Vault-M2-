@@ -53,4 +53,24 @@ Temps travail / pénibilité ?
 
 >[!done] Élements supplémentaires surs :
 >-  Expé système : Elle permet de tester au champ la faisabilité technique et la cohérence agronomique des systèmes de culture les plus prometteurs et d’évaluer leurs **résultats agronomiques et techniques**, ainsi que leurs **performances socio-économiques et environnementales** (source innovation agronomiques 2012)
-> J. Pourrias : réduire pesti mais mesure envir
+> J. Pourrias : réduire pesti mais mesure socio et éco aussi
+
+___
+
+Partie 2 
+
+**1. quels leviers techniques :**
+
+Surtout le G et C :
+diversification des cultures et rotation (limitation risque sanitaires, amélioration qualité sol, optimiser utilisation ressources)
+
+itinéraire technique (réduction travail du sol = couts et tps travail en moins + préserver biodiv + réduire émission CO2/GES , pratiques spécifiques, ferti, pe)
+
+
+
+**2. Avantages attendus potentiels**
+
+Réduire usage intrants => environnemntal (pollution) + socio (santé) + cout en moins (éco)
+Marge maintenue => éco
+Gestion adventices et ferti du sol => environnementale
+Fourniture en SE (bouclage nutriments, autonomie)
