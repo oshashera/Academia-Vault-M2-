@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "Cours/🎓 Landscape ecology/🟢 Describing a landscape - Field trip in the hills of Bécherel.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏡 Home"
+              "title": "🟢 Describing a landscape - Field trip in the hills of Bécherel"
             }
           }
         ]
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -205,6 +204,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Cours/🎓 Landscape ecology/🟢 Biogeochemical cycles - upscaling ecological processes from plot to landscapes.md",
     "🏡 Home.md",
     "Réponse exam.md",
     "Cours/🎓 Conception de systèmes/🟢 Conception innovante de systèmes agricoles - Théorie, exemples et outils associés.md",
@@ -220,7 +220,6 @@
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Bioavailability of nutrients.md",
     "Cours/🎓 Soil quality and Ecosystem Services/TD - TD+Cours/🟢 TD NPK autonomie de merde.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil organic matter - Role cycling & ecosystem services.md",
-    "Cours/🎓 Landscape ecology/🟢 Biogeochemical cycles - upscaling ecological processes from plot to landscapes.md",
     "Cours/🎓 Landscape ecology/🟢 Landscape management and biogeochemical flows.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil resilience.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 An international soil perspective.md",
