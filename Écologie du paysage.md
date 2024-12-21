@@ -11,7 +11,7 @@ source: "Burel & Baudry, Écologie du paysage : concept, méthodes et applicatio
 ![[Echelles spatiales et temporelles (eco du paysage)|center|800]]
 Au sein du paysage on peut identifier une **gamme d'échelles** auxquelles se rapportent des **processus**, ce qui permet de former les différents niveaux de hiérarchie (classes de vitesse et de rayons d'action semblables).
 
-
+![[Drawing 2024-12-21 16.41.21.excalidraw|center|600]]
 >[!warning] La théorie de la hiérarchie prédit qu'il n'y a pas un **continuum** d'échelles spatio-temporelles, mais un nombre fini de **valeurs distinctes** !
 
 Niveaux d'organisation quasi-autonomes, donc décomposables, mais **si trop de niveaux sont analysés en même temps**, les informations **pertinentes** de chacun sont brouillées par les autres niveaux.
@@ -22,3 +22,8 @@ Niveaux d'organisation quasi-autonomes, donc décomposables, mais **si trop de n
 
 Les études de paysages se font souvent en 2 niveaux : paysage et éléments du paysage, mais ca varie selon les objectifs.
 
+## Théorie du chaos (Gleick, 1991)
+
+>[!summary] La théorie du chaos a permis d'approcher les phénomènes ne semblant obéir à aucune loi, étant de ce fait impossible à prévoir. Les phénomènes dépendant de la théorie du chaos (par exemple les fluctuations de population chez certains vertébrés) sont **sensibles aux conditions initiales** et dont la **dynamique complexe** peut être la résultant de processus **simples et déterministes** 
+
+## Théorie de la percolation ()
