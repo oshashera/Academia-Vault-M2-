@@ -40,3 +40,21 @@ Les études de paysages se font souvent en 2 niveaux : paysage et éléments du 
 >Le gris foncé est l'élément que nous étudions, et le noir est le plus grand cluster de cet élément connecté.
 
 
+## La géométrie fractale 
+
+>[!summary] Permet de mesurer des objets complexes (comme des haies), leur taille, forme et périmètre
+
+>[!summary] Un objet fractal se caractérise par une forme, soit extrêmement **irrégulière**, soit extrêmement **interrompue** ou **fragmentée**, et qui **le reste quelque soit l'échelle d'examen**
+
+>[!summary] Permet de définir **un espace**, par **une mesure pour toute les échelles**
+
+> [!faq] 2 valeurs fractales
+> Kummel et al, (1987), montrent que les boisements oscillent autour de **2** valeurs fractales : 
+> - les bois de forme simples sont déterminées par des contraintes foncières
+> - les bois plus grands dépendent de contraintes physiques du milieu
+
+
+## La théorie biogéographique des îles
+
+>[!summary] La richesse d'une île à un moment *t* est la résultante de **2 processus** : le taux d'immigration des propagules et le taux d'extinction des populations
+>

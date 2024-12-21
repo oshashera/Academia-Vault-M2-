@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Écologie du paysage"
             }
+          },
+          {
+            "id": "b78e36df046d3ce0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-21 20.19.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-21 20.19.34.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,10 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd75e42cd5ab9284",
+  "active": "b78e36df046d3ce0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-21 16.58.06.excalidraw.md",
     "Écologie du paysage.md",
+    "Excalidraw/Drawing 2024-12-21 20.19.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-21 16.58.06.excalidraw.md",
     "Excalidraw/Drawing 2024-12-21 16.41.21.excalidraw.md",
     "Excalidraw/Echelles spatiales et temporelles (eco du paysage).md",
     "🏡 Home.md",
@@ -248,7 +261,6 @@
     "Cours/🎓 Soil quality and Ecosystem Services/TD - TD+Cours/🟢 TD Soil Quality and ES.md",
     "Cours/🎓 Apports de l'écophysiologie à l'ingénierie écologique/🟢 Cultures associées, agroforesterie et changement global.md",
     "Cours/🎓 Apports de l'écophysiologie à l'ingénierie écologique/🟢 Quels apports de l'écophysiologie pour l'ingénierie agro-écologique ?.md",
-    "Cours/🎓 Conception de systèmes/🟢 Valorisation agronomique des digestats et effets sur la qualité des sols.md",
     "Cours/Projet professionnel/Appel à projet.canvas",
     "Images/Pasted image 20241209183103.png",
     "Images/Pasted image 20241209182803.png",
