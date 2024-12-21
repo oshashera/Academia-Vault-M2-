@@ -36,6 +36,7 @@ Les études de paysages se font souvent en 2 niveaux : paysage et éléments du 
 >Dès que le seuil critique est dépassé, l'élément "percole" et est retrouvable loin autour du milieu d'origine
 >**==>** Phénomène de **diffusion** du **tout ou rien**
 >La valeur du seuil de percolation (pc) selon le nombre d'éléments différents dans le milieu
->>![[Drawing 2024-12-21 16.58.06.excalidraw|right|600]] 
+>![[Drawing 2024-12-21 16.58.06.excalidraw|center|600]] Cartes de percolation (60x70 pixels)
+>Le gris foncé est l'élément que nous étudions, et le noir est le plus grand cluster de cet élément connecté.
 
 
