@@ -57,4 +57,7 @@ Les études de paysages se font souvent en 2 niveaux : paysage et éléments du 
 ## La théorie biogéographique des îles
 
 >[!summary] La richesse d'une île à un moment *t* est la résultante de **2 processus** : le taux d'immigration des propagules et le taux d'extinction des populations
->
+>![[Drawing 2024-12-21 20.19.34.excalidraw|center|700]]
+
+
+
