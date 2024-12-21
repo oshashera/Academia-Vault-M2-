@@ -8,5 +8,6 @@
   "primary-theme@@italic-color@@dark": "#EBDAC6",
   "primary-theme@@strikethrough-color@@dark": "#EBDAC6",
   "primary-theme@@underline-color@@dark": "#EBDAC6",
-  "primary-theme@@italic-color@@light": "#432E14"
+  "primary-theme@@italic-color@@light": "#432E14",
+  "primary-theme@@bold-italic-color@@light": "#BF3F36"
 }
