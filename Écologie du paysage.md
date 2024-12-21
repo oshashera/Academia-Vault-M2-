@@ -26,4 +26,15 @@ Les études de paysages se font souvent en 2 niveaux : paysage et éléments du 
 
 >[!summary] La théorie du chaos a permis d'approcher les phénomènes ne semblant obéir à aucune loi, étant de ce fait impossible à prévoir. Les phénomènes dépendant de la théorie du chaos (par exemple les fluctuations de population chez certains vertébrés) sont **sensibles aux conditions initiales** et dont la **dynamique complexe** peut être la résultant de processus **simples et déterministes** 
 
-## Théorie de la percolation ()
+## Théorie de la percolation 
+
+>[!summary] La théorie de la percolation décrit la **diffusion** dans des **milieux hétérogènes et aléatoire**.
+>>[!dot] Elle considère la communication entre "sites" capables de relayer localement une information
+
+>[!warning] C'est un phénomène **critique** :
+>En dessous d'un seuil critique, l'élément (fluide, individu, information) reste confiné à son milieu d'origine
+>Dès que le seuil critique est dépassé, l'élément "percole" et est retrouvable loin autour du milieu d'origine
+>**==>** Phénomène de **diffusion** du **tout ou rien**
+>La valeur du seuil de percolation (pc) selon le nombre d'éléments différents dans le milieu
+
+
