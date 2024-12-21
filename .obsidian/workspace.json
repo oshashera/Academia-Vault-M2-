@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Écologie du paysage"
             }
+          },
+          {
+            "id": "43546692cf63aca8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-21 16.18.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-21 16.18.56.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,7 +213,7 @@
       "omnisearch:Omnisearch": false,
       "canvas:Create new canvas": false,
       "callout-manager:Insert Callout": false,
-      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -212,16 +224,17 @@
       "templify:Templify Market": false,
       "widgets:Add widget": false,
       "pomodoro-timer:Toggle timer panel": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd75e42cd5ab9284",
+  "active": "43546692cf63aca8",
   "lastOpenFiles": [
-    "🏡 Home.md",
     "Écologie du paysage.md",
+    "Excalidraw/Drawing 2024-12-21 16.18.56.excalidraw.md",
+    "🏡 Home.md",
     "Cours/🎓 Landscape ecology/🟢 Describing a landscape - Field trip in the hills of Bécherel.md",
     "Cours/🎓 Landscape ecology/🟢 Biogeochemical cycles - upscaling ecological processes from plot to landscapes.md",
     "Réponse exam.md",
@@ -248,7 +261,6 @@
     "Cours/🎓 Conception de systèmes/🟢 Valorisation agronomique des digestats et effets sur la qualité des sols.md",
     "Cours/🎓 \"Yield gap\" les GxE/🟢 Interactions Génotype x Environnement.md",
     "Cours/🎓 Conception de systèmes/🟢 Permaculture - origine, principes, applications et état de l'art scientifique.md",
-    "Cours/🎓 Conception de systèmes/🟢 Systèmes de culture en semis direct sous Couvert Végétal - Comment mieux comprendre ce système « potentiellement » innovant ?.md",
     "Cours/Projet professionnel/Appel à projet.canvas",
     "Images/Pasted image 20241209183103.png",
     "Images/Pasted image 20241209182803.png",
