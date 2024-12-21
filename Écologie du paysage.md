@@ -8,3 +8,5 @@ source: "Burel & Baudry, Écologie du paysage : concept, méthodes et applicatio
 
 >[!summary] [2] Les niveaux d'organisation sont essentiellement caractérisés par la vitesse des processus <==> Les niveaux ayant des processus à vitesse très différentes interagissent peu 
 
+![[Echelles spatiales et temporelles (eco du paysage)|center|800]]
+Au sein du paysage on peut identifier une **gamme d'échelles** auquelles se rap
