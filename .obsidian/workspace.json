@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Écologie du paysage"
             }
-          },
-          {
-            "id": "4e7e01d77d71e280",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-12-21 16.58.06.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-21 16.58.06.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e7e01d77d71e280",
+  "active": "cd75e42cd5ab9284",
   "lastOpenFiles": [
-    "Écologie du paysage.md",
     "Excalidraw/Drawing 2024-12-21 16.58.06.excalidraw.md",
+    "Écologie du paysage.md",
     "Excalidraw/Drawing 2024-12-21 16.41.21.excalidraw.md",
     "Excalidraw/Echelles spatiales et temporelles (eco du paysage).md",
     "🏡 Home.md",
