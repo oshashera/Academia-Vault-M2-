@@ -4,7 +4,8 @@
       "element",
       "donc",
       "list",
-      "book"
+      "book",
+      "dot"
     ],
     "settings": {
       "element": [
@@ -50,6 +51,14 @@
           "changes": {
             "icon": "lucide-book-text",
             "color": "80, 226, 80"
+          }
+        }
+      ],
+      "dot": [
+        {
+          "changes": {
+            "icon": "arrow-circle",
+            "color": "247, 135, 8"
           }
         }
       ]
