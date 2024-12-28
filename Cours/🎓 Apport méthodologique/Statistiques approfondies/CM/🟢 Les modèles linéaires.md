@@ -159,6 +159,7 @@ ___
 
 <center><b><font color="#ff0000">SOYONS PLUS AMBITIEUX…</font></b></center> 
 <center><b><font color="#ff0000">LES MODELES LINEAIRES</font></b></center>
+
 $$\Huge Y = \beta . X + \epsilon$$
 ___
 ### LA MODELISATION STATISTIQUE

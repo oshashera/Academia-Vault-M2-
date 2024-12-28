@@ -31,322 +31,114 @@
       "label": "Eco du paysage"
     },
     {
-      "id": "3fa17c4be7bf7ac4",
+      "id": "abace94e1b8f6bb8",
       "type": "text",
-      "text": "Lutte contre les ravageurs par les ennemis naturels semblent présenter un compromis avec les services de production alimentaire, tels que mesurés par le pourcentage de la superficie cultivée.",
+      "text": "Les ennemis spécialistes et généralistes ont montré des réponses significativement positives à la complexité du paysage mais n'étaient pas significativement différents les uns des autres. Ni les ravageurs spécialistes ni les ravageurs généralistes n'ont réagi à la complexité du paysage. Plus précisément, l'abondance des ennemis généralistes a augmenté avec la complexité du paysage, tandis que l'abondance des ennemis spécialistes n'a pas montré de réponse significative à cette complexité. \nL'abondance est le seul type de réponse qui diffère significativement entre les ennemis spécialistes et généralistes",
       "styleAttributes": {},
-      "x": -2580,
-      "y": 100,
-      "width": 540,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "b459ae4d0c458765",
-      "type": "text",
-      "text": ">[!quote] Hypothèse de Tcharntke \n>L'importance relative des habitats naturels pour le biocontrôle peut varier considérablement en fonction du type de culture, du ravageur, du prédateur, de la gestion des terres et de la structure du paysage.",
-      "styleAttributes": {},
-      "x": -2595,
-      "y": 250,
-      "width": 570,
-      "height": 230,
-      "color": "3"
-    },
-    {
-      "id": "b4c83c80c9a7d0cc",
-      "type": "text",
-      "text": "Tscharntke T, (2016) When natural habitat fails to enhance biological pest control – Five hypotheses. ",
-      "styleAttributes": {},
-      "x": -1870,
-      "y": 280,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "d11e3af48c0c41ec",
-      "type": "text",
-      "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
-      "styleAttributes": {},
-      "x": -1940,
-      "y": 130,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "717e4d3f31162496",
-      "type": "text",
-      "text": "L'effet de la complexité du paysage sur la lutte contre les maladies était légèrement positif, bien que non significatif",
-      "styleAttributes": {},
-      "x": -2140,
-      "y": -1082,
-      "width": 400,
-      "height": 85,
+      "x": -770,
+      "y": -1830,
+      "width": 510,
+      "height": 350,
       "color": "4"
     },
     {
-      "id": "7127774d817121aa",
+      "id": "173bf411654035ab",
       "type": "text",
-      "text": "<h3><center>DISEASES</center></h3>",
+      "text": "En ce qui concerne les services de contrôle des nuisibles par les ennemis naturels, nous avons déterminé qu'une augmentation de la complexité du paysage améliorait la réponse des ennemis naturels de près de 25 %.\n",
       "styleAttributes": {},
-      "x": -2140,
-      "y": -845,
-      "width": 250,
-      "height": 60,
-      "color": "2"
+      "x": -770,
+      "y": -1480,
+      "width": 420,
+      "height": 140,
+      "color": "4"
     },
     {
-      "id": "b39bf1dc46368324",
+      "id": "2f58bfd92528b990",
+      "type": "text",
+      "text": "Les ennemis sont positivement affectés par la complexité du paysage, quel que soit le type de réponse de l'arthropode mesuré. Ce résultat est fiable",
+      "styleAttributes": {},
+      "x": -751,
+      "y": -2010,
+      "width": 382,
+      "height": 120,
+      "color": "4"
+    },
+    {
+      "id": "5b56cd95cd7bc5e9",
+      "type": "text",
+      "text": "\nL'augmentation du pourcentage d'habitats naturels et de zones non cultivées a eu les effets les plus importants sur la réponse des ennemis naturels.",
+      "styleAttributes": {},
+      "x": -770,
+      "y": -1320,
+      "width": 320,
+      "height": 140,
+      "color": "4"
+    },
+    {
+      "id": "64bea8fc89050e3b",
+      "type": "text",
+      "text": "l'augmentation du parasitisme ou de la prédation peut être compensée par une plus grande colonisation par les organismes nuisibles dans les paysages complexes, de sorte qu'il n'y a pas de changement net dans les populations d'organismes nuisibles sur un gradient paysager",
+      "styleAttributes": {},
+      "x": -1514,
+      "y": -1700,
+      "width": 492,
+      "height": 190,
+      "color": "4"
+    },
+    {
+      "id": "67bdb04d2ff77ff9",
       "type": "text",
       "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
       "styleAttributes": {},
-      "x": -1810,
-      "y": -1165,
+      "x": -1101,
+      "y": -1510,
       "width": 260,
       "height": 60,
       "color": "5"
     },
     {
-      "id": "a29fa8048bc1d48c",
-      "type": "text",
-      "text": "Les réponses des généralistes ont affiché les corrélations les plus fortes avec la complexité du paysage à des échelles spatiales plus grandes que celles des spécialistes",
-      "styleAttributes": {},
-      "x": -4675,
-      "y": 240,
-      "width": 430,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "bf0e5196bf2c7f02",
-      "type": "text",
-      "text": "https://odr.inrae.fr/intranet/carto/cartowiki/index.php/Unit%C3%A9_paysag%C3%A8re",
-      "styleAttributes": {},
-      "x": -4455,
-      "y": -1180,
-      "width": 575,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "2e16b1abed05d4af",
-      "type": "text",
-      "text": "L'analyse des études qui ont mesuré plusieurs échelles suggère que la spécialisation influence l'échelle à laquelle les arthropodes réagissent à la complexité du paysage",
-      "styleAttributes": {},
-      "x": -4530,
-      "y": 45,
-      "width": 430,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "cbf262e8f1abd052",
+      "id": "df84173994f34360",
       "type": "text",
       "text": "Chaplin‐Kramer R, (2011) A meta‐analysis of crop pest and natural enemy response to landscape complexity",
       "styleAttributes": {},
-      "x": -4855,
-      "y": 72,
+      "x": -1088,
+      "y": -1780,
       "width": 268,
       "height": 60,
       "color": "5"
     },
     {
-      "id": "af7546a3d9f07032",
+      "id": "13a2d7bb079edbb2",
+      "type": "text",
+      "text": "Une évaluation des données relatives à la réaction des organismes nuisibles a montré que le pourcentage de zones non cultivées augmentait la réaction des organismes nuisibles de près de 35 %.\nLe pourcentage de zones naturelles entourant les zones agricoles n'a pas eu d'influence sur la perte de contrôle des ravageurs.",
+      "styleAttributes": {},
+      "x": -1514,
+      "y": -1440,
+      "width": 492,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "7fbec3b6cb4f7e65",
+      "type": "text",
+      "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
+      "styleAttributes": {},
+      "x": -350,
+      "y": -1310,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "aae88b237681f170",
       "type": "text",
       "text": "<sub>Martin EA (2019) The interplay of landscape composition and configuration: new pathways to manage functional biodiversity and agroecosystem services across Europe. Ecology Letters 22:1083–1094.<sub>",
       "styleAttributes": {},
-      "x": -4823,
-      "y": -140,
+      "x": -1180,
+      "y": -1210,
       "width": 263,
       "height": 60,
       "color": "5"
-    },
-    {
-      "id": "d1545754b8d646b2",
-      "type": "text",
-      "text": "<h2><center>Matrix-patches</center></h2>",
-      "styleAttributes": {},
-      "x": -4770,
-      "y": -820,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "98b54e96567d52a7",
-      "type": "text",
-      "text": "<h2><center>Configuration vs composition</center></h2>",
-      "styleAttributes": {},
-      "x": -4770,
-      "y": -1060,
-      "width": 260,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "bd72411b51c03d29",
-      "type": "text",
-      "text": "<h2><center>Connectivity</center></h2>",
-      "styleAttributes": {},
-      "x": -4770,
-      "y": -920,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "d09efe7025fbb0d3",
-      "type": "text",
-      "text": "La **composition** a influencé tous les services évalués dans la présente recherche, tandis que la **configuration** a influencé deux services : la pollinisation et la qualité de l'eau\n$Duarte\\;\\;GT,\\;\\;(2018)$",
-      "styleAttributes": {},
-      "x": -4320,
-      "y": -1070,
-      "width": 580,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "f0f8969a27e61881",
-      "type": "text",
-      "text": "La définition de la complexité du paysage varie considérablement d'une étude à l'autre. Le plus souvent, la complexité du paysage fait référence à la quantité d'habitats naturels ou non cultivés dans le paysage entourant l'exploitation agricole",
-      "styleAttributes": {},
-      "x": -3520,
-      "y": -380,
-      "width": 460,
-      "height": 160,
-      "color": "3"
-    },
-    {
-      "id": "415218b9d111a42e",
-      "type": "text",
-      "text": "<h2><center> ARTHROPODS IN GENERAL",
-      "styleAttributes": {},
-      "x": -4790,
-      "y": -500,
-      "width": 260,
-      "height": 80,
-      "color": "6"
-    },
-    {
-      "id": "2040f7fecd11dca0",
-      "type": "text",
-      "text": "En raison des impacts positifs sur les services et de nombreux fournisseurs de services et des impacts négatifs sur les ravageurs, la densité des lisières semble donc être un moteur plus cohérent pour la biodiversité fonctionnelle et la fourniture de services que la seule présence d'un habitat semi-naturel.",
-      "styleAttributes": {},
-      "x": -4460,
-      "y": -265,
-      "width": 360,
-      "height": 240,
-      "color": "3"
-    },
-    {
-      "id": "64dfc10ea8645c33",
-      "type": "text",
-      "text": "Il n'y a pas eu de différence significative dans la réponse entre les ravageurs et les ennemis dans l'ensemble",
-      "styleAttributes": {},
-      "x": -5055,
-      "y": 360,
-      "width": 340,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "0f5442e7c6a31a07",
-      "type": "text",
-      "text": "Enfin, la mesure la plus fondamentale du service écosystémique de lutte contre les ravageurs est la prévention ou la réduction des dommages causés aux cultures et, dans la mesure du possible, cette mesure devrait être incluse dans les études portant sur la réaction des ravageurs à la complexité du paysage. Avec de telles données à long terme, la lutte contre les ravageurs pourrait être évaluée comme la fréquence de dépassement de certains seuils d'abondance des ravageurs ou de dommages, plutôt que comme un point temporel unique, ce qui permettrait de mieux comprendre la dynamique des populations de ravageurs et la stabilité des services de lutte contre les ravageurs.",
-      "styleAttributes": {},
-      "x": -5740,
-      "y": 600,
-      "width": 855,
-      "height": 200,
-      "color": "3"
-    },
-    {
-      "id": "7a502ca8c656d8ca",
-      "type": "text",
-      "text": "Dans les paysages présentant un % de SSN intermédiaire, de faibles augmentations du SSN peuvent diluer les populations avant d'atteindre des niveaux suffisants pour contribuer positivement à la dissémination dans les champs. Dans ces paysages, les pratiques extensives telles que l'agriculture à faible niveau d'intrants peuvent être le moyen le plus efficace d'améliorer la diversité des arthropodes et les services rendus par les cultures.",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": -225,
-      "width": 580,
-      "height": 200,
-      "color": "3"
-    },
-    {
-      "id": "c6d66c609b21cd09",
-      "type": "text",
-      "text": "L'augmentation de la densité des lisières a été la plus efficace pour les arthropodes dans les paysages où le pourcentage d'habitats semi-naturels (HSN) était faible (< 5 %) ou élevé (> 20 %).",
-      "styleAttributes": {},
-      "x": -4993,
-      "y": -375,
-      "width": 511,
-      "height": 110,
-      "color": "3"
-    },
-    {
-      "id": "7acc89700f7bdb80",
-      "type": "text",
-      "text": "Burel F, Baudry J (1999) Écologie du paysage : Concepts, méthodes et applications. Editions TEC and DOC.",
-      "styleAttributes": {},
-      "x": -4450,
-      "y": -1280,
-      "width": 510,
-      "height": 80,
-      "color": "5"
-    },
-    {
-      "id": "6900754d98cfc91c",
-      "type": "text",
-      "text": "<h3><center>Bouquin BU Beaulieu</center></h3>",
-      "styleAttributes": {},
-      "x": -4770,
-      "y": -1260,
-      "width": 300,
-      "height": 60
-    },
-    {
-      "id": "07846a8de286d8a5",
-      "type": "text",
-      "text": "<h2><center>Landscape units</center></h2>",
-      "styleAttributes": {},
-      "x": -4770,
-      "y": -1160,
-      "width": 280,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "fc90c34034e1f76c",
-      "type": "text",
-      "text": "L'identification des ennemis naturels dominants dans des systèmes spécifiques ou pour des ravageurs spécifiques est un facteur important pour comprendre comment gérer les paysages afin de fournir un contrôle naturel des ravageurs, si des ennemis naturels plus abondants fournissent un meilleur contrôle.\nLa caractérisation des ennemis naturels dominants en fonction de leur degré de spécialisation et de leur échelle de réponse permettra d'établir des règles générales telles que celles établies dans le présent document pour fournir des conseils de gestion instructifs",
-      "styleAttributes": {},
-      "x": -5760,
-      "y": 360,
-      "width": 673,
-      "height": 220,
-      "color": "3"
-    },
-    {
-      "id": "359b2365d1186f18",
-      "type": "text",
-      "text": "<h1><center>🌲🏡🌾🌱🌳 REQUIRED LANDSCAPE NOTIONS<center></h1>",
-      "styleAttributes": {},
-      "x": -5170,
-      "y": -1040,
-      "width": 260,
-      "height": 180,
-      "color": "1"
-    },
-    {
-      "id": "1f0ccae56f43a736",
-      "type": "text",
-      "text": "Species richness of flower-visitors showed the greatest decrease with distance to natural areas, visitation rates showed an intermediate rate",
-      "styleAttributes": {},
-      "x": 940,
-      "y": -2600,
-      "width": 450,
-      "height": 120,
-      "color": "3"
     },
     {
       "id": "4334246cb54b9c4c",
@@ -404,17 +196,6 @@
       "color": "3"
     },
     {
-      "id": "8dfdab19d4ce309d",
-      "type": "text",
-      "text": "Results from contrasting biomes, crops and landscapes were remarkably consistent,",
-      "styleAttributes": {},
-      "x": 1220,
-      "y": -2290,
-      "width": 400,
-      "height": 70,
-      "color": "3"
-    },
-    {
       "id": "014cb2bd876cd09b",
       "type": "text",
       "text": ">[!tldr] Conception théorique proposée par Brosi et al. (2008) =>  \n>Pour augmenter les services de pollinisation dans les paysages agricoles, il faut des zones suffisamment grandes pour soutenir les populations de pollinisateurs, avec d'autres zones naturelles plus petites au sein de la matrice de culture à des distances qui ne sont pas beaucoup plus grandes que les distances de recherche de nourriture des pollinisateurs.",
@@ -437,15 +218,59 @@
       "color": "3"
     },
     {
-      "id": "629568d887c07448",
+      "id": "98de23e271d278ee",
       "type": "text",
-      "text": "Les différences entre l'échelle de réponse des ennemis spécialistes et généralistes soulèvent d'importantes implications en matière de gestion. Si les généralistes assurent l'essentiel de la lutte contre les ravageurs dans un système, un programme de lutte efficace pourrait devoir promouvoir des approches à l'échelle du paysage ou coopératives pour renforcer les populations d'ennemis généralistes, étant donné que l'échelle de réponse la plus prédictive était plus grande pour les généralistes que pour les spécialistes. Si les spécialistes sont les principaux ennemis, la gestion locale par les cultivateurs individuels peut être plus efficace, car les spécialistes semblent bénéficier davantage de la complexité du paysage à proximité du site de culture",
+      "text": "Chaplin‐Kramer R, (2011) A meta‐analysis of crop pest and natural enemy response to landscape complexity",
       "styleAttributes": {},
-      "x": -5760,
-      "y": -8,
-      "width": 705,
-      "height": 280,
-      "color": "2"
+      "x": -260,
+      "y": -1890,
+      "width": 268,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "72e4e78324f6a364",
+      "type": "text",
+      "text": "Les pollinisateurs dont les larves se nourrissent de cultures et de ravageurs sont les plus abondants dans des paysages a faible hétérogénéité de config (=bordures) et à fort % de terres arabes. Ils bénéficient des ressources agricoles et peuvent maintenir leurs pop dans des paysages dominé par les terres arables, contrairemenent à d'autres groupes d'organismes",
+      "styleAttributes": {},
+      "x": 541,
+      "y": -1230,
+      "width": 480,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "9223513c5be5209c",
+      "type": "text",
+      "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
+      "styleAttributes": {},
+      "x": 1134,
+      "y": -1450,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "1f0ccae56f43a736",
+      "type": "text",
+      "text": "Species richness of flower-visitors showed the greatest decrease with distance to natural areas, visitation rates showed an intermediate rate",
+      "styleAttributes": {},
+      "x": 940,
+      "y": -2600,
+      "width": 450,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "8dfdab19d4ce309d",
+      "type": "text",
+      "text": "Results from contrasting biomes, crops and landscapes were remarkably consistent,",
+      "styleAttributes": {},
+      "x": 1220,
+      "y": -2290,
+      "width": 400,
+      "height": 70,
+      "color": "3"
     },
     {
       "id": "4e5efbd34c61975d",
@@ -457,72 +282,6 @@
       "width": 268,
       "height": 60,
       "color": "5"
-    },
-    {
-      "id": "abace94e1b8f6bb8",
-      "type": "text",
-      "text": "Les ennemis spécialistes et généralistes ont montré des réponses significativement positives à la complexité du paysage mais n'étaient pas significativement différents les uns des autres. Ni les ravageurs spécialistes ni les ravageurs généralistes n'ont réagi à la complexité du paysage. Plus précisément, l'abondance des ennemis généralistes a augmenté avec la complexité du paysage, tandis que l'abondance des ennemis spécialistes n'a pas montré de réponse significative à cette complexité. \nL'abondance est le seul type de réponse qui diffère significativement entre les ennemis spécialistes et généralistes",
-      "styleAttributes": {},
-      "x": -770,
-      "y": -1830,
-      "width": 510,
-      "height": 350,
-      "color": "4"
-    },
-    {
-      "id": "173bf411654035ab",
-      "type": "text",
-      "text": "En ce qui concerne les services de contrôle des nuisibles par les ennemis naturels, nous avons déterminé qu'une augmentation de la complexité du paysage améliorait la réponse des ennemis naturels de près de 25 %.\n",
-      "styleAttributes": {},
-      "x": -770,
-      "y": -1480,
-      "width": 420,
-      "height": 140,
-      "color": "4"
-    },
-    {
-      "id": "2f58bfd92528b990",
-      "type": "text",
-      "text": "Les ennemis sont positivement affectés par la complexité du paysage, quel que soit le type de réponse de l'arthropode mesuré. Ce résultat est fiable",
-      "styleAttributes": {},
-      "x": -751,
-      "y": -2010,
-      "width": 382,
-      "height": 120,
-      "color": "4"
-    },
-    {
-      "id": "4a473d52c6b2df7c",
-      "type": "text",
-      "text": "Les ennemis volants et terrestres considérés comme passant l'hiver principalement à l'extérieur des cultures, ont bénéficié d'une forte densité de bordures",
-      "styleAttributes": {},
-      "x": -770,
-      "y": -1135,
-      "width": 300,
-      "height": 170,
-      "color": "4"
-    },
-    {
-      "id": "18c155e6a519b433",
-      "type": "text",
-      "text": "Les enemis naturels se dispersant via le sol (\"ground-dispersing\"), avec des besoins généralistes d'hivernation sont favorisés par une faible hétérogénéité de composition et un fort taux de terres arables",
-      "styleAttributes": {},
-      "x": -770,
-      "y": -945,
-      "width": 340,
-      "height": 180,
-      "color": "4"
-    },
-    {
-      "id": "5b56cd95cd7bc5e9",
-      "type": "text",
-      "text": "\nL'augmentation du pourcentage d'habitats naturels et de zones non cultivées a eu les effets les plus importants sur la réponse des ennemis naturels.",
-      "styleAttributes": {},
-      "x": -770,
-      "y": -1320,
-      "width": 320,
-      "height": 140,
-      "color": "4"
     },
     {
       "id": "29ba86d99c7e3f21",
@@ -558,6 +317,50 @@
       "color": "3"
     },
     {
+      "id": "9f1aaae8f588890d",
+      "type": "text",
+      "text": "species most often absent from isolated fields also tend to be the most efficient pollinators, exacerbating the effect of declining richness on pollination services",
+      "styleAttributes": {},
+      "x": 2050,
+      "y": -1660,
+      "width": 410,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "4a776b040debfb15",
+      "type": "text",
+      "text": "This decay suggests that, on average, fields 1.5 km away from natural habitat patches can be expected to contain 50% of the pollinator diversity of fields closest to these patches",
+      "styleAttributes": {},
+      "x": 2180,
+      "y": -2100,
+      "width": 420,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "4857c9995b8e579c",
+      "type": "text",
+      "text": "For managed pollinators, landscape elements do not need to provide nesting resources and instead can serve solely as foraging resources.",
+      "styleAttributes": {},
+      "x": 2070,
+      "y": -1290,
+      "width": 460,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "b2c537ac34a46f7c",
+      "type": "text",
+      "text": "50% decline for social bees occurred at < 1 ⁄ 20 the distance as that for solitary bees",
+      "styleAttributes": {},
+      "x": 2130,
+      "y": -1440,
+      "width": 260,
+      "height": 120,
+      "color": "3"
+    },
+    {
       "id": "7bac64fc0ba1bc63",
       "type": "text",
       "text": "design of agricultural landscapes for maximizing pollination services: (1) Rather than concentrating pollination reservoir cells in the center of farms to minimize bee loss, most optimal farm designs have reservoirs spread across their breadth",
@@ -580,94 +383,6 @@
       "color": "3"
     },
     {
-      "id": "951b016c488bbc0a",
-      "type": "text",
-      "text": "Landscape modifications also affected cross-pollination and the sexual reproduction of plants largely due to reduced diversity and availability of pollinators",
-      "styleAttributes": {},
-      "x": 3500,
-      "y": -1810,
-      "width": 480,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "06c3da71c1eb5955",
-      "type": "text",
-      "text": "bee species richness did not respond to the landscape configuration at a larger spatial scale.",
-      "styleAttributes": {},
-      "x": 2800,
-      "y": -2620,
-      "width": 440,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "506debd07f04c600",
-      "type": "text",
-      "text": "Reduced plant population density and number of pollen donors available in landscapes may also cause disruption of pollination processes",
-      "styleAttributes": {},
-      "x": 3480,
-      "y": -1590,
-      "width": 340,
-      "height": 150,
-      "color": "3"
-    },
-    {
-      "id": "8c8392a50894d9be",
-      "type": "text",
-      "text": "feirera 2013",
-      "styleAttributes": {},
-      "x": 3140,
-      "y": -1560,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "98de23e271d278ee",
-      "type": "text",
-      "text": "Chaplin‐Kramer R, (2011) A meta‐analysis of crop pest and natural enemy response to landscape complexity",
-      "styleAttributes": {},
-      "x": -260,
-      "y": -1890,
-      "width": 268,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "64bea8fc89050e3b",
-      "type": "text",
-      "text": "l'augmentation du parasitisme ou de la prédation peut être compensée par une plus grande colonisation par les organismes nuisibles dans les paysages complexes, de sorte qu'il n'y a pas de changement net dans les populations d'organismes nuisibles sur un gradient paysager",
-      "styleAttributes": {},
-      "x": -1514,
-      "y": -1700,
-      "width": 492,
-      "height": 190,
-      "color": "4"
-    },
-    {
-      "id": "67bdb04d2ff77ff9",
-      "type": "text",
-      "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
-      "styleAttributes": {},
-      "x": -1101,
-      "y": -1510,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "df84173994f34360",
-      "type": "text",
-      "text": "Chaplin‐Kramer R, (2011) A meta‐analysis of crop pest and natural enemy response to landscape complexity",
-      "styleAttributes": {},
-      "x": -1088,
-      "y": -1780,
-      "width": 268,
-      "height": 60,
-      "color": "5"
-    },
-    {
       "id": "aedab04c2a7c1a1a",
       "type": "text",
       "text": "small patches could have an equal capacity to large patches in providing pollination.",
@@ -675,28 +390,6 @@
       "x": 3130,
       "y": -1216,
       "width": 380,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "e26604767779da74",
-      "type": "text",
-      "text": "The availability of nesting sites for wild pollinators might be the limiting factor in agricultural landscapes",
-      "styleAttributes": {},
-      "x": 2360,
-      "y": -1049,
-      "width": 500,
-      "height": 70,
-      "color": "3"
-    },
-    {
-      "id": "054b91cdff3c5345",
-      "type": "text",
-      "text": "Limites : AES to enhance nesting resources for wild pollinators should consider both ground-nesting as well as cavitynesting bees.",
-      "styleAttributes": {},
-      "x": 2400,
-      "y": -1166,
-      "width": 540,
       "height": 100,
       "color": "3"
     },
@@ -734,14 +427,102 @@
       "color": "3"
     },
     {
-      "id": "973c72c78b4e2c2a",
+      "id": "255b24451a2147ba",
       "type": "text",
-      "text": "wild bees are more impacted by the amount of high-quality habitats within bee foraging ranges than by their configuration",
+      "text": "In landscapes with low heterogeneity, bees have to travel longer distances",
       "styleAttributes": {},
-      "x": 2720,
-      "y": -2220,
-      "width": 340,
+      "x": 3190,
+      "y": -710,
+      "width": 320,
+      "height": 110,
+      "color": "3"
+    },
+    {
+      "id": "793f121adf00b713",
+      "type": "text",
+      "text": "It can be concluded that the new patches should be scattered around the floral resources to reduce energy consumption, according to the  Optimal foraging theory.",
+      "styleAttributes": {},
+      "x": 3600,
+      "y": -720,
+      "width": 480,
       "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "eb57e87dfd38ae5b",
+      "type": "text",
+      "text": "As distances from natural habitat increase, fewer pollinator species are able to either forage to that distance or nest in fields so isolated from native resources.",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -1880,
+      "width": 260,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "086d289100bc39e0",
+      "type": "text",
+      "text": "estiment que : that tropical crops pollinated primarily by social bees may be most susceptible to pollination failure due to surrounding land use change",
+      "styleAttributes": {},
+      "x": 2310,
+      "y": -1520,
+      "width": 580,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "951b016c488bbc0a",
+      "type": "text",
+      "text": "Landscape modifications also affected cross-pollination and the sexual reproduction of plants largely due to reduced diversity and availability of pollinators",
+      "styleAttributes": {},
+      "x": 3500,
+      "y": -1810,
+      "width": 480,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "506debd07f04c600",
+      "type": "text",
+      "text": "Reduced plant population density and number of pollen donors available in landscapes may also cause disruption of pollination processes",
+      "styleAttributes": {},
+      "x": 3480,
+      "y": -1590,
+      "width": 340,
+      "height": 150,
+      "color": "3"
+    },
+    {
+      "id": "8c8392a50894d9be",
+      "type": "text",
+      "text": "feirera 2013",
+      "styleAttributes": {},
+      "x": 3140,
+      "y": -1560,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "e26604767779da74",
+      "type": "text",
+      "text": "The availability of nesting sites for wild pollinators might be the limiting factor in agricultural landscapes",
+      "styleAttributes": {},
+      "x": 2360,
+      "y": -1049,
+      "width": 500,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "054b91cdff3c5345",
+      "type": "text",
+      "text": "Limites : AES to enhance nesting resources for wild pollinators should consider both ground-nesting as well as cavitynesting bees.",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": -1166,
+      "width": 540,
+      "height": 100,
       "color": "3"
     },
     {
@@ -767,39 +548,6 @@
       "color": "5"
     },
     {
-      "id": "1730da87bedd5b2e",
-      "type": "text",
-      "text": "In contrast, configuration of habitats at a landscape scale had little impact on total bee richness and abundance.",
-      "styleAttributes": {},
-      "x": 2880,
-      "y": -2400,
-      "width": 360,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "255b24451a2147ba",
-      "type": "text",
-      "text": "In landscapes with low heterogeneity, bees have to travel longer distances",
-      "styleAttributes": {},
-      "x": 3190,
-      "y": -710,
-      "width": 320,
-      "height": 110,
-      "color": "3"
-    },
-    {
-      "id": "793f121adf00b713",
-      "type": "text",
-      "text": "It can be concluded that the new patches should be scattered around the floral resources to reduce energy consumption, according to the  Optimal foraging theory.",
-      "styleAttributes": {},
-      "x": 3600,
-      "y": -720,
-      "width": 480,
-      "height": 120,
-      "color": "3"
-    },
-    {
       "id": "c6bfab42760b2ef3",
       "type": "text",
       "text": "Our results showed that when small patches had little impact on the service provision, increasing edge density and shape complexity affected pollination negatively. Still, when the impact increased, shape complexity increased pollination,",
@@ -811,47 +559,58 @@
       "color": "3"
     },
     {
-      "id": "d141476a59cf18f3",
+      "id": "a2fa419beb8b44b8",
       "type": "text",
-      "text": "Rickets 2008",
+      "text": "wild bees, this might be only a few hundred meters but for honeybees, seminatural habitats and MFC within a radius of several kilometers are used as foraging resources",
       "styleAttributes": {},
-      "x": 1960,
-      "y": -1840,
-      "width": 260,
-      "height": 60,
-      "color": "5"
+      "x": 2260,
+      "y": -700,
+      "width": 520,
+      "height": 100,
+      "color": "3"
     },
     {
-      "id": "9f1aaae8f588890d",
+      "id": "d8950d62932c291a",
       "type": "text",
-      "text": "species most often absent from isolated fields also tend to be the most efficient pollinators, exacerbating the effect of declining richness on pollination services",
+      "text": "Increasing structural complexity of landscapes often has a positive effect on pollinator communities, their species and functional diversity and abundance by reducing distances between resources",
       "styleAttributes": {},
-      "x": 2050,
-      "y": -1660,
-      "width": 410,
+      "x": 2340,
+      "y": -880,
+      "width": 440,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "06c3da71c1eb5955",
+      "type": "text",
+      "text": "bee species richness did not respond to the landscape configuration at a larger spatial scale.",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": -2620,
+      "width": 440,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "973c72c78b4e2c2a",
+      "type": "text",
+      "text": "wild bees are more impacted by the amount of high-quality habitats within bee foraging ranges than by their configuration",
+      "styleAttributes": {},
+      "x": 2720,
+      "y": -2220,
+      "width": 340,
       "height": 120,
       "color": "3"
     },
     {
-      "id": "4a776b040debfb15",
+      "id": "1730da87bedd5b2e",
       "type": "text",
-      "text": "This decay suggests that, on average, fields 1.5 km away from natural habitat patches can be expected to contain 50% of the pollinator diversity of fields closest to these patches",
+      "text": "In contrast, configuration of habitats at a landscape scale had little impact on total bee richness and abundance.",
       "styleAttributes": {},
-      "x": 2180,
-      "y": -2100,
-      "width": 420,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "eb57e87dfd38ae5b",
-      "type": "text",
-      "text": "As distances from natural habitat increase, fewer pollinator species are able to either forage to that distance or nest in fields so isolated from native resources.",
-      "styleAttributes": {},
-      "x": 2380,
-      "y": -1880,
-      "width": 260,
-      "height": 180,
+      "x": 2880,
+      "y": -2400,
+      "width": 360,
+      "height": 100,
       "color": "3"
     },
     {
@@ -888,39 +647,6 @@
       "color": "3"
     },
     {
-      "id": "4857c9995b8e579c",
-      "type": "text",
-      "text": "For managed pollinators, landscape elements do not need to provide nesting resources and instead can serve solely as foraging resources.",
-      "styleAttributes": {},
-      "x": 2070,
-      "y": -1290,
-      "width": 460,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "a2fa419beb8b44b8",
-      "type": "text",
-      "text": "wild bees, this might be only a few hundred meters but for honeybees, seminatural habitats and MFC within a radius of several kilometers are used as foraging resources",
-      "styleAttributes": {},
-      "x": 2260,
-      "y": -700,
-      "width": 520,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "d8950d62932c291a",
-      "type": "text",
-      "text": "Increasing structural complexity of landscapes often has a positive effect on pollinator communities, their species and functional diversity and abundance by reducing distances between resources",
-      "styleAttributes": {},
-      "x": 2340,
-      "y": -880,
-      "width": 440,
-      "height": 160,
-      "color": "3"
-    },
-    {
       "id": "c29bb9c46effe5ad",
       "type": "text",
       "text": "Managed pollinators are mostly social bees (exceptions are some solitary bee species like",
@@ -954,26 +680,26 @@
       "color": "5"
     },
     {
-      "id": "b2c537ac34a46f7c",
+      "id": "075421fdbd1d6181",
       "type": "text",
-      "text": "50% decline for social bees occurred at < 1 ⁄ 20 the distance as that for solitary bees",
+      "text": "However, in landscapes that already have a relatively high proportion of pollinator-friendly habitat (ca. 20% of semi-natural habitat), the addition of flower-rich AES might not impact the abundance of the already existing pollinator community significantly",
       "styleAttributes": {},
-      "x": 2130,
-      "y": -1440,
-      "width": 260,
-      "height": 120,
+      "x": 1450,
+      "y": -1066,
+      "width": 430,
+      "height": 173,
       "color": "3"
     },
     {
-      "id": "086d289100bc39e0",
+      "id": "d141476a59cf18f3",
       "type": "text",
-      "text": "estiment que : that tropical crops pollinated primarily by social bees may be most susceptible to pollination failure due to surrounding land use change",
+      "text": "Rickets 2008",
       "styleAttributes": {},
-      "x": 2310,
-      "y": -1520,
-      "width": 580,
-      "height": 100,
-      "color": "3"
+      "x": 1960,
+      "y": -1840,
+      "width": 260,
+      "height": 60,
+      "color": "5"
     },
     {
       "id": "f3ca11bdd0d5a0d6",
@@ -998,17 +724,6 @@
       "color": "3"
     },
     {
-      "id": "075421fdbd1d6181",
-      "type": "text",
-      "text": "However, in landscapes that already have a relatively high proportion of pollinator-friendly habitat (ca. 20% of semi-natural habitat), the addition of flower-rich AES might not impact the abundance of the already existing pollinator community significantly",
-      "styleAttributes": {},
-      "x": 1450,
-      "y": -1066,
-      "width": 430,
-      "height": 173,
-      "color": "3"
-    },
-    {
       "id": "336b0f82c299decc",
       "type": "text",
       "text": "Wild pollinator diversity and abundance can be increased through AES by providing flowering resources in landscapes",
@@ -1017,6 +732,269 @@
       "y": -1240,
       "width": 420,
       "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "518a13a30e526c7c",
+      "type": "text",
+      "text": "Visitation rates of native pollinators also declined with increasing distance from natural habitat (Fig. 2). Visitation rate is probably a more direct indicator of pollination services than richness, because it measures the frequency of actual pollinator visits to flowers (Vazquez et al. 2005). We found that overall decay in native visitation rate was steeper than that estimated for richness, falling to 50% of its maximum value at < 1 km (668 m) from natural habitat",
+      "styleAttributes": {},
+      "x": 1500,
+      "y": -1880,
+      "width": 390,
+      "height": 340,
+      "color": "3"
+    },
+    {
+      "id": "12e92492e8d73b7c",
+      "type": "text",
+      "text": "Our syntheses reveal that pollinator richness and visitation rate on crops show general and significant exponential declines with increasing distance from natural habitat.",
+      "styleAttributes": {},
+      "x": 1710,
+      "y": -2100,
+      "width": 380,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "061da6de3238f01e",
+      "type": "text",
+      "text": "Garibaldi 2011",
+      "styleAttributes": {},
+      "x": 1480,
+      "y": -2410,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "bb274d204cea0c93",
+      "type": "text",
+      "text": "the overall 34% decrease in mean flower-visitor richness at 1 km from natural areas",
+      "styleAttributes": {},
+      "x": 1630,
+      "y": -2290,
+      "width": 260,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "98b54e96567d52a7",
+      "type": "text",
+      "text": "<h2><center>Configuration vs composition</center></h2>",
+      "styleAttributes": {},
+      "x": -4770,
+      "y": -1060,
+      "width": 260,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "bd72411b51c03d29",
+      "type": "text",
+      "text": "<h2><center>Connectivity</center></h2>",
+      "styleAttributes": {},
+      "x": -4770,
+      "y": -920,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "fc90c34034e1f76c",
+      "type": "text",
+      "text": "L'identification des ennemis naturels dominants dans des systèmes spécifiques ou pour des ravageurs spécifiques est un facteur important pour comprendre comment gérer les paysages afin de fournir un contrôle naturel des ravageurs, si des ennemis naturels plus abondants fournissent un meilleur contrôle.\nLa caractérisation des ennemis naturels dominants en fonction de leur degré de spécialisation et de leur échelle de réponse permettra d'établir des règles générales telles que celles établies dans le présent document pour fournir des conseils de gestion instructifs",
+      "styleAttributes": {},
+      "x": -5760,
+      "y": 360,
+      "width": 673,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "a29fa8048bc1d48c",
+      "type": "text",
+      "text": "Les réponses des généralistes ont affiché les corrélations les plus fortes avec la complexité du paysage à des échelles spatiales plus grandes que celles des spécialistes",
+      "styleAttributes": {},
+      "x": -4675,
+      "y": 240,
+      "width": 430,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "bf0e5196bf2c7f02",
+      "type": "text",
+      "text": "https://odr.inrae.fr/intranet/carto/cartowiki/index.php/Unit%C3%A9_paysag%C3%A8re",
+      "styleAttributes": {},
+      "x": -4455,
+      "y": -1180,
+      "width": 575,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "d1545754b8d646b2",
+      "type": "text",
+      "text": "<h2><center>Matrix-patches</center></h2>",
+      "styleAttributes": {},
+      "x": -4770,
+      "y": -820,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "d09efe7025fbb0d3",
+      "type": "text",
+      "text": "La **composition** a influencé tous les services évalués dans la présente recherche, tandis que la **configuration** a influencé deux services : la pollinisation et la qualité de l'eau\n$Duarte\\;\\;GT,\\;\\;(2018)$",
+      "styleAttributes": {},
+      "x": -4320,
+      "y": -1070,
+      "width": 580,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "7acc89700f7bdb80",
+      "type": "text",
+      "text": "Burel F, Baudry J (1999) Écologie du paysage : Concepts, méthodes et applications. Editions TEC and DOC.",
+      "styleAttributes": {},
+      "x": -4450,
+      "y": -1280,
+      "width": 510,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "6900754d98cfc91c",
+      "type": "text",
+      "text": "<h3><center>Bouquin BU Beaulieu</center></h3>",
+      "styleAttributes": {},
+      "x": -4770,
+      "y": -1260,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "07846a8de286d8a5",
+      "type": "text",
+      "text": "<h2><center>Landscape units</center></h2>",
+      "styleAttributes": {},
+      "x": -4770,
+      "y": -1160,
+      "width": 280,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "359b2365d1186f18",
+      "type": "text",
+      "text": "<h1><center>🌲🏡🌾🌱🌳 REQUIRED LANDSCAPE NOTIONS<center></h1>",
+      "styleAttributes": {},
+      "x": -5170,
+      "y": -1040,
+      "width": 260,
+      "height": 180,
+      "color": "1"
+    },
+    {
+      "id": "64dfc10ea8645c33",
+      "type": "text",
+      "text": "Il n'y a pas eu de différence significative dans la réponse entre les ravageurs et les ennemis dans l'ensemble",
+      "styleAttributes": {},
+      "x": -5055,
+      "y": 360,
+      "width": 340,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "0f5442e7c6a31a07",
+      "type": "text",
+      "text": "Enfin, la mesure la plus fondamentale du service écosystémique de lutte contre les ravageurs est la prévention ou la réduction des dommages causés aux cultures et, dans la mesure du possible, cette mesure devrait être incluse dans les études portant sur la réaction des ravageurs à la complexité du paysage. Avec de telles données à long terme, la lutte contre les ravageurs pourrait être évaluée comme la fréquence de dépassement de certains seuils d'abondance des ravageurs ou de dommages, plutôt que comme un point temporel unique, ce qui permettrait de mieux comprendre la dynamique des populations de ravageurs et la stabilité des services de lutte contre les ravageurs.",
+      "styleAttributes": {},
+      "x": -5740,
+      "y": 600,
+      "width": 855,
+      "height": 200,
+      "color": "3"
+    },
+    {
+      "id": "7a502ca8c656d8ca",
+      "type": "text",
+      "text": "Dans les paysages présentant un % de SSN intermédiaire, de faibles augmentations du SSN peuvent diluer les populations avant d'atteindre des niveaux suffisants pour contribuer positivement à la dissémination dans les champs. Dans ces paysages, les pratiques extensives telles que l'agriculture à faible niveau d'intrants peuvent être le moyen le plus efficace d'améliorer la diversité des arthropodes et les services rendus par les cultures.",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": -225,
+      "width": 580,
+      "height": 200,
+      "color": "3"
+    },
+    {
+      "id": "629568d887c07448",
+      "type": "text",
+      "text": "Les différences entre l'échelle de réponse des ennemis spécialistes et généralistes soulèvent d'importantes implications en matière de gestion. Si les généralistes assurent l'essentiel de la lutte contre les ravageurs dans un système, un programme de lutte efficace pourrait devoir promouvoir des approches à l'échelle du paysage ou coopératives pour renforcer les populations d'ennemis généralistes, étant donné que l'échelle de réponse la plus prédictive était plus grande pour les généralistes que pour les spécialistes. Si les spécialistes sont les principaux ennemis, la gestion locale par les cultivateurs individuels peut être plus efficace, car les spécialistes semblent bénéficier davantage de la complexité du paysage à proximité du site de culture",
+      "styleAttributes": {},
+      "x": -5760,
+      "y": -8,
+      "width": 705,
+      "height": 280,
+      "color": "2"
+    },
+    {
+      "id": "cbf262e8f1abd052",
+      "type": "text",
+      "text": "Chaplin‐Kramer R, (2011) A meta‐analysis of crop pest and natural enemy response to landscape complexity",
+      "styleAttributes": {},
+      "x": -4855,
+      "y": 72,
+      "width": 268,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "2e16b1abed05d4af",
+      "type": "text",
+      "text": "L'analyse des études qui ont mesuré plusieurs échelles suggère que la spécialisation influence l'échelle à laquelle les arthropodes réagissent à la complexité du paysage",
+      "styleAttributes": {},
+      "x": -4530,
+      "y": 45,
+      "width": 430,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "af7546a3d9f07032",
+      "type": "text",
+      "text": "<sub>Martin EA (2019) The interplay of landscape composition and configuration: new pathways to manage functional biodiversity and agroecosystem services across Europe. Ecology Letters 22:1083–1094.<sub>",
+      "styleAttributes": {},
+      "x": -4823,
+      "y": -140,
+      "width": 263,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "415218b9d111a42e",
+      "type": "text",
+      "text": "<h2><center> ARTHROPODS IN GENERAL",
+      "styleAttributes": {},
+      "x": -4790,
+      "y": -500,
+      "width": 260,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "2040f7fecd11dca0",
+      "type": "text",
+      "text": "En raison des impacts positifs sur les services et de nombreux fournisseurs de services et des impacts négatifs sur les ravageurs, la densité des lisières semble donc être un moteur plus cohérent pour la biodiversité fonctionnelle et la fourniture de services que la seule présence d'un habitat semi-naturel.",
+      "styleAttributes": {},
+      "x": -4460,
+      "y": -265,
+      "width": 360,
+      "height": 240,
       "color": "3"
     },
     {
@@ -1064,50 +1042,6 @@
       "color": "5"
     },
     {
-      "id": "518a13a30e526c7c",
-      "type": "text",
-      "text": "Visitation rates of native pollinators also declined with increasing distance from natural habitat (Fig. 2). Visitation rate is probably a more direct indicator of pollination services than richness, because it measures the frequency of actual pollinator visits to flowers (Vazquez et al. 2005). We found that overall decay in native visitation rate was steeper than that estimated for richness, falling to 50% of its maximum value at < 1 km (668 m) from natural habitat",
-      "styleAttributes": {},
-      "x": 1500,
-      "y": -1880,
-      "width": 390,
-      "height": 340,
-      "color": "3"
-    },
-    {
-      "id": "12e92492e8d73b7c",
-      "type": "text",
-      "text": "Our syntheses reveal that pollinator richness and visitation rate on crops show general and significant exponential declines with increasing distance from natural habitat.",
-      "styleAttributes": {},
-      "x": 1710,
-      "y": -2100,
-      "width": 380,
-      "height": 160,
-      "color": "3"
-    },
-    {
-      "id": "061da6de3238f01e",
-      "type": "text",
-      "text": "Garibaldi 2011",
-      "styleAttributes": {},
-      "x": 1480,
-      "y": -2410,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "bb274d204cea0c93",
-      "type": "text",
-      "text": "the overall 34% decrease in mean flower-visitor richness at 1 km from natural areas",
-      "styleAttributes": {},
-      "x": 1630,
-      "y": -2290,
-      "width": 260,
-      "height": 120,
-      "color": "3"
-    },
-    {
       "id": "976810bfc6de310e",
       "type": "text",
       "text": "- L'effet le plus fort (et le plus positif) a été observé pour le pourcentage de zones non cultivées. \n- La connectivité du paysage a également influencé positivement la qualité de l'eau, alors que la fragmentation ne l'a pas fait.\n- L'hétérogénéité (composition) a eu un effet significatif et négatif sur la qualité de l'eau.",
@@ -1141,6 +1075,61 @@
       "color": "5"
     },
     {
+      "id": "c8e659ce91d50032",
+      "type": "text",
+      "text": "<h1><center>🪨 EROSION CONTROL AND LANDSCAPE</center></h1>",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": -560,
+      "width": 280,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "2ec2753399033ed4",
+      "type": "text",
+      "text": "<h1><center>🐝 POLLINATION AND LANDSCAPE</center></h1>",
+      "styleAttributes": {},
+      "x": 561,
+      "y": -535,
+      "width": 305,
+      "height": 90,
+      "color": "1"
+    },
+    {
+      "id": "c6d66c609b21cd09",
+      "type": "text",
+      "text": "L'augmentation de la densité des lisières a été la plus efficace pour les arthropodes dans les paysages où le pourcentage d'habitats semi-naturels (HSN) était faible (< 5 %) ou élevé (> 20 %).",
+      "styleAttributes": {},
+      "x": -4993,
+      "y": -375,
+      "width": 511,
+      "height": 110,
+      "color": "3"
+    },
+    {
+      "id": "4a473d52c6b2df7c",
+      "type": "text",
+      "text": "Les ennemis volants et terrestres considérés comme passant l'hiver principalement à l'extérieur des cultures, ont bénéficié d'une forte densité de bordures",
+      "styleAttributes": {},
+      "x": -770,
+      "y": -1135,
+      "width": 300,
+      "height": 170,
+      "color": "4"
+    },
+    {
+      "id": "18c155e6a519b433",
+      "type": "text",
+      "text": "Les enemis naturels se dispersant via le sol (\"ground-dispersing\"), avec des besoins généralistes d'hivernation sont favorisés par une faible hétérogénéité de composition et un fort taux de terres arables",
+      "styleAttributes": {},
+      "x": -770,
+      "y": -945,
+      "width": 340,
+      "height": 180,
+      "color": "4"
+    },
+    {
       "id": "09f81e9300c2e99b",
       "type": "file",
       "file": "Images/Pasted image 20241128163648.png",
@@ -1148,17 +1137,6 @@
       "x": 1490,
       "y": 260,
       "width": 903,
-      "height": 220,
-      "color": "3"
-    },
-    {
-      "id": "72e4e78324f6a364",
-      "type": "text",
-      "text": "Les pollinisateurs dont les larves se nourrissent de cultures et de ravageurs sont les plus abondants dans des paysages a faible hétérogénéité de config (=bordures) et à fort % de terres arabes. Ils bénéficient des ressources agricoles et peuvent maintenir leurs pop dans des paysages dominé par les terres arables, contrairemenent à d'autres groupes d'organismes",
-      "styleAttributes": {},
-      "x": 541,
-      "y": -1230,
-      "width": 480,
       "height": 220,
       "color": "3"
     },
@@ -1184,39 +1162,6 @@
       "height": 235
     },
     {
-      "id": "9223513c5be5209c",
-      "type": "text",
-      "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
-      "styleAttributes": {},
-      "x": 1134,
-      "y": -1450,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "c8e659ce91d50032",
-      "type": "text",
-      "text": "<h1><center>🪨 EROSION CONTROL AND LANDSCAPE</center></h1>",
-      "styleAttributes": {},
-      "x": 1360,
-      "y": -560,
-      "width": 280,
-      "height": 140,
-      "color": "1"
-    },
-    {
-      "id": "13a2d7bb079edbb2",
-      "type": "text",
-      "text": "Une évaluation des données relatives à la réaction des organismes nuisibles a montré que le pourcentage de zones non cultivées augmentait la réaction des organismes nuisibles de près de 35 %.\nLe pourcentage de zones naturelles entourant les zones agricoles n'a pas eu d'influence sur la perte de contrôle des ravageurs.",
-      "styleAttributes": {},
-      "x": -1514,
-      "y": -1440,
-      "width": 492,
-      "height": 200,
-      "color": "4"
-    },
-    {
       "id": "4c515eaa927347c3",
       "type": "text",
       "text": "Les ravageurs hivernant à l'extérieur des cultures étaient les moins nombreux, et la pollinisation et la lutte contre les ravageurs étaient les plus importantes dans les paysages à forte densité de lisières, en particulier dans une fourchette de 0,2 à 0,4 km/ha.",
@@ -1226,17 +1171,6 @@
       "width": 413,
       "height": 190,
       "color": "4"
-    },
-    {
-      "id": "2ec2753399033ed4",
-      "type": "text",
-      "text": "<h1><center>🐝 POLLINATION AND LANDSCAPE</center></h1>",
-      "styleAttributes": {},
-      "x": 561,
-      "y": -535,
-      "width": 305,
-      "height": 90,
-      "color": "1"
     },
     {
       "id": "99010be27bcdfd06",
@@ -1250,17 +1184,6 @@
       "color": "1"
     },
     {
-      "id": "7fbec3b6cb4f7e65",
-      "type": "text",
-      "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
-      "styleAttributes": {},
-      "x": -350,
-      "y": -1310,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
       "id": "6ad36668a8c14854",
       "type": "text",
       "text": "<h1><center>🚰 WATER QUALITY AND LANDSCAPE</center></h1>",
@@ -1270,6 +1193,127 @@
       "width": 260,
       "height": 140,
       "color": "1"
+    },
+    {
+      "id": "022515ffcfcc03f8",
+      "type": "text",
+      "text": "<h1><center>🍂 SOIL QUALITY AND LANDSCAPE</center></h1>",
+      "styleAttributes": {},
+      "x": -40,
+      "y": -200,
+      "width": 260,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "b7d568b031501c23",
+      "type": "text",
+      "text": "<h3><center>PESTS</center></h3>",
+      "styleAttributes": {},
+      "x": -1386,
+      "y": -825,
+      "width": 157,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "b4c83c80c9a7d0cc",
+      "type": "text",
+      "text": "Tscharntke T, (2016) When natural habitat fails to enhance biological pest control – Five hypotheses. ",
+      "styleAttributes": {},
+      "x": -1870,
+      "y": 280,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "d11e3af48c0c41ec",
+      "type": "text",
+      "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
+      "styleAttributes": {},
+      "x": -1940,
+      "y": 130,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "717e4d3f31162496",
+      "type": "text",
+      "text": "L'effet de la complexité du paysage sur la lutte contre les maladies était légèrement positif, bien que non significatif",
+      "styleAttributes": {},
+      "x": -2140,
+      "y": -1082,
+      "width": 400,
+      "height": 85,
+      "color": "4"
+    },
+    {
+      "id": "7127774d817121aa",
+      "type": "text",
+      "text": "<h3><center>DISEASES</center></h3>",
+      "styleAttributes": {},
+      "x": -2140,
+      "y": -845,
+      "width": 250,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "b39bf1dc46368324",
+      "type": "text",
+      "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
+      "styleAttributes": {},
+      "x": -1810,
+      "y": -1165,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "5fe4f964d1831b28",
+      "type": "text",
+      "text": "<sub>Martin EA (2019) The interplay of landscape composition and configuration: new pathways to manage functional biodiversity and agroecosystem services across Europe. Ecology Letters 22:1083–1094.<sub>",
+      "styleAttributes": {},
+      "x": -371,
+      "y": -945,
+      "width": 263,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "3fa17c4be7bf7ac4",
+      "type": "text",
+      "text": "Lutte contre les ravageurs par les ennemis naturels semblent présenter un compromis avec les services de production alimentaire, tels que mesurés par le pourcentage de la superficie cultivée.",
+      "styleAttributes": {},
+      "x": -2580,
+      "y": 100,
+      "width": 540,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "b459ae4d0c458765",
+      "type": "text",
+      "text": ">[!quote] Hypothèse de Tcharntke \n>L'importance relative des habitats naturels pour le biocontrôle peut varier considérablement en fonction du type de culture, du ravageur, du prédateur, de la gestion des terres et de la structure du paysage.",
+      "styleAttributes": {},
+      "x": -2595,
+      "y": 250,
+      "width": 570,
+      "height": 230,
+      "color": "3"
+    },
+    {
+      "id": "f0f8969a27e61881",
+      "type": "text",
+      "text": "La définition de la complexité du paysage varie considérablement d'une étude à l'autre. Le plus souvent, la complexité du paysage fait référence à la quantité d'habitats naturels ou non cultivés dans le paysage entourant l'exploitation agricole",
+      "styleAttributes": {},
+      "x": -3520,
+      "y": -380,
+      "width": 460,
+      "height": 160,
+      "color": "3"
     },
     {
       "id": "bdfb13a61719e9af",
@@ -1305,39 +1349,6 @@
       "color": "1"
     },
     {
-      "id": "022515ffcfcc03f8",
-      "type": "text",
-      "text": "<h1><center>🍂 SOIL QUALITY AND LANDSCAPE</center></h1>",
-      "styleAttributes": {},
-      "x": -40,
-      "y": -200,
-      "width": 260,
-      "height": 140,
-      "color": "1"
-    },
-    {
-      "id": "b7d568b031501c23",
-      "type": "text",
-      "text": "<h3><center>PESTS</center></h3>",
-      "styleAttributes": {},
-      "x": -1386,
-      "y": -825,
-      "width": 157,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "5fe4f964d1831b28",
-      "type": "text",
-      "text": "<sub>Martin EA (2019) The interplay of landscape composition and configuration: new pathways to manage functional biodiversity and agroecosystem services across Europe. Ecology Letters 22:1083–1094.<sub>",
-      "styleAttributes": {},
-      "x": -371,
-      "y": -945,
-      "width": 263,
-      "height": 60,
-      "color": "5"
-    },
-    {
       "id": "c63ec8962c387245",
       "type": "text",
       "text": "<h3><center>NATURAL ENEMIES AND PARASITOÏDS</center></h3>",
@@ -1347,17 +1358,6 @@
       "width": 280,
       "height": 80,
       "color": "2"
-    },
-    {
-      "id": "aae88b237681f170",
-      "type": "text",
-      "text": "<sub>Martin EA (2019) The interplay of landscape composition and configuration: new pathways to manage functional biodiversity and agroecosystem services across Europe. Ecology Letters 22:1083–1094.<sub>",
-      "styleAttributes": {},
-      "x": -1180,
-      "y": -1210,
-      "width": 263,
-      "height": 60,
-      "color": "5"
     }
   ],
   "edges": [
