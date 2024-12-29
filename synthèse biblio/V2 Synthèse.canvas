@@ -141,17 +141,6 @@
       "color": "5"
     },
     {
-      "id": "4334246cb54b9c4c",
-      "type": "text",
-      "text": "Shackelford",
-      "styleAttributes": {},
-      "x": 1160,
-      "y": -1900,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
       "id": "f8a4e96fd8e54180",
       "type": "text",
       "text": "Our findings were consistent with the prediction that isolation from diverse natural and semi-natural areas reduces both the stability and the mean levels of flower-visitor richness, visitation rate and fruit set in crop areas",
@@ -163,61 +152,6 @@
       "color": "3"
     },
     {
-      "id": "9fbf6c92d77498d5",
-      "type": "text",
-      "text": "landscape complexity had positive effects on the  flower-visitation rate and richness of pollinators (Garibaldi et al., 2011).",
-      "styleAttributes": {},
-      "x": 540,
-      "y": -1890,
-      "width": 561,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "95dd912f8dd5739b",
-      "type": "text",
-      "text": "abundance and/or richness, may depend on the size (i.e. mobility)  of ESPs, as well as on their resource requirements. For example, small (i.e. less mobile) bees  responded to landscapes at finer scales than did large (i.e. more mobile) bees",
-      "styleAttributes": {},
-      "x": 541,
-      "y": -2080,
-      "width": 490,
-      "height": 140,
-      "color": "3"
-    },
-    {
-      "id": "45ac2a65b73341a2",
-      "type": "text",
-      "text": "For example, we might imagine that some species of natural enemies would prey  not only on pests but also on pollinators (a trade-off between the management of pollinators  and the management of natural enemies),",
-      "styleAttributes": {},
-      "x": 700,
-      "y": -2220,
-      "width": 480,
-      "height": 140,
-      "color": "3"
-    },
-    {
-      "id": "014cb2bd876cd09b",
-      "type": "text",
-      "text": ">[!tldr] Conception théorique proposée par Brosi et al. (2008) =>  \n>Pour augmenter les services de pollinisation dans les paysages agricoles, il faut des zones suffisamment grandes pour soutenir les populations de pollinisateurs, avec d'autres zones naturelles plus petites au sein de la matrice de culture à des distances qui ne sont pas beaucoup plus grandes que les distances de recherche de nourriture des pollinisateurs.",
-      "styleAttributes": {},
-      "x": 541,
-      "y": -1680,
-      "width": 580,
-      "height": 250,
-      "color": "3"
-    },
-    {
-      "id": "b7fd91e7910bf7c3",
-      "type": "text",
-      "text": "La complexité du paysage  a augmenté le service de pollinisation dans la présente étude. Cette augmentation est principalement due au pourcentage de zones naturelles, mais aussi à la relation positive avec l'agrégation des paysages.",
-      "styleAttributes": {},
-      "x": 541,
-      "y": -1400,
-      "width": 560,
-      "height": 140,
-      "color": "3"
-    },
-    {
       "id": "98de23e271d278ee",
       "type": "text",
       "text": "Chaplin‐Kramer R, (2011) A meta‐analysis of crop pest and natural enemy response to landscape complexity",
@@ -225,28 +159,6 @@
       "x": -260,
       "y": -1890,
       "width": 268,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "72e4e78324f6a364",
-      "type": "text",
-      "text": "Les pollinisateurs dont les larves se nourrissent de cultures et de ravageurs sont les plus abondants dans des paysages a faible hétérogénéité de config (=bordures) et à fort % de terres arabes. Ils bénéficient des ressources agricoles et peuvent maintenir leurs pop dans des paysages dominé par les terres arables, contrairemenent à d'autres groupes d'organismes",
-      "styleAttributes": {},
-      "x": 541,
-      "y": -1230,
-      "width": 480,
-      "height": 220,
-      "color": "3"
-    },
-    {
-      "id": "9223513c5be5209c",
-      "type": "text",
-      "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
-      "styleAttributes": {},
-      "x": 1134,
-      "y": -1450,
-      "width": 260,
       "height": 60,
       "color": "5"
     },
@@ -314,50 +226,6 @@
       "y": -2960,
       "width": 565,
       "height": 360,
-      "color": "3"
-    },
-    {
-      "id": "9f1aaae8f588890d",
-      "type": "text",
-      "text": "species most often absent from isolated fields also tend to be the most efficient pollinators, exacerbating the effect of declining richness on pollination services",
-      "styleAttributes": {},
-      "x": 2050,
-      "y": -1660,
-      "width": 410,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "4a776b040debfb15",
-      "type": "text",
-      "text": "This decay suggests that, on average, fields 1.5 km away from natural habitat patches can be expected to contain 50% of the pollinator diversity of fields closest to these patches",
-      "styleAttributes": {},
-      "x": 2180,
-      "y": -2100,
-      "width": 420,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "4857c9995b8e579c",
-      "type": "text",
-      "text": "For managed pollinators, landscape elements do not need to provide nesting resources and instead can serve solely as foraging resources.",
-      "styleAttributes": {},
-      "x": 2070,
-      "y": -1290,
-      "width": 460,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "b2c537ac34a46f7c",
-      "type": "text",
-      "text": "50% decline for social bees occurred at < 1 ⁄ 20 the distance as that for solitary bees",
-      "styleAttributes": {},
-      "x": 2130,
-      "y": -1440,
-      "width": 260,
-      "height": 120,
       "color": "3"
     },
     {
@@ -449,28 +317,6 @@
       "color": "3"
     },
     {
-      "id": "eb57e87dfd38ae5b",
-      "type": "text",
-      "text": "As distances from natural habitat increase, fewer pollinator species are able to either forage to that distance or nest in fields so isolated from native resources.",
-      "styleAttributes": {},
-      "x": 2380,
-      "y": -1880,
-      "width": 260,
-      "height": 180,
-      "color": "3"
-    },
-    {
-      "id": "086d289100bc39e0",
-      "type": "text",
-      "text": "estiment que : that tropical crops pollinated primarily by social bees may be most susceptible to pollination failure due to surrounding land use change",
-      "styleAttributes": {},
-      "x": 2310,
-      "y": -1520,
-      "width": 580,
-      "height": 100,
-      "color": "3"
-    },
-    {
       "id": "951b016c488bbc0a",
       "type": "text",
       "text": "Landscape modifications also affected cross-pollination and the sexual reproduction of plants largely due to reduced diversity and availability of pollinators",
@@ -504,28 +350,6 @@
       "color": "5"
     },
     {
-      "id": "e26604767779da74",
-      "type": "text",
-      "text": "The availability of nesting sites for wild pollinators might be the limiting factor in agricultural landscapes",
-      "styleAttributes": {},
-      "x": 2360,
-      "y": -1049,
-      "width": 500,
-      "height": 70,
-      "color": "3"
-    },
-    {
-      "id": "054b91cdff3c5345",
-      "type": "text",
-      "text": "Limites : AES to enhance nesting resources for wild pollinators should consider both ground-nesting as well as cavitynesting bees.",
-      "styleAttributes": {},
-      "x": 2400,
-      "y": -1166,
-      "width": 540,
-      "height": 100,
-      "color": "3"
-    },
-    {
       "id": "af71d8e3adee378d",
       "type": "text",
       "text": "many optimal designs include large patches to ensure bee population persistence, with smaller, dispersed patches to provide spatially even pollination services;",
@@ -548,39 +372,6 @@
       "color": "5"
     },
     {
-      "id": "c6bfab42760b2ef3",
-      "type": "text",
-      "text": "Our results showed that when small patches had little impact on the service provision, increasing edge density and shape complexity affected pollination negatively. Still, when the impact increased, shape complexity increased pollination,",
-      "styleAttributes": {},
-      "x": 2930,
-      "y": -790,
-      "width": 260,
-      "height": 280,
-      "color": "3"
-    },
-    {
-      "id": "a2fa419beb8b44b8",
-      "type": "text",
-      "text": "wild bees, this might be only a few hundred meters but for honeybees, seminatural habitats and MFC within a radius of several kilometers are used as foraging resources",
-      "styleAttributes": {},
-      "x": 2260,
-      "y": -700,
-      "width": 520,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "d8950d62932c291a",
-      "type": "text",
-      "text": "Increasing structural complexity of landscapes often has a positive effect on pollinator communities, their species and functional diversity and abundance by reducing distances between resources",
-      "styleAttributes": {},
-      "x": 2340,
-      "y": -880,
-      "width": 440,
-      "height": 160,
-      "color": "3"
-    },
-    {
       "id": "06c3da71c1eb5955",
       "type": "text",
       "text": "bee species richness did not respond to the landscape configuration at a larger spatial scale.",
@@ -589,17 +380,6 @@
       "y": -2620,
       "width": 440,
       "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "973c72c78b4e2c2a",
-      "type": "text",
-      "text": "wild bees are more impacted by the amount of high-quality habitats within bee foraging ranges than by their configuration",
-      "styleAttributes": {},
-      "x": 2720,
-      "y": -2220,
-      "width": 340,
-      "height": 120,
       "color": "3"
     },
     {
@@ -647,61 +427,6 @@
       "color": "3"
     },
     {
-      "id": "c29bb9c46effe5ad",
-      "type": "text",
-      "text": "Managed pollinators are mostly social bees (exceptions are some solitary bee species like",
-      "styleAttributes": {},
-      "x": 1760,
-      "y": -900,
-      "width": 460,
-      "height": 65,
-      "color": "3"
-    },
-    {
-      "id": "6b6929cafb901a33",
-      "type": "text",
-      "text": "The spatial distribution of pollinator-friendly landscape elements therefore determines the availability and abundance of pollinators for crop pollination services",
-      "styleAttributes": {},
-      "x": 1875,
-      "y": -780,
-      "width": 430,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "d1c67048f6450909",
-      "type": "text",
-      "text": "pufal et al 2017",
-      "styleAttributes": {},
-      "x": 1960,
-      "y": -1060,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "075421fdbd1d6181",
-      "type": "text",
-      "text": "However, in landscapes that already have a relatively high proportion of pollinator-friendly habitat (ca. 20% of semi-natural habitat), the addition of flower-rich AES might not impact the abundance of the already existing pollinator community significantly",
-      "styleAttributes": {},
-      "x": 1450,
-      "y": -1066,
-      "width": 430,
-      "height": 173,
-      "color": "3"
-    },
-    {
-      "id": "d141476a59cf18f3",
-      "type": "text",
-      "text": "Rickets 2008",
-      "styleAttributes": {},
-      "x": 1960,
-      "y": -1840,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
       "id": "f3ca11bdd0d5a0d6",
       "type": "text",
       "text": "Il est important de noter que nous apportons de nouvelles preuves d'une relation négative entre l'isolement des zones naturelles et à la fois la stabilité spatiale et le niveau moyen de fructification des cultures.",
@@ -710,50 +435,6 @@
       "y": -2680,
       "width": 520,
       "height": 140,
-      "color": "3"
-    },
-    {
-      "id": "b966f959f7bd6955",
-      "type": "text",
-      "text": "Social bees are dominant pollinators of many crops in both temperate and tropical areas (Free 1993; Roubik 1995). We found that visitation rates of native social bees consistently decline more steeply with increasing distance than those of solitary bees",
-      "styleAttributes": {},
-      "x": 1550,
-      "y": -1450,
-      "width": 500,
-      "height": 140,
-      "color": "3"
-    },
-    {
-      "id": "336b0f82c299decc",
-      "type": "text",
-      "text": "Wild pollinator diversity and abundance can be increased through AES by providing flowering resources in landscapes",
-      "styleAttributes": {},
-      "x": 1500,
-      "y": -1240,
-      "width": 420,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "518a13a30e526c7c",
-      "type": "text",
-      "text": "Visitation rates of native pollinators also declined with increasing distance from natural habitat (Fig. 2). Visitation rate is probably a more direct indicator of pollination services than richness, because it measures the frequency of actual pollinator visits to flowers (Vazquez et al. 2005). We found that overall decay in native visitation rate was steeper than that estimated for richness, falling to 50% of its maximum value at < 1 km (668 m) from natural habitat",
-      "styleAttributes": {},
-      "x": 1500,
-      "y": -1880,
-      "width": 390,
-      "height": 340,
-      "color": "3"
-    },
-    {
-      "id": "12e92492e8d73b7c",
-      "type": "text",
-      "text": "Our syntheses reveal that pollinator richness and visitation rate on crops show general and significant exponential declines with increasing distance from natural habitat.",
-      "styleAttributes": {},
-      "x": 1710,
-      "y": -2100,
-      "width": 380,
-      "height": 160,
       "color": "3"
     },
     {
@@ -766,17 +447,6 @@
       "width": 260,
       "height": 60,
       "color": "5"
-    },
-    {
-      "id": "bb274d204cea0c93",
-      "type": "text",
-      "text": "the overall 34% decrease in mean flower-visitor richness at 1 km from natural areas",
-      "styleAttributes": {},
-      "x": 1630,
-      "y": -2290,
-      "width": 260,
-      "height": 120,
-      "color": "3"
     },
     {
       "id": "98b54e96567d52a7",
@@ -1007,39 +677,6 @@
       "width": 394,
       "height": 180,
       "color": "3"
-    },
-    {
-      "id": "fa5a8b9191b227b1",
-      "type": "text",
-      "text": "Les pollinisateurs qui ne se nourrissent ni de ravageurs ou de ravageurs (papillons non ravageurs, des syrphides non aphidophages, abeilles) sont favorisé par des forte densité de haies (=hétérogénité de configuration élevée)",
-      "styleAttributes": {},
-      "x": 561,
-      "y": -915,
-      "width": 440,
-      "height": 160,
-      "color": "3"
-    },
-    {
-      "id": "5bb9c58803edc527",
-      "type": "text",
-      "text": "## $\\ne$ ",
-      "styleAttributes": {},
-      "x": 866,
-      "y": -1000,
-      "width": 60,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "6e487d9131b9e89c",
-      "type": "text",
-      "text": "<sub>Martin EA (2019) The interplay of landscape composition and configuration: new pathways to manage functional biodiversity and agroecosystem services across Europe. Ecology Letters 22:1083–1094.<sub>",
-      "styleAttributes": {},
-      "x": 1001,
-      "y": -970,
-      "width": 263,
-      "height": 60,
-      "color": "5"
     },
     {
       "id": "976810bfc6de310e",
@@ -1358,6 +995,369 @@
       "width": 280,
       "height": 80,
       "color": "2"
+    },
+    {
+      "id": "9fbf6c92d77498d5",
+      "type": "text",
+      "text": "landscape complexity had positive effects on the  flower-visitation rate and richness of pollinators (Garibaldi et al., 2011).",
+      "styleAttributes": {},
+      "x": 540,
+      "y": -1890,
+      "width": 561,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "014cb2bd876cd09b",
+      "type": "text",
+      "text": ">[!tldr] Conception théorique proposée par Brosi et al. (2008) =>  \n>Pour augmenter les services de pollinisation dans les paysages agricoles, il faut des zones suffisamment grandes pour soutenir les populations de pollinisateurs, avec d'autres zones naturelles plus petites au sein de la matrice de culture à des distances qui ne sont pas beaucoup plus grandes que les distances de recherche de nourriture des pollinisateurs.",
+      "styleAttributes": {},
+      "x": 541,
+      "y": -1680,
+      "width": 580,
+      "height": 250,
+      "color": "3"
+    },
+    {
+      "id": "b7fd91e7910bf7c3",
+      "type": "text",
+      "text": "La complexité du paysage  a augmenté le service de pollinisation dans la présente étude. Cette augmentation est principalement due au pourcentage de zones naturelles, mais aussi à la relation positive avec l'agrégation des paysages.",
+      "styleAttributes": {},
+      "x": 541,
+      "y": -1400,
+      "width": 560,
+      "height": 140,
+      "color": "3"
+    },
+    {
+      "id": "72e4e78324f6a364",
+      "type": "text",
+      "text": "Les pollinisateurs dont les larves se nourrissent de cultures et de ravageurs sont les plus abondants dans des paysages a faible hétérogénéité de config (=bordures) et à fort % de terres arabes. Ils bénéficient des ressources agricoles et peuvent maintenir leurs pop dans des paysages dominé par les terres arables, contrairemenent à d'autres groupes d'organismes",
+      "styleAttributes": {},
+      "x": 541,
+      "y": -1230,
+      "width": 480,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "9223513c5be5209c",
+      "type": "text",
+      "text": "Duarte GT, (2018) The effects of landscape patterns on ecosystem services: meta-analyses of landscape services",
+      "styleAttributes": {},
+      "x": 1134,
+      "y": -1450,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "075421fdbd1d6181",
+      "type": "text",
+      "text": "However, in landscapes that already have a relatively high proportion of pollinator-friendly habitat (ca. 20% of semi-natural habitat), the addition of flower-rich AES might not impact the abundance of the already existing pollinator community significantly",
+      "styleAttributes": {},
+      "x": 1450,
+      "y": -1066,
+      "width": 430,
+      "height": 173,
+      "color": "3"
+    },
+    {
+      "id": "518a13a30e526c7c",
+      "type": "text",
+      "text": "Visitation rates of native pollinators also declined with increasing distance from natural habitat (Fig. 2). Visitation rate is probably a more direct indicator of pollination services than richness, because it measures the frequency of actual pollinator visits to flowers (Vazquez et al. 2005). We found that overall decay in native visitation rate was steeper than that estimated for richness, falling to 50% of its maximum value at < 1 km (668 m) from natural habitat",
+      "styleAttributes": {},
+      "x": 1500,
+      "y": -1880,
+      "width": 390,
+      "height": 340,
+      "color": "3"
+    },
+    {
+      "id": "fa5a8b9191b227b1",
+      "type": "text",
+      "text": "Les pollinisateurs qui ne se nourrissent ni de ravageurs ou de ravageurs (papillons non ravageurs, des syrphides non aphidophages, abeilles) sont favorisé par des forte densité de haies (=hétérogénité de configuration élevée)",
+      "styleAttributes": {},
+      "x": 561,
+      "y": -915,
+      "width": 440,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "5bb9c58803edc527",
+      "type": "text",
+      "text": "## $\\ne$ ",
+      "styleAttributes": {},
+      "x": 866,
+      "y": -1000,
+      "width": 60,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "6e487d9131b9e89c",
+      "type": "text",
+      "text": "<sub>Martin EA (2019) The interplay of landscape composition and configuration: new pathways to manage functional biodiversity and agroecosystem services across Europe. Ecology Letters 22:1083–1094.<sub>",
+      "styleAttributes": {},
+      "x": 1001,
+      "y": -970,
+      "width": 263,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "4334246cb54b9c4c",
+      "type": "text",
+      "text": "Shackelford",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": -1900,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "95dd912f8dd5739b",
+      "type": "text",
+      "text": "abundance and/or richness, may depend on the size (i.e. mobility)  of ESPs, as well as on their resource requirements. For example, small (i.e. less mobile) bees  responded to landscapes at finer scales than did large (i.e. more mobile) bees",
+      "styleAttributes": {},
+      "x": 541,
+      "y": -2080,
+      "width": 490,
+      "height": 140,
+      "color": "3"
+    },
+    {
+      "id": "45ac2a65b73341a2",
+      "type": "text",
+      "text": "For example, we might imagine that some species of natural enemies would prey  not only on pests but also on pollinators (a trade-off between the management of pollinators  and the management of natural enemies),",
+      "styleAttributes": {},
+      "x": 700,
+      "y": -2220,
+      "width": 480,
+      "height": 140,
+      "color": "3"
+    },
+    {
+      "id": "9f1aaae8f588890d",
+      "type": "text",
+      "text": "species most often absent from isolated fields also tend to be the most efficient pollinators, exacerbating the effect of declining richness on pollination services",
+      "styleAttributes": {},
+      "x": 2050,
+      "y": -1660,
+      "width": 410,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "4857c9995b8e579c",
+      "type": "text",
+      "text": "For managed pollinators, landscape elements do not need to provide nesting resources and instead can serve solely as foraging resources.",
+      "styleAttributes": {},
+      "x": 2070,
+      "y": -1290,
+      "width": 460,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "d1c67048f6450909",
+      "type": "text",
+      "text": "pufal et al 2017",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -1060,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "b966f959f7bd6955",
+      "type": "text",
+      "text": "Social bees are dominant pollinators of many crops in both temperate and tropical areas (Free 1993; Roubik 1995). We found that visitation rates of native social bees consistently decline more steeply with increasing distance than those of solitary bees",
+      "styleAttributes": {},
+      "x": 1550,
+      "y": -1450,
+      "width": 500,
+      "height": 140,
+      "color": "3"
+    },
+    {
+      "id": "336b0f82c299decc",
+      "type": "text",
+      "text": "Wild pollinator diversity and abundance can be increased through AES by providing flowering resources in landscapes",
+      "styleAttributes": {},
+      "x": 1500,
+      "y": -1240,
+      "width": 420,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "12e92492e8d73b7c",
+      "type": "text",
+      "text": "Our syntheses reveal that pollinator richness and visitation rate on crops show general and significant exponential declines with increasing distance from natural habitat.",
+      "styleAttributes": {},
+      "x": 1710,
+      "y": -2100,
+      "width": 380,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "bb274d204cea0c93",
+      "type": "text",
+      "text": "the overall 34% decrease in mean flower-visitor richness at 1 km from natural areas",
+      "styleAttributes": {},
+      "x": 1630,
+      "y": -2290,
+      "width": 260,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "4a776b040debfb15",
+      "type": "text",
+      "text": "This decay suggests that, on average, fields 1.5 km away from natural habitat patches can be expected to contain 50% of the pollinator diversity of fields closest to these patches",
+      "styleAttributes": {},
+      "x": 2180,
+      "y": -2100,
+      "width": 420,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "b2c537ac34a46f7c",
+      "type": "text",
+      "text": "50% decline for social bees occurred at < 1 ⁄ 20 the distance as that for solitary bees",
+      "styleAttributes": {},
+      "x": 2130,
+      "y": -1440,
+      "width": 260,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "eb57e87dfd38ae5b",
+      "type": "text",
+      "text": "As distances from natural habitat increase, fewer pollinator species are able to either forage to that distance or nest in fields so isolated from native resources.",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -1880,
+      "width": 260,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "086d289100bc39e0",
+      "type": "text",
+      "text": "estiment que : that tropical crops pollinated primarily by social bees may be most susceptible to pollination failure due to surrounding land use change",
+      "styleAttributes": {},
+      "x": 2310,
+      "y": -1520,
+      "width": 580,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "e26604767779da74",
+      "type": "text",
+      "text": "The availability of nesting sites for wild pollinators might be the limiting factor in agricultural landscapes",
+      "styleAttributes": {},
+      "x": 2360,
+      "y": -1049,
+      "width": 500,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "054b91cdff3c5345",
+      "type": "text",
+      "text": "Limites : AES to enhance nesting resources for wild pollinators should consider both ground-nesting as well as cavitynesting bees.",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": -1166,
+      "width": 540,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "c6bfab42760b2ef3",
+      "type": "text",
+      "text": "Our results showed that when small patches had little impact on the service provision, increasing edge density and shape complexity affected pollination negatively. Still, when the impact increased, shape complexity increased pollination,",
+      "styleAttributes": {},
+      "x": 2930,
+      "y": -790,
+      "width": 260,
+      "height": 280,
+      "color": "3"
+    },
+    {
+      "id": "973c72c78b4e2c2a",
+      "type": "text",
+      "text": "wild bees are more impacted by the amount of high-quality habitats within bee foraging ranges than by their configuration",
+      "styleAttributes": {},
+      "x": 2720,
+      "y": -2220,
+      "width": 340,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "c29bb9c46effe5ad",
+      "type": "text",
+      "text": "Managed pollinators are mostly social bees (exceptions are some solitary bee species like",
+      "styleAttributes": {},
+      "x": 1760,
+      "y": -900,
+      "width": 460,
+      "height": 65,
+      "color": "3"
+    },
+    {
+      "id": "d141476a59cf18f3",
+      "type": "text",
+      "text": "Rickets 2008",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -1840,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "a2fa419beb8b44b8",
+      "type": "text",
+      "text": "wild bees, this might be only a few hundred meters but for honeybees, seminatural habitats and MFC within a radius of several kilometers are used as foraging resources",
+      "styleAttributes": {},
+      "x": 2260,
+      "y": -700,
+      "width": 520,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "d8950d62932c291a",
+      "type": "text",
+      "text": "Increasing structural complexity of landscapes often has a positive effect on pollinator communities, their species and functional diversity and abundance by reducing distances between resources",
+      "styleAttributes": {},
+      "x": 2340,
+      "y": -880,
+      "width": 440,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "6b6929cafb901a33",
+      "type": "text",
+      "text": "The spatial distribution of pollinator-friendly landscape elements therefore determines the availability and abundance of pollinators for crop pollination services",
+      "styleAttributes": {},
+      "x": 1875,
+      "y": -780,
+      "width": 430,
+      "height": 120,
+      "color": "3"
     }
   ],
   "edges": [
