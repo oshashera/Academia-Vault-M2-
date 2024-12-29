@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    {
+      "id": "99e526111de8b104",
+      "type": "text",
+      "text": "Harnessing trait–environment interactions to predict ecosystem functions\nManuel Blouin & al",
+      "styleAttributes": {},
+      "x": 200,
+      "y": -280,
+      "width": 620,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "917ffdfb5d601725",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -700,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

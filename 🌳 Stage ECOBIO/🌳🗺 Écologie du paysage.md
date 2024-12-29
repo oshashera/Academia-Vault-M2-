@@ -2,7 +2,7 @@
 source: "Burel & Baudry, Écologie du paysage : concept, méthodes et applications (2nde édition)"
 ---
 
-## Théorie de la hiérarchie (Allen & Starr, 1982)
+## Théorie de la hiérarchie (Allen & Starr, 1982) 
 
 >[!summary] [1] Corrélation entre échelles spatiales et temporelles
 
