@@ -1,25 +1,48 @@
 {
   "nodes": [
     {
-      "id": "99e526111de8b104",
-      "type": "text",
-      "text": "Harnessing trait–environment interactions to predict ecosystem functions\nManuel Blouin & al",
+      "id": "6a2552c0a502c34f",
+      "type": "group",
       "styleAttributes": {},
-      "x": 200,
-      "y": -280,
-      "width": 620,
-      "height": 60,
-      "color": "5"
+      "x": -500,
+      "y": -720,
+      "width": 560,
+      "height": 610,
+      "color": "6",
+      "label": "Coeur du stage"
     },
     {
       "id": "917ffdfb5d601725",
       "type": "text",
-      "text": "",
+      "text": "### Informations et récupération données\n1️⃣ Liste sp végétales sites\n2️⃣ Choix fx écosystémiques à évaluer\n3️⃣ Choix traits fx associés\n",
       "styleAttributes": {},
       "x": -480,
       "y": -700,
-      "width": 260,
-      "height": 60
+      "width": 520,
+      "height": 160,
+      "color": "6"
+    },
+    {
+      "id": "4c75dd3d9fd0f573",
+      "type": "text",
+      "text": "### Modélisation R\n1️⃣ Association sp - trait - service \n>[!warning] COMMENT FAIRE LIEN? SQL? PAS DE PB? \n\n2️⃣ Sp mises ds matrice\n\n3️⃣ Algo prise aléatoire sp ds matrice (+ interface/ outil facilement configurable (pour nb sp tirées, pour services pris en compte ou non ?)\n\n4️⃣ CWM des traits de la commu tirée random => estimation **fourniture services**",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -510,
+      "width": 520,
+      "height": 380,
+      "color": "6"
+    },
+    {
+      "id": "99e526111de8b104",
+      "type": "text",
+      "text": "Harnessing trait–environment interactions to predict ecosystem functions\nManuel Blouin & al",
+      "styleAttributes": {},
+      "x": 100,
+      "y": -380,
+      "width": 620,
+      "height": 60,
+      "color": "5"
     }
   ],
   "edges": [],

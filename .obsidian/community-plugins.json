@@ -34,5 +34,6 @@
   "pomodoro-timer",
   "obsidian-citation-plugin",
   "obsidian-tasks-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-discordrpc"
 ]
