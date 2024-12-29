@@ -12,6 +12,26 @@
       "label": "Coeur du stage"
     },
     {
+      "id": "df3c4e9778641fbd",
+      "type": "group",
+      "x": 400,
+      "y": -720,
+      "width": 400,
+      "height": 400,
+      "color": "2",
+      "label": "Éceuils et pistes"
+    },
+    {
+      "id": "fedd22cc0e52d815",
+      "type": "group",
+      "x": 100,
+      "y": -720,
+      "width": 260,
+      "height": 260,
+      "color": "#c4c4c4",
+      "label": "Outils"
+    },
+    {
       "id": "917ffdfb5d601725",
       "type": "text",
       "text": "### Informations et récupération données\n1️⃣ Liste sp végétales sites\n2️⃣ Choix fx écosystémiques à évaluer\n3️⃣ Choix traits fx associés\n",
@@ -34,17 +54,75 @@
       "color": "6"
     },
     {
+      "id": "2da1f0d4a2f59c8a",
+      "type": "text",
+      "text": "Overleaf (rapport)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 110,
+      "y": -540,
+      "width": 210,
+      "height": 60,
+      "color": "#cccccc"
+    },
+    {
+      "id": "a216ee80aa34a22b",
+      "type": "text",
+      "text": "TRY / autres DB",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 110,
+      "y": -620,
+      "width": 210,
+      "height": 60,
+      "color": "#cccccc"
+    },
+    {
+      "id": "e904a39dd9aec820",
+      "type": "text",
+      "text": "Prendre en compte l'effet environnement ?",
+      "styleAttributes": {},
+      "x": 420,
+      "y": -700,
+      "width": 340,
+      "height": 60,
+      "color": "2"
+    },
+    {
       "id": "99e526111de8b104",
       "type": "text",
       "text": "Harnessing trait–environment interactions to predict ecosystem functions\nManuel Blouin & al",
       "styleAttributes": {},
-      "x": 100,
-      "y": -380,
-      "width": 620,
+      "x": 420,
+      "y": -620,
+      "width": 340,
+      "height": 80
+    },
+    {
+      "id": "185ca6a2f37f8b1c",
+      "type": "text",
+      "text": "R/Rstudio",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 110,
+      "y": -700,
+      "width": 210,
       "height": 60,
-      "color": "5"
+      "color": "#cccccc"
     }
   ],
-  "edges": [],
+  "edges": [
+    {
+      "id": "fc8a4437cd2ae04b",
+      "styleAttributes": {},
+      "fromNode": "e904a39dd9aec820",
+      "fromSide": "bottom",
+      "toNode": "99e526111de8b104",
+      "toSide": "top"
+    }
+  ],
   "metadata": {}
 }

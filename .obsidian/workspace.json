@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌳 Stage ECOBIO/Overview.canvas",
                 "viewState": {
-                  "x": 114.40473445682088,
-                  "y": -245.4714482303095,
-                  "zoom": -0.8000000000000002
+                  "x": 377.6357851378162,
+                  "y": -426.65214986471574,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206
+    "width": 206,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
