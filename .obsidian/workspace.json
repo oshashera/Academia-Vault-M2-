@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/Overview.canvas",
-                "viewState": {
-                  "x": 377.6357851378162,
-                  "y": -426.65214986471574,
-                  "zoom": -1
-                }
+                "file": "🏡 Home.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Overview"
+              "icon": "lucide-file",
+              "title": "🏡 Home"
             }
           }
         ]
@@ -208,8 +205,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
     "🌳 Stage ECOBIO/Overview.canvas",
+    "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
     "🏡 Home.md",
     "🌳 Stage ECOBIO",
     "synthèse biblio/V2 Synthèse.canvas",
