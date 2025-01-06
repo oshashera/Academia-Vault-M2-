@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌳 Stage ECOBIO/Overview.canvas",
+                "file": "🌳 Stage ECOBIO/méthodo.canvas",
                 "viewState": {
-                  "x": 48.84627157970325,
-                  "y": -415,
-                  "zoom": -0.4888610954999383
+                  "x": -61.28995528164605,
+                  "y": -134.5193207629712,
+                  "zoom": -0.54784974416097
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Overview"
+              "title": "méthodo"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "Article pollinisateur & méthodo"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,12 +234,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57a21f152c9332c4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Images/Pasted image 20250106154658.png",
+    "🌳 Stage ECOBIO/Overview.canvas",
+    "🌳 Stage ECOBIO/méthodo.canvas",
     "🌳 Stage ECOBIO/Rentrée stage.md",
     "Article pollinisateur & méthodo.md",
-    "🌳 Stage ECOBIO/Overview.canvas",
+    "Images/Pasted image 20250106154658.png",
     "🏡 Home.md",
     "Présentation de rentrée.md",
     "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
@@ -278,7 +278,6 @@
     "Images/Pasted image 20241209181923.png",
     "Images/Pasted image 20241209181815.png",
     "Images/Pasted image 20241209181656.png",
-    "Images/Pasted image 20241209181427.png",
     "Cours/🎓 Conception de systèmes/Untitled",
     "Cours/🎓 Conception de systèmes",
     "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 2 Évaluation/Untitled",
