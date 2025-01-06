@@ -1,6 +1,15 @@
 {
   "nodes": [
     {
+      "id": "94237f4540641295",
+      "type": "group",
+      "x": 740,
+      "y": -450,
+      "width": 1000,
+      "height": 690,
+      "label": "Traitement stat"
+    },
+    {
       "id": "adda0cdd4959547f",
       "type": "group",
       "x": -300,
@@ -26,15 +35,6 @@
       "width": 480,
       "height": 390,
       "label": "TRAIT DATA"
-    },
-    {
-      "id": "94237f4540641295",
-      "type": "group",
-      "x": 740,
-      "y": -450,
-      "width": 400,
-      "height": 400,
-      "label": "Traitement stat"
     },
     {
       "id": "3bf83cd2874cd881",
@@ -164,15 +164,47 @@
       "color": "2"
     },
     {
-      "id": "8ca869ad6987f8c2",
+      "id": "979d5ddd2e3328b3",
       "type": "text",
-      "text": "party R package (pour random forest)",
+      "text": "3) GLM",
       "styleAttributes": {},
-      "x": 890,
-      "y": -230,
-      "width": 230,
+      "x": 1170,
+      "y": -130,
+      "width": 260,
       "height": 60,
-      "color": "5"
+      "color": "3"
+    },
+    {
+      "id": "1a501a7c8a34e4c3",
+      "type": "text",
+      "text": "\"test for the effects of the important field and landscape variables (pre-selected with conditional random forests) on the abundance of each flower-visiting insect group\" + poisson error distrib",
+      "styleAttributes": {},
+      "x": 1170,
+      "y": -40,
+      "width": 520,
+      "height": 120
+    },
+    {
+      "id": "797f4e657d2d7449",
+      "type": "text",
+      "text": "1) Local",
+      "styleAttributes": {},
+      "x": 1170,
+      "y": -430,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "413b8ad732de72f4",
+      "type": "text",
+      "text": "2) Landscape",
+      "styleAttributes": {},
+      "x": 1170,
+      "y": -360,
+      "width": 260,
+      "height": 60,
+      "color": "3"
     },
     {
       "id": "ee5e09c24c4614a6",
@@ -180,8 +212,40 @@
       "text": "“Variables were considered as informative and relevant when their conditional score was above the absolute value of the lowest negative-scoring variable” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=KXBJ49IK)) **keske quoi ? à checker**",
       "styleAttributes": {},
       "x": 1200,
-      "y": -420,
-      "width": 560,
+      "y": -275,
+      "width": 520,
+      "height": 115
+    },
+    {
+      "id": "8ca869ad6987f8c2",
+      "type": "text",
+      "text": "party R package (pour random forest)",
+      "styleAttributes": {},
+      "x": 820,
+      "y": -230,
+      "width": 230,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "235e8c7efeaaeea5",
+      "type": "text",
+      "text": "4) Multi model inference",
+      "styleAttributes": {},
+      "x": 830,
+      "y": -40,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "5f45f898cc433088",
+      "type": "text",
+      "text": "“In a last step, we applied a multi-model inference to build all possible generalized linear models based on all additive combinations of up to four explanatory variables for each flower-visiting insect group.” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=MDR3M8TD))",
+      "styleAttributes": {},
+      "x": 800,
+      "y": 100,
+      "width": 640,
       "height": 120
     }
   ],
@@ -309,7 +373,7 @@
       "id": "0a50434121efe7d1",
       "styleAttributes": {},
       "fromNode": "8ca869ad6987f8c2",
-      "fromSide": "top",
+      "fromSide": "right",
       "toNode": "df97a9890a4b5981",
       "toSide": "bottom"
     },
@@ -317,8 +381,76 @@
       "id": "a7d6fabdc309ad65",
       "styleAttributes": {},
       "fromNode": "ee5e09c24c4614a6",
-      "fromSide": "left",
-      "toNode": "df97a9890a4b5981",
+      "fromSide": "top",
+      "toNode": "797f4e657d2d7449",
+      "toSide": "right"
+    },
+    {
+      "id": "a3826650cecb9bb7",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "fromNode": "df97a9890a4b5981",
+      "fromSide": "right",
+      "toNode": "797f4e657d2d7449",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "364d99d7e251900b",
+      "styleAttributes": {},
+      "fromNode": "ee5e09c24c4614a6",
+      "fromSide": "top",
+      "toNode": "413b8ad732de72f4",
+      "toSide": "right"
+    },
+    {
+      "id": "a8bb14030c6980ae",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "fromNode": "df97a9890a4b5981",
+      "fromSide": "right",
+      "toNode": "413b8ad732de72f4",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "9dba0a7a0edf5d6d",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "fromNode": "df97a9890a4b5981",
+      "fromSide": "right",
+      "toNode": "979d5ddd2e3328b3",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "6c6d701cba1bf07c",
+      "styleAttributes": {},
+      "fromNode": "1a501a7c8a34e4c3",
+      "fromSide": "top",
+      "toNode": "979d5ddd2e3328b3",
+      "toSide": "right"
+    },
+    {
+      "id": "92695b4e29ac36c7",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "fromNode": "df97a9890a4b5981",
+      "fromSide": "right",
+      "toNode": "235e8c7efeaaeea5",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "e21909ddf5d5fa1d",
+      "styleAttributes": {},
+      "fromNode": "5f45f898cc433088",
+      "fromSide": "top",
+      "toNode": "235e8c7efeaaeea5",
       "toSide": "right"
     }
   ],
