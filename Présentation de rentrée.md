@@ -17,3 +17,10 @@ pour impression, utiliser préférentiellement notre compte pro (facturé au lab
 créer compte platform manager (+checker ou c'est pour écran)
 
 pour imprimer, utiliser pdf sur clé usb et aller à l'imprimante
+
+Horaires possibles : 7h entre 7h30 et 20h30
+
+trouver photo de moi bien à envoyer à bertrand di cesari
+
+badge bientôt
+picouays isabelle à contacter pour badge ???
