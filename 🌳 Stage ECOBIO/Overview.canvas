@@ -14,6 +14,7 @@
     {
       "id": "df3c4e9778641fbd",
       "type": "group",
+      "styleAttributes": {},
       "x": 400,
       "y": -720,
       "width": 400,
@@ -24,6 +25,7 @@
     {
       "id": "fedd22cc0e52d815",
       "type": "group",
+      "styleAttributes": {},
       "x": 100,
       "y": -720,
       "width": 260,
