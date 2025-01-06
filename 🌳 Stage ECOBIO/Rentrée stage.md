@@ -6,7 +6,7 @@ Prédire polli dans champ en fonction ressource florale autour
 Polli ()
 ravageurs (attractivité, traits grossiers)
 
-Partir des inventaires, se dire quel paysage fonctionnel je peux trouver pour chacun
+Partir des inventaires, se dire quel paysage fonctionnel je peux trouver pour chacun des groupes taxos étudiés
 Expliquer biodiv par paysage fx plutot que classique (occupation du sol)
 
 A partir protocole, définir pour chaque groupe le paysage fonctionnel

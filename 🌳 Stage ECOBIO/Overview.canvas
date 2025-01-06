@@ -29,7 +29,7 @@
       "x": 100,
       "y": -720,
       "width": 260,
-      "height": 260,
+      "height": 305,
       "color": "#c4c4c4",
       "label": "Outils"
     },
@@ -56,29 +56,16 @@
       "color": "6"
     },
     {
-      "id": "2da1f0d4a2f59c8a",
-      "type": "text",
-      "text": "Overleaf (rapport)",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 110,
-      "y": -540,
-      "width": 210,
-      "height": 60,
-      "color": "#cccccc"
-    },
-    {
       "id": "a216ee80aa34a22b",
       "type": "text",
-      "text": "TRY / autres DB",
+      "text": "TRY\nCaminat (Julve)\nAgriland\nTela botanica",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 110,
+      "x": 120,
       "y": -620,
       "width": 210,
-      "height": 60,
+      "height": 110,
       "color": "#cccccc"
     },
     {
@@ -109,8 +96,21 @@
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 110,
+      "x": 120,
       "y": -700,
+      "width": 210,
+      "height": 60,
+      "color": "#cccccc"
+    },
+    {
+      "id": "2da1f0d4a2f59c8a",
+      "type": "text",
+      "text": "Overleaf (rapport)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 120,
+      "y": -490,
       "width": 210,
       "height": 60,
       "color": "#cccccc"
