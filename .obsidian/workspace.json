@@ -52,7 +52,8 @@
               "title": "Article pollinisateur & méthodo"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,11 +235,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "57a21f152c9332c4",
   "lastOpenFiles": [
     "🌳 Stage ECOBIO/Rentrée stage.md",
-    "Article pollinisateur & méthodo.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
+    "Article pollinisateur & méthodo.md",
     "🌳 Stage ECOBIO/Overview.canvas",
     "Images/Pasted image 20250106154658.png",
     "🏡 Home.md",
