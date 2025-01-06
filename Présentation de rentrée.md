@@ -20,7 +20,7 @@ pour imprimer, utiliser pdf sur clé usb et aller à l'imprimante
 
 Horaires possibles : 7h entre 7h30 et 20h30
 
-trouver photo de moi bien à envoyer à bertrand di cesari
+trouver photo de moi bien à envoyer à bertrand di cesare
 
 badge bientôt
 picouays isabelle à contacter pour badge ???
