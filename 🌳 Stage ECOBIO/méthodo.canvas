@@ -241,12 +241,34 @@
     {
       "id": "5f45f898cc433088",
       "type": "text",
-      "text": "“In a last step, we applied a multi-model inference to build all possible generalized linear models based on all additive combinations of up to four explanatory variables for each flower-visiting insect group.” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=MDR3M8TD))",
+      "text": "“In a last step, we applied a multi-model inference to build all possible generalized linear models based on all additive combinations of up to four explanatory variables for each flower-visiting insect group.” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=MDR3M8TD)) + rank with AIC",
       "styleAttributes": {},
       "x": 800,
       "y": 100,
       "width": 640,
       "height": 120
+    },
+    {
+      "id": "846c96d24e844ad4",
+      "type": "text",
+      "text": "MAss R package overdispersion fittage",
+      "styleAttributes": {},
+      "x": 1560,
+      "y": 100,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "f5467b79a218be43",
+      "type": "text",
+      "text": "MuMin package (AIC)",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": 180,
+      "width": 260,
+      "height": 60,
+      "color": "5"
     }
   ],
   "edges": [
@@ -452,6 +474,22 @@
       "fromSide": "top",
       "toNode": "235e8c7efeaaeea5",
       "toSide": "right"
+    },
+    {
+      "id": "0cec7637b134a0d1",
+      "styleAttributes": {},
+      "fromNode": "1a501a7c8a34e4c3",
+      "fromSide": "right",
+      "toNode": "846c96d24e844ad4",
+      "toSide": "top"
+    },
+    {
+      "id": "b1c34287b4bdd60d",
+      "styleAttributes": {},
+      "fromNode": "f5467b79a218be43",
+      "fromSide": "left",
+      "toNode": "5f45f898cc433088",
+      "toSide": "bottom"
     }
   ],
   "metadata": {}
