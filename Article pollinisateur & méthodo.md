@@ -16,3 +16,5 @@ Mais **pas de réponse uniforme à un trait/sa variation par les organismes étu
 
 - ? mais si on a plusieurs catégories, comment on estime quel effet, genre si on a 3 cat de couleurs qui attirent diff groupes, on prends que la + abondante ou les 2 les + ? comment relativiser ca ?
 
+>[!quote] Ressources maps could inform about how landscape is exploited and what constitues a high quality habitat "
+
