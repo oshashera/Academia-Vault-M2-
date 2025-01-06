@@ -6,7 +6,7 @@
       "x": -300,
       "y": -440,
       "width": 480,
-      "height": 780,
+      "height": 390,
       "label": "DATA SP"
     },
     {
@@ -15,7 +15,7 @@
       "x": -820,
       "y": -440,
       "width": 480,
-      "height": 780,
+      "height": 390,
       "label": "SIG"
     },
     {
@@ -24,80 +24,121 @@
       "x": 220,
       "y": -440,
       "width": 480,
-      "height": 780,
+      "height": 390,
       "label": "TRAIT DATA"
     },
     {
       "id": "3bf83cd2874cd881",
       "type": "text",
-      "text": "Détermination et sélection type occupation sols",
+      "text": "1️⃣ Détermination et sélection type occupation sols",
       "styleAttributes": {
         "textAlign": "center"
       },
       "x": -800,
       "y": -420,
       "width": 380,
-      "height": 60
+      "height": 60,
+      "color": "2"
     },
     {
       "id": "a31012d0bdd5c9b8",
       "type": "text",
-      "text": "garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
+      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
       "styleAttributes": {},
       "x": -240,
       "y": -340,
       "width": 380,
-      "height": 60
+      "height": 60,
+      "color": "2"
     },
     {
       "id": "f359996add039d3a",
       "type": "text",
-      "text": "Abondance sp pl / occupation sol",
+      "text": "2️⃣ Abondance sp pl / occupation sol",
       "styleAttributes": {},
       "x": -240,
       "y": -420,
       "width": 320,
-      "height": 60
+      "height": 60,
+      "color": "2"
     },
     {
       "id": "de69bee967960749",
       "type": "text",
-      "text": "calcul abondance relative jdd sp/occupation filtré",
+      "text": "4️⃣ calcul abondance relative jdd sp/occupation filtré",
       "styleAttributes": {},
       "x": -240,
       "y": -260,
-      "width": 280,
-      "height": 60
+      "width": 320,
+      "height": 60,
+      "color": "2"
     },
     {
       "id": "53a217de8234ce1c",
       "type": "text",
-      "text": "sélection services évalués",
+      "text": "5️⃣ sélection services (impact groupe taxo étudiés) évalués",
       "styleAttributes": {},
       "x": -240,
       "y": -160,
       "width": 360,
-      "height": 60
+      "height": 60,
+      "color": "2"
     },
     {
       "id": "27e86b0572ebf7b3",
       "type": "text",
-      "text": "sélection traits associés pour toutes les sp filtrées",
+      "text": "6️⃣ sélection traits associés pour toutes les sp filtrées",
       "styleAttributes": {},
       "x": 300,
       "y": -420,
-      "width": 260,
-      "height": 60
+      "width": 280,
+      "height": 60,
+      "color": "2"
     },
     {
       "id": "334b2ebcd4c833b8",
       "type": "text",
-      "text": "CWM pour **chaque** trait pour **chaque** occupation de sol",
+      "text": "6️⃣ CWM pour **chaque** trait pour **chaque** occupation de sol",
       "styleAttributes": {},
       "x": 300,
       "y": -320,
+      "width": 320,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e132b1c117a0c708",
+      "type": "text",
+      "text": "R package FD (pour CWM)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 160,
+      "y": -80,
+      "width": 180,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "cd81d0eec0b57413",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 440,
+      "y": -220,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "11b8b2b39400d33f",
+      "type": "text",
+      "text": "CWM pour chaque trait / paysage",
+      "styleAttributes": {},
+      "x": 250,
+      "y": -160,
+      "width": 260,
+      "height": 60,
+      "color": "2"
     }
   ],
   "edges": [
@@ -107,7 +148,8 @@
       "fromNode": "3bf83cd2874cd881",
       "fromSide": "right",
       "toNode": "f359996add039d3a",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "1"
     },
     {
       "id": "b3f0f06f56d1a72b",
@@ -115,7 +157,8 @@
       "fromNode": "f359996add039d3a",
       "fromSide": "right",
       "toNode": "a31012d0bdd5c9b8",
-      "toSide": "right"
+      "toSide": "right",
+      "color": "1"
     },
     {
       "id": "ac31ada0559321f7",
@@ -123,7 +166,8 @@
       "fromNode": "a31012d0bdd5c9b8",
       "fromSide": "left",
       "toNode": "de69bee967960749",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "1"
     },
     {
       "id": "669a474ed13781f0",
@@ -131,7 +175,8 @@
       "fromNode": "de69bee967960749",
       "fromSide": "bottom",
       "toNode": "53a217de8234ce1c",
-      "toSide": "top"
+      "toSide": "top",
+      "color": "1"
     },
     {
       "id": "9c4b2165a60c742a",
@@ -139,7 +184,8 @@
       "fromNode": "53a217de8234ce1c",
       "fromSide": "right",
       "toNode": "27e86b0572ebf7b3",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "1"
     },
     {
       "id": "4651b67fff9ce345",
@@ -147,7 +193,49 @@
       "fromNode": "27e86b0572ebf7b3",
       "fromSide": "right",
       "toNode": "334b2ebcd4c833b8",
-      "toSide": "right"
+      "toSide": "right",
+      "color": "1"
+    },
+    {
+      "id": "b1aa530c73e69361",
+      "styleAttributes": {},
+      "fromNode": "334b2ebcd4c833b8",
+      "fromSide": "bottom",
+      "toNode": "11b8b2b39400d33f",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "480e5360841a4b17",
+      "styleAttributes": {},
+      "fromNode": "e132b1c117a0c708",
+      "fromSide": "top",
+      "toNode": "334b2ebcd4c833b8",
+      "toSide": "left"
+    },
+    {
+      "id": "8d7d7fbb2be35b2b",
+      "styleAttributes": {},
+      "fromNode": "e132b1c117a0c708",
+      "fromSide": "top",
+      "toNode": "4d92e5baa75154d2",
+      "toSide": "left"
+    },
+    {
+      "id": "5c8207dec7ca710d",
+      "styleAttributes": {},
+      "fromNode": "334b2ebcd4c833b8",
+      "fromSide": "bottom",
+      "toNode": "cd81d0eec0b57413",
+      "toSide": "top"
+    },
+    {
+      "id": "fc7eaa9d96c6c0d7",
+      "styleAttributes": {},
+      "fromNode": "11b8b2b39400d33f",
+      "fromSide": "top",
+      "toNode": "cd81d0eec0b57413",
+      "toSide": "bottom"
     }
   ],
   "metadata": {}
