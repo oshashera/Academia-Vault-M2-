@@ -19,3 +19,5 @@ Mais **pas de réponse uniforme à un trait/sa variation par les organismes étu
 >[!quote] Ressources maps could inform about how landscape is exploited and what constitues a high quality habitat "
 
 - ? on fait du cover-type into trait/provision dans ce type d'occupation des sols ?
+
+- ! si pas d'infos, faire hypothèses vraisemblables => pas infos sur peuplement végétal dans champ colza, donc présumé que 100% de brassica napus dans le champ
