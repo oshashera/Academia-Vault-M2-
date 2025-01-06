@@ -42,4 +42,4 @@ traits aggrégas basés sur abondance (pas rareté traits)
 articles => démarche pollinisateurs
 exterapoler pour autres groupes taxons, (limaces, carabes, staphyllins, araignées pucerons, pollinisateurs etc... et les plantes)
 
-1) Pub
+1) Publi + annexes
