@@ -16,7 +16,7 @@
                 "file": "🌳 Stage ECOBIO/méthodo.canvas",
                 "viewState": {
                   "x": 501.74182670565995,
-                  "y": -166.69645850330576,
+                  "y": -212.2304849295398,
                   "zoom": -0.54784974416097
                 }
               },
@@ -52,8 +52,7 @@
               "title": "Article pollinisateur & méthodo"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,12 +234,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57a21f152c9332c4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/méthodo.canvas",
     "🌳 Stage ECOBIO/Rentrée stage.md",
-    "🌳 Stage ECOBIO/Overview.canvas",
     "Article pollinisateur & méthodo.md",
+    "🌳 Stage ECOBIO/méthodo.canvas",
+    "🌳 Stage ECOBIO/Overview.canvas",
     "Images/Pasted image 20250106154658.png",
     "🏡 Home.md",
     "Présentation de rentrée.md",

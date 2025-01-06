@@ -28,6 +28,15 @@
       "label": "TRAIT DATA"
     },
     {
+      "id": "94237f4540641295",
+      "type": "group",
+      "x": 740,
+      "y": -450,
+      "width": 400,
+      "height": 400,
+      "label": "Traitement stat"
+    },
+    {
       "id": "3bf83cd2874cd881",
       "type": "text",
       "text": "1️⃣ Détermination et sélection type occupation sols",
@@ -96,19 +105,6 @@
       "color": "2"
     },
     {
-      "id": "e132b1c117a0c708",
-      "type": "text",
-      "text": "R package FD (pour CWM)",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 800,
-      "y": -260,
-      "width": 180,
-      "height": 60,
-      "color": "5"
-    },
-    {
       "id": "11b8b2b39400d33f",
       "type": "text",
       "text": "CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
@@ -140,6 +136,29 @@
       "width": 260,
       "height": 90,
       "color": "3"
+    },
+    {
+      "id": "e132b1c117a0c708",
+      "type": "text",
+      "text": "R package FD (pour CWM)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 800,
+      "y": -245,
+      "width": 180,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "df97a9890a4b5981",
+      "type": "text",
+      "text": "Sélection traits les plus explicatifs au niveau local (CWM) pour chaque grp taxon avec random forest",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -420,
+      "width": 340,
+      "height": 110
     }
   ],
   "edges": [
@@ -210,7 +229,7 @@
       "id": "480e5360841a4b17",
       "styleAttributes": {},
       "fromNode": "e132b1c117a0c708",
-      "fromSide": "top",
+      "fromSide": "left",
       "toNode": "334b2ebcd4c833b8",
       "toSide": "right"
     },
@@ -218,7 +237,7 @@
       "id": "8d7d7fbb2be35b2b",
       "styleAttributes": {},
       "fromNode": "e132b1c117a0c708",
-      "fromSide": "top",
+      "fromSide": "left",
       "toNode": "11b8b2b39400d33f",
       "toSide": "right"
     },
