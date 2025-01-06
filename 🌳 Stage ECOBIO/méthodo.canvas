@@ -96,49 +96,50 @@
       "color": "2"
     },
     {
-      "id": "334b2ebcd4c833b8",
-      "type": "text",
-      "text": "6️⃣ CWM pour **chaque** trait pour **chaque** occupation de sol",
-      "styleAttributes": {},
-      "x": 300,
-      "y": -320,
-      "width": 320,
-      "height": 60,
-      "color": "2"
-    },
-    {
       "id": "e132b1c117a0c708",
       "type": "text",
       "text": "R package FD (pour CWM)",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 160,
-      "y": -80,
+      "x": 800,
+      "y": -260,
       "width": 180,
       "height": 60,
       "color": "5"
     },
     {
-      "id": "cd81d0eec0b57413",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {},
-      "x": 440,
-      "y": -220,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "11b8b2b39400d33f",
       "type": "text",
-      "text": "CWM pour chaque trait / paysage",
+      "text": "CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
       "styleAttributes": {},
-      "x": 250,
-      "y": -160,
+      "x": 440,
+      "y": -130,
       "width": 260,
       "height": 60,
       "color": "2"
+    },
+    {
+      "id": "334b2ebcd4c833b8",
+      "type": "text",
+      "text": "6️⃣ CWM pour **chaque** trait pour **chaque** occupation de sol",
+      "styleAttributes": {},
+      "x": 350,
+      "y": -340,
+      "width": 320,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "cd81d0eec0b57413",
+      "type": "text",
+      "text": "CWM trait quali = proba de présence de la modalité (entre 0 et 1)",
+      "styleAttributes": {},
+      "x": 250,
+      "y": -245,
+      "width": 260,
+      "height": 90,
+      "color": "3"
     }
   ],
   "edges": [
@@ -211,15 +212,15 @@
       "fromNode": "e132b1c117a0c708",
       "fromSide": "top",
       "toNode": "334b2ebcd4c833b8",
-      "toSide": "left"
+      "toSide": "right"
     },
     {
       "id": "8d7d7fbb2be35b2b",
       "styleAttributes": {},
       "fromNode": "e132b1c117a0c708",
       "fromSide": "top",
-      "toNode": "4d92e5baa75154d2",
-      "toSide": "left"
+      "toNode": "11b8b2b39400d33f",
+      "toSide": "right"
     },
     {
       "id": "5c8207dec7ca710d",
@@ -227,7 +228,8 @@
       "fromNode": "334b2ebcd4c833b8",
       "fromSide": "bottom",
       "toNode": "cd81d0eec0b57413",
-      "toSide": "top"
+      "toSide": "top",
+      "color": "3"
     },
     {
       "id": "fc7eaa9d96c6c0d7",
@@ -235,7 +237,8 @@
       "fromNode": "11b8b2b39400d33f",
       "fromSide": "top",
       "toNode": "cd81d0eec0b57413",
-      "toSide": "bottom"
+      "toSide": "bottom",
+      "color": "3"
     }
   ],
   "metadata": {}
