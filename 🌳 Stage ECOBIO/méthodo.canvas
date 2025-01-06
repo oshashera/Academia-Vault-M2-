@@ -173,6 +173,16 @@
       "width": 230,
       "height": 60,
       "color": "5"
+    },
+    {
+      "id": "ee5e09c24c4614a6",
+      "type": "text",
+      "text": "“Variables were considered as informative and relevant when their conditional score was above the absolute value of the lowest negative-scoring variable” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=KXBJ49IK)) **keske quoi ? à checker**",
+      "styleAttributes": {},
+      "x": 1200,
+      "y": -420,
+      "width": 560,
+      "height": 120
     }
   ],
   "edges": [
@@ -302,6 +312,14 @@
       "fromSide": "top",
       "toNode": "df97a9890a4b5981",
       "toSide": "bottom"
+    },
+    {
+      "id": "a7d6fabdc309ad65",
+      "styleAttributes": {},
+      "fromNode": "ee5e09c24c4614a6",
+      "fromSide": "left",
+      "toNode": "df97a9890a4b5981",
+      "toSide": "right"
     }
   ],
   "metadata": {}

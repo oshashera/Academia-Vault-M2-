@@ -27,3 +27,4 @@ Mais **pas de réponse uniforme à un trait/sa variation par les organismes étu
 ![[Pasted image 20250106154658.png]]
 
 >[!warning] Traduire occupation des sols en ressources florales potentielles => CWM pour chaque trait et occupation du sol. => trait x occupation
+
