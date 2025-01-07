@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌳 Stage ECOBIO/méthodo.canvas",
                 "viewState": {
-                  "x": 500,
-                  "y": -105,
-                  "zoom": -1.510887401829937
+                  "x": 1118.3116374022309,
+                  "y": 34.14828255744348,
+                  "zoom": -0.3108874018299368
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -52,8 +52,7 @@
               "title": "Rentrée stage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,7 +276,7 @@
       }
     ]
   },
-  "active": "81bf0a11db362992",
+  "active": "2ef721668f6992cb",
   "lastOpenFiles": [
     "🌳 Stage ECOBIO/Article pollinisateur & méthodo.md",
     "🌳 Stage ECOBIO/Taxons.canvas",
