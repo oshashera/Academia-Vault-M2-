@@ -66,7 +66,8 @@
               "title": "Rentrée stage"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,12 +249,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f6674716fd776934",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/Rentrée stage.md",
-    "🌳 Stage ECOBIO/méthodo.canvas",
     "🌳 Stage ECOBIO/Article pollinisateur & méthodo.md",
+    "🌳 Stage ECOBIO/méthodo.canvas",
     "🌳 Stage ECOBIO/Services, fx et traits v1 ?.md",
+    "🌳 Stage ECOBIO/Rentrée stage.md",
     "🏡 Home.md",
     "Réunion nouveaux entrants - Hygiène et sécurité.md",
     "🌳 Stage ECOBIO/Overview.canvas",
