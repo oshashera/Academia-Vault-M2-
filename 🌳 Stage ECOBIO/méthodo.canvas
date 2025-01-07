@@ -1,6 +1,16 @@
 {
   "nodes": [
     {
+      "id": "7603b60c97b878d7",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -360,
+      "y": 400,
+      "width": 2360,
+      "height": 750,
+      "label": "Simulation funky fun"
+    },
+    {
       "id": "94237f4540641295",
       "type": "group",
       "styleAttributes": {},
@@ -294,6 +304,26 @@
       "width": 189,
       "height": 60,
       "color": "5"
+    },
+    {
+      "id": "0e6c9b628104a452",
+      "type": "text",
+      "text": "Par climat et par type de patch/occupation ",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "87520db65305e055",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 540,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -345,13 +375,13 @@
     {
       "id": "4651b67fff9ce345",
       "styleAttributes": {
-        "path": "dotted"
+        "path": null
       },
       "fromNode": "27e86b0572ebf7b3",
       "fromSide": "right",
       "toNode": "df97a9890a4b5981",
       "toSide": "left",
-      "color": "1"
+      "color": "2"
     },
     {
       "id": "b1aa530c73e69361",
@@ -399,13 +429,13 @@
     {
       "id": "76258f9a60d33550",
       "styleAttributes": {
-        "path": "dotted"
+        "path": null
       },
       "fromNode": "df97a9890a4b5981",
       "fromSide": "bottom",
       "toNode": "334b2ebcd4c833b8",
       "toSide": "right",
-      "color": "1"
+      "color": "2"
     },
     {
       "id": "72e0391b3aebf93c",
@@ -528,6 +558,23 @@
       "fromSide": "right",
       "toNode": "1a501a7c8a34e4c3",
       "toSide": "right"
+    },
+    {
+      "id": "09fd5ed28819a12f",
+      "styleAttributes": {},
+      "fromNode": "11b8b2b39400d33f",
+      "fromSide": "bottom",
+      "toNode": "0e6c9b628104a452",
+      "toSide": "right",
+      "color": "1"
+    },
+    {
+      "id": "fe3bb565fed3efe7",
+      "styleAttributes": {},
+      "fromNode": "0e6c9b628104a452",
+      "fromSide": "left",
+      "toNode": "87520db65305e055",
+      "toSide": "left"
     }
   ],
   "metadata": {}
