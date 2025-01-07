@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"65135908a8d495dd","type":"group","x":-440,"y":-240,"width":400,"height":400,"label":"Taxon"},
+		{"id":"c06348f1db464321","x":-424,"y":-21,"width":360,"height":140,"type":"group","label":"Besoins"},
+		{"id":"78a2577b7f2e0775","type":"text","text":"**Mode de vie :** fixé / mobile","x":-424,"y":-221,"width":360,"height":50},
+		{"id":"85e690db15b81461","type":"text","text":"**Durée de vie :** annuel / multi-annuel / pérenne","x":-424,"y":-161,"width":360,"height":50},
+		{"id":"b6846a50e9c8fb85","type":"text","text":"**Durée de vie :** annuel / multi-annuel / pérenne","x":-424,"y":-161,"width":360,"height":50},
+		{"id":"fd8739ea71ff0cd3","type":"text","text":"**Reproduction :** sexuée / asexuée","x":-424,"y":-101,"width":360,"height":50}
+	],
+	"edges":[]
+}

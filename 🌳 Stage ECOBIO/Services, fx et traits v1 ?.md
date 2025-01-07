@@ -104,9 +104,9 @@ Donc, en admettant qu'on veuille voir les effets des comm de plantes du paysage 
 
 Raisonner à partir de modes de vie et caractéristiques : 
 
-Pollinisateurs : bcp de déplacement pour se nourrir => rentabilité énergétique, + se différentier / attirer + une fois attiré être "pratique" → "attractivité, accessibilité, rentabilité/profitabilité"
+**Pollinisateurs** : bcp de déplacement pour se nourrir => rentabilité énergétique, + se différentier / attirer + une fois attiré être "pratique" → "attractivité, accessibilité, rentabilité/profitabilité"
 
-Les araignées par exemples, on aura des
+Les **araignées** par exemples, on aura des
 - "fixes" (toiles), avec besoin d'avoir : 
 	- ancrage fixe / solide
 	- passage proies => attractivité des alentours (revenir à attractivité pollinisateurs par ex)
@@ -123,4 +123,15 @@ Les araignées par exemples, on aura des
 	- couverture suffisante pour cacher
 	- pas trop dense pour laisser les proies passer ?
 	- ...
+
+Pour les **limaces**
+
+
+Pour les **staphylins**
+
+
+Pour les **pucerons**
+
+
+Pour les **plantes** [! à redéfinir]
 
