@@ -29,7 +29,7 @@
 		{"id":"9bf46bcc9c316715","type":"text","text":"**Durée de vie :** 1-2 ans","x":-382,"y":-506,"width":502,"height":50,"color":"2"},
 		{"id":"0e2d53c9fd8b9a8a","type":"text","text":"**Reproduction :** \"sexué\" ","x":-382,"y":-446,"width":502,"height":50,"color":"2"},
 		{"id":"e81e68f1313234f3","type":"text","text":"**Alimentation :** Carnivore (piégage, chasse, toiles) / omnivore","x":-380,"y":-326,"width":500,"height":50,"color":"2"},
-		{"id":"aff90dc2ace8538e","type":"text","text":"**Habitats** (conditions T°, ensoleillement, humidité, etc...)","x":-380,"y":-260,"width":500,"height":50,"color":"2"},
+		{"id":"aff90dc2ace8538e","type":"text","text":"**Habitats** très variés, mais 1 seule sp vis dans l'eau","x":-380,"y":-260,"width":500,"height":50,"color":"2"},
 		{"id":"f0030f83b1828a93","type":"text","text":"**Mode de vie :** fixé / mobile","x":228,"y":-566,"width":502,"height":50,"color":"2"},
 		{"id":"00eb3b3de88be11f","type":"text","text":"**Durée de vie :** annuel / multi-annuel / pérenne","x":228,"y":-506,"width":360,"height":50,"color":"2"},
 		{"id":"df2b5fddeea8a44b","type":"text","text":"**Durée de vie :** annuel / multi-annuel / pérenne","x":228,"y":-506,"width":502,"height":50,"color":"2"},
