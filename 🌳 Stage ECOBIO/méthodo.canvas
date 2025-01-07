@@ -50,6 +50,15 @@
       "label": "éventuellement"
     },
     {
+      "id": "d2637e6020f34138",
+      "type": "group",
+      "x": -1300,
+      "y": -520,
+      "width": 400,
+      "height": 400,
+      "label": "BDD Possibles ?"
+    },
+    {
       "id": "b4912a675504dbc4",
       "type": "group",
       "styleAttributes": {},
@@ -407,6 +416,16 @@
       "width": 463,
       "height": 72,
       "color": "5"
+    },
+    {
+      "id": "f8d9bae9ef453d7a",
+      "type": "text",
+      "text": "- TRY\n- Agriland\n- Carabids.org (down?)\n- TraitNet (fiable?)",
+      "styleAttributes": {},
+      "x": -1285,
+      "y": -505,
+      "width": 260,
+      "height": 164
     }
   ],
   "edges": [
