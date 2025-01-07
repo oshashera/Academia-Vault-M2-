@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌳 Stage ECOBIO/méthodo.canvas",
                 "viewState": {
-                  "x": 349.8258353990388,
-                  "y": -194.34998996078127,
-                  "zoom": -1.2060446348702771
+                  "x": 440.3576552101236,
+                  "y": -65.03538014035863,
+                  "zoom": -0.8060446348702771
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206,
-    "collapsed": true
+    "width": 206
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -206,10 +205,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2916e548f1597d52",
   "lastOpenFiles": [
-    "🏡 Home.md",
+    "🌳 Stage ECOBIO/Organisation et boulot.canvas",
     "🌳 Stage ECOBIO/méthodo.canvas",
+    "🏡 Home.md",
     "🌳 Stage ECOBIO/Taxons.canvas",
     "🌳 Stage ECOBIO/Article pollinisateur & méthodo.md",
     "🌳 Stage ECOBIO/Services, fx et traits v1 ?.md",

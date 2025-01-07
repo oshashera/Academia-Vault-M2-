@@ -7,7 +7,7 @@
       "x": 740,
       "y": -450,
       "width": 1260,
-      "height": 770,
+      "height": 750,
       "label": "R studio my beloved"
     },
     {
@@ -15,7 +15,7 @@
       "type": "group",
       "styleAttributes": {},
       "x": 180,
-      "y": -180,
+      "y": -450,
       "width": 480,
       "height": 500,
       "label": "TRAIT DATA"
@@ -24,8 +24,8 @@
       "id": "adda0cdd4959547f",
       "type": "group",
       "styleAttributes": {},
-      "x": -780,
-      "y": -450,
+      "x": -360,
+      "y": -265,
       "width": 480,
       "height": 400,
       "label": "DATA SP"
@@ -34,8 +34,8 @@
       "id": "b4912a675504dbc4",
       "type": "group",
       "styleAttributes": {},
-      "x": -300,
-      "y": -640,
+      "x": -360,
+      "y": -450,
       "width": 480,
       "height": 100,
       "label": "SIG"
@@ -153,27 +153,6 @@
       "color": "5"
     },
     {
-      "id": "1da67e34172112e1",
-      "type": "text",
-      "text": "rsq R package",
-      "styleAttributes": {},
-      "x": 1761,
-      "y": 240,
-      "width": 189,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "e916207622361a90",
-      "type": "text",
-      "text": "\\+ explained variance (R²) estimé pour le meilleur modèle (AIC) avec rsq fonction",
-      "styleAttributes": {},
-      "x": 960,
-      "y": 250,
-      "width": 690,
-      "height": 50
-    },
-    {
       "id": "5f45f898cc433088",
       "type": "text",
       "text": "“In a last step, we applied a multi-model inference to build all possible generalized linear models based on all additive combinations of up to four explanatory variables for each flower-visiting insect group.” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=MDR3M8TD)) + rank with AIC",
@@ -195,69 +174,12 @@
       "color": "5"
     },
     {
-      "id": "3bf83cd2874cd881",
-      "type": "text",
-      "text": "1️⃣ Détermination et sélection type occupation sols",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -280,
-      "y": -620,
-      "width": 380,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "f359996add039d3a",
-      "type": "text",
-      "text": "2️⃣ Abondance sp pl / occupation sol",
-      "styleAttributes": {},
-      "x": -720,
-      "y": -430,
-      "width": 320,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "a31012d0bdd5c9b8",
-      "type": "text",
-      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
-      "styleAttributes": {},
-      "x": -720,
-      "y": -350,
-      "width": 380,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "de69bee967960749",
-      "type": "text",
-      "text": "4️⃣ calcul abondance relative jdd sp/occupation filtré",
-      "styleAttributes": {},
-      "x": -720,
-      "y": -270,
-      "width": 320,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "53a217de8234ce1c",
-      "type": "text",
-      "text": "5️⃣ sélection services (impact groupe taxo étudiés) évalués",
-      "styleAttributes": {},
-      "x": -720,
-      "y": -170,
-      "width": 360,
-      "height": 60,
-      "color": "2"
-    },
-    {
       "id": "27e86b0572ebf7b3",
       "type": "text",
       "text": "6️⃣ sélection traits associés pour toutes les sp filtrées",
       "styleAttributes": {},
       "x": 260,
-      "y": -160,
+      "y": -430,
       "width": 280,
       "height": 60,
       "color": "2"
@@ -268,7 +190,7 @@
       "text": "7️⃣ CWM pour **chaque** trait pour **chaque** occupation de sol",
       "styleAttributes": {},
       "x": 310,
-      "y": -60,
+      "y": -330,
       "width": 320,
       "height": 60,
       "color": "2"
@@ -279,7 +201,7 @@
       "text": "CWM trait quali = proba de présence de la modalité (entre 0 et 1)",
       "styleAttributes": {},
       "x": 185,
-      "y": 43,
+      "y": -227,
       "width": 260,
       "height": 90,
       "color": "3"
@@ -290,10 +212,88 @@
       "text": "8️⃣ CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
       "styleAttributes": {},
       "x": 260,
-      "y": 190,
+      "y": -80,
       "width": 370,
       "height": 90,
       "color": "2"
+    },
+    {
+      "id": "f359996add039d3a",
+      "type": "text",
+      "text": "2️⃣ Abondance sp pl / occupation sol",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -245,
+      "width": 320,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "a31012d0bdd5c9b8",
+      "type": "text",
+      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -165,
+      "width": 380,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "de69bee967960749",
+      "type": "text",
+      "text": "4️⃣ calcul abondance relative jdd sp/occupation filtré",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -85,
+      "width": 320,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "53a217de8234ce1c",
+      "type": "text",
+      "text": "5️⃣ sélection services (impact groupe taxo étudiés) évalués",
+      "styleAttributes": {},
+      "x": -300,
+      "y": 15,
+      "width": 360,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "3bf83cd2874cd881",
+      "type": "text",
+      "text": "1️⃣ Détermination et sélection type occupation sols",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -340,
+      "y": -430,
+      "width": 380,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e916207622361a90",
+      "type": "text",
+      "text": "\\+ explained variance (R²) estimé pour le meilleur modèle (AIC) avec rsq fonction",
+      "styleAttributes": {},
+      "x": 935,
+      "y": 190,
+      "width": 690,
+      "height": 50
+    },
+    {
+      "id": "1da67e34172112e1",
+      "type": "text",
+      "text": "rsq R package",
+      "styleAttributes": {},
+      "x": 1761,
+      "y": 215,
+      "width": 189,
+      "height": 60,
+      "color": "5"
     }
   ],
   "edges": [
