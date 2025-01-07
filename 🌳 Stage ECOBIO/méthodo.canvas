@@ -313,15 +313,59 @@
       "x": -280,
       "y": 440,
       "width": 260,
-      "height": 60
+      "height": 60,
+      "color": "5"
     },
     {
       "id": "87520db65305e055",
       "type": "text",
+      "text": "Nb moyen sp (+/- var à établir)",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 520,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "eb05b35d76c88b71",
+      "type": "text",
+      "text": "Matrice SP végétale possible par occupation & climat",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 550,
+      "width": 320,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "8ec3b5e1299e7560",
+      "type": "text",
+      "text": "Tirage random de n (nb sp)",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 560,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "e5c427a6bcbe6395",
+      "type": "text",
+      "text": "Estimation CWM commu plante",
+      "styleAttributes": {},
+      "x": 1060,
+      "y": 580,
+      "width": 310,
+      "height": 60
+    },
+    {
+      "id": "9cf0fed7cfba1ecb",
+      "type": "text",
       "text": "",
       "styleAttributes": {},
-      "x": -200,
-      "y": 540,
+      "x": 1480,
+      "y": 620,
       "width": 260,
       "height": 60
     }
@@ -572,8 +616,43 @@
       "id": "fe3bb565fed3efe7",
       "styleAttributes": {},
       "fromNode": "0e6c9b628104a452",
-      "fromSide": "left",
+      "fromSide": "bottom",
       "toNode": "87520db65305e055",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "7371cd43d8152197",
+      "styleAttributes": {},
+      "fromNode": "87520db65305e055",
+      "fromSide": "right",
+      "toNode": "eb05b35d76c88b71",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "370ad2c79816a6c1",
+      "styleAttributes": {},
+      "fromNode": "eb05b35d76c88b71",
+      "fromSide": "right",
+      "toNode": "8ec3b5e1299e7560",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "d7c773f09b78dbd7",
+      "styleAttributes": {},
+      "fromNode": "8ec3b5e1299e7560",
+      "fromSide": "right",
+      "toNode": "e5c427a6bcbe6395",
+      "toSide": "left"
+    },
+    {
+      "id": "26c4885a70f8b874",
+      "styleAttributes": {},
+      "fromNode": "e5c427a6bcbe6395",
+      "fromSide": "right",
+      "toNode": "9cf0fed7cfba1ecb",
       "toSide": "left"
     }
   ],
