@@ -95,6 +95,51 @@
       "color": "2"
     },
     {
+      "id": "3bf83cd2874cd881",
+      "type": "text",
+      "text": "1️⃣ Détermination et sélection type occupation sols",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -728,
+      "y": -619,
+      "width": 374,
+      "height": 72,
+      "color": "2"
+    },
+    {
+      "id": "f8d9bae9ef453d7a",
+      "type": "text",
+      "text": "- TRY\n- Agriland\n- Carabids.org (down?)\n- TraitNet (fiable?)\n- Tela botanica\n- Julve",
+      "styleAttributes": {},
+      "x": -1285,
+      "y": -505,
+      "width": 260,
+      "height": 230
+    },
+    {
+      "id": "27e86b0572ebf7b3",
+      "type": "text",
+      "text": "6️⃣ sélection traits associés pour toutes les sp filtrées",
+      "styleAttributes": {},
+      "x": -138,
+      "y": -619,
+      "width": 275,
+      "height": 72,
+      "color": "2"
+    },
+    {
+      "id": "334b2ebcd4c833b8",
+      "type": "text",
+      "text": "7️⃣ CWM pour **chaque** trait pour **chaque** occupation de sol",
+      "styleAttributes": {},
+      "x": -89,
+      "y": -499,
+      "width": 315,
+      "height": 72,
+      "color": "2"
+    },
+    {
       "id": "413b8ad732de72f4",
       "type": "text",
       "text": "2) Landscape",
@@ -128,29 +173,6 @@
       "width": 226,
       "height": 72,
       "color": "5"
-    },
-    {
-      "id": "3bf83cd2874cd881",
-      "type": "text",
-      "text": "1️⃣ Détermination et sélection type occupation sols",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -728,
-      "y": -619,
-      "width": 374,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "f8d9bae9ef453d7a",
-      "type": "text",
-      "text": "- TRY\n- Agriland\n- Carabids.org (down?)\n- TraitNet (fiable?)\n- Tela botanica\n- Julve",
-      "styleAttributes": {},
-      "x": -1285,
-      "y": -505,
-      "width": 260,
-      "height": 230
     },
     {
       "id": "979d5ddd2e3328b3",
@@ -195,17 +217,6 @@
       "color": "5"
     },
     {
-      "id": "1da67e34172112e1",
-      "type": "text",
-      "text": "rsq R package",
-      "styleAttributes": {},
-      "x": 1341,
-      "y": 155,
-      "width": 187,
-      "height": 72,
-      "color": "5"
-    },
-    {
       "id": "235e8c7efeaaeea5",
       "type": "text",
       "text": "4) Multi model inference",
@@ -234,6 +245,17 @@
       "x": 1271,
       "y": 53,
       "width": 256,
+      "height": 72,
+      "color": "5"
+    },
+    {
+      "id": "1da67e34172112e1",
+      "type": "text",
+      "text": "rsq R package",
+      "styleAttributes": {},
+      "x": 1341,
+      "y": 155,
+      "width": 187,
       "height": 72,
       "color": "5"
     },
@@ -277,6 +299,39 @@
       "x": -689,
       "y": -85,
       "width": 354,
+      "height": 72,
+      "color": "2"
+    },
+    {
+      "id": "a31012d0bdd5c9b8",
+      "type": "text",
+      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
+      "styleAttributes": {},
+      "x": -689,
+      "y": -301,
+      "width": 374,
+      "height": 72,
+      "color": "2"
+    },
+    {
+      "id": "de69bee967960749",
+      "type": "text",
+      "text": "4️⃣ calcul abondance relative jdd sp/occupation filtré",
+      "styleAttributes": {},
+      "x": -689,
+      "y": -205,
+      "width": 315,
+      "height": 72,
+      "color": "2"
+    },
+    {
+      "id": "f359996add039d3a",
+      "type": "text",
+      "text": "2️⃣ Abondance sp pl / occupation sol",
+      "styleAttributes": {},
+      "x": -689,
+      "y": -397,
+      "width": 315,
       "height": 72,
       "color": "2"
     },
@@ -340,61 +395,6 @@
       "width": 1251,
       "height": 78,
       "color": "3"
-    },
-    {
-      "id": "27e86b0572ebf7b3",
-      "type": "text",
-      "text": "6️⃣ sélection traits associés pour toutes les sp filtrées",
-      "styleAttributes": {},
-      "x": -138,
-      "y": -619,
-      "width": 275,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "334b2ebcd4c833b8",
-      "type": "text",
-      "text": "7️⃣ CWM pour **chaque** trait pour **chaque** occupation de sol",
-      "styleAttributes": {},
-      "x": -89,
-      "y": -499,
-      "width": 315,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "a31012d0bdd5c9b8",
-      "type": "text",
-      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
-      "styleAttributes": {},
-      "x": -689,
-      "y": -301,
-      "width": 374,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "de69bee967960749",
-      "type": "text",
-      "text": "4️⃣ calcul abondance relative jdd sp/occupation filtré",
-      "styleAttributes": {},
-      "x": -689,
-      "y": -205,
-      "width": 315,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "f359996add039d3a",
-      "type": "text",
-      "text": "2️⃣ Abondance sp pl / occupation sol",
-      "styleAttributes": {},
-      "x": -689,
-      "y": -397,
-      "width": 315,
-      "height": 72,
-      "color": "2"
     },
     {
       "id": "8ec3b5e1299e7560",

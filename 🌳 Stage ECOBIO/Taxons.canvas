@@ -12,6 +12,28 @@
       "label": "Plantes"
     },
     {
+      "id": "f79d32d3b6b0f217",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -400,
+      "y": -1144,
+      "width": 540,
+      "height": 196,
+      "color": "4",
+      "label": "Cycle de vie"
+    },
+    {
+      "id": "c06348f1db464321",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -400,
+      "y": -908,
+      "width": 540,
+      "height": 160,
+      "color": "1",
+      "label": "Besoins"
+    },
+    {
       "id": "a4557aa4dc5c9e59",
       "type": "group",
       "styleAttributes": {},
@@ -67,17 +89,6 @@
       "label": "Pollinisateurs"
     },
     {
-      "id": "f79d32d3b6b0f217",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -400,
-      "y": -1144,
-      "width": 540,
-      "height": 196,
-      "color": "4",
-      "label": "Cycle de vie"
-    },
-    {
       "id": "e7d51303eb3377b9",
       "type": "group",
       "styleAttributes": {},
@@ -131,17 +142,6 @@
       "height": 196,
       "color": "4",
       "label": "Cycle de vie"
-    },
-    {
-      "id": "c06348f1db464321",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -400,
-      "y": -908,
-      "width": 540,
-      "height": 160,
-      "color": "1",
-      "label": "Besoins"
     },
     {
       "id": "d8d7678141ef3b5e",
@@ -261,72 +261,6 @@
       "x": -382,
       "y": -446,
       "width": 502,
-      "height": 50,
-      "color": "2"
-    },
-    {
-      "id": "78a2577b7f2e0775",
-      "type": "text",
-      "text": "**Mode de vie :** fixé / mobile",
-      "styleAttributes": {},
-      "x": -382,
-      "y": -1134,
-      "width": 502,
-      "height": 50,
-      "color": "2"
-    },
-    {
-      "id": "85e690db15b81461",
-      "type": "text",
-      "text": "**Durée de vie :** annuel / multi-annuel / pérenne",
-      "styleAttributes": {},
-      "x": -382,
-      "y": -1074,
-      "width": 360,
-      "height": 50,
-      "color": "2"
-    },
-    {
-      "id": "b6846a50e9c8fb85",
-      "type": "text",
-      "text": "**Durée de vie :** annuel / multi-annuel / pérenne",
-      "styleAttributes": {},
-      "x": -382,
-      "y": -1074,
-      "width": 502,
-      "height": 50,
-      "color": "2"
-    },
-    {
-      "id": "fd8739ea71ff0cd3",
-      "type": "text",
-      "text": "**Reproduction :** sexuée / asexuée",
-      "styleAttributes": {},
-      "x": -382,
-      "y": -1014,
-      "width": 502,
-      "height": 50,
-      "color": "2"
-    },
-    {
-      "id": "9abd15af3b6fa398",
-      "type": "text",
-      "text": "**Alimentation :**",
-      "styleAttributes": {},
-      "x": -380,
-      "y": -894,
-      "width": 500,
-      "height": 50,
-      "color": "2"
-    },
-    {
-      "id": "784aad06cc16704b",
-      "type": "text",
-      "text": "**Habitats** (conditions T°, ensoleillement, humidité, etc...)",
-      "styleAttributes": {},
-      "x": -380,
-      "y": -828,
-      "width": 500,
       "height": 50,
       "color": "2"
     },
@@ -604,6 +538,72 @@
       "width": 260,
       "height": 60,
       "color": "6"
+    },
+    {
+      "id": "78a2577b7f2e0775",
+      "type": "text",
+      "text": "**Mode de vie :** fixé / mobile",
+      "styleAttributes": {},
+      "x": -382,
+      "y": -1134,
+      "width": 502,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "85e690db15b81461",
+      "type": "text",
+      "text": "**Durée de vie :** annuel / multi-annuel / pérenne",
+      "styleAttributes": {},
+      "x": -382,
+      "y": -1074,
+      "width": 360,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "b6846a50e9c8fb85",
+      "type": "text",
+      "text": "**Durée de vie :** annuel / multi-annuel / pérenne",
+      "styleAttributes": {},
+      "x": -382,
+      "y": -1074,
+      "width": 502,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "fd8739ea71ff0cd3",
+      "type": "text",
+      "text": "**Reproduction :** sexuée / asexuée",
+      "styleAttributes": {},
+      "x": -382,
+      "y": -1014,
+      "width": 502,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "9abd15af3b6fa398",
+      "type": "text",
+      "text": "**Alimentation :**",
+      "styleAttributes": {},
+      "x": -380,
+      "y": -894,
+      "width": 500,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "784aad06cc16704b",
+      "type": "text",
+      "text": "**Habitats** (conditions T°, ensoleillement, humidité, etc...)",
+      "styleAttributes": {},
+      "x": -380,
+      "y": -828,
+      "width": 500,
+      "height": 50,
+      "color": "2"
     }
   ],
   "edges": [],
