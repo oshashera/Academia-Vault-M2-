@@ -30,7 +30,7 @@
                 "file": "🌳 Stage ECOBIO/Taxons.canvas",
                 "viewState": {
                   "x": 205.54698088393334,
-                  "y": -400.2876355014342,
+                  "y": -1026.4792944994206,
                   "zoom": -0.16633916955468886
                 }
               },
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206
+    "width": 206,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
