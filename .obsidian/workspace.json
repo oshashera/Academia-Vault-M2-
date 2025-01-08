@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/méthodo.canvas",
-                "viewState": {
-                  "x": 138,
-                  "y": 59,
-                  "zoom": -1.6344131480234192
-                }
+                "file": "🌳 Stage ECOBIO/Rentrée stage.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "méthodo"
+              "icon": "lucide-file",
+              "title": "Rentrée stage"
             }
           }
         ]
@@ -90,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206,
-    "collapsed": true
+    "width": 206
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -208,8 +204,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
+    "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
     "🌳 Stage ECOBIO/Organisation et boulot.canvas",
     "🏡 Home.md",
     "🌳 Stage ECOBIO/Taxons.canvas",
