@@ -5,14 +5,14 @@ banner: "![[1632213678884.jpg]]"
 banner_y: 0.5
 ---
 
-| Matin                                                        | Après-midi                                            | Jour     |
-| ------------------------------------------------------------ | ----------------------------------------------------- | -------- |
-| AAP                                                          | AAP A FINIR                                           | Mardi    |
-| Récup cours manquants                                        | Récup cours manquants<br>\+ début révision Yield gap  | Mercredi |
-| ANGLAIS COURS + Révision yield gap +<br>apport écophysio     | EPIDEMIO TRAVAIL EN<br>GROUPE                         | Jeudi    |
-| Soil quality & ecosystem services<br>ENVOYER AAP SI PAS FAIT | Landscape ecology + UC1 <br>caractériser un terri-... | Vendredi |
-| UC2 Évaluation + UC3 diagnostic                              | CONCEPTION                                            | Samedi   |
-| CONCEPTION                                                   | CONCEPTION                                            | Dimanche |
+| Matin                                   | Après-midi                                              | Jour     |
+| --------------------------------------- | ------------------------------------------------------- | -------- |
+|                                         |                                                         | Mardi    |
+|                                         |                                                         | Mercredi |
+|                                         | Recherche traits fx / besoin habitats et alim araignées | Jeudi    |
+| Tr fx / habitats et alim slugs / snails | Tr fx / besoins habitat et alim parasitoïds             | Vendredi |
+|                                         |                                                         | Samedi   |
+|                                         |                                                         | Dimanche |
 
 ```widgets
 type: clock 
