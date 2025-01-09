@@ -11,20 +11,32 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/méthodo.canvas",
-                "viewState": {
-                  "x": 303.33075356801066,
-                  "y": 37.71053299330541,
-                  "zoom": -0.21841786702473953
-                }
+                "file": "🏡 Home.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "méthodo"
+              "icon": "lucide-file",
+              "title": "🏡 Home"
+            }
+          },
+          {
+            "id": "9e5f6b6133a253d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes réu 09-01-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes réu 09-01-25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,9 +218,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9e5f6b6133a253d7",
   "lastOpenFiles": [
     "🏡 Home.md",
+    "Notes réu 09-01-25.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "🌳 Stage ECOBIO/Taxons.canvas",
     "🌳 Stage ECOBIO/Rentrée stage.md",
