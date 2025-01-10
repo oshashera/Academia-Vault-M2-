@@ -1,10 +1,10 @@
 
-| Taxon /          | Sous catégorie | Habitat | Nutrition | Source |
-| ---------------- | -------------- | ------- | --------- | ------ |
-| **Parasitoïdes** |                |         |           |        |
-|                  |                |         |           |        |
-|                  |                |         |           |        |
-|                  |                |         |           |        |
-|                  |                |         |           |        |
-|                  |                |         |           |        |
-|                  |                |         |           |        |
+| Taxon /          | Sous catégorie   | Habitat | Nutrition                                                                                          | Citation                                                                                                                                                                                                 | Source        |
+| ---------------- | ---------------- | ------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| **Parasitoïdes** |                  |         |                                                                                                    |                                                                                                                                                                                                          |               |
+|                  | parasitoid wasps |         | Sucre ?<br>=> **contenu en sucre** ds nectar ?                                                     | adult parasitoid wasps of many species are known to require sugar meals for maximum longevity                                                                                                            | Nafziger 2011 |
+|                  | parasitoids      |         | **Nectar (quantité ?)**                                                                            | ability of parasitoids to feed on nectar sources                                                                                                                                                         | Nafziger 2011 |
+|                  | parasitoids      |         | Nectar sources → **Attractivité florale**, **Accessiblité nectar**,<br>(lien morpho pièce buccale) | ability of parasitoids to utilize different nectar sources is dependent on several factors including flower attractiveness, floral morphology, nectar accessibility, and parasitoid mouthpart morphology | Nafziger 2011 |
+|                  |                  |         |                                                                                                    |                                                                                                                                                                                                          |               |
+|                  |                  |         |                                                                                                    |                                                                                                                                                                                                          |               |
+|                  |                  |         |                                                                                                    |                                                                                                                                                                                                          |               |
