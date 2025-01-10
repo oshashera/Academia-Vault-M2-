@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "🏡 Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -205,8 +205,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes réu 09-01-25.md",
     "🏡 Home.md",
+    "Notes réu 09-01-25.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "🌳 Stage ECOBIO/Taxons.canvas",
     "🌳 Stage ECOBIO/Rentrée stage.md",
