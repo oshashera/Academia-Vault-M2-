@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "id": "7eec0c97f88af99b",
+      "type": "text",
+      "text": "\n| Lundi 06 Janvier | Mardi | Mercredi | Jeudi | Vendredi |\n| ---------------- | ----- | -------- | ----- | -------- |\n|                  |       |          |       |          |\n",
+      "styleAttributes": {},
+      "x": -640,
+      "y": 220,
+      "width": 920,
+      "height": 160
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

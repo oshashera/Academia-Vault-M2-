@@ -1,0 +1,526 @@
+{
+  "nodes": [
+    {
+      "id": "8d07c72edc15e891",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -300,
+      "y": 400,
+      "width": 480,
+      "height": 620,
+      "label": "Programmation et calendrier"
+    },
+    {
+      "id": "55a7f81edd59b384",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -300,
+      "y": 1080,
+      "width": 580,
+      "height": 400,
+      "label": "Perspectives de valorisation des résultats"
+    },
+    {
+      "id": "e66bb81230cfcbf0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -500,
+      "width": 400,
+      "height": 400,
+      "color": "1",
+      "label": "Contexte et enjeux scientifiques (3P)"
+    },
+    {
+      "id": "570312b3143b05e7",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -40,
+      "width": 400,
+      "height": 400,
+      "label": "Objectifs du projet"
+    },
+    {
+      "id": "8623fad4f45db569",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -920,
+      "width": 280,
+      "height": 340,
+      "color": "1",
+      "label": "Résumé du projet (1P)"
+    },
+    {
+      "id": "1ec5c4955b8bac85",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -220,
+      "y": 1390,
+      "width": 400,
+      "height": 220,
+      "label": "Livrables"
+    },
+    {
+      "id": "6d6b75aea7c7dd92",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -150,
+      "y": 1760,
+      "width": 280,
+      "height": 100,
+      "label": "SATAN"
+    },
+    {
+      "id": "5b8f78de63e1cd6e",
+      "type": "text",
+      "text": "[[AAP#Contexte|Contexte]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -900,
+      "width": 140,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "6595d5aa617b7f7f",
+      "type": "text",
+      "text": "Description des différentes tâches : contenu incluant les matériels et méthode : l’amplitude des essais, le protocole proposé indiquant les variables à acquérir et les mesures prévues, les méthodes d’analyse statistiques proposées ainsi que les résultats attendus. (6P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 410,
+      "width": 440,
+      "height": 240
+    },
+    {
+      "id": "c8caaf572b3b5327",
+      "type": "text",
+      "text": "Calendrier de réalisation par tâche, incluant la durée et le positionnement des tâches entre elles pendant la durée du projet - un diagramme de Gantt peut être présenté. (1P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 680,
+      "width": 440,
+      "height": 120
+    },
+    {
+      "id": "f7987182ff6c6ab9",
+      "type": "text",
+      "text": "Titre / partenaires",
+      "styleAttributes": {},
+      "x": -340,
+      "y": -1120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4a82c73ebdeca5ee",
+      "type": "text",
+      "text": "[[AAP#Objectifs|Objectifs]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -840,
+      "width": 140,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "fc3f7114aa111c81",
+      "type": "text",
+      "text": "200 000 €",
+      "styleAttributes": {},
+      "x": 200,
+      "y": -930,
+      "width": 180,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "d1609584601a5311",
+      "type": "text",
+      "text": "[[AAP#Livrables d'intérêt collectif|Programme des travaux & principaux résultats attendus ]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -780,
+      "width": 240,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "bc3a3195f7b0ac9a",
+      "type": "text",
+      "text": "Equipes techniques mobilisées : préciser par partenaires, et par action le cas échéant, le nombre d’ETP (équivalents temps plein) prévus par catégorie (techniciens, ingénieurs, chercheurs), l’organisation prévue et le rôle de chaque partenaire technique. (???P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 820,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "ccdd283ad9b31a01",
+      "type": "text",
+      "text": "[[AAP#Livrables d'intérêt collectif|Livrables d’intérêt collectifs]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -680,
+      "width": 200,
+      "height": 70,
+      "color": "1"
+    },
+    {
+      "id": "3466475d1c48c6c4",
+      "type": "text",
+      "text": "Résumé de l’état de l’art scientifique sur lequel s’appuiera le projet (2P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -320,
+      "width": 360,
+      "height": 80,
+      "color": "1"
+    },
+    {
+      "id": "4a401ac8f38e7b2c",
+      "type": "text",
+      "text": "Objectifs poursuivis, justification du caractère scientifique innovant, de l’originalité et de l’ambition des travaux. (0,5P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -20,
+      "width": 360,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "c16b5a97ca08eb78",
+      "type": "text",
+      "text": "Principaux résultats attendus et identification d’indicateurs de performance de la réussite du projet (0,5P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 120,
+      "width": 360,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "305981e5bab2f952",
+      "type": "text",
+      "text": "Description des enjeux technico-économiques et environnementaux adressés par le projet au regard des thématiques prioritaires. (1P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -470,
+      "width": 360,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "452604e78edf2d79",
+      "type": "text",
+      "text": "Var réponse => taux oviposition dans culture principale, dans culture pull, et rendement moyen/ha de chou fleur",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -380,
+      "width": 300,
+      "height": 160
+    },
+    {
+      "id": "62fa4808c0d75f2b",
+      "type": "text",
+      "text": "Semés de janvier à septembre - 5/8 mois de culture",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -570,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "38464ed5f73280a0",
+      "type": "text",
+      "text": "Mouche du chou **d'avril à octobre**",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -770,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ba330059f9fc5352",
+      "type": "text",
+      "text": " Valorisation prévue des résultats à court et long termes, notamment retombées futures (0,5P)",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1100,
+      "width": 360,
+      "height": 80
+    },
+    {
+      "id": "681d8d5dc5b6b729",
+      "type": "text",
+      "text": "chou fleur peut être cultivé toute l'année",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "349b7d76cad36adb",
+      "type": "text",
+      "text": "\n| Janvier       | Basilic | Ail   | Tagete | Romarin |\n| ------------- | ------- | ----- | ------ | ------- |\n| Février       |         |       |        |         |\n| **Mars**      |         | **x** |        |         |\n| **Avril**     |         | **x** |        |         |\n| **Mai**       |         | **x** | **x**  | **x**   |\n| **Juin**      | **x**   | **x** | **x**  | **x**   |\n| **Juillet**   | **x**   |       | **x**  | **x**   |\n| **Aout**      | **x**   |       | **x**  | **x**   |\n| **Septembre** |         |       | **x**  |         |\n| **Octobre**   |         |       |        |         |\n| **Novembre**  |         |       |        |         |\n| Décembre      |         |       |        |         |\n|               | NON     | ok    | ok     | ok?     |\n",
+      "styleAttributes": {},
+      "x": 1140,
+      "y": -780,
+      "width": 740,
+      "height": 520
+    },
+    {
+      "id": "efd014057b0af6b1",
+      "type": "text",
+      "text": "Plan expé : **bloc de fisher** car :\nPrendre en compte un gradient d’hétérogénéité continu du terrain (haies de bocage)\n► nb de modalités à tester limité (<15)\n► Très utilisé en expérimentation agronomique de plein champ\n\n► diminution de la variance résiduelle (augmente la précision de l’analyse)\n► Facilité de mise en oeuvre\n\n",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": -560,
+      "width": 600,
+      "height": 300
+    },
+    {
+      "id": "a0b6469fbb070b15",
+      "type": "text",
+      "text": "Var qualitative : plante push ou dispositif push (diffuseur)",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -220,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "65de9cb1462ba3d8",
+      "type": "text",
+      "text": "Romarin, basilic, ail, tagetes (floraison)",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bc61fa196e4586c9",
+      "type": "text",
+      "text": "Var qualitative : variété B rapa pull",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c5a763d046f83f7d",
+      "type": "text",
+      "text": "\n| Push \\ Pull | Pekinensis | var rapa | var sylvestris | chinensis |\n| ----------- | ---------- | -------- | -------------- | --------- |\n| romarin     | 1          | 2        | 3              | 4         |\n| ail         | 5          | 6        | 7              | 8         |\n| tagete      | 9          | 10       | 11             | 12        |\n+ contrôle : pas de push-pull, pesticide (IFT 0.75 ou moins pour limiter un peu l'abus)\n\n=> 13 traitements",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": -220,
+      "width": 700,
+      "height": 320
+    },
+    {
+      "id": "829740a6e728a313",
+      "type": "text",
+      "text": "Suites attendues du projet et utilisation ultérieure possible des résultats, selon quel horizon de temps.",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1200,
+      "width": 360,
+      "height": 80
+    },
+    {
+      "id": "678587c8db622764",
+      "type": "text",
+      "text": "1. Capteurs de Composés Volatils :\n\nVous allez installer des capteurs pour mesurer les composés volatils dans une serre de 35m de long. Vous avez mentionné qu'ils doivent être espacés de 5m. Donc, pour une serre de 35m :\n\n    Nombre de capteurs par serre : 35m / 5m = 7 capteurs\n    Si vous avez 3 serres, cela fait un total de 7 capteurs * 3 serres = 21 capteurs.\n\nCoût par capteur :\n\n    Les capteurs pour les composés volatils peuvent varier considérablement en fonction de la précision, de la sensibilité, et de la technologie utilisée. Un capteur de base pour les COVs (Composés Organiques Volatils) coûte généralement entre 100 € et 500 € (modèles de base à plus précis).\n\nPour un coût moyen d'environ 250 € par capteur, le total pour 21 capteurs serait :\n\n    21 capteurs * 250 € = 5 250 €.\n\n2. Système d'Enregistrement des Données (Collecte des Données) :\n\nPour l'enregistrement des données provenant des capteurs, vous aurez besoin d'un système de collecte et de stockage des données (loggers, enregistreurs de données) et de matériel supplémentaire pour permettre leur transmission (éventuellement en réseau sans fil ou via une connexion filaire). Voici les principaux éléments à considérer :\n\n    Enregistreur de données (Data logger) : En fonction de la marque et de la complexité du système, un enregistreur de données pour plusieurs capteurs peut coûter entre 200 € et 1 000 €.\n    Pour 21 capteurs (réseau de 3 serres), il vous faudrait probablement 1 à 3 enregistreurs (en fonction de la capacité et de la compatibilité avec le nombre de capteurs).\n\nEn moyenne, pour 3 enregistreurs à 500 € chacun, cela représente :\n\n    3 enregistreurs * 500 € = 1 500 €.\n\n    Connectivité et câblage : Pour relier les capteurs aux enregistreurs et transmettre les données, des câbles et peut-être des dispositifs sans fil seront nécessaires. Cela pourrait ajouter entre 200 € et 500 € par serre en termes de câblage et de connectivité.\n\n    Coût total pour 3 serres : Estimation de 3 serres * 400 € = 1 200 €.\n\n### 4. **Autres équipements** :\n\n- **Batteries ou alimentation pour capteurs** : Si vous utilisez des capteurs sans fil ou si les capteurs nécessitent des piles, vous devrez prévoir un budget pour cela. Environ **50 € à 100 €** par capteur pour un système de batteries de remplacement annuel.\n- **Cout estimé pour 21 capteurs** : Estimation **1 000 € - 2 000 €** en batteries de remplacement sur 3 ans.",
+      "styleAttributes": {},
+      "x": 3080,
+      "y": 760,
+      "width": 960,
+      "height": 1240
+    },
+    {
+      "id": "d0a06a8e3afa296e",
+      "type": "text",
+      "text": "**Total =** \n**139000 + 52000 + 2000 = 193000**",
+      "styleAttributes": {},
+      "x": 1485,
+      "y": 2240,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "64c0f11c106b3f3a",
+      "type": "text",
+      "text": "Liste des résultats attendus : dans chaque cas, faire une description précise du livrable notamment en précisant le format de diffusion proposé (1P)",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 1410,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "7ef1f4a9e3dd7ff3",
+      "type": "text",
+      "text": "Tableau de con",
+      "styleAttributes": {},
+      "x": -130,
+      "y": 1770,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "09b39ca172161733",
+      "type": "text",
+      "text": "5 000 € chambre d'élevage de mouches\nalimentation 500 €",
+      "styleAttributes": {},
+      "x": 1790,
+      "y": 460,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "db810a9cd0ee6c93",
+      "type": "text",
+      "text": "Les essais seront réalisés sur plusieurs sites en Bretagne, représentatifs des différentes conditions agricoles locales (types de sols, microclimats, etc.). Il serait pertinent d’inclure :\n\nEssais de terrain sur plusieurs parcelles de chou-fleur et d'autres cultures brassicacées.\nEssais contrôlés en laboratoire pour valider l'efficacité des composés volatils (COVs) spécifiques.\nEssais dans différents types de cultures, à diverses distances des cultures push et des zones pull, afin d'analyser l'impact de la distance d'effet.",
+      "styleAttributes": {},
+      "x": 580,
+      "y": 60,
+      "width": 520,
+      "height": 340
+    },
+    {
+      "id": "47d7c544d190945f",
+      "type": "text",
+      "text": "Pékinensis, var rapa (navet), var sylverstris (moutarde sauvage), chinensis",
+      "styleAttributes": {},
+      "x": 780,
+      "y": -100,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "66d4a8aa05a3866e",
+      "type": "text",
+      "text": "- taux d'oviposition (pièges)\n- test sur le taux de prédation des oeufs (50 oeufs collés sur papier et disposés dans les blocs puis monitored) => 1 feuille / mois sur 2/4 (tirée aléatoirement) des rep pour les 13 traitements de avril a septembre, mais comptage et relevés 1 fois par semaine pour noter évolution.\n- La présence et l'abondance des prédateurs de mouches contrôlées à l'aide de pièges à fosse (comme Ferry et al 2009)\n- pupes : mesure taux parasitisme\n- Rdt / taille finale plantes en p-p vs control\n- Rdt en t/ha vendable (selon critères grande distribution) pp vs controle",
+      "styleAttributes": {},
+      "x": 1350,
+      "y": 170,
+      "width": 700,
+      "height": 300
+    },
+    {
+      "id": "49b72b20a253cfea",
+      "type": "text",
+      "text": "### **1. Coût du chercheur (2 mois par an) :**\n\n- **Salaire annuel d'un chercheur** (en fonction d'un salaire annuel de 45 000 € à 55 000 €) :\n    \n    - 45000€÷12=3750€45 000 € \\div 12 = 3 750 €45000€÷12=3750€ à 55000€÷12=4583,33€55 000 € \\div 12 = 4 583,33 €55000€÷12=4583,33€ par mois.\n- Le chercheur travaille **2 mois par an** :\n    \n    - Coût annuel : 3750€×2=7500€3 750 € \\times 2 = 7 500 €3750€×2=7500€ à 4583,33€×2=9166,67€4 583,33 € \\times 2 = 9 166,67 €4583,33€×2=9166,67€.\n- **Coût total pour le chercheur sur 3 ans** :  \n    7500€×3=22500€7 500 € \\times 3 = 22 500 €7500€×3=22500€ à 9166,67€×3=27500€9 166,67 € \\times 3 = 27 500 €9166,67€×3=27500€.\n    \n\n### **2. Mise à jour des coûts de main d'œuvre** :\n\n- **Chercheur principal (2 mois par an)** :  \n    **22 500 € à 27 500 €** sur 3 ans.\n    \n- **Techniciens de terrain (2 techniciens, à temps partiel)** :  \n    **75 000 € à 105 000 €** sur 3 ans.\n    \n- **Ingénieur agronome (2 semaines par an pour les analyses statistiques)** :  \n    **5 625 € à 6 875 €** sur 3 ans.\n    \n\n### **3. Total des coûts de main d'œuvre sur 3 ans** :\n\n- **Chercheur principal (2 mois par an)** : **22 500 € à 27 500 €**.\n- **Techniciens de terrain** : **75 000 € à 105 000 €**.\n- **Ingénieur agronome** : **5 625 € à 6 875 €**.\n\n#### **Total des coûts de main d'œuvre pour 3 ans** :\n\n**103 125 € à 139 375 €**.\n\n---\n\n### **4. Réajustement des ETP associés** :\n\n- **Chercheur principal (2 mois par an)** : environ **0,17 ETP** (2 mois de travail par an).\n- **Techniciens de terrain** : environ **0,76 ETP** (2 techniciens, à temps partiel).\n- **Ingénieur agronome** : environ **0,05 ETP** (2 semaines par an pour les analyses statistiques).\n\n#### **Total des ETP pour 3 ans** :\n\n**0,98 ETP** (environ 0,17 ETP pour le chercheur, 0,05 ETP pour l'ingénieur et environ 0,76 ETP pour les techniciens).\n\n---\n\n### **Conclusion finale :**\n\nSi le chercheur travaille **2 mois par an**, le **coût total de la main d'œuvre pour 3 ans** serait estimé entre **103 125 € et 139 375 €**. Cela représente environ **0,98 ETP sur 3 ans**.",
+      "styleAttributes": {},
+      "x": 4160,
+      "y": 760,
+      "width": 680,
+      "height": 1450
+    },
+    {
+      "id": "e5e5660ab42db658",
+      "type": "text",
+      "text": "2 zones climatiques :\n- cotière (st malo brest)\n- intérieure (rennes/vannes)\n\n= 2 \"blocs\" x 13 traitements x 5 répétitions sur 200m²\nHassanali et al. (2008) soulignent également que, pour une mise en œuvre à plus grande échelle dans des exploitations agricoles, des parcelles d'au moins **200 m²** et  Cook et al. (2007), les essais de stratégie **push-pull** en grande culture doivent tenir compte de la variabilité spatiale des ravageurs et des cultures, en utilisant des parcelles allant de **200 à 500 m²**\n\n**==> 500m² unité expérimentale** + tampon de 4m entre parcelles => \nPour calculer la surface totale nécessaire pour vos traitements, voici le détail des calculs :\n\n### Surface de chaque parcelle :\n\n- Parcelles de 200 m².\n\n### Zone tampon :\n\n- Chaque parcelle aura un espace tampon de 4 m autour pour séparer les parcelles et éviter l’interférence des traitements.\n\nCalcul de la surface totale :\n\n1. Chaque parcelle de 200 m² est entourée d’une zone tampon de 4 m de chaque côté. La taille totale d'une parcelle avec le tampon sera :\n\n(200 m²)+(2×4 m×20 m)+(2×4 m×10 m)=200 m²+160 m²=360 m² par parcelle avec tampon(200 \\, \\text{m²}) + (2 \\times 4 \\, \\text{m} \\times 20 \\, \\text{m}) + (2 \\times 4 \\, \\text{m} \\times 10 \\, \\text{m}) = 200 \\, \\text{m²} + 160 \\, \\text{m²} = 360 \\, \\text{m² par parcelle avec tampon}(200m²)+(2×4m×20m)+(2×4m×10m)=200m²+160m²=360m² par parcelle avec tampon\n\n2. Nombre total de parcelles avec les tampons :\n    - 2×13×4=104 parcelles au total2 \\times 13 \\times 4 = 104 \\, \\text{parcelles au total}2×13×4=104parcelles au totalDonc la surface totale nécessaire pour les 104 parcelles serait de :\n\n104×360 m²=37440 m²104 \\times 360 \\, \\text{m²} = 37 440 \\, \\text{m²}104×360m²=37440m²\n\n### Calcul du coût total de location :\n\nSi vous devez louer 37 440 m², soit 3,744 ha, à un prix de 5 000 €/ha pour 3 ans, le coût sera :\n3,744 ha×5000 €/ha=18870 € pour 3 ans3,744 \\, \\text{ha} \\times 5 500 \\, \\text{€/ha} = 20 592 \\, \\text{€ pour 3 ans}3,744ha×5500€/ha=20592€ pour 3 ans\n\nDonc, pour ces expérimentations, la surface totale et le coût de location seraient de **20 592 €** pour 3 ans.",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": -260,
+      "width": 780,
+      "height": 1320
+    },
+    {
+      "id": "e997e1c67deefa7c",
+      "type": "text",
+      "text": "**Coût total (serres tunnel + terrain)** : **24 440 €**",
+      "styleAttributes": {},
+      "x": 1560,
+      "y": 960,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "1c4f324439d4e28e",
+      "type": "text",
+      "text": "Terrain + chambre élevage+ bouffe mouche + 3 serres = **25000+5500+20592=51092 €**",
+      "styleAttributes": {},
+      "x": 1380,
+      "y": 1220,
+      "width": 360,
+      "height": 160
+    },
+    {
+      "id": "0ab9c8ba0f0dc3c4",
+      "type": "text",
+      "text": "l'**ANOVA à plusieurs facteurs** est bien plus adaptée, car elle vous permettra de tester les différences de moyennes entre les traitements et d’évaluer l'impact de facteurs multiples (traitement, climat)",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": 620,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "bf669d8150e2ed47",
+      "type": "text",
+      "text": "2. Superficie Totale pour 3 Serres :\n\n    Surface totale nécessaire : 35m×31m35m×31m = 1 085 m² pour les 3 serres avec un espace tampon de 1 mètre entre elles.\n\nDonc, la superficie nécessaire pour installer les 3 serres serait 1 085 m² au lieu de 1 050 m² comme précédemment estimé, ce qui reste très similaire.\n3. Coût du Terrain :\n\nEn partant sur un terrain agricole d'une taille d'environ 0,11 hectare (1 085 m²), voici l'estimation :\n\n    Coût moyen du terrain agricole en Bretagne : 4 000 € à 6 500 € par hectare.\n    Pour 0,11 hectare, le coût serait :\n        Min : 4000 €×0,114000€×0,11 = 440 €\n        Max : 6500 €×0,116500€×0,11 = 715 €\n\n4. Coût Total pour les Serres et le Terrain :\na. Serres Tunnel + Terrain :\n\n    Serres : 24 000 à 45 000 €\n    Terrain : 440 € à 715 €\n    Total :\n        Min : 24 000 € + 440 € = 24 440 €\n\n**en gros 25 ke**",
+      "styleAttributes": {},
+      "x": 770,
+      "y": 510,
+      "width": 670,
+      "height": 700
+    }
+  ],
+  "edges": [
+    {
+      "id": "23a5b4246ac41352",
+      "styleAttributes": {},
+      "fromNode": "a0b6469fbb070b15",
+      "fromSide": "right",
+      "toNode": "65de9cb1462ba3d8",
+      "toSide": "left"
+    },
+    {
+      "id": "2893ae7abdfca3a3",
+      "styleAttributes": {},
+      "fromNode": "65de9cb1462ba3d8",
+      "fromSide": "top",
+      "toNode": "681d8d5dc5b6b729",
+      "toSide": "bottom"
+    },
+    {
+      "id": "73e8c5ec2b48116f",
+      "styleAttributes": {},
+      "fromNode": "681d8d5dc5b6b729",
+      "fromSide": "right",
+      "toNode": "65de9cb1462ba3d8",
+      "toSide": "top"
+    },
+    {
+      "id": "9dd32f44502ac04f",
+      "styleAttributes": {},
+      "fromNode": "bc61fa196e4586c9",
+      "fromSide": "right",
+      "toNode": "47d7c544d190945f",
+      "toSide": "left"
+    },
+    {
+      "id": "4b07bd89bc089c5c",
+      "styleAttributes": {},
+      "fromNode": "65de9cb1462ba3d8",
+      "fromSide": "right",
+      "toNode": "c5a763d046f83f7d",
+      "toSide": "left"
+    },
+    {
+      "id": "12bbbe2bdd2691c4",
+      "styleAttributes": {},
+      "fromNode": "47d7c544d190945f",
+      "fromSide": "right",
+      "toNode": "c5a763d046f83f7d",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

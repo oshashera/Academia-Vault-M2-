@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Primary",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "callout_canva",
+    "dashboard",
+    "sidebar_icon_size",
+    "image_alignment_1"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "callouts": {
+    "custom": [
+      "element",
+      "donc",
+      "list",
+      "book",
+      "dot"
+    ],
+    "settings": {
+      "element": [
+        {
+          "changes": {
+            "icon": "lucide-square-asterisk",
+            "color": "174, 178, 174"
+          }
+        }
+      ],
+      "donc": [
+        {
+          "changes": {
+            "icon": "lucide-move-right"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "156, 171, 156"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "182,196,182"
+          }
+        }
+      ],
+      "list": [
+        {
+          "changes": {
+            "icon": "lucide-book-open-text"
+          }
+        }
+      ],
+      "book": [
+        {
+          "changes": {
+            "icon": "lucide-book-text",
+            "color": "80, 226, 80"
+          }
+        }
+      ],
+      "dot": [
+        {
+          "changes": {
+            "icon": "arrow-circle",
+            "color": "247, 135, 8"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

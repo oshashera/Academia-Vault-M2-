@@ -1,0 +1,7 @@
+.side-dock-ribbon {
+  --ribbon-width: 45px;
+}
+.side-dock-ribbon svg {
+  height: 18px;
+  width: 18px;
+}
