@@ -5,14 +5,15 @@ banner: "![[1632213678884.jpg]]"
 banner_y: 0.5
 ---
 
-| Matin                                   | Après-midi                                              | Jour     |
-| --------------------------------------- | ------------------------------------------------------- | -------- |
-|                                         |                                                         | Mardi    |
-|                                         |                                                         | Mercredi |
-|                                         | Recherche traits fx / besoin habitats et alim araignées | Jeudi    |
-| Tr fx / habitats et alim slugs / snails | Tr fx / besoins habitat et alim parasitoïds             | Vendredi |
-|                                         |                                                         | Samedi   |
-|                                         |                                                         | Dimanche |
+| Matin                     | Après-midi                              | Jour     |
+| ------------------------- | --------------------------------------- | -------- |
+| Finir parasitoïdes        | DERNIER DELAI PARASITOIDES + mail Sarah | Lundi    |
+| Araignées                 | Araignées                               | Mardi    |
+| Araignées                 | Araignées fin                           | Mercredi |
+| Araignées dernier délai ? | Slugs / snails                          | Jeudi    |
+| Slugs / snails            | Slugs / snails                          | Vendredi |
+|                           |                                         | Samedi   |
+|                           |                                         | Dimanche |
 
 ```widgets
 type: clock 
