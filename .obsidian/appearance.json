@@ -5,6 +5,7 @@
     "callout_canva",
     "dashboard",
     "sidebar_icon_size",
-    "image_alignment_1"
+    "image_alignment_1",
+    "border_size_px"
   ]
 }
