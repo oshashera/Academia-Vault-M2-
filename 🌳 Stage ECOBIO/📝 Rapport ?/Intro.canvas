@@ -285,14 +285,14 @@
     {
       "id": "c01485e477b19378",
       "type": "text",
-      "text": "- Paysage (def)\n*peut permettre de*\n- gérer des SE (def)\n- Ces SE sont issus ",
+      "text": "- Paysage (def)\n*peut permettre de*\n- gérer des SE (def)\n- Ces SE sont issus de fx éco, assimilables à des processus (à vérif, source), issus de la biodiversité.\n*mais*\n- La biodiv et les SE s'influencent mutuellement (expliquer/développer)\n*et*\n- Les SE sont extrêmement utiles pour l'agri, et crucial enjeux pour limiter besoins en intrants/phytosanitaires/limitation émissions GES et pérenniser / assurer autonomie alim\n*on pourrait donc penser que utiliser paysage = giga bon plan, mais*\n- Difficile à étudier, du fait de échelles/hiérarchie, superposition et lien temps/espace et de bcp d'éléments/théories complexes sous-jacentes\n*qui plus est on a 2 visions différentes à ce jour :*\n- \"Classique\" :\n\t- Land-use/Land-cover, notamment du fait de la prévalence du paradigme/cadre d'analyse \"mosaïque/corridor/patch/matrice\"\n- \"Fonctionnelle\" :\n\t- Encore relativement nouveau, reste à explorer\n\t- Utilise traits fx des organismes étudiés, plus précis potentiellement (en prédicteur et en management ?)\n\t- Pb de métriques pour comparer efficacité avec \"classique\"\n*kikicé qu'est le meilleur ? pourquoi utiliser l'un ou l'autre ? Y a-t-il une pluvalue du fx sur le classique ?*\n- En agri, en lien avec pb cité avant, monte aussi le débat du land-sharing vs land-sparing. \n*l'éco du pays \"classique\" est-elle inhérentement inadaptée pour traiter ca? vu que utilise typologie de recouvrement large plutôt qu'estimation de provision besoin plus fin?*\n- Pbmatique :\n- Question de recherche\n",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 1629,
+      "x": 1644,
       "y": -779,
-      "width": 466,
-      "height": 385
+      "width": 847,
+      "height": 839
     }
   ],
   "edges": [

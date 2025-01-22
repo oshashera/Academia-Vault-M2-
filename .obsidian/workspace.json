@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 70.7395498392283,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -15,9 +16,9 @@
               "state": {
                 "file": "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
                 "viewState": {
-                  "x": 1482.9178823585355,
-                  "y": -8.115486297607166,
-                  "zoom": -1.1396414602573932
+                  "x": 1621.1349968868628,
+                  "y": -358.16425075634885,
+                  "zoom": -0.7583380354221883
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -43,6 +44,7 @@
       {
         "id": "a4f4963705ddf4ca",
         "type": "tabs",
+        "dimension": 29.260450160771708,
         "children": [
           {
             "id": "7c7dbdd265dd506f",
