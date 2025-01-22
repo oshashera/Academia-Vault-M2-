@@ -1,0 +1,566 @@
+{
+  "nodes": [
+    {
+      "id": "b9aa38bbf5d0cddc",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -780,
+      "width": 1674,
+      "height": 1079,
+      "label": "Zbeul"
+    },
+    {
+      "id": "99e48e46db66a297",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 385,
+      "y": -780,
+      "width": 1224,
+      "height": 1079,
+      "label": "V1 zbeul"
+    },
+    {
+      "id": "4827c9d8ad73577b",
+      "type": "text",
+      "text": "Biodiversité",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1049,
+      "y": -350,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ba8004d2bf878c10",
+      "type": "text",
+      "text": "Fx écosyst et processus",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1390,
+      "y": -170,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d3ebdeb37ed97774",
+      "type": "text",
+      "text": "Services Ecosystémiques",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1309,
+      "y": 44,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cb904f1d14784927",
+      "type": "text",
+      "text": "Agriculture",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1252,
+      "y": -454,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d8ede98b2a385f91",
+      "type": "text",
+      "text": "Classique",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1113,
+      "y": -93,
+      "width": 198,
+      "height": 60
+    },
+    {
+      "id": "d1ddb832ee1326bf",
+      "type": "text",
+      "text": "Mosaïque paradigm etc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1212,
+      "y": 30,
+      "width": 245,
+      "height": 60
+    },
+    {
+      "id": "1fa272c76142b709",
+      "type": "text",
+      "text": "Land sharing / sparing",
+      "styleAttributes": {},
+      "x": 1082,
+      "y": 165,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8159ef70e3342e2e",
+      "type": "text",
+      "text": "Paysage",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 942,
+      "y": -768,
+      "width": 148,
+      "height": 60
+    },
+    {
+      "id": "b96ccbe13b3714dd",
+      "type": "text",
+      "text": "Services (managment)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 886,
+      "y": -574,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9b6a5150c23a42b4",
+      "type": "text",
+      "text": "Difficile à étudier, car échelles/hiérarchie, superposition et lien temps/espace",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 820,
+      "y": -268,
+      "width": 392,
+      "height": 66
+    },
+    {
+      "id": "64d6068619a3a2ed",
+      "type": "text",
+      "text": "Land use / Land cover",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 952,
+      "y": 30,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cbe1228e2f146c3d",
+      "type": "text",
+      "text": "Fonctionnelle",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 622,
+      "y": -63,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d40facecfec34469",
+      "type": "text",
+      "text": "Biodiversité, processus, fxs, SE",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 492,
+      "y": -454,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "da8ad5ef5ad23c54",
+      "type": "text",
+      "text": "Fonctionnel",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -16,
+      "y": -290,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e67d26d092571277",
+      "type": "text",
+      "text": "Paysage",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -164,
+      "y": -759,
+      "width": 148,
+      "height": 60
+    },
+    {
+      "id": "d2ecec0872b5bc69",
+      "type": "text",
+      "text": "Land sharing / sparing ?",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -340,
+      "y": 60,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3e8daaf02890ab6d",
+      "type": "text",
+      "text": "Echelles et hierarchie, superposition et lien échelle/temps",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -484,
+      "y": -496,
+      "width": 338,
+      "height": 60
+    },
+    {
+      "id": "056c5af0b79b0911",
+      "type": "text",
+      "text": "Mosaique etc... paradigm",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -445,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "286ebe95932f532b",
+      "type": "text",
+      "text": "Classique",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -560,
+      "y": -350,
+      "width": 150,
+      "height": 60
+    },
+    {
+      "id": "9579636e61ae2666",
+      "type": "text",
+      "text": "Agriculture",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -670,
+      "y": 44,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "66c400a0fd05f6fd",
+      "type": "text",
+      "text": "gérer et favoriser ?\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -560,
+      "y": 220,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d19f0c81d711f27c",
+      "type": "text",
+      "text": "Land use/ Land cover",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -749,
+      "y": -140,
+      "width": 304,
+      "height": 60
+    },
+    {
+      "id": "c01485e477b19378",
+      "type": "text",
+      "text": "- Paysage (def)\n*peut permettre de*\n- gérer des SE (def)\n- Ces SE sont issus ",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1629,
+      "y": -779,
+      "width": 466,
+      "height": 385
+    }
+  ],
+  "edges": [
+    {
+      "id": "801ce439bdf70dd0",
+      "styleAttributes": {},
+      "fromNode": "3e8daaf02890ab6d",
+      "fromSide": "bottom",
+      "toNode": "da8ad5ef5ad23c54",
+      "toSide": "top"
+    },
+    {
+      "id": "d9868e3c35eeee8b",
+      "styleAttributes": {},
+      "fromNode": "286ebe95932f532b",
+      "fromSide": "bottom",
+      "toNode": "d19f0c81d711f27c",
+      "toSide": "top"
+    },
+    {
+      "id": "608886ab23c64b8e",
+      "styleAttributes": {},
+      "fromNode": "d19f0c81d711f27c",
+      "fromSide": "bottom",
+      "toNode": "9579636e61ae2666",
+      "toSide": "top"
+    },
+    {
+      "id": "80dedc648ba6c8e5",
+      "styleAttributes": {},
+      "fromNode": "4827c9d8ad73577b",
+      "fromSide": "left",
+      "toNode": "ba8004d2bf878c10",
+      "toSide": "top"
+    },
+    {
+      "id": "68f7cf77b5444caa",
+      "styleAttributes": {},
+      "fromNode": "ba8004d2bf878c10",
+      "fromSide": "bottom",
+      "toNode": "d3ebdeb37ed97774",
+      "toSide": "top"
+    },
+    {
+      "id": "cd1cdec63b1e221c",
+      "styleAttributes": {},
+      "fromNode": "4827c9d8ad73577b",
+      "fromSide": "bottom",
+      "toNode": "da8ad5ef5ad23c54",
+      "toSide": "left"
+    },
+    {
+      "id": "a330fe5b368e7eed",
+      "styleAttributes": {},
+      "fromNode": "d3ebdeb37ed97774",
+      "fromSide": "right",
+      "toNode": "9579636e61ae2666",
+      "toSide": "left",
+      "label": "servent à ?"
+    },
+    {
+      "id": "b54f915bcca2a8bb",
+      "styleAttributes": {},
+      "fromNode": "286ebe95932f532b",
+      "fromSide": "bottom",
+      "toNode": "056c5af0b79b0911",
+      "toSide": "top"
+    },
+    {
+      "id": "58b503a06f825eb6",
+      "styleAttributes": {},
+      "fromNode": "056c5af0b79b0911",
+      "fromSide": "bottom",
+      "toNode": "d19f0c81d711f27c",
+      "toSide": "right"
+    },
+    {
+      "id": "336e3c7edef46d69",
+      "styleAttributes": {},
+      "fromNode": "e67d26d092571277",
+      "fromSide": "bottom",
+      "toNode": "3e8daaf02890ab6d",
+      "toSide": "top",
+      "label": "hard to study"
+    },
+    {
+      "id": "add905fcfc02f739",
+      "styleAttributes": {},
+      "fromNode": "3e8daaf02890ab6d",
+      "fromSide": "bottom",
+      "toNode": "286ebe95932f532b",
+      "toSide": "top"
+    },
+    {
+      "id": "88add060cbc35748",
+      "styleAttributes": {},
+      "fromNode": "9579636e61ae2666",
+      "fromSide": "left",
+      "toNode": "4827c9d8ad73577b",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "f2125d98aba710d5",
+      "styleAttributes": {},
+      "fromNode": "4827c9d8ad73577b",
+      "fromSide": "bottom",
+      "toNode": "9579636e61ae2666",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "a1ed56cd3a4803c2",
+      "styleAttributes": {},
+      "fromNode": "9579636e61ae2666",
+      "fromSide": "right",
+      "toNode": "d2ecec0872b5bc69",
+      "toSide": "left"
+    },
+    {
+      "id": "446d09a2fa6a560f",
+      "styleAttributes": {},
+      "fromNode": "d3ebdeb37ed97774",
+      "fromSide": "bottom",
+      "toNode": "66c400a0fd05f6fd",
+      "toSide": "top"
+    },
+    {
+      "id": "66c0add3aeb7394c",
+      "styleAttributes": {},
+      "fromNode": "3e8daaf02890ab6d",
+      "fromSide": "bottom",
+      "toNode": "ba8004d2bf878c10",
+      "toSide": "right"
+    },
+    {
+      "id": "723f437390aedfd6",
+      "styleAttributes": {},
+      "fromNode": "8159ef70e3342e2e",
+      "fromSide": "bottom",
+      "toNode": "b96ccbe13b3714dd",
+      "toSide": "top",
+      "label": "peut permettre"
+    },
+    {
+      "id": "ea988abd7e860a96",
+      "styleAttributes": {},
+      "fromNode": "b96ccbe13b3714dd",
+      "fromSide": "bottom",
+      "toNode": "9b6a5150c23a42b4",
+      "toSide": "top"
+    },
+    {
+      "id": "d241f98f5e8392b1",
+      "styleAttributes": {},
+      "fromNode": "9b6a5150c23a42b4",
+      "fromSide": "bottom",
+      "toNode": "d8ede98b2a385f91",
+      "toSide": "top",
+      "label": "      2 visions"
+    },
+    {
+      "id": "6d9c32fe96f19789",
+      "styleAttributes": {},
+      "fromNode": "9b6a5150c23a42b4",
+      "fromSide": "bottom",
+      "toNode": "cbe1228e2f146c3d",
+      "toSide": "top"
+    },
+    {
+      "id": "52a3284ff48e4e84",
+      "styleAttributes": {},
+      "fromNode": "d40facecfec34469",
+      "fromSide": "top",
+      "toNode": "b96ccbe13b3714dd",
+      "toSide": "left",
+      "label": "permet"
+    },
+    {
+      "id": "f160368f8cfa0a39",
+      "styleAttributes": {},
+      "fromNode": "b96ccbe13b3714dd",
+      "fromSide": "bottom",
+      "toNode": "d40facecfec34469",
+      "toSide": "right",
+      "label": "impacte"
+    },
+    {
+      "id": "27aa256572988891",
+      "styleAttributes": {},
+      "fromNode": "b96ccbe13b3714dd",
+      "fromSide": "bottom",
+      "toNode": "cb904f1d14784927",
+      "toSide": "left",
+      "label": "utile à"
+    },
+    {
+      "id": "17653116574b4d97",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "d40facecfec34469",
+      "fromSide": "bottom",
+      "toNode": "cb904f1d14784927",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5df3c36db362182e",
+      "styleAttributes": {},
+      "fromNode": "d8ede98b2a385f91",
+      "fromSide": "bottom",
+      "toNode": "64d6068619a3a2ed",
+      "toSide": "top"
+    },
+    {
+      "id": "3684ef4d5942bb24",
+      "styleAttributes": {},
+      "fromNode": "d8ede98b2a385f91",
+      "fromSide": "bottom",
+      "toNode": "d1ddb832ee1326bf",
+      "toSide": "top"
+    },
+    {
+      "id": "0599e89255171663",
+      "styleAttributes": {},
+      "fromNode": "64d6068619a3a2ed",
+      "fromSide": "bottom",
+      "toNode": "1fa272c76142b709",
+      "toSide": "top"
+    },
+    {
+      "id": "b1e4c1709650a168",
+      "styleAttributes": {},
+      "fromNode": "d1ddb832ee1326bf",
+      "fromSide": "bottom",
+      "toNode": "1fa272c76142b709",
+      "toSide": "top"
+    },
+    {
+      "id": "51da72134093e8ef",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "1fa272c76142b709",
+      "fromSide": "right",
+      "toNode": "cb904f1d14784927",
+      "toSide": "right"
+    },
+    {
+      "id": "5c7e1aa1091b4c06",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "d40facecfec34469",
+      "fromSide": "left",
+      "toNode": "cbe1228e2f146c3d",
+      "toSide": "left"
+    },
+    {
+      "id": "152678ae49b4f27f",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "cbe1228e2f146c3d",
+      "fromSide": "bottom",
+      "toNode": "1fa272c76142b709",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

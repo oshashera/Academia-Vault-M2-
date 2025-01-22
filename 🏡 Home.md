@@ -5,15 +5,15 @@ banner: "![[1632213678884.jpg]]"
 banner_y: 0.5
 ---
 
-| Matin                     | Après-midi                              | Jour     |
-| ------------------------- | --------------------------------------- | -------- |
-| Finir parasitoïdes        | DERNIER DELAI PARASITOIDES + mail Sarah | Lundi    |
-| Araignées                 | Araignées                               | Mardi    |
-| Araignées                 | Araignées fin                           | Mercredi |
-| Araignées dernier délai ? | Slugs / snails                          | Jeudi    |
-| Slugs / snails            | Slugs / snails                          | Vendredi |
-|                           |                                         | Samedi   |
-|                           |                                         | Dimanche |
+| Matin                                                                                 | Après-midi                                                                | Jour     |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- |
+| Finir parasitoïdes                                                                    | DERNIER DELAI PARASITOIDES + mail Sarah                                   | Lundi    |
+| Araignées                                                                             | Araignées                                                                 | Mardi    |
+| Araignées                                                                             | Rédac intro début ?                                                       | Mercredi |
+| Araignées                                                                             | Araignées                                                                 | Jeudi    |
+| Faire récap des données déjà dispo (au moins pour bretagne et allemagne et Czech Rep) | Araignées fin ? + Parasitoïdes trouver besoins climatique (T°, humid,...) | Vendredi |
+|                                                                                       |                                                                           | Samedi   |
+|                                                                                       |                                                                           | Dimanche |
 
 ```widgets
 type: clock 
