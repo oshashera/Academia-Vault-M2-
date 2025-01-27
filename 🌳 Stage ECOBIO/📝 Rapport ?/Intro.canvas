@@ -57,6 +57,66 @@
       "height": 60
     },
     {
+      "id": "3e8daaf02890ab6d",
+      "type": "text",
+      "text": "Echelles et hierarchie, superposition et lien échelle/temps",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -484,
+      "y": -496,
+      "width": 338,
+      "height": 60
+    },
+    {
+      "id": "286ebe95932f532b",
+      "type": "text",
+      "text": "Classique",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -560,
+      "y": -350,
+      "width": 150,
+      "height": 60
+    },
+    {
+      "id": "9579636e61ae2666",
+      "type": "text",
+      "text": "Agriculture",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -670,
+      "y": 44,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "66c400a0fd05f6fd",
+      "type": "text",
+      "text": "gérer et favoriser ?\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -560,
+      "y": 220,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d19f0c81d711f27c",
+      "type": "text",
+      "text": "Land use/ Land cover",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -749,
+      "y": -140,
+      "width": 304,
+      "height": 60
+    },
+    {
       "id": "cb904f1d14784927",
       "type": "text",
       "text": "Agriculture",
@@ -90,16 +150,6 @@
       "x": 1212,
       "y": 30,
       "width": 245,
-      "height": 60
-    },
-    {
-      "id": "1fa272c76142b709",
-      "type": "text",
-      "text": "Land sharing / sparing",
-      "styleAttributes": {},
-      "x": 1082,
-      "y": 165,
-      "width": 260,
       "height": 60
     },
     {
@@ -175,6 +225,28 @@
       "height": 60
     },
     {
+      "id": "c01485e477b19378",
+      "type": "text",
+      "text": "- Paysage (def)\n*peut permettre de*\n- gérer des SE (def)\n- Ces SE sont issus de fx éco, assimilables à des processus (à vérif, source), issus de la biodiversité.\n*mais*\n- La biodiv et les SE s'influencent mutuellement (expliquer/développer)\n*et*\n- Les SE sont extrêmement utiles pour l'agri, et crucial enjeux pour limiter besoins en intrants/phytosanitaires/limitation émissions GES et pérenniser / assurer autonomie alim\n*on pourrait donc penser que utiliser paysage = giga bon plan, mais*\n- Difficile à étudier, du fait de échelles/hiérarchie, superposition et lien temps/espace et de bcp d'éléments/théories complexes sous-jacentes\n*qui plus est on a 2 visions différentes à ce jour :*\n- \"Classique\" :\n\t- Land-use/Land-cover, notamment du fait de la prévalence du paradigme/cadre d'analyse \"mosaïque/corridor/patch/matrice\"\n- \"Fonctionnelle\" :\n\t- Encore relativement nouveau, reste à explorer\n\t- Utilise traits fx des organismes étudiés, plus précis potentiellement (en prédicteur et en management ?)\n\t- Pb de métriques pour comparer efficacité avec \"classique\"\n*kikicé qu'est le meilleur ? pourquoi utiliser l'un ou l'autre ? Y a-t-il une pluvalue du fx sur le classique ?*\n- En agri, en lien avec pb cité avant, monte aussi le débat du land-sharing vs land-sparing. \n*l'éco du pays \"classique\" est-elle inhérentement inadaptée pour traiter ca? vu que utilise typologie de recouvrement large plutôt qu'estimation de provision besoin plus fin?*\n- Pbmatique : Quel place et validité des paysages fonctionnels en écologie\n- Question de recherche : Peut-on prévoir de manière satisfaisante l'abondance et la richesse spécifique de taxons dans un champ, à partir des communautés végétales environnantes et de leurs traits fx associées ? *+ comparaison éventuelle / métriques à trouver/développer pour comparer avec \"classique\"*\n",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 1644,
+      "y": -779,
+      "width": 965,
+      "height": 787
+    },
+    {
+      "id": "1fa272c76142b709",
+      "type": "text",
+      "text": "Land sharing / sparing",
+      "styleAttributes": {},
+      "x": 1082,
+      "y": 165,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "da8ad5ef5ad23c54",
       "type": "text",
       "text": "Fonctionnel",
@@ -211,18 +283,6 @@
       "height": 60
     },
     {
-      "id": "3e8daaf02890ab6d",
-      "type": "text",
-      "text": "Echelles et hierarchie, superposition et lien échelle/temps",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -484,
-      "y": -496,
-      "width": 338,
-      "height": 60
-    },
-    {
       "id": "056c5af0b79b0911",
       "type": "text",
       "text": "Mosaique etc... paradigm",
@@ -233,66 +293,6 @@
       "y": -200,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "286ebe95932f532b",
-      "type": "text",
-      "text": "Classique",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -560,
-      "y": -350,
-      "width": 150,
-      "height": 60
-    },
-    {
-      "id": "9579636e61ae2666",
-      "type": "text",
-      "text": "Agriculture",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -670,
-      "y": 44,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "66c400a0fd05f6fd",
-      "type": "text",
-      "text": "gérer et favoriser ?\n",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -560,
-      "y": 220,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d19f0c81d711f27c",
-      "type": "text",
-      "text": "Land use/ Land cover",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -749,
-      "y": -140,
-      "width": 304,
-      "height": 60
-    },
-    {
-      "id": "c01485e477b19378",
-      "type": "text",
-      "text": "- Paysage (def)\n*peut permettre de*\n- gérer des SE (def)\n- Ces SE sont issus de fx éco, assimilables à des processus (à vérif, source), issus de la biodiversité.\n*mais*\n- La biodiv et les SE s'influencent mutuellement (expliquer/développer)\n*et*\n- Les SE sont extrêmement utiles pour l'agri, et crucial enjeux pour limiter besoins en intrants/phytosanitaires/limitation émissions GES et pérenniser / assurer autonomie alim\n*on pourrait donc penser que utiliser paysage = giga bon plan, mais*\n- Difficile à étudier, du fait de échelles/hiérarchie, superposition et lien temps/espace et de bcp d'éléments/théories complexes sous-jacentes\n*qui plus est on a 2 visions différentes à ce jour :*\n- \"Classique\" :\n\t- Land-use/Land-cover, notamment du fait de la prévalence du paradigme/cadre d'analyse \"mosaïque/corridor/patch/matrice\"\n- \"Fonctionnelle\" :\n\t- Encore relativement nouveau, reste à explorer\n\t- Utilise traits fx des organismes étudiés, plus précis potentiellement (en prédicteur et en management ?)\n\t- Pb de métriques pour comparer efficacité avec \"classique\"\n*kikicé qu'est le meilleur ? pourquoi utiliser l'un ou l'autre ? Y a-t-il une pluvalue du fx sur le classique ?*\n- En agri, en lien avec pb cité avant, monte aussi le débat du land-sharing vs land-sparing. \n*l'éco du pays \"classique\" est-elle inhérentement inadaptée pour traiter ca? vu que utilise typologie de recouvrement large plutôt qu'estimation de provision besoin plus fin?*\n- Pbmatique :\n- Question de recherche\n",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 1644,
-      "y": -779,
-      "width": 847,
-      "height": 839
     }
   ],
   "edges": [
