@@ -9,8 +9,8 @@ banner_y: 0.5
 | ------------------ | ------------------------------------------------------------ | -------- |
 | Finir parasitoïdes | Araignées                                                    | Lundi    |
 | Araignées          | Araignées                                                    | Mardi    |
-| Araignées          | Araignées dernier délai ?                                    | Mercredi |
-| Slugs & Snails     | Slugs & Snails                                               | Jeudi    |
+| Araignées          | Araignées                                                    | Mercredi |
+| Araignées          | Araignées dernier délai ?                                    | Jeudi    |
 | Slugs & Snails     | Réu anim scientifique + présentation 15H30 des données dispo | Vendredi |
 |                    |                                                              | Samedi   |
 |                    |                                                              | Dimanche |
