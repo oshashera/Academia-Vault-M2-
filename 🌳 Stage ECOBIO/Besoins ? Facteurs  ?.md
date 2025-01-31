@@ -188,3 +188,9 @@ voir si N
 | --------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | Food      |                | "especially of the genera *Orchesella* \[collemboles] and *Tomocerus* \[collemboles], which up to **50% of the prey** of **lycosids**, erigonines and linyphiines \[...]. Small spiders in rigorous environments feed on saprovores and detritivores including small mites, collembolans and dipterans \[...]" | Aitchison 1984 |
 
+=> Collemboles en hiver = bouffe, mais quels besoins pour ces collemboles  ?
+
+- food : 
+	- "winter-active Collembola probably fed on resources from snow and partly on resources from litter depending on the species or their microhabitats" (Hao et al, Snow microhabitats provide food resources for winter-active Collembola, 2020)
+	- Those  food ressources include a wide variety of bacterias found in snow and litter (Hao et al, Snow microhabitats provide food resources for winter-active Collembola, 2020)
+	- Collembola are freezing susceptible 
