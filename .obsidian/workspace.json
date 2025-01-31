@@ -49,7 +49,8 @@
               "title": "Towards reproducible environments ?"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 258,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -240,10 +242,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e18e79bd9e6d0b72",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/Qgis rasteriser occupation du sol.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
+    "🌳 Stage ECOBIO/Qgis rasteriser occupation du sol.md",
     "Towards reproducible environments ?.md",
     "Images/Pasted image 20250131105429.png",
     "Images/Pasted image 20250131105322.png",
