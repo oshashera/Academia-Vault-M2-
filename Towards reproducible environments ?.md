@@ -59,3 +59,25 @@ if not in anaconda, can be installed with pip and directly from github, can be s
 	- "--editable=git+https://github.com/.........." #installer via github
 ```
 
+can build with 
+
+```yaml
+build :
+	script :
+		- git -clone --branche v1.X.X.X https://github....
+		- cd nomduPackage
+		- make
+		- make clean
+```
+
+
+#### Containers
+
+Not virtual env
+- ["] "lightweight, standalone, executable package of software that includes everything needed to run an application : code, runtime, system tools, system libraries and settings"
+
+Container are designed for **micro-services**
+Keep it simple, small
+One container = one service/software
+
+##### containers 
