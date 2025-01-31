@@ -99,3 +99,20 @@ You can build containers with containers inside ?
 
 **Dockerfile** = definition file
 
+
+If software exists in conda => conda
+Make your own conda recipe if needed
+- [p] Eeasy, flexible, interactivity
+- [c] mutable, a lot of small files (quota issues)
+
+If software not in conda, or more complicated (e.g. compilation, system dependencies)
+
+Docker to build, singularity to run
+- [p] Immutable
+- [c] Weight in Mb, less interactive
+
+>[!important] Best practices overall
+>Script everything (everything can be written as markup / code)
+>Track versions
+>One task = one env/container
+
