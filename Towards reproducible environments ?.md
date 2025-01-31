@@ -30,5 +30,16 @@ dependencies
 
 Versions can change at each install/update (but u can ask for a specific version)
 
+```
+conda create 
+conda install
+```
+
+interactive install, remove / add packages
+
+```
+conda env create/update -f myenv.yaml
+```
+channel + version in myenv.yaml => used it ↑ to create env à partir de ca
 
 
