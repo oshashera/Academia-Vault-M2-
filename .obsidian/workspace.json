@@ -35,8 +35,7 @@
               "title": "Towards reproducible environments ?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,10 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0583d45d90a1d297",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "Towards reproducible environments ?.md",
+    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "Images/Pasted image 20250131105429.png",
     "Images/Pasted image 20250131105322.png",
     "Réponse exam.md",

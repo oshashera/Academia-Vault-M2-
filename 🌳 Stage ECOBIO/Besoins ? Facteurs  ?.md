@@ -198,3 +198,4 @@ voir si N
 	- Those  food ressources include a wide variety of bacterias found in snow and litter (Hao et al, Snow microhabitats provide food resources for winter-active Collembola, 2020)
 	- Collembola are freezing susceptible (Woud 1987 Seasonal changes in cold hardiness of temperate Collembola)
 	-  En gros diversité (Salmon et al, 2014, Linking species, traits and habitat characteristics of Collembola at European scale) => ![[Pasted image 20250131105429.png|400]] => sol / mousses / litter Pour Tomocerus, et Arbres arbustes pour Orchesella 
+
