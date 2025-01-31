@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/Qgis rasteriser occupation du sol.md",
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qgis rasteriser occupation du sol"
+              "title": "Intro"
             }
           },
           {
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258,
-    "collapsed": true
+    "width": 258
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -244,8 +243,8 @@
   },
   "active": "e18e79bd9e6d0b72",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/Qgis rasteriser occupation du sol.md",
+    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "Towards reproducible environments ?.md",
     "Images/Pasted image 20250131105429.png",
     "Images/Pasted image 20250131105322.png",
