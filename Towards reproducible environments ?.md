@@ -42,4 +42,20 @@ conda env create/update -f myenv.yaml
 ```
 channel + version in myenv.yaml => used it ↑ to create env à partir de ca
 
+specifying a location for an environment
+```
+conda env create -prefix ./conda
+```
+
+conda env export / save env
+(récup commande)
+
+if not in anaconda, can be installed with pip and directly from github, can be specified in a .yaml
+```
+- autre package
+- autre app
+- pip : #install with pip, not conda
+	- package 1
+	- "--editable=git+https://github.com/.........." #installer via github
+```
 
