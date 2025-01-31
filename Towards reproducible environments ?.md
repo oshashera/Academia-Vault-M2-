@@ -1,5 +1,5 @@
 ---
-animateur: Thomas Frazier
+animateur: Thomas Brazier
 created_date: 31 jan 2025
 ---
 ### Intro
@@ -80,4 +80,22 @@ Container are designed for **micro-services**
 Keep it simple, small
 One container = one service/software
 
-##### containers 
+##### containers : Docker vs Singularity
+
+Docker is dominant in industry
+Singularity is dominant in science
+
+Main differencies => singularity causes less problems interacting / modifying root, but docker is more documented / advices / errors solutions 
+when you have bigger env, you singularity it ?
+
+Build with docker, run with singularity
+
+https://hub.docker.com/
+https://biocontainers.pro/
+
+You can build containers with containers inside ?
+
+##### How to build containers ?
+
+**Dockerfile** = definition file
+
