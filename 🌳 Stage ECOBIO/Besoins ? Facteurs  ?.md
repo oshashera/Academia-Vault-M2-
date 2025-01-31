@@ -193,4 +193,5 @@ voir si N
 - food : 
 	- "winter-active Collembola probably fed on resources from snow and partly on resources from litter depending on the species or their microhabitats" (Hao et al, Snow microhabitats provide food resources for winter-active Collembola, 2020)
 	- Those  food ressources include a wide variety of bacterias found in snow and litter (Hao et al, Snow microhabitats provide food resources for winter-active Collembola, 2020)
-	- Collembola are freezing susceptible 
+	- Collembola are freezing susceptible (Woud 1987 Seasonal changes in cold hardiness of temperate Collembola)
+	-  (Salmon et al, 2014, )
