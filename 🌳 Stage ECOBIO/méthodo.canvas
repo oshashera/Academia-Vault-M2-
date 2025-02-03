@@ -105,15 +105,48 @@
       "color": "2"
     },
     {
-      "id": "0e6c9b628104a452",
+      "id": "a31012d0bdd5c9b8",
       "type": "text",
-      "text": "Par climat et par type de patch/occupation ",
+      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
       "styleAttributes": {},
-      "x": -728,
-      "y": 317,
-      "width": 256,
+      "x": -689,
+      "y": -301,
+      "width": 374,
       "height": 72,
-      "color": "5"
+      "color": "2"
+    },
+    {
+      "id": "de69bee967960749",
+      "type": "text",
+      "text": "4️⃣ calcul abondance relative jdd sp/occupation filtré",
+      "styleAttributes": {},
+      "x": -689,
+      "y": -205,
+      "width": 315,
+      "height": 72,
+      "color": "2"
+    },
+    {
+      "id": "53a217de8234ce1c",
+      "type": "text",
+      "text": "5️⃣ sélection services (impact groupe taxo étudiés) évalués",
+      "styleAttributes": {},
+      "x": -689,
+      "y": -85,
+      "width": 354,
+      "height": 72,
+      "color": "2"
+    },
+    {
+      "id": "cd81d0eec0b57413",
+      "type": "text",
+      "text": "CWM trait quali = proba de présence de la modalité (entre 0 et 1)",
+      "styleAttributes": {},
+      "x": -211,
+      "y": -375,
+      "width": 256,
+      "height": 108,
+      "color": "3"
     },
     {
       "id": "da39e29482d7bcaf",
@@ -160,6 +193,52 @@
       "y": -499,
       "width": 315,
       "height": 72,
+      "color": "2"
+    },
+    {
+      "id": "8ec3b5e1299e7560",
+      "type": "text",
+      "text": "Tirage random de n (nb sp)",
+      "styleAttributes": {},
+      "x": 188,
+      "y": 401,
+      "width": 256,
+      "height": 72,
+      "color": "5"
+    },
+    {
+      "id": "797f4e657d2d7449",
+      "type": "text",
+      "text": "1) Local",
+      "styleAttributes": {},
+      "x": 758,
+      "y": -619,
+      "width": 256,
+      "height": 72,
+      "color": "3"
+    },
+    {
+      "id": "df97a9890a4b5981",
+      "type": "text",
+      "text": "Sélection traits les plus explicatifs au niveau local (CWM) pour chaque grp taxon avec random forest",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "x": 374,
+      "y": -607,
+      "width": 335,
+      "height": 132,
+      "color": "2"
+    },
+    {
+      "id": "11b8b2b39400d33f",
+      "type": "text",
+      "text": "8️⃣ CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
+      "styleAttributes": {},
+      "x": -138,
+      "y": -199,
+      "width": 364,
+      "height": 108,
       "color": "2"
     },
     {
@@ -210,17 +289,6 @@
       "color": "3"
     },
     {
-      "id": "8ec3b5e1299e7560",
-      "type": "text",
-      "text": "Tirage random de n (nb sp)",
-      "styleAttributes": {},
-      "x": 188,
-      "y": 401,
-      "width": 256,
-      "height": 72,
-      "color": "5"
-    },
-    {
       "id": "9cf0fed7cfba1ecb",
       "type": "text",
       "text": "Pondération prorata occupation/ensemble paysage",
@@ -232,30 +300,6 @@
       "color": "5"
     },
     {
-      "id": "797f4e657d2d7449",
-      "type": "text",
-      "text": "1) Local",
-      "styleAttributes": {},
-      "x": 758,
-      "y": -619,
-      "width": 256,
-      "height": 72,
-      "color": "3"
-    },
-    {
-      "id": "df97a9890a4b5981",
-      "type": "text",
-      "text": "Sélection traits les plus explicatifs au niveau local (CWM) pour chaque grp taxon avec random forest",
-      "styleAttributes": {
-        "border": "dashed"
-      },
-      "x": 374,
-      "y": -607,
-      "width": 335,
-      "height": 132,
-      "color": "2"
-    },
-    {
       "id": "413b8ad732de72f4",
       "type": "text",
       "text": "2) Landscape",
@@ -265,39 +309,6 @@
       "width": 256,
       "height": 72,
       "color": "3"
-    },
-    {
-      "id": "a31012d0bdd5c9b8",
-      "type": "text",
-      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
-      "styleAttributes": {},
-      "x": -689,
-      "y": -301,
-      "width": 374,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "eb05b35d76c88b71",
-      "type": "text",
-      "text": "Matrice SP végétale possible par occupation & climat",
-      "styleAttributes": {},
-      "x": -176,
-      "y": 353,
-      "width": 315,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "e5c427a6bcbe6395",
-      "type": "text",
-      "text": "Estimation CWM commu plante",
-      "styleAttributes": {},
-      "x": 511,
-      "y": 353,
-      "width": 305,
-      "height": 72,
-      "color": "5"
     },
     {
       "id": "e916207622361a90",
@@ -331,6 +342,39 @@
       "color": "3"
     },
     {
+      "id": "0e6c9b628104a452",
+      "type": "text",
+      "text": "Par climat et par type de patch/occupation ",
+      "styleAttributes": {},
+      "x": -728,
+      "y": 317,
+      "width": 256,
+      "height": 72,
+      "color": "5"
+    },
+    {
+      "id": "eb05b35d76c88b71",
+      "type": "text",
+      "text": "Matrice SP végétale possible par occupation & climat",
+      "styleAttributes": {},
+      "x": -176,
+      "y": 353,
+      "width": 315,
+      "height": 72,
+      "color": "5"
+    },
+    {
+      "id": "e5c427a6bcbe6395",
+      "type": "text",
+      "text": "Estimation CWM commu plante",
+      "styleAttributes": {},
+      "x": 511,
+      "y": 353,
+      "width": 305,
+      "height": 72,
+      "color": "5"
+    },
+    {
       "id": "5f45f898cc433088",
       "type": "text",
       "text": "“In a last step, we applied a multi-model inference to build all possible generalized linear models based on all additive combinations of up to four explanatory variables for each flower-visiting insect group.” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=MDR3M8TD)) + rank with AIC",
@@ -349,50 +393,6 @@
       "y": -157,
       "width": 699,
       "height": 102
-    },
-    {
-      "id": "de69bee967960749",
-      "type": "text",
-      "text": "4️⃣ calcul abondance relative jdd sp/occupation filtré",
-      "styleAttributes": {},
-      "x": -689,
-      "y": -205,
-      "width": 315,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "53a217de8234ce1c",
-      "type": "text",
-      "text": "5️⃣ sélection services (impact groupe taxo étudiés) évalués",
-      "styleAttributes": {},
-      "x": -689,
-      "y": -85,
-      "width": 354,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "cd81d0eec0b57413",
-      "type": "text",
-      "text": "CWM trait quali = proba de présence de la modalité (entre 0 et 1)",
-      "styleAttributes": {},
-      "x": -211,
-      "y": -375,
-      "width": 256,
-      "height": 108,
-      "color": "3"
-    },
-    {
-      "id": "11b8b2b39400d33f",
-      "type": "text",
-      "text": "8️⃣ CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
-      "styleAttributes": {},
-      "x": -138,
-      "y": -199,
-      "width": 364,
-      "height": 108,
-      "color": "2"
     },
     {
       "id": "e132b1c117a0c708",
