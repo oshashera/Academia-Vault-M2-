@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/méthodo.canvas",
-                "viewState": {
-                  "x": 69.53956065991594,
-                  "y": 505.2522867732572,
-                  "zoom": -0.531972880717227
-                }
+                "file": "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "méthodo"
+              "icon": "lucide-file",
+              "title": "Besoins ? Facteurs  ?"
             }
           },
           {
@@ -231,6 +228,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/méthodo.canvas",
     "🏡 Home.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
     "🌳 Stage ECOBIO/Qgis rasteriser occupation du sol.md",
@@ -268,10 +266,8 @@
     "🌳 Stage ECOBIO/Article pollinisateur & méthodo.md",
     "🌳 Stage ECOBIO/Rentrée stage.md",
     "🌳 Stage ECOBIO/Overview.canvas",
-    "🌳 Stage ECOBIO/méthodo.canvas",
     "🌳 Stage ECOBIO",
     "🌳 Stage ECOBIO/Besoins ? Facteurs ?.canvas",
-    "Notes réu 09-01-25.md",
     "🌳 Stage ECOBIO/Organisation et boulot.canvas",
     "Images/Pasted image 20250106154658.png",
     "synthèse biblio/V2 Synthèse.canvas",

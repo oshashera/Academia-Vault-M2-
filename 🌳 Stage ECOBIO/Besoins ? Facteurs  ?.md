@@ -199,3 +199,10 @@ voir si N
 	- Collembola are freezing susceptible (Woud 1987 Seasonal changes in cold hardiness of temperate Collembola)
 	-  En gros diversité (Salmon et al, 2014, Linking species, traits and habitat characteristics of Collembola at European scale) => ![[Pasted image 20250131105429.png|400]] => sol / mousses / litter Pour Tomocerus, et Arbres arbustes pour Orchesella 
 
+
+## Slugs (and snails)
+
+
+| Besoin | Interprétation/remarque | Citation                                                                                                         | Source        |
+| ------ | ----------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------- |
+|        |                         | annuals were consumed more than perennials and that cultivated plants were consumed more than wild plants \[..]  | Moshgani 2017 |
