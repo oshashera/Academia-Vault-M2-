@@ -1,764 +1,823 @@
 {
-  "nodes": [
-    {
-      "id": "94237f4540641295",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 335,
-      "y": -643,
-      "width": 1241,
-      "height": 900,
-      "label": "R studio my beloved"
-    },
-    {
-      "id": "7603b60c97b878d7",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -748,
-      "y": 281,
-      "width": 2324,
-      "height": 480,
-      "label": "Simulation funky fun"
-    },
-    {
-      "id": "12300434dd15db1f",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -216,
-      "y": -643,
-      "width": 473,
-      "height": 600,
-      "label": "TRAIT DATA"
-    },
-    {
-      "id": "adda0cdd4959547f",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -748,
-      "y": -421,
-      "width": 473,
-      "height": 480,
-      "label": "DATA SP"
-    },
-    {
-      "id": "14b52fcd83e47862",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -118,
-      "y": 569,
-      "width": 1300,
-      "height": 126,
-      "label": "éventuellement"
-    },
-    {
-      "id": "d2637e6020f34138",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -1300,
-      "y": -520,
-      "width": 400,
-      "height": 400,
-      "label": "BDD Possibles ?"
-    },
-    {
-      "id": "b4912a675504dbc4",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -748,
-      "y": -643,
-      "width": 473,
-      "height": 120,
-      "label": "SIG"
-    },
-    {
-      "id": "3bf83cd2874cd881",
-      "type": "text",
-      "text": "1️⃣ Détermination et sélection type occupation sols",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -728,
-      "y": -619,
-      "width": 374,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "f8d9bae9ef453d7a",
-      "type": "text",
-      "text": "- TRY\n- Agriland\n- Carabids.org (down?)\n- TraitNet (fiable?)\n- Tela botanica\n- Julve",
-      "styleAttributes": {},
-      "x": -1285,
-      "y": -505,
-      "width": 260,
-      "height": 230
-    },
-    {
-      "id": "f359996add039d3a",
-      "type": "text",
-      "text": "2️⃣ Abondance sp pl / occupation sol",
-      "styleAttributes": {},
-      "x": -689,
-      "y": -397,
-      "width": 315,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "a31012d0bdd5c9b8",
-      "type": "text",
-      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
-      "styleAttributes": {},
-      "x": -689,
-      "y": -301,
-      "width": 374,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "de69bee967960749",
-      "type": "text",
-      "text": "4️⃣ calcul abondance relative jdd sp/occupation filtré",
-      "styleAttributes": {},
-      "x": -689,
-      "y": -205,
-      "width": 315,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "53a217de8234ce1c",
-      "type": "text",
-      "text": "5️⃣ sélection services (impact groupe taxo étudiés) évalués",
-      "styleAttributes": {},
-      "x": -689,
-      "y": -85,
-      "width": 354,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "cd81d0eec0b57413",
-      "type": "text",
-      "text": "CWM trait quali = proba de présence de la modalité (entre 0 et 1)",
-      "styleAttributes": {},
-      "x": -211,
-      "y": -375,
-      "width": 256,
-      "height": 108,
-      "color": "3"
-    },
-    {
-      "id": "da39e29482d7bcaf",
-      "type": "text",
-      "text": "Effet sur grp taxo",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "x": -659,
-      "y": 545,
-      "width": 256,
-      "height": 72,
-      "color": "6"
-    },
-    {
-      "id": "87520db65305e055",
-      "type": "text",
-      "text": "Nb moyen sp (+/- var à établir)",
-      "styleAttributes": {},
-      "x": -512,
-      "y": 401,
-      "width": 256,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "27e86b0572ebf7b3",
-      "type": "text",
-      "text": "6️⃣ sélection traits associés pour toutes les sp filtrées",
-      "styleAttributes": {},
-      "x": -138,
-      "y": -619,
-      "width": 275,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "334b2ebcd4c833b8",
-      "type": "text",
-      "text": "7️⃣ CWM pour **chaque** trait pour **chaque** occupation de sol",
-      "styleAttributes": {},
-      "x": -89,
-      "y": -499,
-      "width": 315,
-      "height": 72,
-      "color": "2"
-    },
-    {
-      "id": "8ec3b5e1299e7560",
-      "type": "text",
-      "text": "Tirage random de n (nb sp)",
-      "styleAttributes": {},
-      "x": 188,
-      "y": 401,
-      "width": 256,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "797f4e657d2d7449",
-      "type": "text",
-      "text": "1) Local",
-      "styleAttributes": {},
-      "x": 758,
-      "y": -619,
-      "width": 256,
-      "height": 72,
-      "color": "3"
-    },
-    {
-      "id": "df97a9890a4b5981",
-      "type": "text",
-      "text": "Sélection traits les plus explicatifs au niveau local (CWM) pour chaque grp taxon avec random forest",
-      "styleAttributes": {
-        "border": "dashed"
-      },
-      "x": 374,
-      "y": -607,
-      "width": 335,
-      "height": 132,
-      "color": "2"
-    },
-    {
-      "id": "11b8b2b39400d33f",
-      "type": "text",
-      "text": "8️⃣ CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
-      "styleAttributes": {},
-      "x": -138,
-      "y": -199,
-      "width": 364,
-      "height": 108,
-      "color": "2"
-    },
-    {
-      "id": "1da67e34172112e1",
-      "type": "text",
-      "text": "rsq R package",
-      "styleAttributes": {},
-      "x": 1341,
-      "y": 155,
-      "width": 187,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "f5467b79a218be43",
-      "type": "text",
-      "text": "MuMin package (AIC)",
-      "styleAttributes": {},
-      "x": 1271,
-      "y": 53,
-      "width": 256,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "846c96d24e844ad4",
-      "type": "text",
-      "text": "MAss R package overdispersion fittage",
-      "styleAttributes": {},
-      "x": 1221,
-      "y": -259,
-      "width": 256,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "f3e947db503e5ae6",
-      "type": "text",
-      "text": "Intégration effet fragmentation / distance / connectivité / organisation (pcq on fait que prise en compte composition là avec occupation x sp (via trait fx))",
-      "styleAttributes": {
-        "border": "dashed",
-        "shape": null
-      },
-      "x": -95,
-      "y": 599,
-      "width": 1251,
-      "height": 78,
-      "color": "3"
-    },
-    {
-      "id": "9cf0fed7cfba1ecb",
-      "type": "text",
-      "text": "Pondération prorata occupation/ensemble paysage",
-      "styleAttributes": {},
-      "x": 972,
-      "y": 473,
-      "width": 463,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "413b8ad732de72f4",
-      "type": "text",
-      "text": "2) Landscape",
-      "styleAttributes": {},
-      "x": 758,
-      "y": -535,
-      "width": 256,
-      "height": 72,
-      "color": "3"
-    },
-    {
-      "id": "e916207622361a90",
-      "type": "text",
-      "text": "\\+ explained variance (R²) estimé pour le meilleur modèle (AIC) avec rsq fonction",
-      "styleAttributes": {},
-      "x": 527,
-      "y": 125,
-      "width": 679,
-      "height": 60
-    },
-    {
-      "id": "ee5e09c24c4614a6",
-      "type": "text",
-      "text": "“Variables were considered as informative and relevant when their conditional score was above the absolute value of the lowest negative-scoring variable” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=KXBJ49IK)) **keske quoi ? à checker**",
-      "styleAttributes": {},
-      "x": 788,
-      "y": -433,
-      "width": 512,
-      "height": 138
-    },
-    {
-      "id": "979d5ddd2e3328b3",
-      "type": "text",
-      "text": "3) GLM",
-      "styleAttributes": {},
-      "x": 758,
-      "y": -259,
-      "width": 256,
-      "height": 72,
-      "color": "3"
-    },
-    {
-      "id": "0e6c9b628104a452",
-      "type": "text",
-      "text": "Par climat et par type de patch/occupation ",
-      "styleAttributes": {},
-      "x": -728,
-      "y": 317,
-      "width": 256,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "eb05b35d76c88b71",
-      "type": "text",
-      "text": "Matrice SP végétale possible par occupation & climat",
-      "styleAttributes": {},
-      "x": -176,
-      "y": 353,
-      "width": 315,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "e5c427a6bcbe6395",
-      "type": "text",
-      "text": "Estimation CWM commu plante",
-      "styleAttributes": {},
-      "x": 511,
-      "y": 353,
-      "width": 305,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "5f45f898cc433088",
-      "type": "text",
-      "text": "“In a last step, we applied a multi-model inference to build all possible generalized linear models based on all additive combinations of up to four explanatory variables for each flower-visiting insect group.” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=MDR3M8TD)) + rank with AIC",
-      "styleAttributes": {},
-      "x": 424,
-      "y": -31,
-      "width": 783,
-      "height": 120
-    },
-    {
-      "id": "1a501a7c8a34e4c3",
-      "type": "text",
-      "text": "\"test for the effects of the important field and landscape variables (pre-selected with conditional random forests) on the abundance of each flower-visiting insect group\" + poisson error distrib",
-      "styleAttributes": {},
-      "x": 828,
-      "y": -157,
-      "width": 699,
-      "height": 102
-    },
-    {
-      "id": "e132b1c117a0c708",
-      "type": "text",
-      "text": "R package FD (pour CWM)",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 374,
-      "y": -295,
-      "width": 178,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "8ca869ad6987f8c2",
-      "type": "text",
-      "text": "party R package (pour random forest)",
-      "styleAttributes": {},
-      "x": 414,
-      "y": -379,
-      "width": 226,
-      "height": 72,
-      "color": "5"
-    },
-    {
-      "id": "235e8c7efeaaeea5",
-      "type": "text",
-      "text": "4) Multi model inference",
-      "styleAttributes": {},
-      "x": 424,
-      "y": -151,
-      "width": 256,
-      "height": 72,
-      "color": "3"
-    }
-  ],
   "edges": [
     {
-      "id": "04b21044a7587a68",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "3bf83cd2874cd881",
       "fromSide": "left",
+      "id": "04b21044a7587a68",
+      "styleAttributes": {
+      },
       "toNode": "f359996add039d3a",
-      "toSide": "left",
-      "color": "1"
+      "toSide": "left"
     },
     {
-      "id": "b3f0f06f56d1a72b",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "f359996add039d3a",
       "fromSide": "right",
+      "id": "b3f0f06f56d1a72b",
+      "styleAttributes": {
+      },
       "toNode": "a31012d0bdd5c9b8",
-      "toSide": "right",
-      "color": "1"
+      "toSide": "right"
     },
     {
-      "id": "ac31ada0559321f7",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "a31012d0bdd5c9b8",
       "fromSide": "left",
+      "id": "ac31ada0559321f7",
+      "styleAttributes": {
+      },
       "toNode": "de69bee967960749",
-      "toSide": "left",
-      "color": "1"
+      "toSide": "left"
     },
     {
-      "id": "669a474ed13781f0",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "de69bee967960749",
       "fromSide": "bottom",
+      "id": "669a474ed13781f0",
+      "styleAttributes": {
+      },
       "toNode": "53a217de8234ce1c",
-      "toSide": "top",
-      "color": "1"
+      "toSide": "top"
     },
     {
-      "id": "9c4b2165a60c742a",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "53a217de8234ce1c",
       "fromSide": "right",
+      "id": "9c4b2165a60c742a",
+      "styleAttributes": {
+      },
       "toNode": "27e86b0572ebf7b3",
-      "toSide": "left",
-      "color": "1"
+      "toSide": "left"
     },
     {
+      "color": "2",
+      "fromNode": "27e86b0572ebf7b3",
+      "fromSide": "right",
       "id": "4651b67fff9ce345",
       "styleAttributes": {
         "path": null
       },
-      "fromNode": "27e86b0572ebf7b3",
-      "fromSide": "right",
       "toNode": "df97a9890a4b5981",
-      "toSide": "left",
-      "color": "2"
+      "toSide": "left"
     },
     {
-      "id": "b1aa530c73e69361",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "334b2ebcd4c833b8",
       "fromSide": "bottom",
+      "id": "b1aa530c73e69361",
+      "styleAttributes": {
+      },
       "toNode": "11b8b2b39400d33f",
-      "toSide": "top",
-      "color": "1"
+      "toSide": "top"
     },
     {
-      "id": "480e5360841a4b17",
-      "styleAttributes": {},
       "fromNode": "e132b1c117a0c708",
       "fromSide": "left",
+      "id": "480e5360841a4b17",
+      "styleAttributes": {
+      },
       "toNode": "334b2ebcd4c833b8",
       "toSide": "right"
     },
     {
-      "id": "8d7d7fbb2be35b2b",
-      "styleAttributes": {},
       "fromNode": "e132b1c117a0c708",
       "fromSide": "left",
+      "id": "8d7d7fbb2be35b2b",
+      "styleAttributes": {
+      },
       "toNode": "11b8b2b39400d33f",
       "toSide": "right"
     },
     {
-      "id": "5c8207dec7ca710d",
-      "styleAttributes": {},
+      "color": "3",
       "fromNode": "334b2ebcd4c833b8",
       "fromSide": "bottom",
+      "id": "5c8207dec7ca710d",
+      "styleAttributes": {
+      },
       "toNode": "cd81d0eec0b57413",
-      "toSide": "top",
-      "color": "3"
+      "toSide": "top"
     },
     {
-      "id": "fc7eaa9d96c6c0d7",
-      "styleAttributes": {},
+      "color": "3",
       "fromNode": "11b8b2b39400d33f",
       "fromSide": "top",
+      "id": "fc7eaa9d96c6c0d7",
+      "styleAttributes": {
+      },
       "toNode": "cd81d0eec0b57413",
-      "toSide": "bottom",
-      "color": "3"
+      "toSide": "bottom"
     },
     {
+      "color": "2",
+      "fromNode": "df97a9890a4b5981",
+      "fromSide": "bottom",
       "id": "76258f9a60d33550",
       "styleAttributes": {
         "path": null
       },
-      "fromNode": "df97a9890a4b5981",
-      "fromSide": "bottom",
       "toNode": "334b2ebcd4c833b8",
-      "toSide": "right",
-      "color": "2"
+      "toSide": "right"
     },
     {
-      "id": "72e0391b3aebf93c",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "27e86b0572ebf7b3",
       "fromSide": "right",
+      "id": "72e0391b3aebf93c",
+      "styleAttributes": {
+      },
       "toNode": "334b2ebcd4c833b8",
-      "toSide": "right",
-      "color": "1"
+      "toSide": "right"
     },
     {
-      "id": "0a50434121efe7d1",
-      "styleAttributes": {},
       "fromNode": "8ca869ad6987f8c2",
       "fromSide": "right",
+      "id": "0a50434121efe7d1",
+      "styleAttributes": {
+      },
       "toNode": "df97a9890a4b5981",
       "toSide": "bottom"
     },
     {
-      "id": "a7d6fabdc309ad65",
-      "styleAttributes": {},
       "fromNode": "ee5e09c24c4614a6",
       "fromSide": "top",
+      "id": "a7d6fabdc309ad65",
+      "styleAttributes": {
+      },
       "toNode": "797f4e657d2d7449",
       "toSide": "right"
     },
     {
+      "color": "3",
+      "fromNode": "df97a9890a4b5981",
+      "fromSide": "right",
       "id": "a3826650cecb9bb7",
       "styleAttributes": {
         "path": "dotted"
       },
-      "fromNode": "df97a9890a4b5981",
-      "fromSide": "right",
       "toNode": "797f4e657d2d7449",
-      "toSide": "left",
-      "color": "3"
+      "toSide": "left"
     },
     {
-      "id": "364d99d7e251900b",
-      "styleAttributes": {},
       "fromNode": "ee5e09c24c4614a6",
       "fromSide": "top",
+      "id": "364d99d7e251900b",
+      "styleAttributes": {
+      },
       "toNode": "413b8ad732de72f4",
       "toSide": "right"
     },
     {
+      "color": "3",
+      "fromNode": "df97a9890a4b5981",
+      "fromSide": "right",
       "id": "a8bb14030c6980ae",
       "styleAttributes": {
         "path": "dotted"
       },
-      "fromNode": "df97a9890a4b5981",
-      "fromSide": "right",
       "toNode": "413b8ad732de72f4",
-      "toSide": "left",
-      "color": "3"
+      "toSide": "left"
     },
     {
+      "color": "3",
+      "fromNode": "df97a9890a4b5981",
+      "fromSide": "right",
       "id": "9dba0a7a0edf5d6d",
       "styleAttributes": {
         "path": "dotted"
       },
-      "fromNode": "df97a9890a4b5981",
-      "fromSide": "right",
       "toNode": "979d5ddd2e3328b3",
-      "toSide": "left",
-      "color": "3"
+      "toSide": "left"
     },
     {
-      "id": "6c6d701cba1bf07c",
-      "styleAttributes": {},
       "fromNode": "1a501a7c8a34e4c3",
       "fromSide": "top",
+      "id": "6c6d701cba1bf07c",
+      "styleAttributes": {
+      },
       "toNode": "979d5ddd2e3328b3",
       "toSide": "right"
     },
     {
+      "color": "3",
+      "fromNode": "df97a9890a4b5981",
+      "fromSide": "right",
       "id": "92695b4e29ac36c7",
       "styleAttributes": {
         "path": "dotted"
       },
-      "fromNode": "df97a9890a4b5981",
-      "fromSide": "right",
       "toNode": "235e8c7efeaaeea5",
-      "toSide": "top",
-      "color": "3"
+      "toSide": "top"
     },
     {
-      "id": "e21909ddf5d5fa1d",
-      "styleAttributes": {},
       "fromNode": "5f45f898cc433088",
       "fromSide": "top",
+      "id": "e21909ddf5d5fa1d",
+      "styleAttributes": {
+      },
       "toNode": "235e8c7efeaaeea5",
       "toSide": "right"
     },
     {
-      "id": "b1c34287b4bdd60d",
-      "styleAttributes": {},
       "fromNode": "f5467b79a218be43",
       "fromSide": "left",
+      "id": "b1c34287b4bdd60d",
+      "styleAttributes": {
+      },
       "toNode": "5f45f898cc433088",
       "toSide": "right"
     },
     {
-      "id": "9c6fe4ba2a487c86",
       "fromNode": "1da67e34172112e1",
       "fromSide": "left",
+      "id": "9c6fe4ba2a487c86",
       "toNode": "e916207622361a90",
       "toSide": "right"
     },
     {
-      "id": "c144e0c5f0d08b07",
       "fromNode": "e916207622361a90",
       "fromSide": "left",
+      "id": "c144e0c5f0d08b07",
       "toNode": "235e8c7efeaaeea5",
       "toSide": "left"
     },
     {
-      "id": "8f59e3d2dbfbc9b2",
       "fromNode": "846c96d24e844ad4",
       "fromSide": "right",
+      "id": "8f59e3d2dbfbc9b2",
       "toNode": "1a501a7c8a34e4c3",
       "toSide": "right"
     },
     {
-      "id": "09fd5ed28819a12f",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "11b8b2b39400d33f",
       "fromSide": "bottom",
+      "id": "09fd5ed28819a12f",
+      "styleAttributes": {
+      },
       "toNode": "0e6c9b628104a452",
-      "toSide": "right",
-      "color": "1"
+      "toSide": "right"
     },
     {
-      "id": "fe3bb565fed3efe7",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "0e6c9b628104a452",
       "fromSide": "bottom",
+      "id": "fe3bb565fed3efe7",
+      "styleAttributes": {
+      },
       "toNode": "87520db65305e055",
-      "toSide": "left",
-      "color": "2"
+      "toSide": "left"
     },
     {
-      "id": "7371cd43d8152197",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "87520db65305e055",
       "fromSide": "right",
+      "id": "7371cd43d8152197",
+      "styleAttributes": {
+      },
       "toNode": "eb05b35d76c88b71",
-      "toSide": "left",
-      "color": "2"
+      "toSide": "left"
     },
     {
-      "id": "370ad2c79816a6c1",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "eb05b35d76c88b71",
       "fromSide": "right",
+      "id": "370ad2c79816a6c1",
+      "styleAttributes": {
+      },
       "toNode": "8ec3b5e1299e7560",
-      "toSide": "left",
-      "color": "2"
+      "toSide": "left"
     },
     {
-      "id": "d7c773f09b78dbd7",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "8ec3b5e1299e7560",
       "fromSide": "right",
+      "id": "d7c773f09b78dbd7",
+      "styleAttributes": {
+      },
       "toNode": "e5c427a6bcbe6395",
-      "toSide": "left",
-      "color": "2"
+      "toSide": "left"
     },
     {
-      "id": "26c4885a70f8b874",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "e5c427a6bcbe6395",
       "fromSide": "right",
+      "id": "26c4885a70f8b874",
+      "styleAttributes": {
+      },
       "toNode": "9cf0fed7cfba1ecb",
-      "toSide": "top",
-      "color": "2"
+      "toSide": "top"
     },
     {
+      "fromNode": "9cf0fed7cfba1ecb",
+      "fromSide": "right",
       "id": "c207250436e5ee19",
       "styleAttributes": {
         "path": "long-dashed",
         "pathfindingMethod": "direct"
       },
-      "fromNode": "9cf0fed7cfba1ecb",
-      "fromSide": "right",
       "toNode": "11b8b2b39400d33f",
       "toSide": "bottom"
     },
     {
-      "id": "b1008505300b61ec",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "9cf0fed7cfba1ecb",
       "fromSide": "left",
+      "id": "b1008505300b61ec",
+      "styleAttributes": {
+      },
       "toNode": "da39e29482d7bcaf",
-      "toSide": "right",
-      "color": "2"
+      "toSide": "right"
     },
     {
+      "color": "3",
+      "fromNode": "da39e29482d7bcaf",
+      "fromSide": "bottom",
       "id": "5235856a95a2d106",
       "styleAttributes": {
         "path": "dotted"
       },
-      "fromNode": "da39e29482d7bcaf",
-      "fromSide": "bottom",
       "toNode": "f3e947db503e5ae6",
-      "toSide": "left",
-      "color": "3"
+      "toSide": "left"
     },
     {
-      "id": "d394c4679813aa12",
-      "styleAttributes": {
-        "pathfindingMethod": null,
-        "path": "dotted"
-      },
       "fromNode": "f3e947db503e5ae6",
       "fromSide": "left",
+      "id": "d394c4679813aa12",
+      "styleAttributes": {
+        "path": "dotted",
+        "pathfindingMethod": null
+      },
       "toNode": "b4912a675504dbc4",
       "toSide": "bottom"
     }
   ],
-  "metadata": {}
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 900,
+      "id": "94237f4540641295",
+      "label": "R studio my beloved",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1241,
+      "x": 335,
+      "y": -643
+    },
+    {
+      "height": 480,
+      "id": "7603b60c97b878d7",
+      "label": "Simulation funky fun",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2324,
+      "x": -748,
+      "y": 281
+    },
+    {
+      "height": 600,
+      "id": "12300434dd15db1f",
+      "label": "TRAIT DATA",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 473,
+      "x": -216,
+      "y": -643
+    },
+    {
+      "height": 480,
+      "id": "adda0cdd4959547f",
+      "label": "DATA SP",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 473,
+      "x": -748,
+      "y": -421
+    },
+    {
+      "height": 126,
+      "id": "14b52fcd83e47862",
+      "label": "éventuellement",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1300,
+      "x": -118,
+      "y": 569
+    },
+    {
+      "height": 400,
+      "id": "d2637e6020f34138",
+      "label": "BDD Possibles ?",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 400,
+      "x": -1300,
+      "y": -520
+    },
+    {
+      "height": 120,
+      "id": "b4912a675504dbc4",
+      "label": "SIG",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 473,
+      "x": -748,
+      "y": -643
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "846c96d24e844ad4",
+      "styleAttributes": {
+      },
+      "text": "MAss R package overdispersion fittage",
+      "type": "text",
+      "width": 256,
+      "x": 1221,
+      "y": -259
+    },
+    {
+      "height": 138,
+      "id": "ee5e09c24c4614a6",
+      "styleAttributes": {
+      },
+      "text": "“Variables were considered as informative and relevant when their conditional score was above the absolute value of the lowest negative-scoring variable” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=KXBJ49IK)) **keske quoi ? à checker**",
+      "type": "text",
+      "width": 512,
+      "x": 788,
+      "y": -433
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "979d5ddd2e3328b3",
+      "styleAttributes": {
+      },
+      "text": "3) GLM",
+      "type": "text",
+      "width": 256,
+      "x": 758,
+      "y": -259
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "797f4e657d2d7449",
+      "styleAttributes": {
+      },
+      "text": "1) Local",
+      "type": "text",
+      "width": 256,
+      "x": 758,
+      "y": -619
+    },
+    {
+      "color": "2",
+      "height": 132,
+      "id": "df97a9890a4b5981",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "Sélection traits les plus explicatifs au niveau local (CWM) pour chaque grp taxon avec random forest",
+      "type": "text",
+      "width": 335,
+      "x": 374,
+      "y": -607
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "413b8ad732de72f4",
+      "styleAttributes": {
+      },
+      "text": "2) Landscape",
+      "type": "text",
+      "width": 256,
+      "x": 758,
+      "y": -535
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "e132b1c117a0c708",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "R package FD (pour CWM)",
+      "type": "text",
+      "width": 178,
+      "x": 374,
+      "y": -295
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "8ca869ad6987f8c2",
+      "styleAttributes": {
+      },
+      "text": "party R package (pour random forest)",
+      "type": "text",
+      "width": 226,
+      "x": 414,
+      "y": -379
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "a31012d0bdd5c9b8",
+      "styleAttributes": {
+      },
+      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
+      "type": "text",
+      "width": 374,
+      "x": -689,
+      "y": -301
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "de69bee967960749",
+      "styleAttributes": {
+      },
+      "text": "4️⃣ calcul abondance relative jdd sp/occupation filtré",
+      "type": "text",
+      "width": 315,
+      "x": -689,
+      "y": -205
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "53a217de8234ce1c",
+      "styleAttributes": {
+      },
+      "text": "5️⃣ sélection services (impact groupe taxo étudiés) évalués",
+      "type": "text",
+      "width": 354,
+      "x": -689,
+      "y": -85
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "f5467b79a218be43",
+      "styleAttributes": {
+      },
+      "text": "MuMin package (AIC)",
+      "type": "text",
+      "width": 256,
+      "x": 1271,
+      "y": 53
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "3bf83cd2874cd881",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "1️⃣ Détermination et sélection type occupation sols",
+      "type": "text",
+      "width": 374,
+      "x": -728,
+      "y": -619
+    },
+    {
+      "height": 230,
+      "id": "f8d9bae9ef453d7a",
+      "styleAttributes": {
+      },
+      "text": "- TRY\n- Agriland\n- Carabids.org (down?)\n- TraitNet (fiable?)\n- Tela botanica\n- Julve",
+      "type": "text",
+      "width": 260,
+      "x": -1285,
+      "y": -505
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "f359996add039d3a",
+      "styleAttributes": {
+      },
+      "text": "2️⃣ Abondance sp pl / occupation sol",
+      "type": "text",
+      "width": 315,
+      "x": -689,
+      "y": -397
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "da39e29482d7bcaf",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Effet sur grp taxo",
+      "type": "text",
+      "width": 256,
+      "x": -659,
+      "y": 545
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "87520db65305e055",
+      "styleAttributes": {
+      },
+      "text": "Nb moyen sp (+/- var à établir)",
+      "type": "text",
+      "width": 256,
+      "x": -512,
+      "y": 401
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "1da67e34172112e1",
+      "styleAttributes": {
+      },
+      "text": "rsq R package",
+      "type": "text",
+      "width": 187,
+      "x": 1341,
+      "y": 155
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "0e6c9b628104a452",
+      "styleAttributes": {
+      },
+      "text": "Par climat et par type de patch/occupation ",
+      "type": "text",
+      "width": 256,
+      "x": -728,
+      "y": 317
+    },
+    {
+      "height": 102,
+      "id": "1a501a7c8a34e4c3",
+      "styleAttributes": {
+      },
+      "text": "\"test for the effects of the important field and landscape variables (pre-selected with conditional random forests) on the abundance of each flower-visiting insect group\" + poisson error distrib",
+      "type": "text",
+      "width": 699,
+      "x": 828,
+      "y": -157
+    },
+    {
+      "color": "2",
+      "height": 108,
+      "id": "11b8b2b39400d33f",
+      "styleAttributes": {
+      },
+      "text": "8️⃣ CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
+      "type": "text",
+      "width": 364,
+      "x": -138,
+      "y": -199
+    },
+    {
+      "height": 60,
+      "id": "e916207622361a90",
+      "styleAttributes": {
+      },
+      "text": "\\+ explained variance (R²) estimé pour le meilleur modèle (AIC) avec rsq fonction",
+      "type": "text",
+      "width": 679,
+      "x": 527,
+      "y": 125
+    },
+    {
+      "height": 120,
+      "id": "5f45f898cc433088",
+      "styleAttributes": {
+      },
+      "text": "“In a last step, we applied a multi-model inference to build all possible generalized linear models based on all additive combinations of up to four explanatory variables for each flower-visiting insect group.” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=MDR3M8TD)) + rank with AIC",
+      "type": "text",
+      "width": 783,
+      "x": 424,
+      "y": -31
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "235e8c7efeaaeea5",
+      "styleAttributes": {
+      },
+      "text": "4) Multi model inference",
+      "type": "text",
+      "width": 256,
+      "x": 424,
+      "y": -151
+    },
+    {
+      "color": "3",
+      "height": 108,
+      "id": "cd81d0eec0b57413",
+      "styleAttributes": {
+      },
+      "text": "CWM trait quali = proba de présence de la modalité (entre 0 et 1)",
+      "type": "text",
+      "width": 256,
+      "x": -211,
+      "y": -375
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "8ec3b5e1299e7560",
+      "styleAttributes": {
+      },
+      "text": "Tirage random de n (nb sp)",
+      "type": "text",
+      "width": 256,
+      "x": 188,
+      "y": 401
+    },
+    {
+      "color": "3",
+      "height": 78,
+      "id": "f3e947db503e5ae6",
+      "styleAttributes": {
+        "border": "dashed",
+        "shape": null
+      },
+      "text": "Intégration effet fragmentation / distance / connectivité / organisation (pcq on fait que prise en compte composition là avec occupation x sp (via trait fx))",
+      "type": "text",
+      "width": 1251,
+      "x": -95,
+      "y": 599
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "9cf0fed7cfba1ecb",
+      "styleAttributes": {
+      },
+      "text": "Pondération prorata occupation/ensemble paysage",
+      "type": "text",
+      "width": 463,
+      "x": 972,
+      "y": 473
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "eb05b35d76c88b71",
+      "styleAttributes": {
+      },
+      "text": "Matrice SP végétale possible par occupation & climat",
+      "type": "text",
+      "width": 315,
+      "x": -176,
+      "y": 353
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "e5c427a6bcbe6395",
+      "styleAttributes": {
+      },
+      "text": "Estimation CWM commu plante",
+      "type": "text",
+      "width": 305,
+      "x": 511,
+      "y": 353
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "27e86b0572ebf7b3",
+      "styleAttributes": {
+      },
+      "text": "6️⃣ sélection traits associés pour toutes les sp filtrées",
+      "type": "text",
+      "width": 275,
+      "x": -138,
+      "y": -619
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "334b2ebcd4c833b8",
+      "styleAttributes": {
+      },
+      "text": "7️⃣ CWM pour **chaque** trait pour **chaque** occupation de sol",
+      "type": "text",
+      "width": 315,
+      "x": -89,
+      "y": -499
+    }
+  ]
 }
