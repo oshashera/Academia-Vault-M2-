@@ -1,12 +1,41 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:Excalidraw -path:Images  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Cours  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"🌳 Stage ECOBIO\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2672829
+      }
+    },
+    {
+      "query": "path:\"🌐📔-🌳 Écopédia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1489744
+      }
+    },
+    {
+      "query": "-path:",
+      "color": {
+        "a": 1,
+        "rgb": 11250603
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3130123630270784,
+  "scale": 0.31301236302707836,
   "close": false
 }
