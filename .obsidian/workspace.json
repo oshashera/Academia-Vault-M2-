@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "9ef2304bb4fd906e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
-          },
-          {
             "id": "c386334da711620b",
             "type": "leaf",
             "state": {
@@ -48,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,8 +231,9 @@
   },
   "active": "c386334da711620b",
   "lastOpenFiles": [
-    "Notes réunions.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
+    "Liste théories et théorèmes à check.md",
+    "Notes réunions.md",
     "Images/Pasted image 20250205100508.png",
     "Images/Pasted image 20250205100157.png",
     "🌳 Stage ECOBIO/méthodo.canvas",
@@ -255,7 +244,6 @@
     "Images/Pasted image 20250131105429.png",
     "Images/Pasted image 20250131105322.png",
     "Réponse exam.md",
-    "Liste théories et théorèmes à check.md",
     "Présentation des spé.md",
     "Présentation de rentrée.md",
     "Présentation de question de recherche - Haag Thomas.md",
