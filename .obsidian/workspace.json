@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecopédia/🔴 T.md",
+                "file": "Ecopédia/Théorie de la stabilité-complexité.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔴 T"
+              "title": "Théorie de la stabilité-complexité"
+            }
+          },
+          {
+            "id": "ea352523067f250d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecopédia/Théorie de l'énergie dans les écosystèmes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Théorie de l'énergie dans les écosystèmes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "theory",
+                "query": "reine rouge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,31 +239,9 @@
           {
             "id": "1907b4e379b80c49",
             "type": "tabs",
-            "dimension": 70.20648967551622,
             "children": [
               {
                 "id": "e7a7b303c61786dc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Liste théories et théorèmes à check.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Liste théories et théorèmes à check"
-                }
-              }
-            ]
-          },
-          {
-            "id": "68ca2a7ac2a2ce2f",
-            "type": "tabs",
-            "dimension": 29.793510324483773,
-            "children": [
-              {
-                "id": "eeecfd7216c34ffb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -266,56 +259,56 @@
         ],
         "direction": "vertical",
         "x": 296,
-        "y": 788,
-        "width": 1608,
-        "height": 1024,
+        "y": 1080,
+        "width": 1062,
+        "height": 732,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "c386334da711620b",
+  "active": "ea352523067f250d",
   "lastOpenFiles": [
+    "Ecopédia/Théorie de la résilience écologique.md",
+    "Ecopédia/Théorie des états multiples.md",
+    "Ecopédia/Théorie des seuils écologiques.md",
+    "Ecopédia/Théorie de l'hétérogénéité spatiale.md",
+    "Ecopédia/Théorie de l'énergie dans les écosystèmes.md",
+    "Ecopédia/Théorie des cycles biogéochimiques.md",
+    "Ecopédia/Théorie des réseaux trophiques.md",
+    "Ecopédia/Théorie des stratégies CSR.md",
+    "Ecopédia/Théorie de la Reine Rouge.md",
+    "Excalidraw/Théorie de la Reine Rouge.md",
+    "Ecopédia/Théorie des métapopulations.md",
+    "Ecopédia/Théorie de la succession écologique.md",
+    "Ecopédia/Théorie des climax ---- méta-climax.md",
+    "Ecopédia/Théorie des perturbations intermédiaires.md",
+    "Ecopédia/Théorie de la stabilité-complexité.md",
+    "Ecopédia/Théorie de la sélection r-K.md",
+    "Excalidraw/Théorie des traits fonctionnels.md",
     "Liste théories et théorèmes à check.md",
-    "Ecopédia/🔴 T.md",
-    "Ecopédia/🔴 Habitat Templet Theory.md",
-    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
+    "Ecopédia/Théorie de la biogéographie insulaire.md",
+    "Ecopédia/Théorie des cascades trophiques.md",
+    "Ecopédia/Théorie de la compétition interspécifique.md",
+    "Ecopédia/Théorie du mutualisme.md",
+    "Ecopédia/Théorie de la prédation.md",
+    "Ecopédia/Théorie des gradients écologiques.md",
+    "Ecopédia/🔴 Théorie de la fragmentation des habitats.md",
+    "Ecopédia/🔴 Théorie des niches écologiques.md",
     "Ecopédia",
-    "Notes réunions.md",
     "Images/Pasted image 20250205100508.png",
     "Images/Pasted image 20250205100157.png",
     "🌳 Stage ECOBIO/méthodo.canvas",
-    "🏡 Home.md",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
-    "🌳 Stage ECOBIO/Qgis rasteriser occupation du sol.md",
-    "Towards reproducible environments ?.md",
     "Images/Pasted image 20250131105429.png",
     "Images/Pasted image 20250131105322.png",
-    "Réponse exam.md",
-    "Présentation des spé.md",
-    "Présentation de rentrée.md",
-    "Présentation de question de recherche - Haag Thomas.md",
-    "Podcast - Biodisponibilité des nutriments, microbiome et rhizosphère.md",
-    "Négociation de salaire (conférence).md",
-    "Note scientifique STICS - Haag Thomas.md",
-    "Motivations.md",
-    "🌳 Stage ECOBIO/Traits fx dans l'index de TRY.md",
     "Images/Pasted image 20250128110202.png",
     "Images/Pasted image 20250128105045.png",
     "🌳 Stage ECOBIO/Taxons.canvas",
-    "🌳 Stage ECOBIO/Services, fx et traits v1 ?.md",
     "🌳 Stage ECOBIO/RÉCAP DONNÉES BRETAGNE pCloud.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
-    "🌳 Stage ECOBIO/Récap données.md",
     "Images/Pasted image 20250123104749.png",
-    "Excalidraw/Echelles spatiales et temporelles (eco du paysage).md",
     "Images/Pasted image 20250121171531.png",
     "Images/Pasted image 20250123104749 1.png",
-    "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
-    "Cours/🎓 Outils et méthodes pour caractériser, évaluer, et diagnostiquer des agrosystèmes/UC 1 Caractériser un territoire, des EA, des SDC/Réalisation d'enquêtes thématiques fines et analyse des données collectées.md",
-    "Cours/Diversité des modes de production/🔴 Prospective globales et européennes de l'agriculture et des systèmes alimentaires.md",
-    "Cours/Diversité des modes de production/🔴 Comprendre les freins et leviers à la transition agroécologique - L'approche par l'analyse multi-niveaux des systèmes sociotechniques et de leurs verrouillages.md",
-    "cheatsheet.md",
     "🌳 Stage ECOBIO/📝 Rapport ?",
     "🌳 Stage ECOBIO/Overview.canvas",
     "🌳 Stage ECOBIO",

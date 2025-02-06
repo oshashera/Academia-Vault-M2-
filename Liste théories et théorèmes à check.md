@@ -1,11 +1,4 @@
 
-```yaml
----
-category: wiki
-type: définition
-discipline: écologie
----
-```
 🔴
 ### **Théories liées aux habitats et aux niches**
 
