@@ -35,5 +35,6 @@
   "obsidian-citation-plugin",
   "obsidian-tasks-plugin",
   "obsidian-discordrpc",
-  "obsidian-git"
+  "obsidian-git",
+  "multi-tag"
 ]

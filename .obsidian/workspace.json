@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecopédia/Théorie de la stabilité-complexité.md",
+                "file": "Ecopédia/🔴 Théorie de la stabilité-complexité.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Théorie de la stabilité-complexité"
+              "title": "🔴 Théorie de la stabilité-complexité"
             }
           },
           {
@@ -27,12 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecopédia/Biodiversité.md",
+                "file": "Ecopédia/🔴 Théorie des gradients écologiques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biodiversité"
+              "title": "🔴 Théorie des gradients écologiques"
+            }
+          },
+          {
+            "id": "bdc0738af76a9b66",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -68,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reine rouge",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -269,32 +279,32 @@
   },
   "active": "ea352523067f250d",
   "lastOpenFiles": [
-    "Liste théories et théorèmes à check.md",
-    "Ecopédia/Biodiversité.md",
-    "Ecopédia/Théorie des gradients altitudinaux.md",
-    "Ecopédia/Théorie des patrons de diversité temporelle.md",
-    "Ecopédia/Règle de Gloger.md",
-    "Ecopédia/Théorie des patrons de diversité latitudinale.md",
-    "Ecopédia/Théorie des patrons de diversité insulaire.md",
-    "Ecopédia/Règle d'Allen.md",
-    "Ecopédia/Règle de Bergmann.md",
-    "Ecopédia/Loi des minima de Liebig.md",
-    "Ecopédia/Loi de la tolérance de Shelford.md",
-    "Ecopédia/Loi de l'aire des espèces.md",
-    "Ecopédia/Loi de l'énergie dans les écosystèmes.md",
-    "Ecopédia/Tgéorie des patrons écologiques.md",
-    "Ecopédia/Théorie des hiérarchies écologiques.md",
-    "Ecopédia/Théorie des climax ---- méta-climax.md",
-    "Ecopédia/Théorie des perturbations intermédiaires.md",
-    "Ecopédia/Théorie de la stabilité-complexité.md",
-    "Ecopédia/Théorie de la sélection r-K.md",
-    "Ecopédia/Théorie de la Reine Rouge.md",
-    "Ecopédia/Théorie des stratégies CSR.md",
-    "Ecopédia/Théorie des réseaux trophiques.md",
-    "Ecopédia/Théorie des cycles biogéochimiques.md",
-    "Ecopédia/Théorie de l'énergie dans les écosystèmes.md",
-    "Ecopédia/Théorie de la résilience écologique.md",
-    "Ecopédia/Théorie des états multiples.md",
+    "Ecopédia/🔴 Théorie des cascades trophiques.md",
+    "Ecopédia/🔴 Théorie de la compétition interspécifique.md",
+    "Ecopédia/🔴 Théorie du mutualisme.md",
+    "Ecopédia/🔴 Théorie de la biogéographie insulaire.md",
+    "Ecopédia/🔴 Théorie de la prédation.md",
+    "Ecopédia/🔴 Théorie des métapopulations.md",
+    "Ecopédia/🔴 Théorie de la succession écologique.md",
+    "Ecopédia/🔴 Théorie des climax ---- méta-climax.md",
+    "Ecopédia/🔴 Théorie des perturbations intermédiaires.md",
+    "Ecopédia/🔴 Théorie de la stabilité-complexité.md",
+    "Ecopédia/🔴 Théorie de la sélection r-K.md",
+    "Ecopédia/🔴 Théorie de la Reine Rouge.md",
+    "Ecopédia/🔴 Théorie des stratégies CSR.md",
+    "Ecopédia/🔴 Théorie des réseaux trophiques.md",
+    "Ecopédia/🔴 Théorie des cycles biogéochimiques.md",
+    "Ecopédia/🔴 Théorie de l'énergie dans les écosystèmes.md",
+    "Ecopédia/🔴 Théorie de la résilience écologique.md",
+    "Ecopédia/🔴 Théorie des états multiples.md",
+    "Ecopédia/🔴 Théorie des seuils écologiques.md",
+    "Ecopédia/🔴 Théorie de l'hétérogénéité spatiale.md",
+    "Ecopédia/🔴 Théorie des hiérarchies écologiques.md",
+    "Ecopédia/🔴 Théorie des patrons écologiques.md",
+    "Ecopédia/🔴 Loi des minima de Liebig.md",
+    "Ecopédia/🔴 Loi de la tolérance de Shelford.md",
+    "Ecopédia/🔴 Loi de l'aire des espèces.md",
+    "Ecopédia/🔴 Loi de l'énergie dans les écosystèmes.md",
     "Ecopédia",
     "Images/Pasted image 20250205100508.png",
     "Images/Pasted image 20250205100157.png",
