@@ -1,3 +1,8 @@
+---
+tags:
+  - wiki
+  - définition
+---
 
 | Interaction             | Organisme A | Organisme B |
 | ----------------------- | ----------- | ----------- |
