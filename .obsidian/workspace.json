@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Besoins ? Facteurs  ?"
             }
-          },
-          {
-            "id": "2fac3d136471e411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌐📔-🌳 Écopédia/Théorie neutre de Caswell (1976).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Théorie neutre de Caswell (1976)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fac3d136471e411",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌐📔-🌳 Écopédia/🔴 Théorie neutre de Caswell (1976).md",
     "Liste théories et théorèmes à check.md",
-    "🌐📔-🌳 Écopédia/Théorie neutre de Caswell (1976).md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🏡 Home.md",
     "🌳 Stage ECOBIO/Traits fx dans l'index de TRY.md",
