@@ -253,17 +253,18 @@ Prendre en compte dénivelé ? => trou canopés plus fréquents si pente par ex 
 
 calcium pour carapace de gastéropodes à carapaces ? 
 
-| Bark calcium (Ca) content per bark dry mass                                       | Branch calcium (Ca) content per branch dry mass                                   |
-| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Belowground plant organ calcium (Ca) content per belowground plant organ dry mass | Coarse root calcium (Ca) content per coarse root dry mass                         |
-| Coarse woody debris (CWD) branch: calcium (Ca) content per branch CWD dry mass    | Coarse woody debris (CWD) root: calcium (Ca) content per coarse root CWD dry mass |
-| Coarse woody debris (CWD) stem: calcium (Ca) content per stem CWD                 | Coarse woody debris (CWD): calcium (Ca) content per CWD dry mass                  |
-| Cone (strobilus) calcium (Ca) content per cone dry mass                           | Fine root (absorptive) calcium (Ca) content per absorptive fine root dry mass     |
-| Fine root (transport) calcium (Ca) content per transport fine root dry mass       | Fine root calcium (Ca) content per fine root dry mass                             |
-| Leaf calcium (Ca) content per leaf                                                | Fine root calcium (Ca) content per fine root fresh mass                           |
-| Leaf calcium (Ca) content per leaf dry mass                                       | Leaf calcium/magnesium (Ca/Mg) ratio                                              |
-| Litter (fine root) calcium (Ca) content per fine root litter dry mass             | Litter (leaf) calcium (Ca) content per leaf litter dry mass                       |
-| Root calcium (Ca) content per root dry mass                                       | Litter calcium (Ca) content per litter dry mass                                   |
-| Stem calcium (Ca) content per stem dry mass                                       | Shoot calcium (Ca) content per shoot dry mass                                     |
-| Twig calcium (Ca) content per dry mas                                             | Stem wood calcium (Ca) content per dry mass                                       |
+| Bark calcium (Ca) content per bark dry mass                                       | Branch calcium (Ca) content per branch dry mass                                          |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Belowground plant organ calcium (Ca) content per belowground plant organ dry mass | Coarse root calcium (Ca) content per coarse root dry mass                                |
+| Coarse woody debris (CWD) branch: calcium (Ca) content per branch CWD dry mass    | Coarse woody debris (CWD) root: calcium (Ca) content per coarse root CWD dry mass        |
+| Coarse woody debris (CWD) stem: calcium (Ca) content per stem CWD                 | Coarse woody debris (CWD): calcium (Ca) content per CWD dry mass                         |
+| Cone (strobilus) calcium (Ca) content per cone dry mass                           | Fine root (absorptive) calcium (Ca) content per absorptive fine root dry mass            |
+| Fine root (transport) calcium (Ca) content per transport fine root dry mass       | Fine root calcium (Ca) content per fine root dry mass                                    |
+| Leaf calcium (Ca) content per leaf                                                | Fine root calcium (Ca) content per fine root fresh mass                                  |
+| Leaf calcium (Ca) content per leaf dry mass                                       | Leaf calcium/magnesium (Ca/Mg) ratio                                                     |
+| Litter (fine root) calcium (Ca) content per fine root litter dry mass             | Litter (leaf) calcium (Ca) content per leaf litter dry mass                              |
+| Root calcium (Ca) content per root dry mass                                       | Litter calcium (Ca) content per litter dry mass                                          |
+| Stem calcium (Ca) content per stem dry mass                                       | Shoot calcium (Ca) content per shoot dry mass                                            |
+| Twig calcium (Ca) content per dry mas                                             | Stem wood calcium (Ca) content per dry mass                                              |
+|                                                                                   | Litter (other than leaf: twigs, bark, flowers…) calcium (Ca) content per litter dry mass |
 
