@@ -284,25 +284,25 @@ calcium pour carapace de gastéropodes à carapaces ?
     - Source : **Barker, G. M. (2004).** _Natural Enemies of Terrestrial Molluscs_. CABI Publishing.  
         (Ce livre indique que les limaces carnivores consomment des invertébrés à corps mou, y compris les larves d'insectes.)
 
+#### **Carnivorous Snails**
+1. **Other snails and slugs** :
+        **Barker, G. M. (2004).** _Natural Enemies of Terrestrial Molluscs_. CABI Publishing.  
+2. **Earthworms** : Les escargots carnivores comme _Powelliphanta_ se nourrissent de vers de terre.
+    - Source : **Barker, G. M. (2004).** _Natural Enemies of Terrestrial Molluscs_. CABI Publishing.  
+    
+3. **Insect larvae and soft-bodied invertebrates** : Certains escargots carnivores consomment également des larves d'insectes et d'autres invertébrés.
+    - Source : **Barker, G. M. (2004).** _Natural Enemies of Terrestrial Molluscs_. CABI Publishing.  
+        (Ce livre mentionne que les escargots carnivores peuvent se nourrir d'une variété de proies à corps mou, y compris les larves d'insectes.)
+
 
 | Exploitation                                       | Citations                                                                                                                                                                                                              |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Carnivores slug => worms, slugs snails, centipedes | Taylor (1902–07, p. 4) said of Testacella, ‘They are predaceous and very voracious and not only prey upon worms, but will also devour slugs, snails, centipedes, and even small individuals of their own kind.’        |
-|                                                    | Berry (1963) observed that captive Oophana diaphanopepla van Benthem Jutting ‘feeds on other broken or dying snails, chopped-up insect larvae, raw liver and other forms of meat, but totally ignores vegetable matter |
+| Carnivore snails => insect larvae                  | Berry (1963) observed that captive Oophana diaphanopepla van Benthem Jutting ‘feeds on other broken or dying snails, chopped-up insect larvae, raw liver and other forms of meat, but totally ignores vegetable matter |
 
 
-#### **Carnivorous Snails**
-4. **Other snails and slugs** : Les escargots carnivores comme _Euglandina rosea_ (escargot-loup) sont spécialisés dans la prédation d'autres mollusques.
-    - Source : **Cowie, R. H., & Robinson, D. G. (2003).** _The Decline of Native Pacific Island Land Snails: A Case Study of the Carnivorous Snail Euglandina rosea_.  
-        (Cette étude montre que _Euglandina rosea_ est un prédateur spécialisé d'autres escargots.)
-5. **Earthworms** : Les escargots carnivores comme _Powelliphanta_ se nourrissent de vers de terre.
-    - Source : **Powell, A. W. B. (1979).** _New Zealand Mollusca_. William Collins Publishers Ltd.  
-        (Ce livre décrit le régime alimentaire des escargots _Powelliphanta_, qui inclut les vers de terre.)
-6. **Insect larvae and soft-bodied invertebrates** : Certains escargots carnivores consomment également des larves d'insectes et d'autres invertébrés.
-    - Source : **Barker, G. M. (2004).** _Natural Enemies of Terrestrial Molluscs_. CABI Publishing.  
-        (Ce livre mentionne que les escargots carnivores peuvent se nourrir d'une variété de proies à corps mou, y compris les larves d'insectes.)
 
 ### Structure sol
 
 Trait `root type, root architecture` 
-Favorise décompaction sol : 
+Favorise décompaction sol :
