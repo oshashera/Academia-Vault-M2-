@@ -306,3 +306,10 @@ calcium pour carapace de gastéropodes à carapaces ?
 
 Trait `root type, root architecture` 
 Favorise décompaction sol :
+
+- 1) **Les racines pivotantes (taproot)** :  racines principales qui plongent profond Décompacte sols durs et argileux. (décompactant fort)
+- 2) **Les racines fasciculées (fibrous roots)** : nombreuses et horizontales => brise couches compactées. (modérément décompactant)
+- 3) **Les racines traçantes (runner roots)** :  horizontalement sous la surface (peu décompactant)
+- 4)**Les racines superficielles (shallow roots)** : Ne pénètrent pas profondément dans sol, mais peut assouplir la couche superficielle (vraiment peu décompactant)
+
+### Calcium 
