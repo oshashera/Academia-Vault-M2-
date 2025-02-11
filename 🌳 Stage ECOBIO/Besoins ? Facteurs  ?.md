@@ -268,4 +268,6 @@ calcium pour carapace de gastéropodes à carapaces ?
 | Twig calcium (Ca) content per dry mas                                             | Stem wood calcium (Ca) content per dry mass                                              |
 |                                                                                   | Litter (other than leaf: twigs, bark, flowers…) calcium (Ca) content per litter dry mass |
 
-+checker "carnivores" chez les limaces 
++checker "carnivores" chez les limaces / escargots
+
+=> escargots mangent autre escargot herbivores (donc ce qui favorise la proie en bouffe = abundance ++ = bien pour carnivore, mais abris jsp)
