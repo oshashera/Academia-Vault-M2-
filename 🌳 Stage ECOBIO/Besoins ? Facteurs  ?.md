@@ -271,3 +271,26 @@ calcium pour carapace de gastéropodes à carapaces ?
 +checker "carnivores" chez les limaces / escargots
 
 => escargots mangent autre escargot herbivores (donc ce qui favorise la proie en bouffe = abundance ++ = bien pour carnivore, mais abris jsp)
+
+#### **Carnivorous Slugs**
+
+1. **Earthworms** : Les limaces carnivores comme celles du genre _Testacella_ se nourrissent principalement de vers de terre.
+    - Source : **Barker, G. M. (2004).** _Natural Enemies of Terrestrial Molluscs_. CABI Publishing.  
+        (Ce livre décrit les habitudes alimentaires des limaces carnivores, notamment leur préférence pour les vers de terre.)        
+2. **Other slugs and snails** : Certaines espèces de limaces carnivores sont cannibales ou chassent d'autres mollusques.
+    - Source : **Kerney, M. P., & Cameron, R. A. D. (1979).** _A Field Guide to the Land Snails of Britain and North-west Europe_. Collins.  
+        (Ce guide mentionne que les limaces du genre _Testacella_ se nourrissent d'autres limaces et escargots.)
+3. **Insect larvae** : Les larves d'insectes font également partie de leur régime alimentaire.
+    - Source : **Barker, G. M. (2004).** _Natural Enemies of Terrestrial Molluscs_. CABI Publishing.  
+        (Ce livre indique que les limaces carnivores consomment des invertébrés à corps mou, y compris les larves d'insectes.)
+
+#### **Carnivorous Snails**
+1. **Other snails and slugs** : Les escargots carnivores comme _Euglandina rosea_ (escargot-loup) sont spécialisés dans la prédation d'autres mollusques.
+    - Source : **Cowie, R. H., & Robinson, D. G. (2003).** _The Decline of Native Pacific Island Land Snails: A Case Study of the Carnivorous Snail Euglandina rosea_.  
+        (Cette étude montre que _Euglandina rosea_ est un prédateur spécialisé d'autres escargots.)
+2. **Earthworms** : Les escargots carnivores comme _Powelliphanta_ se nourrissent de vers de terre.
+    - Source : **Powell, A. W. B. (1979).** _New Zealand Mollusca_. William Collins Publishers Ltd.  
+        (Ce livre décrit le régime alimentaire des escargots _Powelliphanta_, qui inclut les vers de terre.)
+3. **Insect larvae and soft-bodied invertebrates** : Certains escargots carnivores consomment également des larves d'insectes et d'autres invertébrés.
+    - Source : **Barker, G. M. (2004).** _Natural Enemies of Terrestrial Molluscs_. CABI Publishing.  
+        (Ce livre mentionne que les escargots carnivores peuvent se nourrir d'une variété de proies à corps mou, y compris les larves d'insectes.)
