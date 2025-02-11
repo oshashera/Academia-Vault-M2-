@@ -271,7 +271,7 @@ calcium pour carapace de gastéropodes à carapaces ?
 +checker "carnivores" chez les limaces / escargots
 
 => escargots mangent autre escargot herbivores (donc ce qui favorise la proie en bouffe = abundance ++ = bien pour carnivore, mais abris jsp)
-
+### Carnivorisme
 #### **Carnivorous Slugs**
 
 1. **Earthworms** : Les limaces carnivores comme celles du genre _Testacella_ se nourrissent principalement de vers de terre.
@@ -294,3 +294,8 @@ calcium pour carapace de gastéropodes à carapaces ?
 6. **Insect larvae and soft-bodied invertebrates** : Certains escargots carnivores consomment également des larves d'insectes et d'autres invertébrés.
     - Source : **Barker, G. M. (2004).** _Natural Enemies of Terrestrial Molluscs_. CABI Publishing.  
         (Ce livre mentionne que les escargots carnivores peuvent se nourrir d'une variété de proies à corps mou, y compris les larves d'insectes.)
+
+### Structure sol
+
+Trait `root type, root architecture` 
+Favorise décompaction sol : 
