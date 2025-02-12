@@ -316,3 +316,21 @@ Dans try :
 | Twig calcium (Ca) content per dry mas                                             | Stem wood calcium (Ca) content per dry mass                                              |
 |                                                                                   | Litter (other than leaf: twigs, bark, flowers…) calcium (Ca) content per litter dry mass |
 \+ prendre en compte taux conifère → acidification → dissolution calcaire → pas dispo ?
+
+
+
+## Caraaaaaabes
+
+| Sous-famille | Décompte dans Carabids_Brittany |
+| ------------ | ------------------------------- |
+| Harpalinae   | 22                              |
+| Trechinae    | 8                               |
+| Carabinae    | 4                               |
+| Nebriinae    | 4                               |
+| Brachininae  | 1                               |
+| Loricerniae  | 1                               |
+#### Harpalinae 
+
+| Type | Info | Citation | Source |
+| ---- | ---- | -------- | ------ |
+|      |      |          |        |
