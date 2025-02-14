@@ -338,3 +338,7 @@ Dans try :
 | herbi             | 9                           |
 
 #### **Carnivores**
+
+| Interprétation | Citation | Source |
+| -------------- | -------- | ------ |
+|                |          |        |
