@@ -329,8 +329,12 @@ Dans try :
 | Nebriinae    | 4                               |
 | Brachininae  | 1                               |
 | Loricerniae  | 1                               |
-#### Harpalinae 
 
-| Type | Info | Citation | Source |
-| ---- | ---- | -------- | ------ |
-|      |      |          |        |
+
+| Régime (gbif.org) | Décompte brittany ConservES |
+| ----------------- | --------------------------- |
+| carni             | 25                          |
+| omni              | 6                           |
+| herbi             | 9                           |
+
+#### **Carnivores**
