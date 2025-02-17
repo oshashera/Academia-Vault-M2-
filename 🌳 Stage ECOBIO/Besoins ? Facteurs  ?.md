@@ -339,6 +339,11 @@ Dans try :
 
 #### **Carnivores**
 
-| Interprétation | Citation | Source |
-| -------------- | -------- | ------ |
-|                |          |        |
+| Interprétation                                                                   | Citation                                                                                                                                                                                                 | Source       |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Préférence mais prends **larve insectes anyway**                                 | the staphylinid T. hypnorum preferred the larvae of M. aeneus highly significantly over the larvae of D. brassicae                                                                                       | Schlein 2004 |
+| **Carni / insectivore == ancestral**<br>=> conservé même minime ?                | evolution of food specialization in carabid beetles is uncertain, though there is agreement that a generalist insectivorous or carnivorous feeding habit is the ancestral condition                      | Fawki 2005   |
+| Spécialiste : **quantité** prime sur **qualité**                                 | specialist carabids have specialized to consume food which is of low quality to generalist carabids but supposedly abundantly available                                                                  |              |
+|                                                                                  | **Granivorous carabid** beetles have been reported only in the genera *Amara, Harpalus* and *Zabrus*                                                                                                     |              |
+| Même ==**grani**== incorporent larves ? => **tous carni** même un tt petit peu ? | None of these studies found a benefit of mixing insect food with the seeds. However, several species of *Harpalus* and *Amara* include animal food in their diet both in the laboratory and in the field |              |
+|                                                                                  | **Slugs and earthworms** are other animal prey on which some carabids have specialized.                                                                                                                  |              |
