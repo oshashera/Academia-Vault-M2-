@@ -40,3 +40,4 @@ Grams of carbon dioxide equivalent emissions per kWh of energy. Lower when using
 #### **Carbon emissions  = (CPU + RAM energy) X PUE x Carbon intensity**
 
 
+Embedded tools are probably best used with hardware isolation
