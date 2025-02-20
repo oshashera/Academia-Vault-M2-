@@ -41,3 +41,9 @@ Grams of carbon dioxide equivalent emissions per kWh of energy. Lower when using
 
 
 Embedded tools are probably best used with hardware isolation
+
+For those who are interested in using embedded packages to estimate the carbon footprint of R code : We have created an R package that is a wrapper of  for the Green Algorithm calculator (ww.green-algorithms.org)  _Lannelongue et al. Adv. Sci. 2021_) for embedded use for analyses computed with R on a local computer, with French emission factors. We have used it for "standard" biostaticcal analyses in clinical research (which are not very carbon-intensive..) [https://github.com/thomasferte/CarbPack](https://github.com/thomasferte/CarbPack "https://github.com/thomasferte/carbpack")
+
+[https://github.com/GreenScheduler/cats](https://github.com/GreenScheduler/cats "https://github.com/greenscheduler/cats")
+
+GitHub - GreenScheduler/cats: CATS: the Climate-Aware Task Scheduler 🐈 🐈‍⬛
