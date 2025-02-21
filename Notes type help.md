@@ -12,9 +12,9 @@
 
 #### Infos globales perso ?
 
-| **Qu**ail lane<br>**En**tree<br>**Li**ving room<br>**Ed**mund's room<br>**Di**ning room                                                                                                                           | **St**udy<br>**Bi**lliard room<br>**Ch**apel<br>**Ki**tchen<br>**At**tic                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [@] examinateurs d'avant / agent / narrateur ?<br>[1]  Mec invité par inconnu - John Hobbes<br>[11] Mec qui bosse pour *Rupert ?* / majordome / aide galleys ?<br>[2]<br>[3] Oswa<br>[10] femme (ivre ?) ms dauer | [4] tony<br>[5] Martha<br>[6] Mr Eddie Galley<br>[7] Victoria (a une soeur)<br>[8] Damian ?<br>[9] helen ? |
+| **Qu**ail lane<br>**En**tree<br>**Li**ving room<br>**Ed**mund's room<br>**Di**ning room                                                                                                                                                      | **St**udy<br>**Bi**lliard room<br>**Ch**apel<br>**Ki**tchen<br>**At**tic                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [@] examinateurs d'avant / agent / narrateur ?<br>[1]  Mec invité par inconnu - John Hobbes<br>[11] Mec qui bosse pour *Rupert ?* / majordome / aide galleys ?<br>[2] Annie Beaumont soeur vic<br>[3] Oswald<br>[10] femme (ivre ?) ms dauer | [4] tony<br>[5] Martha<br>[6] Mr Eddie Galley<br>[7] Victoria (a une soeur)<br>[8] Damian ?<br>[9] helen ? |
 10 est fille de 9 (10 ivre)
 10 femme de 6 (edmund)
 Pas de rupert ?
@@ -35,3 +35,10 @@ Helen, Tony, a placer
 
 
 perd ring quand tape sur door (fin 01) => 6 et 10 a entrée, mais qui d'autre ?
+
+1,3,5,6,8,9,10,11
+2,4,7 durant 04 ?
+BI,KI,ST pris donc reste (de connu) QU,EN,LI,ED,DI,CH,AT
+
+
+dans 05 => 2,3,4,6,7,9
