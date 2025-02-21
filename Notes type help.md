@@ -12,9 +12,9 @@
 
 #### Infos globales perso ?
 
-| **Qu**ail lane<br>**En**tree<br>**Li**ving room<br>**Ed**mund's room<br>**Di**ning room                                                                                                                              | **St**udy<br>**Bi**lliard room<br>**Ch**apel<br>**Ki**tchen                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [@] examinateurs d'avant / agent / narrateur ?<br>[1]  Mec invité par inconnu - John Hobbes<br>[11] Mec qui bosse pour *Rupert ?* / majordome / aide galleys ?<br>[2]<br>[3] connard<br>[10] femme (ivre ?) ms dauer | [4]<br>[5] Martha<br>[6] Mr Eddie Galley<br>[7] Vic (a une soeur)<br>[8] Damian ?<br>[9] |
+| **Qu**ail lane<br>**En**tree<br>**Li**ving room<br>**Ed**mund's room<br>**Di**ning room                                                                                                                              | **St**udy<br>**Bi**lliard room<br>**Ch**apel<br>**Ki**tchen                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [@] examinateurs d'avant / agent / narrateur ?<br>[1]  Mec invité par inconnu - John Hobbes<br>[11] Mec qui bosse pour *Rupert ?* / majordome / aide galleys ?<br>[2]<br>[3] connard<br>[10] femme (ivre ?) ms dauer | [4]<br>[5] Martha<br>[6] Mr Eddie Galley<br>[7] Victoria (a une soeur)<br>[8] Damian ?<br>[9] helen ? |
 10 est fille de 9 (10 ivre)
 10 femme de 6 (edmund)
 Pas de rupert ?
@@ -22,7 +22,7 @@ Amelia West ? Composer ?
 Mr Maseko ?
 Oswald ?
 
-
+Helen, Tony, a placer
   
 [_11 Thornton Butler_] Yes, sir — after the front door closed for a second time, a guest arrived in the **Kitchen** — she seemed rather inebriated. But nothing out of the ordinary.  
   
@@ -53,3 +53,6 @@ Oswald ?
 
 (3) 06-ED-8-10  
 (1) 06-ST-1-11
+
+
+perd ring quand tape sur door (fin 01) => 6 et 10 a entrée, mais qui d'autre ?
