@@ -1,7 +1,7 @@
 01-QU-1-11  
 02-EN-1-6-7-10  
 03-LI-1-4-5-6-7-8-9  
-04-ST-?????
+04-ST-1-5-8
 
 Files à regarder
 
@@ -13,24 +13,24 @@ Files à regarder
 #### Infos globales perso ?
 
 [@] examinateurs d'avant / agent / narrateur ?
-[1]  Mec invité par inconnu - John Hobes
-[11] Mec qui bosse pour *Rupert ?* / majordome / aide ? Rupert galleys ?
+[1]  Mec invité par inconnu - John Hobbes
+[11] Mec qui bosse pour *Rupert ?* / majordome / aide galleys ?
 [10] femme (ivre ?)
 [4]
-[5]
+[5] Martha
 [6] Mr Eddie Galley
 [7] Vic ??? (a une soeur)
-[8] 
+[8] Damian ?
 [9]
 
 
 Pas de rupert ?
 
-
+Amelia West ? Composer ?
 Thornton ?
 
 **Qu**ail lane
 **En**tree
 **Li**ving room
-
-
+**St**udy
+**Bi**lliard room
