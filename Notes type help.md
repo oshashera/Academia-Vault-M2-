@@ -31,3 +31,22 @@ Oswald ?
   
   
 [_11 Thornton Butler_] Around the time the bottle smashed, a second guest arrived in the **Kitchen**. After he left, Mr Maseko arrived as I was tending to the inebriated guest and informed me I was needed here.
+
+**01** : 1,11 / 2,3,4,5,6,7,8,9,10
+(1/1) 01-QU-1-11  
+
+**02**: 1,6,7,10,11 / 2,3,4,5,8,9
+(0) 02-EN-1-6-7-10  
+(0) 02-KI-11  
+  
+**03** : 1,4,5,6,7,8,9,10,11 / 2,3     | KI,LI / 
+(0) 03-KI-10-11  
+(1/1) 03-LI-1-4-5-6-7-8-9  
+  
+(0/1) 04-BI-6-9  
+(1) 04-KI-3-10-11  
+(0) 04-ST-1-5-8  
+(0) 05-DI-1-5  
+(0) 05-KI-8-10-11  
+(3) 06-ED-8-10  
+(1) 06-ST-1-11
