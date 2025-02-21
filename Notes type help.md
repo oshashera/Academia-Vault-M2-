@@ -12,7 +12,7 @@
 
 #### Infos globales perso ?
 
-| **Qu**ail lane<br>**En**tree<br>**Li**ving room<br>**Ed**mund's room                                                                                                                                                 | **St**udy<br>**Bi**lliard room<br>**Ch**apel<br>**Ki**tchen                              |
+| **Qu**ail lane<br>**En**tree<br>**Li**ving room<br>**Ed**mund's room<br>**Di**ning room                                                                                                                              | **St**udy<br>**Bi**lliard room<br>**Ch**apel<br>**Ki**tchen                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [@] examinateurs d'avant / agent / narrateur ?<br>[1]  Mec invité par inconnu - John Hobbes<br>[11] Mec qui bosse pour *Rupert ?* / majordome / aide galleys ?<br>[2]<br>[3] connard<br>[10] femme (ivre ?) ms dauer | [4]<br>[5] Martha<br>[6] Mr Eddie Galley<br>[7] Vic (a une soeur)<br>[8] Damian ?<br>[9] |
 10 est fille de 9 (10 ivre)
@@ -33,20 +33,23 @@ Oswald ?
 [_11 Thornton Butler_] Around the time the bottle smashed, a second guest arrived in the **Kitchen**. After he left, Mr Maseko arrived as I was tending to the inebriated guest and informed me I was needed here.
 
 **01** : 1,11 / 2,3,4,5,6,7,8,9,10
-(1/1) 01-QU-1-11  
+(1) 01-QU-1-11  
 
 **02**: 1,6,7,10,11 / 2,3,4,5,8,9
 (0) 02-EN-1-6-7-10  
 (0) 02-KI-11  
   
-**03** : 1,4,5,6,7,8,9,10,11 / 2,3     | KI,LI / 
+**03** : 1,4,5,6,7,8,9,10,11 / 2,3     | KI,LI / QU,EN,ST,ED,BI,CH,DI
 (0) 03-KI-10-11  
-(1/1) 03-LI-1-4-5-6-7-8-9  
-  
-(0/1) 04-BI-6-9  
+(1) 03-LI-1-4-5-6-7-8-9  
+
+**04**: 1,3,5,6,8,9,10,11 / 2,4,7 | BI,KI,ST / QU,EN,ED,LI,CH,DI
+(1) 04-BI-6-9  
 (1) 04-KI-3-10-11  
 (0) 04-ST-1-5-8  
+
 (0) 05-DI-1-5  
 (0) 05-KI-8-10-11  
+
 (3) 06-ED-8-10  
 (1) 06-ST-1-11
