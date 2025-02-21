@@ -2062,7 +2062,7 @@ Seed abortion: fraction of seeds without embryo
 Seed area
 Seed aril color
 Seed carbon (C) content per dry mass (or diaspore)
-Seed coat thickness
+- ==**Seed coat thickness**==
 Seed curvature
 Seed dry mass
 Seed fresh mass
