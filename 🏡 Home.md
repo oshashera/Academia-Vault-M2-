@@ -5,15 +5,15 @@ banner: "![[1632213678884.jpg]]"
 banner_y: 0.5
 ---
 
-| Matin              | Après-midi                                                   | Jour     |
-| ------------------ | ------------------------------------------------------------ | -------- |
-| Finir parasitoïdes | Araignées                                                    | Lundi    |
-| Araignées          | Araignées                                                    | Mardi    |
-| Araignées          | Araignées                                                    | Mercredi |
-| Araignées          | Araignées dernier délai ?                                    | Jeudi    |
-| Slugs & Snails     | Réu anim scientifique + présentation 15H30 des données dispo | Vendredi |
-|                    |                                                              | Samedi   |
-|                    |                                                              | Dimanche |
+| Matin               | Après-midi                                                   | Jour     |
+| ------------------- | ------------------------------------------------------------ | -------- |
+| Faire tableau récap | Araignées                                                    | Lundi    |
+| Araignées           | Araignées                                                    | Mardi    |
+| Araignées           | Araignées                                                    | Mercredi |
+| Araignées           | Araignées dernier délai ?                                    | Jeudi    |
+| Slugs & Snails      | Réu anim scientifique + présentation 15H30 des données dispo | Vendredi |
+|                     |                                                              | Samedi   |
+|                     |                                                              | Dimanche |
 
 ```widgets
 type: clock 
