@@ -23,3 +23,11 @@ Mr Maseko ?
 Oswald ?
 
 
+  
+[_11 Thornton Butler_] Yes, sir — after the front door closed for a second time, a guest arrived in the **Kitchen** — she seemed rather inebriated. But nothing out of the ordinary.  
+  
+  
+[_1 John-Hobbes_] And then?  
+  
+  
+[_11 Thornton Butler_] Around the time the bottle smashed, a second guest arrived in the **Kitchen**. After he left, Mr Maseko arrived as I was tending to the inebriated guest and informed me I was needed here.
