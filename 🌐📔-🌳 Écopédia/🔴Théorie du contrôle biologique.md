@@ -1,0 +1,1 @@
+"Biological control theory posits that the efficiency of pest control depends on natural enemy abundance and diversity" ambre socco 2024 
