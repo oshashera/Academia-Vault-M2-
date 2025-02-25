@@ -434,6 +434,8 @@ Dans try :
 | **Forêts/boisements/bosquet, buissons**                                                    | For example, **mid-field forests, woodlots and shrubby habitats** have been found more beneficial for the biodiversity of the assemblages of carabids, spiders and other predators than habitats with herbaceous vegetation                | bennewicz 2020 |
 | Moins effet des grasslands / herbacées ?                                                   | Generally, habitats with herbaceous vegetation, and particularly grasslands, have a less important role (Morris et al. 2010). However, grasslands on field margins have been poorly investigated in terms of insects and other arthropods, |                |
 | Mais positif "iles semi-naturelles" dans paysages agricoles pour carabe, parasito et polli | Different authors have indicated the positive effect of these environmental islands on the abundance of hoverflies, carabids, parasitoids and pollinators in agroecosystems                                                                |                |
+| Mobiles et changeant d'éco régulièrement ?                                                 | Carabidae show **high mobility** between **different ecosystems**                                                                                                                                                                          |                |
+| Plus simple de se déplacer dans peu de couvert végétaux...                                 | In some habitats with **lower plant cover rate they disperse easily**, while other habitats create obstacles to their migration                                                                                                            |                |
 |                                                                                            |                                                                                                                                                                                                                                            |                |
 
 
@@ -441,6 +443,7 @@ Dans try :
 
 "Besides vertebrates, such as birds and rodents, and other invertebrates, such as ants, crickets, terrestrial isopods and slugs, carabid beetles (Coleoptera: Carabidae) often represent the dominant component of the seed predation guild in arable fields of temperate climatic zone" Saska 2019
 "Carabids are among the most abundant and diverse families of arthropod generalist predators in temperate agricultural fields" Sacco 2024
+"in temperate agroecosystems, carabid beetles (Coleoptera: Carabidae) are key members of epigaeic invertebrate assemblages, with the potential to provide valuable ecological services." Bennewicz 2020
 
 
 
