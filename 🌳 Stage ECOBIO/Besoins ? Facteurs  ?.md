@@ -426,6 +426,12 @@ Dans try :
 | Limitation de la prédation ?                                                                                                                                                                           | Multiple carabid species have been shown to prefer dead prey to live ones in laboratory experiments, which could suggest a more saprophagous diet for carabids even in natural conditions and consequently a lower impact on prey populations.                                                                                                                                                                                                                                                                        |                     |
 
 
+#### Habitat
+
+
+| Interprétation | Citation | Source |
+| -------------- | -------- | ------ |
+|                |          |        |
 
 
 
