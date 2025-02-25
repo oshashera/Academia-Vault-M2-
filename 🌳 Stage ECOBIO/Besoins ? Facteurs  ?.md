@@ -429,9 +429,12 @@ Dans try :
 #### Habitat
 
 
-| Interprétation                          | Citation                                                                                                                                                                                                                    | Source |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| **Forêts/boisements/bosquet, buissons** | For example, **mid-field forests, woodlots and shrubby habitats** have been found more beneficial for the biodiversity of the assemblages of carabids, spiders and other predators than habitats with herbaceous vegetation |        |
+| Interprétation                                                                             | Citation                                                                                                                                                                                                                                   | Source         |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| **Forêts/boisements/bosquet, buissons**                                                    | For example, **mid-field forests, woodlots and shrubby habitats** have been found more beneficial for the biodiversity of the assemblages of carabids, spiders and other predators than habitats with herbaceous vegetation                | bennewicz 2020 |
+| Moins effet des grasslands / herbacées ?                                                   | Generally, habitats with herbaceous vegetation, and particularly grasslands, have a less important role (Morris et al. 2010). However, grasslands on field margins have been poorly investigated in terms of insects and other arthropods, |                |
+| Mais positif "iles semi-naturelles" dans paysages agricoles pour carabe, parasito et polli | Different authors have indicated the positive effect of these environmental islands on the abundance of hoverflies, carabids, parasitoids and pollinators in agroecosystems                                                                |                |
+|                                                                                            |                                                                                                                                                                                                                                            |                |
 
 
 
