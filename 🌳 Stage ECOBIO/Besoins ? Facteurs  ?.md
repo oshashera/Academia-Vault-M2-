@@ -330,13 +330,6 @@ Dans try :
 | Brachininae  | 1                               |
 | Loricerniae  | 1                               |
 
-
-| Régime (gbif.org) | Décompte brittany ConservES |
-| ----------------- | --------------------------- |
-| carni             | 25                          |
-| omni              | 6                           |
-| herbi             | 9                           |
-
 #### Nourriture
 
 | Interprétation                                                                                                                                                                                         | Citation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Source              |
