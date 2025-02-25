@@ -429,9 +429,9 @@ Dans try :
 #### Habitat
 
 
-| Interprétation | Citation | Source |
-| -------------- | -------- | ------ |
-|                |          |        |
+| Interprétation                          | Citation                                                                                                                                                                                                                    | Source |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Forêts/boisements/bosquet, buissons** | For example, **mid-field forests, woodlots and shrubby habitats** have been found more beneficial for the biodiversity of the assemblages of carabids, spiders and other predators than habitats with herbaceous vegetation |        |
 
 
 
