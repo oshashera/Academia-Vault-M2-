@@ -434,41 +434,6 @@
       "y": -643
     },
     {
-      "color": "5",
-      "height": 72,
-      "id": "846c96d24e844ad4",
-      "styleAttributes": {
-      },
-      "text": "MAss R package overdispersion fittage",
-      "type": "text",
-      "width": 256,
-      "x": 1221,
-      "y": -259
-    },
-    {
-      "height": 138,
-      "id": "ee5e09c24c4614a6",
-      "styleAttributes": {
-      },
-      "text": "“Variables were considered as informative and relevant when their conditional score was above the absolute value of the lowest negative-scoring variable” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=KXBJ49IK)) **keske quoi ? à checker**",
-      "type": "text",
-      "width": 512,
-      "x": 788,
-      "y": -433
-    },
-    {
-      "color": "3",
-      "height": 72,
-      "id": "979d5ddd2e3328b3",
-      "styleAttributes": {
-      },
-      "text": "3) GLM",
-      "type": "text",
-      "width": 256,
-      "x": 758,
-      "y": -259
-    },
-    {
       "color": "3",
       "height": 72,
       "id": "797f4e657d2d7449",
@@ -508,19 +473,6 @@
     {
       "color": "5",
       "height": 72,
-      "id": "e132b1c117a0c708",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "R package FD (pour CWM)",
-      "type": "text",
-      "width": 178,
-      "x": 374,
-      "y": -295
-    },
-    {
-      "color": "5",
-      "height": 72,
       "id": "8ca869ad6987f8c2",
       "styleAttributes": {
       },
@@ -533,14 +485,62 @@
     {
       "color": "2",
       "height": 72,
-      "id": "a31012d0bdd5c9b8",
+      "id": "3bf83cd2874cd881",
       "styleAttributes": {
+        "textAlign": "center"
       },
-      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
+      "text": "1️⃣ Détermination et sélection type occupation sols",
       "type": "text",
       "width": 374,
-      "x": -689,
-      "y": -301
+      "x": -728,
+      "y": -619
+    },
+    {
+      "height": 230,
+      "id": "f8d9bae9ef453d7a",
+      "styleAttributes": {
+      },
+      "text": "- TRY\n- Agriland\n- Carabids.org (down?)\n- TraitNet (fiable?)\n- Tela botanica\n- Julve",
+      "type": "text",
+      "width": 260,
+      "x": -1285,
+      "y": -505
+    },
+    {
+      "height": 138,
+      "id": "ee5e09c24c4614a6",
+      "styleAttributes": {
+      },
+      "text": "“Variables were considered as informative and relevant when their conditional score was above the absolute value of the lowest negative-scoring variable” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=KXBJ49IK)) **keske quoi ? à checker**",
+      "type": "text",
+      "width": 512,
+      "x": 788,
+      "y": -433
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "979d5ddd2e3328b3",
+      "styleAttributes": {
+      },
+      "text": "3) GLM",
+      "type": "text",
+      "width": 256,
+      "x": 758,
+      "y": -259
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "e132b1c117a0c708",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "R package FD (pour CWM)",
+      "type": "text",
+      "width": 178,
+      "x": 374,
+      "y": -295
     },
     {
       "color": "2",
@@ -569,50 +569,14 @@
     {
       "color": "5",
       "height": 72,
-      "id": "f5467b79a218be43",
+      "id": "0e6c9b628104a452",
       "styleAttributes": {
       },
-      "text": "MuMin package (AIC)",
+      "text": "Par climat et par type de patch/occupation ",
       "type": "text",
       "width": 256,
-      "x": 1271,
-      "y": 53
-    },
-    {
-      "color": "2",
-      "height": 72,
-      "id": "3bf83cd2874cd881",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "1️⃣ Détermination et sélection type occupation sols",
-      "type": "text",
-      "width": 374,
       "x": -728,
-      "y": -619
-    },
-    {
-      "height": 230,
-      "id": "f8d9bae9ef453d7a",
-      "styleAttributes": {
-      },
-      "text": "- TRY\n- Agriland\n- Carabids.org (down?)\n- TraitNet (fiable?)\n- Tela botanica\n- Julve",
-      "type": "text",
-      "width": 260,
-      "x": -1285,
-      "y": -505
-    },
-    {
-      "color": "2",
-      "height": 72,
-      "id": "f359996add039d3a",
-      "styleAttributes": {
-      },
-      "text": "2️⃣ Abondance sp pl / occupation sol",
-      "type": "text",
-      "width": 315,
-      "x": -689,
-      "y": -397
+      "y": 317
     },
     {
       "color": "6",
@@ -643,26 +607,38 @@
     {
       "color": "5",
       "height": 72,
-      "id": "1da67e34172112e1",
+      "id": "9cf0fed7cfba1ecb",
       "styleAttributes": {
       },
-      "text": "rsq R package",
+      "text": "Pondération prorata occupation/ensemble paysage",
       "type": "text",
-      "width": 187,
-      "x": 1341,
-      "y": 155
+      "width": 463,
+      "x": 972,
+      "y": 473
     },
     {
       "color": "5",
       "height": 72,
-      "id": "0e6c9b628104a452",
+      "id": "846c96d24e844ad4",
       "styleAttributes": {
       },
-      "text": "Par climat et par type de patch/occupation ",
+      "text": "MAss R package overdispersion fittage",
       "type": "text",
       "width": 256,
-      "x": -728,
-      "y": 317
+      "x": 1221,
+      "y": -259
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "f5467b79a218be43",
+      "styleAttributes": {
+      },
+      "text": "MuMin package (AIC)",
+      "type": "text",
+      "width": 256,
+      "x": 1271,
+      "y": 53
     },
     {
       "height": 102,
@@ -677,15 +653,39 @@
     },
     {
       "color": "2",
-      "height": 108,
-      "id": "11b8b2b39400d33f",
+      "height": 72,
+      "id": "a31012d0bdd5c9b8",
       "styleAttributes": {
       },
-      "text": "8️⃣ CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
+      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
       "type": "text",
-      "width": 364,
-      "x": -138,
-      "y": -199
+      "width": 374,
+      "x": -689,
+      "y": -301
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "f359996add039d3a",
+      "styleAttributes": {
+      },
+      "text": "2️⃣ Abondance sp pl / occupation sol",
+      "type": "text",
+      "width": 315,
+      "x": -689,
+      "y": -397
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "1da67e34172112e1",
+      "styleAttributes": {
+      },
+      "text": "rsq R package",
+      "type": "text",
+      "width": 187,
+      "x": 1341,
+      "y": 155
     },
     {
       "height": 60,
@@ -720,6 +720,42 @@
       "width": 256,
       "x": 424,
       "y": -151
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "eb05b35d76c88b71",
+      "styleAttributes": {
+      },
+      "text": "Matrice SP végétale possible par occupation & climat",
+      "type": "text",
+      "width": 315,
+      "x": -176,
+      "y": 353
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "e5c427a6bcbe6395",
+      "styleAttributes": {
+      },
+      "text": "Estimation CWM commu plante",
+      "type": "text",
+      "width": 305,
+      "x": 511,
+      "y": 353
+    },
+    {
+      "color": "2",
+      "height": 108,
+      "id": "11b8b2b39400d33f",
+      "styleAttributes": {
+      },
+      "text": "8️⃣ CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
+      "type": "text",
+      "width": 364,
+      "x": -138,
+      "y": -199
     },
     {
       "color": "3",
@@ -758,42 +794,6 @@
       "width": 1251,
       "x": -95,
       "y": 599
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "9cf0fed7cfba1ecb",
-      "styleAttributes": {
-      },
-      "text": "Pondération prorata occupation/ensemble paysage",
-      "type": "text",
-      "width": 463,
-      "x": 972,
-      "y": 473
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "eb05b35d76c88b71",
-      "styleAttributes": {
-      },
-      "text": "Matrice SP végétale possible par occupation & climat",
-      "type": "text",
-      "width": 315,
-      "x": -176,
-      "y": 353
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "e5c427a6bcbe6395",
-      "styleAttributes": {
-      },
-      "text": "Estimation CWM commu plante",
-      "type": "text",
-      "width": 305,
-      "x": 511,
-      "y": 353
     },
     {
       "color": "2",
