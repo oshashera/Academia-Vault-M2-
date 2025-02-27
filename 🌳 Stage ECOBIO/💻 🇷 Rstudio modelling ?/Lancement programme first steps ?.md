@@ -40,3 +40,4 @@ install_compatible_packages(required_packages, r_version)
 lapply(required_packages, library, character.only = TRUE)  #lapply apply for a list a function (here library), with 'character.only=TRUE' as a parameter for library (to use the name of the package w/ a string)
 ```
 
+🇷
