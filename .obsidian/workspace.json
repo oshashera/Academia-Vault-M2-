@@ -214,52 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "df7c9ccca38e9c5e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "14f58845839d34f4",
-        "type": "window",
-        "children": [
-          {
-            "id": "978d73213a3ea6e2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5bbaceaa86993fc4",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "🌳 Stage ECOBIO/méthodo.canvas",
-                    "viewState": {
-                      "x": -580.2041103923626,
-                      "y": -45.76422435708019,
-                      "zoom": -0.3395323191302255
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "méthodo"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 683,
-        "y": 0,
-        "width": 683,
-        "height": 732,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5bbaceaa86993fc4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/Rstudio modelling ?/Lancement programme first steps ?.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
+    "🌳 Stage ECOBIO/Rstudio modelling ?/Lancement programme first steps ?.md",
     "🏡 Home.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/Rstudio modelling ?",
