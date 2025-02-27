@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/méthodo.canvas",
-                "viewState": {
-                  "x": 183.99123071193688,
-                  "y": 101.18398084389145,
-                  "zoom": -0.8000386400542688
-                }
+                "file": "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "méthodo"
+              "icon": "lucide-file",
+              "title": "Besoins ? Facteurs  ?"
             }
           }
         ]
@@ -219,9 +216,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/méthodo.canvas",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Lancement programme first steps ?.md",
-    "🌳 Stage ECOBIO/méthodo.canvas",
     "🏡 Home.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?",
     "l'état d'avancement des travaux (rapport de mi-parcours).md",
