@@ -607,18 +607,6 @@
     {
       "color": "5",
       "height": 72,
-      "id": "9cf0fed7cfba1ecb",
-      "styleAttributes": {
-      },
-      "text": "Pondération prorata occupation/ensemble paysage",
-      "type": "text",
-      "width": 463,
-      "x": 972,
-      "y": 473
-    },
-    {
-      "color": "5",
-      "height": 72,
       "id": "846c96d24e844ad4",
       "styleAttributes": {
       },
@@ -627,6 +615,18 @@
       "width": 256,
       "x": 1221,
       "y": -259
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "9cf0fed7cfba1ecb",
+      "styleAttributes": {
+      },
+      "text": "Pondération prorata occupation/ensemble paysage",
+      "type": "text",
+      "width": 463,
+      "x": 972,
+      "y": 473
     },
     {
       "color": "5",
@@ -650,30 +650,6 @@
       "width": 699,
       "x": 828,
       "y": -157
-    },
-    {
-      "color": "2",
-      "height": 72,
-      "id": "a31012d0bdd5c9b8",
-      "styleAttributes": {
-      },
-      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
-      "type": "text",
-      "width": 374,
-      "x": -689,
-      "y": -301
-    },
-    {
-      "color": "2",
-      "height": 72,
-      "id": "f359996add039d3a",
-      "styleAttributes": {
-      },
-      "text": "2️⃣ Abondance sp pl / occupation sol",
-      "type": "text",
-      "width": 315,
-      "x": -689,
-      "y": -397
     },
     {
       "color": "5",
@@ -744,6 +720,30 @@
       "width": 305,
       "x": 511,
       "y": 353
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "a31012d0bdd5c9b8",
+      "styleAttributes": {
+      },
+      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
+      "type": "text",
+      "width": 374,
+      "x": -689,
+      "y": -301
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "f359996add039d3a",
+      "styleAttributes": {
+      },
+      "text": "2️⃣ Abondance sp pl / occupation sol",
+      "type": "text",
+      "width": 315,
+      "x": -689,
+      "y": -397
     },
     {
       "color": "2",
