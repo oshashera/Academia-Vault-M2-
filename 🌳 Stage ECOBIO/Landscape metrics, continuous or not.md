@@ -48,11 +48,13 @@ Autocorrelation indicators from continuous maps ?^["As the autocorrelation indic
 
 
 
-Metrics existing ?
+Metrics existing (all kinds)
 
-| Metric                   | Description                                                                                                                                                                                      |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| LPI -largest patch index | The largest patch index is an '**Area and edge metric**'. It is the percentage of the landscape covered by the corresponding largest patch of each class i. It is a simple measure of dominance. |
+| Metric                   | Description                                                                                                                                                                                                                           |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| LPI -largest patch index | The largest patch index is an '**Area and edge metric**'. It is the percentage of the landscape covered by the corresponding largest patch of each class i. It is a simple measure of dominance.                                      |
+| PLAND                    | PLAND is an 'Area and edge metric'. It is the percentage of the landscape belonging to class i. It is a measure of composition and because of the relative character directly comparable among landscapes with different total areas. |
+|                          |                                                                                                                                                                                                                                       |
 
 
 
