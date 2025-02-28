@@ -16,7 +16,11 @@ Limits of metrics due to data quality, scale, etc...^["Perhaps most importantly 
 Can we link landscape metrics to ecological processes ?^["linking landscape metrics with ecological processes was outlined as a key research priority for landscape ecologists nearly 15 years ago [10] and remains an essential focus of current and future research"] not my aim but interesting thought for the discussion / EdlA
 ==[skipped the"limitations of conv landsc metrics, **A CHECK PLUS TARD**]==
 
-
+PPM--> GSM needed for better integration of heterogeneity ?^["Moving beyond the PMM, gradient approaches have been promoted in ecology since Gleason [85] questioned whether categorical vegetation typologies were consistent with real world heterogeneity."]
+BUT can't analyze with PMM tools/metrics bc not discrete^["A dilemma (or opportunity, depending on perspective) for landscape ecologists is that gradient surfaces do not have discrete boundaries and therefore cannot be analyzed using conventional landscape metrics and software packages"]
+Thus : surface metrics (initially from microscopy and molecular physics, adapted to ecology)^["A new form of metrics—surface metrics—has been introduced for landscape ecologists to quantify heterogeneity of continuous gradient surfaces [35]. Surface metrics are founded on methods for quantifying three-dimensional surfaces from microscopy and molecular physics [89], and have recently been adapted for landscape analyses"]
+![[Pasted image 20250228113623.png]]
+*Makes me wonder : comparaison of a) with b) and c) makes it very clear that PMM fails in that it categorize to broadly/generalize to much. In comparison, GSM allows for a continuous (thus theoratically infinite) range of values, thus encompassing heterogeneity better. But in reality, wouldn't any organism (or us), while theoretically evolving in a “continuous” world only be able to sense/make decision on a very precise, but nevertheless *
 
 
 
