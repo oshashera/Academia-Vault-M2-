@@ -9,3 +9,12 @@ Conventional landscape metrics *vs* surface metrics (gradient)^["One stream with
 Older/first indices & metrics based on **information theory** and **fractal geometry**^["seminal paper “Indices of landscape pattern”, which developed three new metrics based on information theory and fractal geometry"]
 Then refined
 
+parasitoides => hanna (identification à attendre)
+pollinisateurs => hanna (identification à attendre)
+araignées => hanna a (à vérif ident)
+plantes => hanna a
+mollusques (limaces/escargots) => annegret ?
+
+carabes
+pucerons
+staphylins
