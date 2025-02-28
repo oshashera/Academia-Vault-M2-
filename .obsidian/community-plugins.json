@@ -12,7 +12,6 @@
   "obsidian-list-callouts",
   "callout-manager",
   "pdf-plus",
-  "quick-latex",
   "obsidian-reading-time",
   "solve",
   "text-extractor",
@@ -36,5 +35,6 @@
   "obsidian-tasks-plugin",
   "obsidian-discordrpc",
   "obsidian-git",
-  "multi-tag"
+  "multi-tag",
+  "quick-latex"
 ]
