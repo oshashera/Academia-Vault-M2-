@@ -1,5 +1,7 @@
 
-- ["] Frazier AE, Kedron P (2017) ==Landscape Metrics: Past Progress and Future Directions==. Curr Landscape Ecol Rep 2:63–72. [{https://doi.org/10.1007/s40823-017-0026-0](https://doi.org/10.1007/s40823-017-0026-0) 
+
+> [!list] (Article) **Landscape Metrics: Past Progress and Future Directions**
+
 
 Landscape ecology through PMM has limitations ^["Recent research recognizes some limitations of the patch-mosaic model (PMM), including the landscape metrics based on it, for capturing landscape heterogeneity and measuring functionality. Collapsing land cover information into nominal classes complicates identification of ecologically meaningful relationships and effective management."] 
 Metrics can be limiting or confusing ^["Contributing to these uncertainties, the scale dependency of many metrics across both grain (i.e., resolution) and study area extent confounds relationships between ecological processes and spatial patterns"] 
@@ -9,6 +11,24 @@ Conventional landscape metrics *vs* surface metrics (gradient)^["One stream with
 Older/first indices & metrics based on **information theory** and **fractal geometry**^["seminal paper “Indices of landscape pattern”, which developed three new metrics based on information theory and fractal geometry"]
 Then refined into measures of **fragmentation, aggregation** and **connectivity** and specific measures for **interspersion**^[<u>Interpersion </u>: degree of intermixing between plants of different species], **juxtaposition** and **patch cohesion**^["refined the existing suite of metrics to better capture heterogeneity through new measures of fragmentation [41], aggregation [42], and connectivity" "as well as specific measures for interspersion and juxtaposition [44], and patch cohesion"]
 Also issues of redundancy/correlation of metrics ?^[The growing number of available indices created new challenges for landscape ecologists in the form of correlation and redundancy.]
+Limits of classical landscape approach : reliability issues of remote sensing for land-cover assessment^["researchers began recognizing that the data used to compute landscape metrics (e.g., land cover maps derived from remotely sensed imagery) were not always accurate."]
+Limits of metrics due to data quality, scale, etc...^["Perhaps most importantly though, these discussions sparked broader recognition that landscape metric behavior can change according to data quality, classification error, and scale, including both grain and study area extent."]=> gradient (continuous) would less be affected by scale changes ? *hold the thought*
+Can we link landscape metrics to ecological processes ?^["linking landscape metrics with ecological processes was outlined as a key research priority for landscape ecologists nearly 15 years ago [10] and remains an essential focus of current and future research"] not my aim but interesting thought for the discussion / EdlA
+==[skipped the"limitations of conv landsc metrics, **A CHECK PLUS TARD**]==
+
+
+
+
+
+- ["] Frazier AE, Kedron P (2017) ==Landscape Metrics: Past Progress and Future Directions==. Curr Landscape Ecol Rep 2:63–72. [{https://doi.org/10.1007/s40823-017-0026-0](https://doi.org/10.1007/s40823-017-0026-0) 
+
+
+
+
+
+
+
+
 
 
 
