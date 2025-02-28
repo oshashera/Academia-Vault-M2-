@@ -36,12 +36,10 @@ Use of percentage/proportions/ratios in continuous / gradient approaches^["This 
 But that's for making maps, we need metrics/measures to quantify those landscapes^["Despite the proliferation of continuous maps, there are only few measures developed so far that quantify continuous landscape characteristics"]
 Autocorrelation indicators from continuous maps ?^["As the autocorrelation indicators are computed on a continuous map"]
 **Analogy between PMM and GSM characteristics ?**^["First, there is a significant and robust analogy between landscape characteristics extracted from continuous landscape models and from patch-based categorical models. This is mainly because the textural properties of the landscape are fundamentally reflections of the configuration of the objects in the landscape."]
-
-
-
-
-
+GLCM has limits though^["GLCM indices are significant in predicting composition and aggregation of a landscape, heterogeneity in patch size, large patch dominance, landscape homogeneity, and dispersion of small patches. They have little relevance in predicting patch shape complexity"]
 >>[!quote] Park Y, Guldmann J-M (2020) Measuring continuous landscape patterns with Gray-Level Co-Occurrence Matrix (GLCM) indices: An alternative to patch metrics? Ecological Indicators 109:105802. [https://doi.org/10.1016/j.ecolind.2019.105802](https://doi.org/10.1016/j.ecolind.2019.105802)
+
+
 
 
 
