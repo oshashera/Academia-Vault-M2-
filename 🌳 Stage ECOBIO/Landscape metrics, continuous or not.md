@@ -7,7 +7,24 @@ Our main mean of studying heterogeneity is processing this heterogeneity with is
 Rise of environmental gradient lenses, not without critiques too^["One stream within the literature advocates conceptualizing the landscape as an environmental gradient [29–34], the patterns of which can be quantified through alternate surface metrics that measure heterogeneity in gradient datasets [35]. However, this gradient surface model (GSM) is not without critique"]
 Conventional landscape metrics *vs* surface metrics (gradient)^["One stream within the literature advocates conceptualizing the landscape as an environmental gradient [29–34], the patterns of which can be quantified through alternate surface metrics that measure heterogeneity in gradient datasets [35]. However, this gradient surface model (GSM) is not without critique"]
 Older/first indices & metrics based on **information theory** and **fractal geometry**^["seminal paper “Indices of landscape pattern”, which developed three new metrics based on information theory and fractal geometry"]
-Then refined
+Then refined into measures of **fragmentation, aggregation** and **connectivity** and specific measures for **interspersion**^[<u>Interpersion </u>: degree of intermixing between plants of different species], **juxtaposition** and **patch cohesion**^["refined the existing suite of metrics to better capture heterogeneity through new measures of fragmentation [41], aggregation [42], and connectivity" "as well as specific measures for interspersion and juxtaposition [44], and patch cohesion"]
+Also issues of redundancy/correlation of metrics ?^[The growing number of available indices created new challenges for landscape ecologists in the form of correlation and redundancy.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 parasitoides => hanna (identification à attendre)
 pollinisateurs => hanna (identification à attendre)
