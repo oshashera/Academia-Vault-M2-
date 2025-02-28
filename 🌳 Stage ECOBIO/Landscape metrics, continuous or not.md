@@ -6,6 +6,6 @@ Metrics can be limiting or confusing ^["Contributing to these uncertainties, the
 Our main mean of studying heterogeneity is processing this heterogeneity with issues ^["Underlying these issues remains the simple fact that conventional landscape metrics are built on the patch-mosaic model (PMM), which simplifies landscapes into a mosaic of discrete patches that may not adequately capture ecological heterogeneity"]
 Rise of environmental gradient lenses, not without critiques too^["One stream within the literature advocates conceptualizing the landscape as an environmental gradient [29–34], the patterns of which can be quantified through alternate surface metrics that measure heterogeneity in gradient datasets [35]. However, this gradient surface model (GSM) is not without critique"]
 Conventional landscape metrics *vs* surface metrics (gradient)^["One stream within the literature advocates conceptualizing the landscape as an environmental gradient [29–34], the patterns of which can be quantified through alternate surface metrics that measure heterogeneity in gradient datasets [35]. However, this gradient surface model (GSM) is not without critique"]
-- [i] Diver
-
+Older/first indices & metrics based on **information theory** and **fractal geometry**^["seminal paper “Indices of landscape pattern”, which developed three new metrics based on information theory and fractal geometry"]
+Then refined
 
