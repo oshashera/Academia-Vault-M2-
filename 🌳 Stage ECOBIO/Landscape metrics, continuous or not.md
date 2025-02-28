@@ -41,8 +41,9 @@ GLCM has limits though^["GLCM indices are significant in predicting composition 
 
 >[!info] (Book Chapter 22) **Gradient Analysis and Surface Metrics for Landscape Ecology** 
 >
-> Why do we need to go from PMM to GSM : "In landscape ecology, spatial pattern analysis is primarily conducted using landscape metrics designed to examine **categorical land cover datasets that can be segmented into discrete areas of homogenous coverage**. However, this approach to landscape analysis may be **inconsistent with many ecological theories which emphasize the continuous, gradient nature of ecological phenomena**. To address this challenge, researchers are beginning to develop an alternative **gradient surface model, which represents the landscape as a continuous environmental gradient by using ratio** rather than categorical data to capture landscape heterogeneity."
-
+> ==Why do we need to go from PMM to GSM :== *"In landscape ecology, spatial pattern analysis is primarily conducted using landscape metrics designed to examine **categorical land cover datasets that can be segmented into discrete areas of homogenous coverage**. However, this approach to landscape analysis may be **inconsistent with many ecological theories which emphasize the continuous, gradient nature of ecological phenomena**. To address this challenge, researchers are beginning to develop an alternative **gradient surface model, which represents the landscape as a continuous environmental gradient by using ratio** rather than categorical data to capture landscape heterogeneity."*
+>But GSM limited to not using conventional Landscape Metrics (LM)^["While the gradient surface model is capable of capturing more landscape heterogeneity, the lack of discrete boundaries between land covers makes it impossible to summarize composition and spatial configuration using conventional landscape metrics"]
+>
 
 
 
