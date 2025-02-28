@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 80.24408848207474,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -20,9 +21,16 @@
               "icon": "lucide-file",
               "title": "Landscape metrics, continuous or not"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2dfcf4732efaede9",
+        "type": "tabs",
+        "dimension": 19.75591151792525,
+        "children": [
           {
-            "id": "1dece934e2635e39",
+            "id": "28d8cd822b625be4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
