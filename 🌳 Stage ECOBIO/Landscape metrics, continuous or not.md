@@ -66,7 +66,8 @@ Metrics existing (all kinds)
 |                          |                                                                                                                                                                                                                                       |
 
 ==**r landscapemetrics package**== [[https://r-spatialecology.github.io/landscapemetrics/reference/index.html]]
-library terra à check aussi
+library terra à check aussi 
+Mais que pour du PMM
 
 
 
