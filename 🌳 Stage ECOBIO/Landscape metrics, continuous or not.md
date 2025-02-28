@@ -34,6 +34,7 @@ Could continuous landscape allow for keeping heterogeneity though scale/grain ch
 Discrete oversimplifies, both with limited categories, and because *its resolution allows for the possibility of wrongful categorization due to oversimplification*^["The probability of error increases as the pixel size of a map becomes larger, since exclusive labeling will oversimplify the heterogeneity within the pixel, which may then include varying amounts of ground objects"]
 Use of percentage/proportions/ratios in continuous / gradient approaches^["This gradient is defined as a continuous surface where the value of each pixel (i.e. raster) is on a continuum, such as a normalized index, surface elevation, land-use intensity, or percentage. For example, a normalized difference in vegetation index (NDVI) map represents the overall greenness or vegetation intensity within each pixel, with the index ranging from −1 (no greenness) to +1 (complete greenness)."]
 But that's for making maps, we need metrics/measures to quantify those landscapes^["Despite the proliferation of continuous maps, there are only few measures developed so far that quantify continuous landscape characteristics"]
+Autocorrelation indicators from continuous maps ?^["As the autocorrelation indicators are computed on a continuous map"]
 
 
 
@@ -47,7 +48,11 @@ But that's for making maps, we need metrics/measures to quantify those landscape
 
 
 
+Metrics existing ?
 
+| Metric                   | Description                                                                                                                                                                                      |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| LPI -largest patch index | The largest patch index is an '**Area and edge metric**'. It is the percentage of the landscape covered by the corresponding largest patch of each class i. It is a simple measure of dominance. |
 
 
 
