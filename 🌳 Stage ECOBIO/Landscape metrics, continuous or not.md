@@ -30,12 +30,16 @@ Could continuous landscape allow for keeping heterogeneity though scale/grain ch
 >[!info] **Measuring continuous landscape patterns with Gray-Level Co-Occurrence Matrix (GLCM) indices: An alternative to patch metrics?**
 >
 >Limits of (promising) continuous approach : lack of measures to quantify these representations^["While a continuous representation of landscape structure has great potential as a realistic alternative to traditional patch-based models, its empirical merits have been limited by the lack of measures for quantifying patterns from such continuous surface."]
->Comparison of Gray-Level Co-Occurence Matrix indices vs Landscape Metrics (from PMM ig?)
->
->
->
->
->
+>Comparison of Gray-Level Co-Occurence Matrix indices vs Landscape Metrics (from PMM ig?)^["This paper examines the utility of Gray-Level Co-Occurrence Matrix (GLCM) indices as spatial metrics applied to the landscape level for measuring underlying spatial properties. Eight GLCM indices (contrast, dissimilarity, homogeneity, energy, entropy, mean, variance, correlation) are compared to most commonly used 18 landscape metrics (LMs) featuring landscape composition, aggregation, dominance, dispersion, and shape complexity, with an application to urban tree canopy landscape."]
+Discrete oversimplifies, both with limited categories, and because *its resolution allows for the possibility of wrongful categorization due to oversimplification*^["The probability of error increases as the pixel size of a map becomes larger, since exclusive labeling will oversimplify the heterogeneity within the pixel, which may then include varying amounts of ground objects"]
+Use of percentage/proportions/ratios in continuous / gradient approaches^["This gradient is defined as a continuous surface where the value of each pixel (i.e. raster) is on a continuum, such as a normalized index, surface elevation, land-use intensity, or percentage. For example, a normalized difference in vegetation index (NDVI) map represents the overall greenness or vegetation intensity within each pixel, with the index ranging from −1 (no greenness) to +1 (complete greenness)."]
+But that's for making maps, we need metrics/measures to quantify those landscapes^["Despite the proliferation of continuous maps, there are only few measures developed so far that quantify continuous landscape characteristics"]
+
+
+
+
+
+
 >>[!quote] Park Y, Guldmann J-M (2020) Measuring continuous landscape patterns with Gray-Level Co-Occurrence Matrix (GLCM) indices: An alternative to patch metrics? Ecological Indicators 109:105802. [https://doi.org/10.1016/j.ecolind.2019.105802](https://doi.org/10.1016/j.ecolind.2019.105802)
 
 
