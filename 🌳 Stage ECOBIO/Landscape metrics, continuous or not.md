@@ -39,7 +39,17 @@ Autocorrelation indicators from continuous maps ?^["As the autocorrelation indic
 GLCM has limits though^["GLCM indices are significant in predicting composition and aggregation of a landscape, heterogeneity in patch size, large patch dominance, landscape homogeneity, and dispersion of small patches. They have little relevance in predicting patch shape complexity"]
 >>[!quote] Park Y, Guldmann J-M (2020) Measuring continuous landscape patterns with Gray-Level Co-Occurrence Matrix (GLCM) indices: An alternative to patch metrics? Ecological Indicators 109:105802. [https://doi.org/10.1016/j.ecolind.2019.105802](https://doi.org/10.1016/j.ecolind.2019.105802)
 
+>[!info] (Book Chapter 22) **Gradient Analysis and Surface Metrics for Landscape Ecology** 
+>
+> Why do we need to go from PMM to GSM : "In landscape ecology, spatial pattern analysis is primarily conducted using landscape metrics designed to examine **categorical land cover datasets that can be segmented into discrete areas of homogenous coverage**. However, this approach to landscape analysis may be **inconsistent with many ecological theories which emphasize the continuous, gradient nature of ecological phenomena**. To address this challenge, researchers are beginning to develop an alternative **gradient surface model, which represents the landscape as a continuous environmental gradient by using ratio** rather than categorical data to capture landscape heterogeneity."
 
+
+
+
+
+
+
+>>[!quote] Mueller L, Eulenstein F (eds) (2019) Current Trends in Landscape Research. Springer International Publishing, Cham
 
 
 
