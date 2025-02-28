@@ -65,7 +65,7 @@ Metrics existing (all kinds)
 | PLAND                    | PLAND is an 'Area and edge metric'. It is the percentage of the landscape belonging to class i. It is a measure of composition and because of the relative character directly comparable among landscapes with different total areas. |
 |                          |                                                                                                                                                                                                                                       |
 
-
+==**r landscapemetrics package**==
 
 
 
