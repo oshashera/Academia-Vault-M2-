@@ -105,12 +105,30 @@ From "current trends in lanscape..."
 | Scl20, Scl37  | Correlation length 20 and 37%   | Horizontal distance of areal autocorrelation function that has fastest decay to 20% and 37% respectively |
 | Sds           | Summit density                  | Number of local peaks per area                                                                           |
 | Sfd           | Fractal dimension               | Calculated for different angles of angular spectrum by analyzing Fourier amplitude spectrum              |
-| Srw           | Dominant radial wavelength      |                                                                                                          |
-| Srwi          | Radial wavelength index         |                                                                                                          |
-| Std           | Dominant texture direction      |                                                                                                          |
-| Stdi          | Texture direction index         |                                                                                                          |
-| Str20, Str 37 | Texture aspect ratio 20 and 37% |                                                                                                          |
+| Srw           | Dominant radial wavelength      | Dominating wavelength found in radial Fourier spectrum                                                   |
+| Srwi          | Radial wavelength index         | Relative dominance of Srw over other radial distances                                                    |
+| Std           | Dominant texture direction      | Angle of dominating texture calculated from Fourier spectrum                                             |
+| Stdi          | Texture direction index         | Relative dominance of Std over other directions of texture                                               |
+| Str20, Str 37 | Texture aspect ratio 20 and 37% | Ratio of fastest to slowest decay to correlation 20% and 37%, respectively, of autocorrelation function  |
+**Hybrid metrics**
 
+|      |                             |                                                                           |
+| ---- | --------------------------- | ------------------------------------------------------------------------- |
+| Sdq  | Root mean square slope      | Variance in local slope across surface                                    |
+| Sdq6 | Area root mean square slope | Similar to Sdq but includes more neighbors in slope computation           |
+| Sdr  | Surface area ratio          | Ratio between surface area to area of flat plane with same x,y dimensions |
+| Ssc  | Mean summit curvature       | Average principal curvature of local maximas on the surface               |
+**Abbott curve metrics**
+
+|        |                                   |                                                                                                           |
+| ------ | --------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Sbi    | Surface bearing index             | Ratio of Sq to height from top of surface to height at 5% bearing area                                    |
+| Sci    | Core fluid retention index        | Area above Abbott curve in the core zone                                                                  |
+| SdcX_Y | Height difference of Abbott curve | Height intervals of the Abbott curve: 0-5, 5-10, 10-50, and 50-95                                         |
+| Sk     | Core roughness depth              | Height difference between the intersection points of the found least mean square line in the Abbott curve |
+| Spk    | Reduced peak height               | Height of upper left triangle in Abbott curve                                                             |
+| Svk    | Reduced valley depth              | Height of triangle drawn at 100% in Abbott curve                                                          |
+| Svi    | Valley fluid retention index      | Area above Abbott curve in "valley" zone                                                                  |
 
 
 
