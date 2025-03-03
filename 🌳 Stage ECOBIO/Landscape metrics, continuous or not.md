@@ -135,7 +135,7 @@ From "current trends in lanscape..."
 
 
 
-Est ce que pour connectivité on pourrait avoir des "chemins de moindre résistance" entre différents ilots/hotspots ? comment le faire ? Via Dijkstra's ou A* (dérivé)? ==**à check**==
+Est ce que pour connectivité on pourrait avoir des "chemins de moindre résistance" entre différents ilots/hotspots ? comment le faire ? Via Dijkstra's ou A* (dérivé)? ==**à check**== **avec du mouvement unidirectionnel (diagonales inclues donc)**
 
 
 
