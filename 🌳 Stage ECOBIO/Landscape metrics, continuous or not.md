@@ -133,7 +133,9 @@ Mais que pour du PMM
 | Svi    | Valley fluid retention index      | Area above Abbott curve in "valley" zone                                                                  |
 >![[Pasted image 20250303155725.png]]
 >![[Pasted image 20250303155753.png]]
-
+>**Considerations**
+>- [!] Like PMM metrics, GSM metrics do have redundancy (beware!)
+>- [!] Consideration of scale (extent and grain/resolution) 
 
 
 
