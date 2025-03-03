@@ -47,10 +47,10 @@ GLCM has limits though^["GLCM indices are significant in predicting composition 
 >There needs to be precautions when using those metrics bc of redundancy^["Second, like many traditional landscape metrics, surface metrics also suffer from redundancy and correlation because they share common statistical foundations, which can create confusion, misdirected effort, and erroneous conclusions."]
 >GSM use ratio instead of categorical data^["Gradient surface models represent the landscape as a continuous environmental gradient by using ratio rather than categorical data to capture a greater degree of landscape heterogeneity (Frazier and Kedron 2017a)"]
 >**"one major limitation is that these models lack discrete boundaries between land cover classes, making it impossible to summarize composition and spatial configuration using conventional landscape metrics"**
+>"amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). **These metrics quantify the composition of the landscape variable but do not measure configuration**" 
+>"Applied to an ecological variable such as elevation, amplitude metrics could statistically summarize the **distribution** of elevation values across the landscape (Sa, Sq)"
 >
 >
->
-
 
 
 
@@ -82,7 +82,34 @@ Metrics existing (all kinds)
 library terra à check aussi 
 Mais que pour du PMM
 
+From "current trends in lanscape..."
 
+
+| Symbol | Name | Description |
+| ------ | ---- | ----------- |
+**Métrique d'amplitude**
+
+|      |                            |                                                                                                                  |
+| ---- | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Sa   | Average roughness          | Average absolute deviation of surface heights from mean                                                          |
+| Sq   | Root mean square roughness | Standard deviation of surface heights                                                                            |
+| Sp   | Maximum peak height        | Highest value                                                                                                    |
+| Sv   | Maximum valley depth       | Lowest value                                                                                                     |
+| S10z | Ten-point height           | Avg. height above mean surface for five highest local maxima plus avg. height below for five lowest local minima |
+| Ssk  | Surface skewness           | Asymmetry of surface height distribution                                                                         |
+| Sku  | Surface kurtosis           | Peakedness of surface distribution                                                                               |
+**Spatial metrics**
+
+|               |                                 |                                                                                                          |
+| ------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Scl20, Scl37  | Correlation length 20 and 37%   | Horizontal distance of areal autocorrelation function that has fastest decay to 20% and 37% respectively |
+| Sds           | Summit density                  | Number of local peaks per area                                                                           |
+| Sfd           | Fractal dimension               | Calculated for different angles of angular spectrum by analyzing Fourier amplitude spectrum              |
+| Srw           | Dominant radial wavelength      |                                                                                                          |
+| Srwi          | Radial wavelength index         |                                                                                                          |
+| Std           | Dominant texture direction      |                                                                                                          |
+| Stdi          | Texture direction index         |                                                                                                          |
+| Str20, Str 37 | Texture aspect ratio 20 and 37% |                                                                                                          |
 
 
 
