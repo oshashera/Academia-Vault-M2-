@@ -135,7 +135,9 @@ Mais que pour du PMM
 >![[Pasted image 20250303155753.png]]
 >**Considerations**
 >- [!] Like PMM metrics, GSM metrics do have redundancy (beware!)
->- [!] Consideration of scale (extent and grain/resolution) 
+>- [!] Consideration of scale (extent and grain/resolution) => loss of information due to aggregation = unstable/unusable surface metrics
+>- [!] No 1-to-1 analogue of PMM metrics, only somewhat similar ones at best. Especially hard to find analogues for *configuration* surface metrics.
+>- [!] Potential new information/perspective than PMM so, why do we need to compare them ? *==**DISCUSS THAT IN  REPORT**==*
 
 
 
