@@ -42,7 +42,9 @@ GLCM has limits though^["GLCM indices are significant in predicting composition 
 >[!info] (Book Chapter 22) **Gradient Analysis and Surface Metrics for Landscape Ecology** 
 >
 > ==Why do we need to go from PMM to GSM :== *"In landscape ecology, spatial pattern analysis is primarily conducted using landscape metrics designed to examine **categorical land cover datasets that can be segmented into discrete areas of homogenous coverage**. However, this approach to landscape analysis may be **inconsistent with many ecological theories which emphasize the continuous, gradient nature of ecological phenomena**. To address this challenge, researchers are beginning to develop an alternative **gradient surface model, which represents the landscape as a continuous environmental gradient by using ratio** rather than categorical data to capture landscape heterogeneity."*
->But GSM limited to not using conventional Landscape Metrics (LM)^["While the gradient surface model is capable of capturing more landscape heterogeneity, the lack of discrete boundaries between land covers makes it impossible to summarize composition and spatial configuration using conventional landscape metrics"] but has some pros compared to PMM, mainy ecological theory consistance ^["despite its ubiquity, the PMM neglects the continuous gradient nature of many ecological phenomena and can, therefore, be inconsistent with ecological theory"]
+>But GSM limited to not using conventional Landscape Metrics (LM)^["While the gradient surface model is capable of capturing more landscape heterogeneity, the lack of discrete boundaries between land covers makes it impossible to summarize composition and spatial configuration using conventional landscape metrics"] but has some pros compared to PMM, mainy ecological theory consistance ^["despite its ubiquity, the PMM neglects the continuous gradient nature of many ecological phenomena and can, therefore, be inconsistent with ecological theory"], notably because it looses information^["Categorical land cover maps collapse intra-pixel heterogeneity, resulting in the loss of potentially relevant ecological information"]
+>Potential comparisons between PMM and GSM values for comp/conf het ?^["Specifically, a new brand of metrics for quantifying composition and configuration in landscapes—surface metrics—are evaluated for a set of ecoregions and scales, and their values are compared to traditional landscape metrics to identify analogues between the surface and patch-mosaic paradigms"]
+>
 >
 >
 >
@@ -56,7 +58,7 @@ GLCM has limits though^["GLCM indices are significant in predicting composition 
 
 
 
-
+Aller check : While surface metrics have been applied in several ecological contexts including flood plains (Scown et al. 2015), habitat connectivity (Moniem and Holland 2013), topography (Zhang et al. 2018), forests (Frazier 2016), and urban areas (Wu et al. 2017)
 
 
 Metrics existing (all kinds)
