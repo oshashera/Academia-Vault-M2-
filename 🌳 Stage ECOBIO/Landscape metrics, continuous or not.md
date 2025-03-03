@@ -80,12 +80,13 @@ Metrics existing (all kinds)
 library terra à check aussi 
 Mais que pour du PMM
 
-From "current trends in lanscape..."
-
-
+>[!important] From "current trends in lanscape..."
+>
+>
 **Métrique d'amplitude**
 "For example, amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). ==*These metrics quantify the composition of the landscape variable but do not measure configuration*=="
-
+>
+>
 | Symbol | Name                       | Description                                                                                                      |
 | ------ | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Sa     | Average roughness          | Average absolute deviation of surface heights from mean                                                          |
@@ -97,7 +98,8 @@ From "current trends in lanscape..."
 | Sku    | Surface kurtosis           | Peakedness of surface distribution                                                                               |
 **Spatial metrics**
 "==*The metrics in the spatial metrics category measure aspects of spatial configuration of the measured variable*=="
-
+>
+>
 | Symbol        | Name                            | Description                                                                                              |
 | ------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Scl20, Scl37  | Correlation length 20 and 37%   | Horizontal distance of areal autocorrelation function that has fastest decay to 20% and 37% respectively |
@@ -110,7 +112,7 @@ From "current trends in lanscape..."
 | Str20, Str 37 | Texture aspect ratio 20 and 37% | Ratio of fastest to slowest decay to correlation 20% and 37%, respectively, of autocorrelation function  |
 **Hybrid metrics**
 "The metrics in the *hybrid metrics category measure both amplitude and spatial arrangement* and include measures such as the ratio of “vertical” to horizontal slope change (Sdq and Sdq6) as well as second-derivative measures curvature (Ssc) and the surface area ratio (Sdr) of an environmental gradient. An ecological application of the hybrid metric Sdq (slope) for a forest canopy cover gradient surface could provide an indication of the severity of change in canopy cover in certain areas of the landscape. Areas with abrupt change would have high Sdq values while areas with gradual transitions would present low Sdq values."
-
+>
 | Symbol | Name                        | Description                                                               |
 | ------ | --------------------------- | ------------------------------------------------------------------------- |
 | Sdq    | Root mean square slope      | Variance in local slope across surface                                    |
@@ -119,7 +121,7 @@ From "current trends in lanscape..."
 | Ssc    | Mean summit curvature       | Average principal curvature of local maximas on the surface               |
 **Abbott curve metrics**
 "The Abbott curve, which is also known as the Abbott-Firestone curve or the bearing area curve, is the cumulative probability density function of the surface profile’s height" "These metrics are based on an inversion of the cumulative height distribution histogram and summarize the prevalence of 3D spaces (pits and valleys) across the landscape (Sci, Svi). For example, in a surface that represents the percent forest cover in each pixel, the structure of the Abbott curve could indicate whether a landscape has pockets of remnant forest in an otherwise clear agricultural landscape, or, conversely, it could indicate the degree of forest closure after a logging effort."
-
+>
 | Symbol | Name                              | Description                                                                                               |
 | ------ | --------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | Sbi    | Surface bearing index             | Ratio of Sq to height from top of surface to height at 5% bearing area                                    |
@@ -129,6 +131,8 @@ From "current trends in lanscape..."
 | Spk    | Reduced peak height               | Height of upper left triangle in Abbott curve                                                             |
 | Svk    | Reduced valley depth              | Height of triangle drawn at 100% in Abbott curve                                                          |
 | Svi    | Valley fluid retention index      | Area above Abbott curve in "valley" zone                                                                  |
+
+
 
 
 
