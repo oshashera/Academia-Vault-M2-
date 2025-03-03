@@ -85,22 +85,22 @@ Mais que pour du PMM
 From "current trends in lanscape..."
 
 
-| Symbol | Name | Description |
-| ------ | ---- | ----------- |
 **Métrique d'amplitude**
+For example, amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). ==*These metrics quantify the composition of the landscape variable but do not measure configuration*==
 
-|      |                            |                                                                                                                  |
-| ---- | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Sa   | Average roughness          | Average absolute deviation of surface heights from mean                                                          |
-| Sq   | Root mean square roughness | Standard deviation of surface heights                                                                            |
-| Sp   | Maximum peak height        | Highest value                                                                                                    |
-| Sv   | Maximum valley depth       | Lowest value                                                                                                     |
-| S10z | Ten-point height           | Avg. height above mean surface for five highest local maxima plus avg. height below for five lowest local minima |
-| Ssk  | Surface skewness           | Asymmetry of surface height distribution                                                                         |
-| Sku  | Surface kurtosis           | Peakedness of surface distribution                                                                               |
+| Symbol | Name                       | Description                                                                                                      |
+| ------ | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Sa     | Average roughness          | Average absolute deviation of surface heights from mean                                                          |
+| Sq     | Root mean square roughness | Standard deviation of surface heights                                                                            |
+| Sp     | Maximum peak height        | Highest value                                                                                                    |
+| Sv     | Maximum valley depth       | Lowest value                                                                                                     |
+| S10z   | Ten-point height           | Avg. height above mean surface for five highest local maxima plus avg. height below for five lowest local minima |
+| Ssk    | Surface skewness           | Asymmetry of surface height distribution                                                                         |
+| Sku    | Surface kurtosis           | Peakedness of surface distribution                                                                               |
 **Spatial metrics**
+==*The metrics in the spatial metrics category measure aspects of spatial configuration of the measured variable*==
 
-|               |                                 |                                                                                                          |
+| Symbol        | Name                            | Description                                                                                              |
 | ------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Scl20, Scl37  | Correlation length 20 and 37%   | Horizontal distance of areal autocorrelation function that has fastest decay to 20% and 37% respectively |
 | Sds           | Summit density                  | Number of local peaks per area                                                                           |
@@ -112,15 +112,15 @@ From "current trends in lanscape..."
 | Str20, Str 37 | Texture aspect ratio 20 and 37% | Ratio of fastest to slowest decay to correlation 20% and 37%, respectively, of autocorrelation function  |
 **Hybrid metrics**
 
-|      |                             |                                                                           |
-| ---- | --------------------------- | ------------------------------------------------------------------------- |
-| Sdq  | Root mean square slope      | Variance in local slope across surface                                    |
-| Sdq6 | Area root mean square slope | Similar to Sdq but includes more neighbors in slope computation           |
-| Sdr  | Surface area ratio          | Ratio between surface area to area of flat plane with same x,y dimensions |
-| Ssc  | Mean summit curvature       | Average principal curvature of local maximas on the surface               |
+| Symbol | Name                        | Description                                                               |
+| ------ | --------------------------- | ------------------------------------------------------------------------- |
+| Sdq    | Root mean square slope      | Variance in local slope across surface                                    |
+| Sdq6   | Area root mean square slope | Similar to Sdq but includes more neighbors in slope computation           |
+| Sdr    | Surface area ratio          | Ratio between surface area to area of flat plane with same x,y dimensions |
+| Ssc    | Mean summit curvature       | Average principal curvature of local maximas on the surface               |
 **Abbott curve metrics**
 
-|        |                                   |                                                                                                           |
+| Symbol | Name                              | Description                                                                                               |
 | ------ | --------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | Sbi    | Surface bearing index             | Ratio of Sq to height from top of surface to height at 5% bearing area                                    |
 | Sci    | Core fluid retention index        | Area above Abbott curve in the core zone                                                                  |
