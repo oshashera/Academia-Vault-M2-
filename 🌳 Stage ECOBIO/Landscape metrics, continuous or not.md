@@ -131,8 +131,8 @@ Mais que pour du PMM
 | Spk    | Reduced peak height               | Height of upper left triangle in Abbott curve                                                             |
 | Svk    | Reduced valley depth              | Height of triangle drawn at 100% in Abbott curve                                                          |
 | Svi    | Valley fluid retention index      | Area above Abbott curve in "valley" zone                                                                  |
-
-
+>![[Pasted image 20250303155725.png]]
+>![[Pasted image 20250303155753.png]]
 
 
 
