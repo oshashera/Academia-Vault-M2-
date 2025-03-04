@@ -1,638 +1,646 @@
 {
+  "edges": [
+  ],
+  "metadata": {
+  },
   "nodes": [
     {
-      "id": "1f45c79dd0eff1ef",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -800,
-      "y": 730,
-      "width": 1540,
       "height": 588,
-      "label": "EDT"
-    },
-    {
-      "id": "fed8a1e483e0d114",
-      "type": "text",
-      "text": "==article== https://fulcra.design/Posts/An-Integrated-Qualitative-Analysis-Environment-with-Obsidian/",
-      "styleAttributes": {},
-      "x": -420,
-      "y": 74,
-      "width": 460,
-      "height": 60
-    },
-    {
-      "id": "152433f7aa627e01",
-      "type": "text",
-      "text": "==article== https://bagerbach.com/blog/importing-source-notes-to-obsidian",
-      "styleAttributes": {},
-      "x": -420,
-      "y": -10,
-      "width": 420,
-      "height": 60
-    },
-    {
-      "id": "5d39a0c5f119e982",
-      "type": "text",
-      "text": "==video== https://www.youtube.com/watch?v=fGJv6hiXPmk",
-      "styleAttributes": {},
-      "x": -420,
-      "y": -80,
-      "width": 505,
-      "height": 50
-    },
-    {
-      "id": "aadf425a2a699054",
-      "type": "text",
-      "text": "==article== https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd",
-      "styleAttributes": {},
-      "x": -420,
-      "y": -240,
-      "width": 520,
-      "height": 60
-    },
-    {
-      "id": "c6a5b2cf22ef92e5",
-      "type": "text",
-      "text": "==article== https://chris-grieser.de/Comprehensive-Academic-Workflow-from-Reading-to-Writing-in-Markdown",
-      "styleAttributes": {},
-      "x": -420,
-      "y": -160,
-      "width": 505,
-      "height": 60
-    },
-    {
-      "id": "adf3445816c46967",
-      "type": "text",
-      "text": "Après-midi",
+      "id": "1f45c79dd0eff1ef",
+      "label": "EDT",
       "styleAttributes": {
-        "textAlign": "center",
-        "border": null
       },
-      "x": -780,
-      "y": 925,
-      "width": 60,
-      "height": 125
+      "type": "group",
+      "width": 1540,
+      "x": -800,
+      "y": 730
     },
     {
-      "id": "bbe89f4a7aa98eb7",
-      "type": "text",
-      "text": "Matin",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": null
-      },
-      "x": -780,
-      "y": 800,
-      "width": 60,
-      "height": 125
-    },
-    {
-      "id": "1178de7ddaaeb46d",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": "invisible"
-      },
-      "x": -780,
-      "y": 925,
-      "width": 60,
-      "height": 125,
-      "color": "#d1d1d1"
-    },
-    {
+      "height": 249,
       "id": "9454715e65a2bd76",
-      "type": "text",
-      "text": "",
       "styleAttributes": {
-        "shape": null,
-        "border": null
+        "border": null,
+        "shape": null
       },
-      "x": -720,
-      "y": 800,
+      "text": "",
+      "type": "text",
       "width": 240,
-      "height": 249
+      "x": -720,
+      "y": 800
     },
     {
-      "id": "77100bdb0970084a",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": "invisible"
-      },
-      "x": -780,
-      "y": 800,
-      "width": 60,
+      "color": "#d1d1d1",
       "height": 125,
-      "color": "#d1d1d1"
-    },
-    {
-      "id": "f06690f2faa4ef1e",
-      "type": "text",
-      "text": "",
+      "id": "77100bdb0970084a",
       "styleAttributes": {
-        "shape": null,
-        "border": null
-      },
-      "x": -480,
-      "y": 800,
-      "width": 240,
-      "height": 249
-    },
-    {
-      "id": "9fcf87f6dbafadc9",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 50,
-      "y": 800,
-      "width": 140,
-      "height": 50,
-      "color": "4"
-    },
-    {
-      "id": "db48bfb79a590eb5",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -550,
-      "y": 592,
-      "width": 140,
-      "height": 50,
-      "color": "5"
-    },
-    {
-      "id": "181653ef3ca74aa0",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -550,
-      "y": 593,
-      "width": 140,
-      "height": 50,
-      "color": "5"
-    },
-    {
-      "id": "fdd197d5e4df249a",
-      "type": "text",
-      "text": "Update cours",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -550,
-      "y": 591,
-      "width": 140,
-      "height": 51,
-      "color": "5"
-    },
-    {
-      "id": "bd73649ca2f70207",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "shape": null,
-        "border": null
-      },
-      "x": -480,
-      "y": 1049,
-      "width": 240,
-      "height": 249
-    },
-    {
-      "id": "d55a8b6acaf68f9b",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "shape": "parallelogram",
         "border": "invisible",
         "textAlign": "center"
       },
-      "x": 265,
-      "y": 887,
-      "width": 190,
-      "height": 75,
-      "color": "1"
+      "text": "",
+      "type": "text",
+      "width": 60,
+      "x": -780,
+      "y": 800
     },
     {
+      "color": "4",
+      "height": 50,
       "id": "baa72ced09955e32",
-      "type": "text",
-      "text": "",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 50,
-      "y": 800,
+      "text": "",
+      "type": "text",
       "width": 140,
-      "height": 50,
-      "color": "4"
+      "x": 50,
+      "y": 800
     },
     {
+      "color": "4",
+      "height": 50,
       "id": "501231cb5289e9c8",
-      "type": "text",
-      "text": "",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 50,
-      "y": 800,
+      "text": "",
+      "type": "text",
       "width": 140,
-      "height": 50,
-      "color": "4"
-    },
-    {
-      "id": "2987657064e30a94",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
       "x": 50,
-      "y": 800,
-      "width": 140,
-      "height": 50,
-      "color": "4"
+      "y": 800
     },
     {
-      "id": "90edf14c56f0f231",
-      "type": "text",
-      "text": "Lecture article",
+      "height": 125,
+      "id": "bbe89f4a7aa98eb7",
       "styleAttributes": {
+        "border": null,
         "textAlign": "center"
       },
-      "x": 50,
-      "y": 800,
-      "width": 140,
-      "height": 50,
-      "color": "4"
-    },
-    {
-      "id": "d96213117a1b4238",
+      "text": "Matin",
       "type": "text",
-      "text": "Contrôle",
-      "styleAttributes": {
-        "shape": "parallelogram",
-        "border": "invisible",
-        "textAlign": "center"
-      },
-      "x": 265,
-      "y": 887,
-      "width": 190,
-      "height": 75,
-      "color": "1"
-    },
-    {
-      "id": "ac92e73f8cec81c8",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "shape": "parallelogram",
-        "border": "invisible",
-        "textAlign": "center"
-      },
-      "x": 265,
-      "y": 887,
-      "width": 190,
-      "height": 75,
-      "color": "1"
-    },
-    {
-      "id": "44744e931758107a",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "shape": null,
-        "border": null
-      },
-      "x": -720,
-      "y": 1049,
-      "width": 240,
-      "height": 249
-    },
-    {
-      "id": "ec39baa94ecfc710",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 50,
-      "y": 800,
-      "width": 140,
-      "height": 50,
-      "color": "4"
-    },
-    {
-      "id": "e7b81b97e77feec8",
-      "type": "text",
-      "text": "Mercredi",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": null
-      },
-      "x": -240,
-      "y": 750,
-      "width": 240,
-      "height": 50
-    },
-    {
-      "id": "c006e5c7282aae16",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": "invisible"
-      },
-      "x": -240,
-      "y": 750,
-      "width": 240,
-      "height": 50,
-      "color": "#d1d1d1"
-    },
-    {
-      "id": "6565d9625335cbc8",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "shape": null,
-        "border": null
-      },
-      "x": 0,
-      "y": 800,
-      "width": 240,
-      "height": 249
-    },
-    {
-      "id": "c41c120c8a3cb305",
-      "type": "text",
-      "text": "Samedi",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": null
-      },
-      "x": 480,
-      "y": 750,
-      "width": 240,
-      "height": 50
-    },
-    {
-      "id": "d78872cd62b90e1d",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": "invisible"
-      },
-      "x": 480,
-      "y": 750,
-      "width": 240,
-      "height": 50,
-      "color": "#d1d1d1"
-    },
-    {
-      "id": "af5533f7e751cc16",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "shape": null,
-        "border": null
-      },
-      "x": 480,
-      "y": 1049,
-      "width": 240,
-      "height": 249
-    },
-    {
-      "id": "554196e9e89a290d",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "shape": null,
-        "border": null
-      },
-      "x": -240,
-      "y": 800,
-      "width": 240,
-      "height": 249
-    },
-    {
-      "id": "ab92a0c6cc876622",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "shape": null,
-        "border": null
-      },
-      "x": -240,
-      "y": 1049,
-      "width": 240,
-      "height": 249
-    },
-    {
-      "id": "0ab6242dc8936385",
-      "type": "text",
-      "text": "Soir\n",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -780,
-      "y": 1050,
       "width": 60,
-      "height": 248
-    },
-    {
-      "id": "29c559e2b491ca62",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": "invisible"
-      },
       "x": -780,
-      "y": 1050,
-      "width": 60,
-      "height": 248,
-      "color": "#d1d1d1"
+      "y": 800
     },
     {
-      "id": "0be5e269b3a5159e",
-      "type": "text",
-      "text": "Vendredi",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": null
-      },
-      "x": 240,
-      "y": 750,
-      "width": 240,
-      "height": 50
-    },
-    {
-      "id": "fd2bad9305ea46f1",
-      "type": "text",
-      "text": "Jeudi",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": null
-      },
-      "x": 0,
-      "y": 750,
-      "width": 240,
-      "height": 50
-    },
-    {
-      "id": "54e3f988ea8eec07",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": "invisible"
-      },
-      "x": 0,
-      "y": 750,
-      "width": 240,
-      "height": 50,
-      "color": "#d1d1d1"
-    },
-    {
-      "id": "6a0dba265cc7eeb5",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": "invisible"
-      },
-      "x": 240,
-      "y": 750,
-      "width": 240,
-      "height": 50,
-      "color": "#d1d1d1"
-    },
-    {
-      "id": "4749f66f0e4e2195",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "shape": null,
-        "border": null
-      },
-      "x": 0,
-      "y": 1049,
-      "width": 240,
-      "height": 249
-    },
-    {
+      "height": 249,
       "id": "11527e0ac6c7063b",
-      "type": "text",
-      "text": "",
       "styleAttributes": {
-        "shape": null,
-        "border": null
+        "border": null,
+        "shape": null
       },
-      "x": 240,
-      "y": 1049,
+      "text": "",
+      "type": "text",
       "width": 240,
-      "height": 249
+      "x": 240,
+      "y": 1049
     },
     {
+      "height": 249,
       "id": "5c60f19dcb6ea6aa",
-      "type": "text",
-      "text": "",
       "styleAttributes": {
-        "shape": null,
-        "border": null
+        "border": null,
+        "shape": null
       },
+      "text": "",
+      "type": "text",
+      "width": 240,
       "x": 240,
-      "y": 800,
-      "width": 240,
-      "height": 249
+      "y": 800
     },
     {
+      "height": 50,
       "id": "a4952d0df3d112e6",
-      "type": "text",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
       "text": "Lundi",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": null
-      },
+      "type": "text",
+      "width": 240,
       "x": -720,
-      "y": 750,
-      "width": 240,
-      "height": 50
+      "y": 750
     },
     {
-      "id": "ff40007b77b0172f",
-      "type": "file",
-      "file": "Images/idée workflow du discord obsidian.png",
-      "styleAttributes": {
-        "border": null
-      },
-      "x": 280,
-      "y": -271,
-      "width": 996,
-      "height": 951
-    },
-    {
-      "id": "4111bee58584add3",
-      "type": "text",
-      "text": "Mardi",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": null
-      },
-      "x": -480,
-      "y": 750,
-      "width": 240,
-      "height": 50
-    },
-    {
-      "id": "2eaaf6ba88be52a0",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "textAlign": "center",
-        "border": "invisible"
-      },
-      "x": -480,
-      "y": 750,
-      "width": 240,
+      "color": "#d1d1d1",
       "height": 50,
-      "color": "#d1d1d1"
-    },
-    {
-      "id": "cec23646c27c7edf",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {
-        "shape": null,
-        "border": null
-      },
-      "x": 480,
-      "y": 800,
-      "width": 240,
-      "height": 249
-    },
-    {
       "id": "288d5c5bfa411fe2",
-      "type": "text",
-      "text": "",
       "styleAttributes": {
-        "textAlign": "center",
-        "border": "invisible"
+        "border": "invisible",
+        "textAlign": "center"
       },
-      "x": -720,
-      "y": 750,
+      "text": "",
+      "type": "text",
       "width": 240,
+      "x": -720,
+      "y": 750
+    },
+    {
+      "height": 125,
+      "id": "adf3445816c46967",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
+      "text": "Après-midi",
+      "type": "text",
+      "width": 60,
+      "x": -780,
+      "y": 925
+    },
+    {
+      "color": "#d1d1d1",
+      "height": 125,
+      "id": "1178de7ddaaeb46d",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 60,
+      "x": -780,
+      "y": 925
+    },
+    {
+      "color": "1",
+      "height": 75,
+      "id": "d55a8b6acaf68f9b",
+      "styleAttributes": {
+        "border": "invisible",
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 190,
+      "x": 265,
+      "y": 887
+    },
+    {
+      "color": "4",
       "height": 50,
-      "color": "#d1d1d1"
+      "id": "2987657064e30a94",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 140,
+      "x": 50,
+      "y": 800
+    },
+    {
+      "color": "4",
+      "height": 50,
+      "id": "90edf14c56f0f231",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Lecture article",
+      "type": "text",
+      "width": 140,
+      "x": 50,
+      "y": 800
+    },
+    {
+      "color": "1",
+      "height": 75,
+      "id": "d96213117a1b4238",
+      "styleAttributes": {
+        "border": "invisible",
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "Contrôle",
+      "type": "text",
+      "width": 190,
+      "x": 265,
+      "y": 887
+    },
+    {
+      "color": "1",
+      "height": 75,
+      "id": "ac92e73f8cec81c8",
+      "styleAttributes": {
+        "border": "invisible",
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 190,
+      "x": 265,
+      "y": 887
+    },
+    {
+      "height": 249,
+      "id": "44744e931758107a",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": -720,
+      "y": 1049
+    },
+    {
+      "color": "4",
+      "height": 50,
+      "id": "ec39baa94ecfc710",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 140,
+      "x": 50,
+      "y": 800
+    },
+    {
+      "color": "4",
+      "height": 50,
+      "id": "9fcf87f6dbafadc9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 140,
+      "x": 50,
+      "y": 800
+    },
+    {
+      "height": 249,
+      "id": "bd73649ca2f70207",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": -480,
+      "y": 1049
+    },
+    {
+      "height": 249,
+      "id": "6565d9625335cbc8",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": 0,
+      "y": 800
+    },
+    {
+      "height": 50,
+      "id": "fd2bad9305ea46f1",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
+      "text": "Jeudi",
+      "type": "text",
+      "width": 240,
+      "x": 0,
+      "y": 750
+    },
+    {
+      "color": "#d1d1d1",
+      "height": 50,
+      "id": "54e3f988ea8eec07",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": 0,
+      "y": 750
+    },
+    {
+      "height": 249,
+      "id": "4749f66f0e4e2195",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": 0,
+      "y": 1049
+    },
+    {
+      "height": 60,
+      "id": "fed8a1e483e0d114",
+      "styleAttributes": {
+      },
+      "text": "==article== https://fulcra.design/Posts/An-Integrated-Qualitative-Analysis-Environment-with-Obsidian/",
+      "type": "text",
+      "width": 460,
+      "x": -420,
+      "y": 74
+    },
+    {
+      "height": 60,
+      "id": "152433f7aa627e01",
+      "styleAttributes": {
+      },
+      "text": "==article== https://bagerbach.com/blog/importing-source-notes-to-obsidian",
+      "type": "text",
+      "width": 420,
+      "x": -420,
+      "y": -10
+    },
+    {
+      "height": 50,
+      "id": "5d39a0c5f119e982",
+      "styleAttributes": {
+      },
+      "text": "==video== https://www.youtube.com/watch?v=fGJv6hiXPmk",
+      "type": "text",
+      "width": 505,
+      "x": -420,
+      "y": -80
+    },
+    {
+      "height": 248,
+      "id": "0ab6242dc8936385",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Soir\n",
+      "type": "text",
+      "width": 60,
+      "x": -780,
+      "y": 1050
+    },
+    {
+      "color": "#d1d1d1",
+      "height": 248,
+      "id": "29c559e2b491ca62",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 60,
+      "x": -780,
+      "y": 1050
+    },
+    {
+      "height": 50,
+      "id": "c41c120c8a3cb305",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
+      "text": "Samedi",
+      "type": "text",
+      "width": 240,
+      "x": 480,
+      "y": 750
+    },
+    {
+      "color": "#d1d1d1",
+      "height": 50,
+      "id": "d78872cd62b90e1d",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": 480,
+      "y": 750
+    },
+    {
+      "height": 249,
+      "id": "af5533f7e751cc16",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": 480,
+      "y": 1049
+    },
+    {
+      "height": 50,
+      "id": "0be5e269b3a5159e",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
+      "text": "Vendredi",
+      "type": "text",
+      "width": 240,
+      "x": 240,
+      "y": 750
+    },
+    {
+      "color": "#d1d1d1",
+      "height": 50,
+      "id": "6a0dba265cc7eeb5",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": 240,
+      "y": 750
+    },
+    {
+      "height": 249,
+      "id": "cec23646c27c7edf",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": 480,
+      "y": 800
+    },
+    {
+      "height": 60,
+      "id": "aadf425a2a699054",
+      "styleAttributes": {
+      },
+      "text": "==article== https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd",
+      "type": "text",
+      "width": 520,
+      "x": -420,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "c6a5b2cf22ef92e5",
+      "styleAttributes": {
+      },
+      "text": "==article== https://chris-grieser.de/Comprehensive-Academic-Workflow-from-Reading-to-Writing-in-Markdown",
+      "type": "text",
+      "width": 505,
+      "x": -420,
+      "y": -160
+    },
+    {
+      "file": "Images/idée workflow du discord obsidian.png",
+      "height": 951,
+      "id": "ff40007b77b0172f",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "file",
+      "width": 996,
+      "x": 280,
+      "y": -271
+    },
+    {
+      "color": "5",
+      "height": 51,
+      "id": "fdd197d5e4df249a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Update cours",
+      "type": "text",
+      "width": 140,
+      "x": -550,
+      "y": 591
+    },
+    {
+      "color": "#d1d1d1",
+      "height": 50,
+      "id": "c006e5c7282aae16",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": -240,
+      "y": 750
+    },
+    {
+      "height": 249,
+      "id": "554196e9e89a290d",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": -240,
+      "y": 800
+    },
+    {
+      "height": 249,
+      "id": "ab92a0c6cc876622",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": -240,
+      "y": 1049
+    },
+    {
+      "height": 50,
+      "id": "4111bee58584add3",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
+      "text": "Mardi",
+      "type": "text",
+      "width": 240,
+      "x": -480,
+      "y": 750
+    },
+    {
+      "color": "#d1d1d1",
+      "height": 50,
+      "id": "2eaaf6ba88be52a0",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": -480,
+      "y": 750
+    },
+    {
+      "height": 249,
+      "id": "f06690f2faa4ef1e",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": -480,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "db48bfb79a590eb5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 140,
+      "x": -550,
+      "y": 592
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "181653ef3ca74aa0",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 140,
+      "x": -550,
+      "y": 593
+    },
+    {
+      "height": 50,
+      "id": "e7b81b97e77feec8",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
+      "text": "Mercredi",
+      "type": "text",
+      "width": 240,
+      "x": -240,
+      "y": 750
     }
-  ],
-  "edges": [],
-  "metadata": {}
+  ]
 }
