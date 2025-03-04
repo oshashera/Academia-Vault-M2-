@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Intro"
             }
+          },
+          {
+            "id": "a01fb877c417d797",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Echelles spatiales et temporelles (eco du paysage).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Echelles spatiales et temporelles (eco du paysage)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -213,10 +227,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a01fb877c417d797",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "🏡 Home.md",
+    "Excalidraw/Echelles spatiales et temporelles (eco du paysage).md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
+    "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "Images/Pasted image 20250303155753.png",
     "Images/Pasted image 20250303155725.png",
     "Images/Pasted image 20250303155645.png",
@@ -251,7 +267,6 @@
     "🌐📔-🌳 Écopédia/🔴 Services écosystémiques.md",
     "🌐📔-🌳 Écopédia/🔴 Fonctions écosystémiques.md",
     "🌐📔-🌳 Écopédia/🔴 Compétition interspécifique et intraspécifique.md",
-    "🌐📔-🌳 Écopédia/🔴 Théorie neutre de Caswell (1976).md",
     "🌐📔-🌳 Écopédia",
     "🌳 Stage ECOBIO/Taxons.canvas",
     "🌳 Stage ECOBIO/RÉCAP DONNÉES BRETAGNE pCloud.canvas",
