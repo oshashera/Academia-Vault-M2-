@@ -142,6 +142,7 @@ Mais que pour du PMM
 
 
 >[!info] From "A Comparison of Discrete and Continuous Metrics for Measuring Landscape Changes"
+>Spatial het is very important for management^["The estimation of spatial heterogeneity in a correct way and scale according to the species and process under study is an important challenge in studying and managing landscapes"]
 >
 >
 
