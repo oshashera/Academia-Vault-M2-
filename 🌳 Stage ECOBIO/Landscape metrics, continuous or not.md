@@ -50,21 +50,26 @@ GLCM has limits though^["GLCM indices are significant in predicting composition 
 >"amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). **These metrics quantify the composition of the landscape variable but do not measure configuration**" 
 >"Applied to an ecological variable such as elevation, amplitude metrics could statistically summarize the **distribution** of elevation values across the landscape (Sa, Sq)"
 >Check Fan (2014) for quantification of comp/conf in gradient landscape^["For example, Fan and Myint (2014) identified relationships between a series of landscape metrics and statistical measures of spatial autocorrelation computed using three vegetation indices. While the spatial autocorrelation measures used in their analysis were not derived from microscopy or surface metrology, they did quantify landscape composition and configuration in a gradient surface, which is the ultimate goal of surface metrics"] 
->>[!important] From "current trends in lanscape..."
->>
->>
->>**Métrique d'amplitude**
->>"For example, amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). ==*These metrics quantify the composition of the landscape variable but do not measure configuration*=="
->>| Symbol | Name                       | Description                                                                                                      |
->>| ------ | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
->>| Sa     | Average roughness          | Average absolute deviation of surface heights from mean                                                          |
->>| Sq     | Root mean square roughness | Standard deviation of surface heights                                                                            |
->>| Sp     | Maximum peak height        | Highest value                                                                                                    |
->>| Sv     | Maximum valley depth       | Lowest value                                                                                                     |
->>| S10z   | Ten-point height           | Avg. height above mean surface for five highest local maxima plus avg. height below for five lowest local minima |
->>| Ssk    | Surface skewness           | Asymmetry of surface height distribution                                                                         |
->>| Sku    | Surface kurtosis           | Peakedness of surface distribution                                                                               |
->>**Spatial metrics**
+>>[!quote] Mueller L, Eulenstein F (eds) (2019) Current Trends in Landscape Research. Springer International Publishing, Cham
+
+
+ >[!important] From "current trends in lanscape..."
+>
+>
+**Métrique d'amplitude**
+"For example, amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). ==*These metrics quantify the composition of the landscape variable but do not measure configuration*=="
+>
+>
+| Symbol | Name                       | Description                                                                                                      |
+| ------ | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Sa     | Average roughness          | Average absolute deviation of surface heights from mean                                                          |
+| Sq     | Root mean square roughness | Standard deviation of surface heights                                                                            |
+| Sp     | Maximum peak height        | Highest value                                                                                                    |
+| Sv     | Maximum valley depth       | Lowest value                                                                                                     |
+| S10z   | Ten-point height           | Avg. height above mean surface for five highest local maxima plus avg. height below for five lowest local minima |
+| Ssk    | Surface skewness           | Asymmetry of surface height distribution                                                                         |
+| Sku    | Surface kurtosis           | Peakedness of surface distribution                                                                               |
+**Spatial metrics**
 "==*The metrics in the spatial metrics category measure aspects of spatial configuration of the measured variable*=="
 >
 >
@@ -107,7 +112,6 @@ GLCM has limits though^["GLCM indices are significant in predicting composition 
 >- [!] No 1-to-1 analogue of PMM metrics, only somewhat similar ones at best. Especially hard to find analogues for *configuration* surface metrics.
 >- [!] Potential new information/perspective than PMM so, why do we need to compare them ? *==**DISCUSS THAT IN  REPORT**==*
 
->>[!quote] Mueller L, Eulenstein F (eds) (2019) Current Trends in Landscape Research. Springer International Publishing, Cham
 
 
 
@@ -133,14 +137,18 @@ Metrics existing (all kinds)
 library terra à check aussi 
 Mais que pour du PMM
 
+>[!question] Est ce que pour connectivité on pourrait avoir des "chemins de moindre résistance" entre différents ilots/hotspots ? comment le faire ? Via Dijkstra's ou A* (dérivé)? ==**à check**== **avec du mouvement unidirectionnel (diagonales inclues donc)**
+
+
+
 >[!info] From "A Comparison of Discrete and Continuous Metrics for Measuring Landscape Changes"
 >
 
-Est ce que pour connectivité on pourrait avoir des "chemins de moindre résistance" entre différents ilots/hotspots ? comment le faire ? Via Dijkstra's ou A* (dérivé)? ==**à check**== **avec du mouvement unidirectionnel (diagonales inclues donc)**
 
 
 
 
+>[!quote] Rahimi E, Barghjelveh S, Dong P (2022) A Comparison of Discrete and Continuous Metrics for Measuring Landscape Changes. J Indian Soc Remote Sens 50:1257–1273. [https://doi.org/10.1007/s12524-022-01526-7](https://doi.org/10.1007/s12524-022-01526-7)
 
 
 

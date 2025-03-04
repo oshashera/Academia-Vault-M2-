@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Landscape metrics, continuous or not"
+              "title": "Intro"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -216,8 +215,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🏡 Home.md",
     "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
+    "🏡 Home.md",
     "Images/Pasted image 20250303155753.png",
     "Images/Pasted image 20250303155725.png",
     "Images/Pasted image 20250303155645.png",

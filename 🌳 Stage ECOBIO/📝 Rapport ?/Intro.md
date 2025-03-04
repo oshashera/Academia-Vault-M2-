@@ -262,4 +262,4 @@ parti de ce mutualisme, de manière à continuer d’assurer la réponse aux bes
 - Coming back to agriculture, a key debate in landscape management is *land-sharing vs land-sparing*. This debate isn't settled as of today, and the functional landscape approach might help shed some light on this as it would untangle the relative importance of having more surface for non-natural patches and having more functionally diverse (or even specifically curated diversity) patches of lesser area.
 - Thus, the underlying issue is : What is the role and relevance of functional landscapes in ecology ?
 - In order to assess this, this report and the work it reports on aim to answer the following question : Can abundance and specific richness of in-field taxa be adequately predicted from surrounding plant communities and their functional traits ?
-- Additionally, this works aims to find or develop some metrics to allow the comparison of both approaches, provided t
+- Additionally, this works aims to find or develop some metrics to allow the comparison of both approaches, provided 
