@@ -143,7 +143,7 @@ Mais que pour du PMM
 
 >[!info] From "A Comparison of Discrete and Continuous Metrics for Measuring Landscape Changes"
 >
-
+>
 
 
 
