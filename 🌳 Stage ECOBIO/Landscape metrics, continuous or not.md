@@ -50,7 +50,7 @@ GLCM has limits though^["GLCM indices are significant in predicting composition 
 >"amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). **These metrics quantify the composition of the landscape variable but do not measure configuration**" 
 >"Applied to an ecological variable such as elevation, amplitude metrics could statistically summarize the **distribution** of elevation values across the landscape (Sa, Sq)"
 >Check Fan (2014) for quantification of comp/conf in gradient landscape^["For example, Fan and Myint (2014) identified relationships between a series of landscape metrics and statistical measures of spatial autocorrelation computed using three vegetation indices. While the spatial autocorrelation measures used in their analysis were not derived from microscopy or surface metrology, they did quantify landscape composition and configuration in a gradient surface, which is the ultimate goal of surface metrics"] 
->>[!quote] Mueller L, Eulenstein F (eds) (2019) Current Trends in Landscape Research. Springer International Publishing, Cham
+>>[!quote]  Kedron P, Frazier AE (eds) (2019) Current Trends in Landscape Research. Springer International Publishing, Cham (chapter 22)
 
 
  >[!important] From "current trends in lanscape..."
