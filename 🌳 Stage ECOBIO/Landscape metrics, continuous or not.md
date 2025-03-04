@@ -50,53 +50,21 @@ GLCM has limits though^["GLCM indices are significant in predicting composition 
 >"amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). **These metrics quantify the composition of the landscape variable but do not measure configuration**" 
 >"Applied to an ecological variable such as elevation, amplitude metrics could statistically summarize the **distribution** of elevation values across the landscape (Sa, Sq)"
 >Check Fan (2014) for quantification of comp/conf in gradient landscape^["For example, Fan and Myint (2014) identified relationships between a series of landscape metrics and statistical measures of spatial autocorrelation computed using three vegetation indices. While the spatial autocorrelation measures used in their analysis were not derived from microscopy or surface metrology, they did quantify landscape composition and configuration in a gradient surface, which is the ultimate goal of surface metrics"] 
-
-
-
-
->>[!quote] Mueller L, Eulenstein F (eds) (2019) Current Trends in Landscape Research. Springer International Publishing, Cham
-
-
-
-Aller check : While surface metrics have been applied in several ecological contexts including flood plains (Scown et al. 2015), habitat connectivity (Moniem and Holland 2013), topography (Zhang et al. 2018), forests (Frazier 2016), and urban areas (Wu et al. 2017)
-
-
-Metrics existing (all kinds)
-
-| Metric                   | Description                                                                                                                                                                                                                                   | Src                                                                           | type |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---- |
-| LPI -largest patch index | The largest patch index is an '**Area and edge metric**'. It is the percentage of the landscape covered by the corresponding largest patch of each class i. It is a simple measure of dominance.                                              | [https://r-spatialecology.github.io /landscapemetrics /reference /index.html] | Cl   |
-| PLAND                    | PLAND is an '**Area and edge metric'**. It is the percentage of the landscape belonging to class i. It is a measure of **composition** and because of the relative character directly comparable among landscapes with different total areas. | [https://r-spatialecology.github.io /landscapemetrics /reference /index.html] | Cl   |
-| SHDI                     | Diversité des occupations du sol, formule de la<br>diversité de Shannon                                                                                                                                                                       | Chloe manuel d'utilisation                                                    | Cl   |
-| SHEI                     | Proportion de nombre de valeurs de la valeur au<br>centre de la fenêtre                                                                                                                                                                       | Chloe manuel d'utilisation                                                    | Cl   |
-| SIDI                     | Valeur majoritaire dans la fenêtre (nb)                                                                                                                                                                                                       | Chloe manuel d'utilisation                                                    | Cl   |
-| SIEI                     | Uniformité de Simpson                                                                                                                                                                                                                         | Chloe manuel d'utilisation                                                    | Cl   |
-| HET                      | Hétérogénéité de Baudry-Bure                                                                                                                                                                                                                  | Chloe manuel d'utilisation                                                    | Cl   |
-| Het-agg                  | Indice d’hétérogénéité de composition : diversité<br>pour les couples homogènes                                                                                                                                                               | Chloe manuel d'utilisation                                                    | Cl   |
-| Het-frag                 | Hétérogénéité de fragmentation de Baudry-Bure                                                                                                                                                                                                 | Chloe manuel d'utilisation                                                    | Cl   |
-|                          |                                                                                                                                                                                                                                               |                                                                               |      |
-
-==**r landscapemetrics package**== [[https://r-spatialecology.github.io/landscapemetrics/reference/index.html]]
-library terra à check aussi 
-Mais que pour du PMM
-
->[!important] From "current trends in lanscape..."
->
->
-**Métrique d'amplitude**
-"For example, amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). ==*These metrics quantify the composition of the landscape variable but do not measure configuration*=="
->
->
-| Symbol | Name                       | Description                                                                                                      |
-| ------ | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Sa     | Average roughness          | Average absolute deviation of surface heights from mean                                                          |
-| Sq     | Root mean square roughness | Standard deviation of surface heights                                                                            |
-| Sp     | Maximum peak height        | Highest value                                                                                                    |
-| Sv     | Maximum valley depth       | Lowest value                                                                                                     |
-| S10z   | Ten-point height           | Avg. height above mean surface for five highest local maxima plus avg. height below for five lowest local minima |
-| Ssk    | Surface skewness           | Asymmetry of surface height distribution                                                                         |
-| Sku    | Surface kurtosis           | Peakedness of surface distribution                                                                               |
-**Spatial metrics**
+>>[!important] From "current trends in lanscape..."
+>>
+>>
+>>**Métrique d'amplitude**
+>>"For example, amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). ==*These metrics quantify the composition of the landscape variable but do not measure configuration*=="
+>>| Symbol | Name                       | Description                                                                                                      |
+>>| ------ | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+>>| Sa     | Average roughness          | Average absolute deviation of surface heights from mean                                                          |
+>>| Sq     | Root mean square roughness | Standard deviation of surface heights                                                                            |
+>>| Sp     | Maximum peak height        | Highest value                                                                                                    |
+>>| Sv     | Maximum valley depth       | Lowest value                                                                                                     |
+>>| S10z   | Ten-point height           | Avg. height above mean surface for five highest local maxima plus avg. height below for five lowest local minima |
+>>| Ssk    | Surface skewness           | Asymmetry of surface height distribution                                                                         |
+>>| Sku    | Surface kurtosis           | Peakedness of surface distribution                                                                               |
+>>**Spatial metrics**
 "==*The metrics in the spatial metrics category measure aspects of spatial configuration of the measured variable*=="
 >
 >
@@ -139,7 +107,34 @@ Mais que pour du PMM
 >- [!] No 1-to-1 analogue of PMM metrics, only somewhat similar ones at best. Especially hard to find analogues for *configuration* surface metrics.
 >- [!] Potential new information/perspective than PMM so, why do we need to compare them ? *==**DISCUSS THAT IN  REPORT**==*
 
+>>[!quote] Mueller L, Eulenstein F (eds) (2019) Current Trends in Landscape Research. Springer International Publishing, Cham
 
+
+
+Aller check : While surface metrics have been applied in several ecological contexts including flood plains (Scown et al. 2015), habitat connectivity (Moniem and Holland 2013), topography (Zhang et al. 2018), forests (Frazier 2016), and urban areas (Wu et al. 2017)
+
+
+Metrics existing (all kinds)
+
+| Metric                   | Description                                                                                                                                                                                                                                   | Src                                                                           | type |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---- |
+| LPI -largest patch index | The largest patch index is an '**Area and edge metric**'. It is the percentage of the landscape covered by the corresponding largest patch of each class i. It is a simple measure of dominance.                                              | [https://r-spatialecology.github.io /landscapemetrics /reference /index.html] | Cl   |
+| PLAND                    | PLAND is an '**Area and edge metric'**. It is the percentage of the landscape belonging to class i. It is a measure of **composition** and because of the relative character directly comparable among landscapes with different total areas. | [https://r-spatialecology.github.io /landscapemetrics /reference /index.html] | Cl   |
+| SHDI                     | Diversité des occupations du sol, formule de la<br>diversité de Shannon                                                                                                                                                                       | Chloe manuel d'utilisation                                                    | Cl   |
+| SHEI                     | Proportion de nombre de valeurs de la valeur au<br>centre de la fenêtre                                                                                                                                                                       | Chloe manuel d'utilisation                                                    | Cl   |
+| SIDI                     | Valeur majoritaire dans la fenêtre (nb)                                                                                                                                                                                                       | Chloe manuel d'utilisation                                                    | Cl   |
+| SIEI                     | Uniformité de Simpson                                                                                                                                                                                                                         | Chloe manuel d'utilisation                                                    | Cl   |
+| HET                      | Hétérogénéité de Baudry-Bure                                                                                                                                                                                                                  | Chloe manuel d'utilisation                                                    | Cl   |
+| Het-agg                  | Indice d’hétérogénéité de composition : diversité<br>pour les couples homogènes                                                                                                                                                               | Chloe manuel d'utilisation                                                    | Cl   |
+| Het-frag                 | Hétérogénéité de fragmentation de Baudry-Bure                                                                                                                                                                                                 | Chloe manuel d'utilisation                                                    | Cl   |
+|                          |                                                                                                                                                                                                                                               |                                                                               |      |
+
+==**r landscapemetrics package**== [[https://r-spatialecology.github.io/landscapemetrics/reference/index.html]]
+library terra à check aussi 
+Mais que pour du PMM
+
+>[!info] From "A Comparison of Discrete and Continuous Metrics for Measuring Landscape Changes"
+>
 
 Est ce que pour connectivité on pourrait avoir des "chemins de moindre résistance" entre différents ilots/hotspots ? comment le faire ? Via Dijkstra's ou A* (dérivé)? ==**à check**== **avec du mouvement unidirectionnel (diagonales inclues donc)**
 
