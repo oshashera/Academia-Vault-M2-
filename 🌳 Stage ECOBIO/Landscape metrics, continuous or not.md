@@ -154,7 +154,8 @@ Mais que pour du PMM
 >Still, advantages : Sensitive to **small land-use changes**, suitable for long term land-use changes
 >But issues of redundancy
 >"Calculating continuous metrics is less time-consuming than landscape metrics because they use vegetation indexes as input that are easy to calculate. The output images from Fourier analysis and spatial autocorrelation indices provide visual interpretation" 
->- [?] on pourrait utiliser Getis (hotspot) pour faire hotspot, into mon truc de connectivité ? On utiliserait aussi les distances "absolues" (donc plus courte, pas de least-resistance) pour faire moyenne + variance des distances entre hotspots similaires à X% ? comme ca si peu de var => maillage "ré" 
+>- [?] on pourrait utiliser Getis (hotspot) pour faire hotspot, into mon truc de connectivité ? On utiliserait aussi les distances "absolues" (donc plus courte, pas de least-resistance) pour faire moyenne + variance des distances entre hotspots similaires à X% ? comme ca si peu de var => maillage "régulier" et donc peu hétéro de config (fragm), mais si distance moyenne courte => ségrégation / concentration (donc hétéro config ?) dans un coin des mêmes ressources. si moyenne élevée / moyenne => répartition plus homogènes dans tt le paysage Si var élevée => zbeul  
+
 
 
 
