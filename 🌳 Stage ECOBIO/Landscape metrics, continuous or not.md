@@ -143,9 +143,11 @@ Mais que pour du PMM
 
 >[!info] From "A Comparison of Discrete and Continuous Metrics for Measuring Landscape Changes"
 >Spatial het is very important for management^["The estimation of spatial heterogeneity in a correct way and scale according to the species and process under study is an important challenge in studying and managing landscapes"]
->
->
-
+>GSM continuous, only the pixel is discrete^["landscape structure based on continuous data in which the only discrete units are pixels of a raster."]
+>One alternative to PMM metrics are surface metrics^["One set of metrics that are used as alternatives for PCM-based landscape metrics in quantifying landscape patterns is surface metrics"]
+>Surface metrics can be consistent across scales^["Many surface metrics show consistent scaling relations according to changing resolution and several can accurately predict values at finer resolutions"]
+>Fourrier approaches detect fragmentation but can't quantify/locate it ^["Fourier analysis was well able to detect landscape fragmentation in different periods, but they did not provide any information on how much these changes were and where these changes occurred in the landscape"]
+>Local autocorrelation 
 
 
 
