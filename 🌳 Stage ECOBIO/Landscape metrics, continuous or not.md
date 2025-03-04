@@ -147,7 +147,9 @@ Mais que pour du PMM
 >One alternative to PMM metrics are surface metrics^["One set of metrics that are used as alternatives for PCM-based landscape metrics in quantifying landscape patterns is surface metrics"]
 >Surface metrics can be consistent across scales^["Many surface metrics show consistent scaling relations according to changing resolution and several can accurately predict values at finer resolutions"]
 >Fourrier approaches detect fragmentation but can't quantify/locate it ^["Fourier analysis was well able to detect landscape fragmentation in different periods, but they did not provide any information on how much these changes were and where these changes occurred in the landscape"]
->Local autocorrelation 
+>Local autocorrelation works good in quantif of heterogeneity^["The results of the comparison showed the efficiency of these indices in the quantification of landscape heterogeneity"]
+>Hard to compare metrics from PMM / GSM bc different outputs^["However, it is often not possible to compare the results of continuous and discrete approaches directly because the output of some methods is an image and others a number."]
+>
 
 
 
