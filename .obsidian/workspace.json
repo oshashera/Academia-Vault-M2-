@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Getis heatmap + Djikstra ? (gpt).md",
+                "file": "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getis heatmap + Djikstra ? (gpt)"
+              "title": "Landscape metrics, continuous or not"
             }
           }
         ]
@@ -216,8 +216,8 @@
   },
   "active": "a930430230a74cd7",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Getis heatmap + Djikstra ? (gpt).md",
+    "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "🏡 Home.md",
     "Autre/Plugins.md",
     "Autre/A explorer pour le workflow.canvas",
