@@ -144,12 +144,17 @@ Mais que pour du PMM
 >[!info] From "A Comparison of Discrete and Continuous Metrics for Measuring Landscape Changes"
 >Spatial het is very important for management^["The estimation of spatial heterogeneity in a correct way and scale according to the species and process under study is an important challenge in studying and managing landscapes"]
 >GSM continuous, only the pixel is discrete^["landscape structure based on continuous data in which the only discrete units are pixels of a raster."]
->One alternative to PMM metrics are surface metrics^["One set of metrics that are used as alternatives for PCM-based landscape metrics in quantifying landscape patterns is surface metrics"]
+>One alternative to PMM metrics are surface metrics^["One set of metrics that are used as alternatives for PCM-based landscape metrics in quantifying landscape patterns is surface metrics"]  but there are also Getis stats and Fourrier transforms
 >Surface metrics can be consistent across scales^["Many surface metrics show consistent scaling relations according to changing resolution and several can accurately predict values at finer resolutions"]
 >Fourrier approaches detect fragmentation but can't quantify/locate it ^["Fourier analysis was well able to detect landscape fragmentation in different periods, but they did not provide any information on how much these changes were and where these changes occurred in the landscape"]
 >Local autocorrelation works good in quantif of heterogeneity^["The results of the comparison showed the efficiency of these indices in the quantification of landscape heterogeneity"]
 >Hard to compare metrics from PMM / GSM bc different outputs^["However, it is often not possible to compare the results of continuous and discrete approaches directly because the output of some methods is an image and others a number."]
->
+>Surface metrics also have weaknesses => variations depending on input data^["these metrics also have their weaknesses. For instance, surface metrics are sensitive to the input data like NDVI and PNBI indices, as they estimated different levels of landscape dominance"] and their interpretation can be challenging
+>Surface metrics **cannot determine the number of change *in units of AREA***^["In contrast to landscape metrics, surface metrics cannot determine the number of changes in units of area"]
+>Still, advantages : Sensitive to **small land-use changes**, suitable for long term land-use changes
+>But issues of redundancy
+>"Calculating continuous metrics is less time-consuming than landscape metrics because they use vegetation indexes as input that are easy to calculate. The output images from Fourier analysis and spatial autocorrelation indices provide visual interpretation" 
+>- [?] on pourrait utiliser Getis (hotspot) pour faire hotspot, into mon truc de connectivité ? On utiliserait aussi les distances "absolues" (donc plus courte, pas de least-resistance) pour faire moyenne + variance des distances entre hotspots similaires à X% ? comme ca si peu de var => maillage "ré" 
 
 
 
