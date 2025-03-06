@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "🏡 Home"
             }
-          },
-          {
-            "id": "2c12c4d0d1354652",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c12c4d0d1354652",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "🏡 Home.md",
     "🌳 Stage ECOBIO/Carabes.md",
