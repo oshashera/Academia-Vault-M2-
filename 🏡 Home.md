@@ -33,9 +33,9 @@ Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numériq
 | ------------------------------- | ------------------------ | -------- |
 | TT intro                        | TT intro                 | Lundi    |
 | Intro ? Début plan Edla + visio | Biblio pucerons céréales | Mardi    |
-| pucerons céréales               | pucerons céréals         | Mercredi |
-| pucerons                        | finir puçerons ?         | Jeudi    |
-| pollinisateurs p2e              | pollinisateurs p2        | Vendredi |
+| m&m suite ?                     | pucerons céréales        | Mercredi |
+| pucerons céréales+ réu paysabio | pucerons fin ?           | Jeudi    |
+| m&m suite                       | m&m suite                | Vendredi |
 |                                 |                          | Samedi   |
 |                                 |                          | Dimanche |
 

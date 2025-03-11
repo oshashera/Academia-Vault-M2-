@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trucs divers utiles.md",
+                "file": "🏡 Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trucs divers utiles"
+              "title": "🏡 Home"
             }
           }
         ],
@@ -230,8 +230,8 @@
   },
   "active": "97d2e63edfb056a9",
   "lastOpenFiles": [
-    "🏡 Home.md",
     "Trucs divers utiles.md",
+    "🏡 Home.md",
     "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
