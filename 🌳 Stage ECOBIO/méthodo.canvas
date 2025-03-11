@@ -434,53 +434,28 @@
       "y": -643
     },
     {
-      "color": "3",
+      "color": "2",
       "height": 72,
-      "id": "797f4e657d2d7449",
+      "id": "a31012d0bdd5c9b8",
       "styleAttributes": {
       },
-      "text": "1) Local",
+      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
       "type": "text",
-      "width": 256,
-      "x": 758,
-      "y": -619
+      "width": 374,
+      "x": -689,
+      "y": -301
     },
     {
       "color": "2",
-      "height": 132,
-      "id": "df97a9890a4b5981",
-      "styleAttributes": {
-        "border": "dashed"
-      },
-      "text": "Sélection traits les plus explicatifs au niveau local (CWM) pour chaque grp taxon avec random forest",
-      "type": "text",
-      "width": 335,
-      "x": 374,
-      "y": -607
-    },
-    {
-      "color": "3",
       "height": 72,
-      "id": "413b8ad732de72f4",
+      "id": "f359996add039d3a",
       "styleAttributes": {
       },
-      "text": "2) Landscape",
+      "text": "2️⃣ Abondance sp pl / occupation sol",
       "type": "text",
-      "width": 256,
-      "x": 758,
-      "y": -535
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "8ca869ad6987f8c2",
-      "styleAttributes": {
-      },
-      "text": "party R package (pour random forest)",
-      "type": "text",
-      "width": 226,
-      "x": 414,
-      "y": -379
+      "width": 315,
+      "x": -689,
+      "y": -397
     },
     {
       "color": "2",
@@ -507,42 +482,6 @@
       "y": -505
     },
     {
-      "height": 138,
-      "id": "ee5e09c24c4614a6",
-      "styleAttributes": {
-      },
-      "text": "“Variables were considered as informative and relevant when their conditional score was above the absolute value of the lowest negative-scoring variable” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=KXBJ49IK)) **keske quoi ? à checker**",
-      "type": "text",
-      "width": 512,
-      "x": 788,
-      "y": -433
-    },
-    {
-      "color": "3",
-      "height": 72,
-      "id": "979d5ddd2e3328b3",
-      "styleAttributes": {
-      },
-      "text": "3) GLM",
-      "type": "text",
-      "width": 256,
-      "x": 758,
-      "y": -259
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "e132b1c117a0c708",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "R package FD (pour CWM)",
-      "type": "text",
-      "width": 178,
-      "x": 374,
-      "y": -295
-    },
-    {
       "color": "2",
       "height": 72,
       "id": "de69bee967960749",
@@ -565,6 +504,69 @@
       "width": 354,
       "x": -689,
       "y": -85
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "eb05b35d76c88b71",
+      "styleAttributes": {
+      },
+      "text": "Matrice SP végétale possible par occupation & climat",
+      "type": "text",
+      "width": 315,
+      "x": -176,
+      "y": 353
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "e5c427a6bcbe6395",
+      "styleAttributes": {
+      },
+      "text": "Estimation CWM commu plante",
+      "type": "text",
+      "width": 305,
+      "x": 511,
+      "y": 353
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "8ec3b5e1299e7560",
+      "styleAttributes": {
+      },
+      "text": "Tirage random de n (nb sp)",
+      "type": "text",
+      "width": 256,
+      "x": 188,
+      "y": 401
+    },
+    {
+      "color": "3",
+      "height": 78,
+      "id": "f3e947db503e5ae6",
+      "styleAttributes": {
+        "border": "dashed",
+        "shape": null
+      },
+      "text": "Intégration effet fragmentation / distance / connectivité / organisation (pcq on fait que prise en compte composition là avec occupation x sp (via trait fx))",
+      "type": "text",
+      "width": 1251,
+      "x": -95,
+      "y": 599
+    },
+    {
+      "color": "2",
+      "height": 132,
+      "id": "df97a9890a4b5981",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "Sélection traits les plus explicatifs au niveau local (CWM) pour chaque grp taxon avec random forest",
+      "type": "text",
+      "width": 335,
+      "x": 374,
+      "y": -607
     },
     {
       "color": "5",
@@ -607,18 +609,6 @@
     {
       "color": "5",
       "height": 72,
-      "id": "846c96d24e844ad4",
-      "styleAttributes": {
-      },
-      "text": "MAss R package overdispersion fittage",
-      "type": "text",
-      "width": 256,
-      "x": 1221,
-      "y": -259
-    },
-    {
-      "color": "5",
-      "height": 72,
       "id": "9cf0fed7cfba1ecb",
       "styleAttributes": {
       },
@@ -639,17 +629,6 @@
       "width": 256,
       "x": 1271,
       "y": 53
-    },
-    {
-      "height": 102,
-      "id": "1a501a7c8a34e4c3",
-      "styleAttributes": {
-      },
-      "text": "\"test for the effects of the important field and landscape variables (pre-selected with conditional random forests) on the abundance of each flower-visiting insect group\" + poisson error distrib",
-      "type": "text",
-      "width": 699,
-      "x": 828,
-      "y": -157
     },
     {
       "color": "5",
@@ -698,52 +677,52 @@
       "y": -151
     },
     {
-      "color": "5",
+      "color": "3",
       "height": 72,
-      "id": "eb05b35d76c88b71",
+      "id": "797f4e657d2d7449",
       "styleAttributes": {
       },
-      "text": "Matrice SP végétale possible par occupation & climat",
+      "text": "1) Local",
       "type": "text",
-      "width": 315,
-      "x": -176,
-      "y": 353
+      "width": 256,
+      "x": 758,
+      "y": -619
     },
     {
       "color": "5",
       "height": 72,
-      "id": "e5c427a6bcbe6395",
+      "id": "8ca869ad6987f8c2",
       "styleAttributes": {
       },
-      "text": "Estimation CWM commu plante",
+      "text": "party R package (pour random forest)",
       "type": "text",
-      "width": 305,
-      "x": 511,
-      "y": 353
+      "width": 226,
+      "x": 414,
+      "y": -379
     },
     {
-      "color": "2",
+      "color": "5",
       "height": 72,
-      "id": "a31012d0bdd5c9b8",
+      "id": "e132b1c117a0c708",
       "styleAttributes": {
+        "textAlign": "center"
       },
-      "text": "3️⃣ garder sp présentes plus haut qu'un seuil (à def, 5% cf publi polli?) = filtrage",
+      "text": "R package FD (pour CWM)",
       "type": "text",
-      "width": 374,
-      "x": -689,
-      "y": -301
+      "width": 178,
+      "x": 374,
+      "y": -295
     },
     {
-      "color": "2",
-      "height": 72,
-      "id": "f359996add039d3a",
+      "height": 102,
+      "id": "1a501a7c8a34e4c3",
       "styleAttributes": {
       },
-      "text": "2️⃣ Abondance sp pl / occupation sol",
+      "text": "\"test for the effects of the important field and landscape variables (pre-selected with conditional random forests) on the abundance of each flower-visiting insect group\" + poisson error distrib",
       "type": "text",
-      "width": 315,
-      "x": -689,
-      "y": -397
+      "width": 699,
+      "x": 828,
+      "y": -157
     },
     {
       "color": "2",
@@ -770,32 +749,6 @@
       "y": -375
     },
     {
-      "color": "5",
-      "height": 72,
-      "id": "8ec3b5e1299e7560",
-      "styleAttributes": {
-      },
-      "text": "Tirage random de n (nb sp)",
-      "type": "text",
-      "width": 256,
-      "x": 188,
-      "y": 401
-    },
-    {
-      "color": "3",
-      "height": 78,
-      "id": "f3e947db503e5ae6",
-      "styleAttributes": {
-        "border": "dashed",
-        "shape": null
-      },
-      "text": "Intégration effet fragmentation / distance / connectivité / organisation (pcq on fait que prise en compte composition là avec occupation x sp (via trait fx))",
-      "type": "text",
-      "width": 1251,
-      "x": -95,
-      "y": 599
-    },
-    {
       "color": "2",
       "height": 72,
       "id": "27e86b0572ebf7b3",
@@ -818,6 +771,53 @@
       "width": 315,
       "x": -89,
       "y": -499
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "413b8ad732de72f4",
+      "styleAttributes": {
+      },
+      "text": "2) Landscape",
+      "type": "text",
+      "width": 256,
+      "x": 758,
+      "y": -535
+    },
+    {
+      "height": 138,
+      "id": "ee5e09c24c4614a6",
+      "styleAttributes": {
+      },
+      "text": "“Variables were considered as informative and relevant when their conditional score was above the absolute value of the lowest negative-scoring variable” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=KXBJ49IK)) **keske quoi ? à checker**",
+      "type": "text",
+      "width": 512,
+      "x": 788,
+      "y": -433
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "979d5ddd2e3328b3",
+      "styleAttributes": {
+      },
+      "text": "3) GLM",
+      "type": "text",
+      "width": 256,
+      "x": 758,
+      "y": -259
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "846c96d24e844ad4",
+      "styleAttributes": {
+      },
+      "text": "MAss R package overdispersion fittage",
+      "type": "text",
+      "width": 256,
+      "x": 1221,
+      "y": -259
     }
   ]
 }
