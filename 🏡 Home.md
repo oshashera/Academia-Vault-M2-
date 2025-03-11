@@ -29,15 +29,15 @@ Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numériq
 |       | 16-21   | **Préparer ORAL**                                                   |
 |       | 23-27   | ORAL                                                                |
 
-| Matin                       | Après-midi                              | Jour     |
-| --------------------------- | --------------------------------------- | -------- |
-| Faire tableau récap Carabes | ==**REUNION FIN APREM AVEC GODINOT**==  | Lundi    |
-| commencer puçerons          | pucerons + ==réunion avec encadrantes== | Mardi    |
-| pucerons                    | pucerons                                | Mercredi |
-| pucerons                    | finir puçerons ?                        | Jeudi    |
-| pollinisateurs p2e          | pollinisateurs p2                       | Vendredi |
-|                             |                                         | Samedi   |
-|                             |                                         | Dimanche |
+| Matin                           | Après-midi               | Jour     |
+| ------------------------------- | ------------------------ | -------- |
+| TT intro                        | TT intro                 | Lundi    |
+| Intro ? Début plan Edla + visio | Biblio pucerons céréales | Mardi    |
+| pucerons céréales               | pucerons céréals         | Mercredi |
+| pucerons                        | finir puçerons ?         | Jeudi    |
+| pollinisateurs p2e              | pollinisateurs p2        | Vendredi |
+|                                 |                          | Samedi   |
+|                                 |                          | Dimanche |
 
 ```widgets
 type: clock 
