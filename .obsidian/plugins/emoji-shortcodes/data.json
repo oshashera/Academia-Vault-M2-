@@ -4,8 +4,9 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
-    ":computer:",
     ":x:",
+    ":white_check_mark:",
+    ":computer:",
     ":red_circle:",
     ":pensive:",
     ":globe_with_meridians:",
@@ -14,7 +15,6 @@
     ":evergreen_tree:",
     ":notebook_with_decorative_cover:",
     ":spiral_notepad:",
-    ":white_check_mark:",
     ":world_map:",
     ":green_circle:",
     ":arrow_lower_right:",
