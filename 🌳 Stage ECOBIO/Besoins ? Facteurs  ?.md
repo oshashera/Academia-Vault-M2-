@@ -480,6 +480,16 @@ Faire colonne taxo, et colonnes traits avec croix
 #### Diet
 Raisonnement suivant → si cereal aphids, alors bouffe = que céréale (sauf rare hôte alternatif utilisé que sous conditions spécifiques) donc je veux caractériser fxment les céréales cultivées => je me concentre sur les traits (ou leur valeurs) issus de la domestication => syndrome de trait ?
 
+Cours génet m1 dit (mais faut sourcer)
+
+| Espèces sauvages ancestrales :                                                                                                                                                                                                                                                                | Espèces cultivées actuelles                                                                                                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Égrenage spontané (épi & rachis fragile)<br>- Inflorescences nombreuses et petites<br>- Grains vétus plus ou moins ornementés<br>- **Tallage abondant**<br>- **Petits grains** - **riches** en protéines et **lipides**<br>- **Dormance forte**<br>- Hétérogénéité de maturité intra-plante | - Rétention des graines (rachis soudé) <br>- Inflorescences uniques ou peu nombreuses et hypertrophiées  <br>- Grains souvent nus  <br>- **Tallage réduit**  <br>- **Gros grains**  - **riches glucides**  <br>- **Dormance limitée**  <br>- Homogénéité de maturité |
+
+ 
+ 
+
+
 | Info | Citation | Source |
 | ---- | -------- | ------ |
 |      |          |        |

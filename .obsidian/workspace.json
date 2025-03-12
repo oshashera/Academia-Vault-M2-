@@ -49,8 +49,7 @@
               "title": "Traits fx dans l'index de TRY"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,10 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e186a252320cfe5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Cours/Diversité des modes de production/🟢 Histoire de l'agriculture.md",
+    "🌳 Stage ECOBIO/Traits fx dans l'index de TRY.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
+    "Cours/Diversité des modes de production/🟢 Histoire de l'agriculture.md",
     "🌳 Stage ECOBIO/Services, fx et traits v1 ?.md",
     "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
     "🏡 Home.md",
@@ -258,7 +258,6 @@
     "🌳 Stage ECOBIO/Rentrée stage.md",
     "🌳 Stage ECOBIO/Article pollinisateur & méthodo.md",
     "🌳 Stage ECOBIO/Carabes.md",
-    "🌳 Stage ECOBIO/Traits fx dans l'index de TRY.md",
     "Images/Pasted image 20250224114940.png",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Getis heatmap + Djikstra ? (gpt).md",
     "Autre/Plugins.md",
