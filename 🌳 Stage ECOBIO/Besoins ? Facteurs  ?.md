@@ -480,7 +480,7 @@ Faire colonne taxo, et colonnes traits avec croix
 #### Diet
 Raisonnement suivant → si cereal aphids, alors bouffe = que céréale (sauf rare hôte alternatif utilisé que sous conditions spécifiques) donc je veux caractériser fxment les céréales cultivées => je me concentre sur les traits (ou leur valeurs) issus de la domestication => syndrome de trait ?
 
-|     |     |
-| --- | --- |
-|     |     |
+| Info | Citation | Source |
+| ---- | -------- | ------ |
+|      |          |        |
 

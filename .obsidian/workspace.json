@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Besoins ? Facteurs  ?"
             }
+          },
+          {
+            "id": "95ba5b61a8803d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Diversité des modes de production/🟢 Histoire de l'agriculture.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🟢 Histoire de l'agriculture"
+            }
+          },
+          {
+            "id": "3e186a252320cfe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌳 Stage ECOBIO/Traits fx dans l'index de TRY.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Traits fx dans l'index de TRY"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,8 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3e186a252320cfe5",
   "lastOpenFiles": [
+    "Cours/Diversité des modes de production/🟢 Histoire de l'agriculture.md",
+    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/Services, fx et traits v1 ?.md",
     "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
     "🏡 Home.md",
@@ -224,7 +255,6 @@
     "Thèses - infos, pistes etc.md",
     "Trucs divers utiles.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
-    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/Rentrée stage.md",
     "🌳 Stage ECOBIO/Article pollinisateur & méthodo.md",
     "🌳 Stage ECOBIO/Carabes.md",
@@ -244,7 +274,6 @@
     "Réponse exam.md",
     "Présentation des spé.md",
     "Présentation de rentrée.md",
-    "Présentation de question de recherche - Haag Thomas.md",
     "Images/Pasted image 20250303155753.png",
     "Images/Pasted image 20250303155725.png",
     "Images/Pasted image 20250303155645.png",
