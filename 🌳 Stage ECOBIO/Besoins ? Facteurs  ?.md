@@ -482,15 +482,15 @@ Raisonnement suivant → si cereal aphids, alors bouffe = que céréale (sauf ra
 
 Cours génet m1 dit (mais faut sourcer)
 
-| Espèces sauvages ancestrales :                                                                                                                                                                                                                                                                        | Espèces cultivées actuelles                                                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - Égrenage spontané (épi & **rachis fragile**)<br>- **Inflorescences nombreuses** et petites<br>- Grains vétus plus ou moins ornementés<br>- **Tallage abondant**<br>- **Petits grains** - **riches** en protéines et **lipides**<br>- **Dormance forte**<br>- Hétérogénéité de maturité intra-plante | - Rétention des graines (**rachis soudé**) <br>- **Inflorescences uniques** ou peu nombreuses et hypertrophiées  <br>- Grains souvent nus  <br>- **Tallage réduit**  <br>- **Gros grains**  - **riches glucides**  <br>- **Dormance limitée**  <br>- Homogénéité de maturité |
+| Espèces sauvages ancestrales :                                                                                                                                                                                                                                                                        | Espèces cultivées actuelles                                                                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Égrenage spontané (épi & **rachis fragile**)<br>- **Inflorescences nombreuses** et petites<br>- Grains vétus plus ou moins ornementés<br>- **Tallage abondant**<br>- **Petits grains** - **riches** en protéines et **lipides**<br>- **Dormance forte**<br>- Hétérogénéité de maturité intra-plante | - Rétention des graines (**rachis soudé**) <br>- **Inflorescences uniques** ou peu nombreuses et hypertrophiées  <br>- Grains souvent nus  <br>- **Tallage réduit**  (tiller / tillering = tallage)<br>- **Gros grains**  - **riches glucides**  <br>- **Dormance limitée**  <br>- Homogénéité de maturité |
 
  
  
 
 
-| Info | Citation | Source |
-| ---- | -------- | ------ |
-|      |          |        |
+| Info            | Citation                                                                        | Source                  |
+| --------------- | ------------------------------------------------------------------------------- | ----------------------- |
+| **autogamie** ? | "most domesticated seed crops are pre-dominantly self-pollinated, or ‘selfing’" | Zohari et al 2013 livre |
 
