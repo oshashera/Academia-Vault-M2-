@@ -55,7 +55,12 @@ Article disponible sur [Nature (payant/accès limité)](https://doi.org/10.1038/
 >>1) La neutralité axiologique : on considère que nous chercheurs devont être **neutres** et **objectifs**, donc on se positionne pas / s'engage pas. Cette critique pourrait s'entendre mais l'objectivité n'existe pas -hormis méthodologique- et le choix du sujet de recherche ne l'est pas (ce n'est pas un reproche) 
 >>>[!cite] Approfondissement possible 
 >>>_Donna Haraway_ qui parle de science/connaissance "**située**".
->>>Par exemple, la majorité de la production de connaissance en écologie et évolution vient d'un groupe démographique dominé par des profils d'homme blancs issu du Nord, etc... Ce profil  peut expliquer pq on a pensé longtemps pourquoi on a pensé que la compétition était le driver principale → vient d'un monde néolibéral etc etc...
+>>>Par exemple, la majorité de la production de connaissance en écologie et évolution vient d'un groupe démographique dominé par des profils d'homme blancs issu du Nord, dans ces sociétés (néo-)libérales mettant l'emphase sur et valorisant la compétition : pourrait expliquer pourquoi on a longtemps pensé que la compétition était le driver principal des écosystèmes, au détriment des autres interactions (commensalisme, symbioses,...).
+>>2) *(lié au point 1)* Certains scientifiques considèrent qu'ils ont "réalisé leur part du travail" en produisant les connaissances nécessaires, c-à-d définir et documenter le problème, donnant aux autres membres de la société la possibilité de le régler. Ce point pourrait être entendable dans une société non dysfonctionnelle, c-à-d où les autres acteurs -notamment les responsables politiques- prendraient note de ces connaissances et agiraient en conséquence.
+>>3) Réductionnisme scientifique : Pour comprendre le fonctionnement du monde / d'un sujet complexe, nous le divisons en sous-ensemble que l'on étudie, puis on espère que "réassembler" tous ces éléments reformera correctement l'object de départ. Ca a eu une efficacité indéniable, de grande découvertes ont été réalisées ainsi, mais pour autant reste un problème très étudié en philosophie des sciences : 
+>>- [?] Le tout est il égal à la somme de ses parties ?
+
+
 
 
 
