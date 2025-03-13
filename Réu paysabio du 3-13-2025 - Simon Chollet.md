@@ -22,4 +22,9 @@ Les auteurs proposent des explications (4 grands points) pour ce gap :
 5) Ajouté par benoit et simon : on voit que les responsables sont parfaitement au courant et s'en foutent, rien avance même sur un mini pb que nous on connait donc c'est à se flinguer, + comme on est spécialiste, on aime pas sortir de notre zone de confort (aller voir la socio et l'éco par exemple...)
 
 
+QQ pistes d'action
+Réduire l'impact écologique de la prod scientifique
+Engagement politique (institutionnelle ou non ? mais a priori surtout institutionnelle)
+Mais pas suffisant
+On peut aussi choisir de changer quelles thématiques on traite, etc etc...
 
