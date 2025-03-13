@@ -39,16 +39,24 @@ Article disponible sur [Nature (payant/accès limité)](https://doi.org/10.1038/
 >Contexte : Changement climatique et perte de biodiversité → accélération/intensification alarmante alors qu'il **n'y a jamais eu antant de production scientifique sur le sujet !** 
 >- ["] Entre 2015 et aujourd'hui il y a eu plus d'article en écologie que pendant les 100 premières années de la discipline "
 >
->> [!donc] Toujours plus de connaissances disponibles, **comment se fait-il que le problème ne soit pas réglé ?**
+>> [!faq] Toujours plus de connaissances disponibles, **comment se fait-il que le problème ne soit pas réglé ?**
 >
 >C'est la question de l'article : 
 >Point de départ : crise environnementale, pourquoi continuer à produire des connaissances sur le sujet ?
 >Un des argument les plus récurrent est "on ne peut bien protéger que ce qu'on connait bien" → le fait d'avoir des connaissances serait donc primordial.
->>[warning] Ce n'est pas le cas
+>>[!warning] Ce n'est pas le cas
 >> Si la connaissance est effectivement la clé, alors on devrait observer chez les plus informé des pratiques ou dynamiques qui vont dans ce sens.
 >>=> Les chercheuses et chercheurs en écologie / environnement / évolution ont-ils des pratiques différentes du reste de la société ?
 >>==**NON**==
->><u><i>Exemple :</i></u> En 2023 (bilan carbone de l'UMR), 
+>><u><i>Exemple :</i></u> En 2023 (bilan carbone de l'UMR), l'activité professionnelle des chercheuses et chercheurs générait en moyenne **4 T eq C0**<sub><b>2</b></sub> / personne, alors que les accords de Paris visant à limiter le réchauffement à 1,5°C donnent une limite de 2T eq CO<sub>2</sub> / personne, d'autant plus que les 4T observés dans l'UMR correspondent uniquement à l'activité professionnelle
+>
+>>[!faq] Pourquoi est-on au courant et ne changeons-nous rien ?
+>>Les auteurs proposent **4** grands points d'explication à ce *gap* :
+>>1) La neutralité axiologique : on considère que nous chercheurs devont être **neutres** et **objectifs**, donc on se positionne pas / s'engage pas. Cette critique pourrait s'entendre mais l'objectivité n'existe pas -hormis méthodologique- et le choix du sujet de recherche ne l'est pas (ce n'est pas un reproche) 
+>>>[!cite] Approfondissement possible 
+>>>_Donna Haraway_ qui parle de science/connaissance "**située**".
+>>>Par exemple, la majorité de la production de connaissance en écologie et évolution vient d'un groupe démographique dominé par des profils d'homme blancs issu du Nord, etc... Ce profil  peut expliquer pq on a pensé longtemps pourquoi on a pensé que la compétition était le driver principale → vient d'un monde néolibéral etc etc...
+
 
 
 
