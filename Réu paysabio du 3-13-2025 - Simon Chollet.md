@@ -29,6 +29,13 @@ Mais pas suffisant
 On peut aussi choisir de changer quelles thématiques on traite, etc etc...
 
 
+____
+
+Discussion réunion thème paysabio du 13/3/2025 autour de l'article "Scientist engagement and the knowledge-action gap"
+Article disponible sur [Nature (payant/accès limité)](https://doi.org/10.1038/s41559-024-02535-0), préprint disponible sur [HAL](https://cnrs.hal.science/SETE/hal-04730178v1)
+
+
+
 
 
 
