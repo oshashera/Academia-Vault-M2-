@@ -490,7 +490,8 @@ Cours génet m1 dit (mais faut sourcer)
  
 
 
-| Info            | Citation                                                                        | Source                  |
-| --------------- | ------------------------------------------------------------------------------- | ----------------------- |
-| **autogamie** ? | "most domesticated seed crops are pre-dominantly self-pollinated, or ‘selfing’" | Zohari et al 2013 livre |
+| Info                                      | Citation                                                                                                                                                                           | Source                  |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **autogamie** ?                           | While the great majority of the world’s plant species are allogamous (crosspollinated), most domesticated seed crops are predominantly self-pollinated, or ‘selfing’ (Zohary 1999) | Zohari et al 2013 livre |
+| on risque peu de les rencontrer cependant | also a characteristic feature of their wild progenitors                                                                                                                            |                         |
 
