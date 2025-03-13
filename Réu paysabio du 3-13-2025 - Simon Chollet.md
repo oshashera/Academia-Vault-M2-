@@ -19,6 +19,7 @@ Les auteurs proposent des explications (4 grands points) pour ce gap :
 3) Réductionnisme scientifique → pour réussir à comprendre le fonctionnement du monde on le divise en petits trucs qu'on étudie puis on espère que en remettant tout ca émulera correctement. Ca a une efficacité indéniable, mais (très étudié en philo des science) est ce que le tout = la somme des parties ? Non, a minima en écologie. Autre pb, dans ce qui nous intéresse => on est tous spécialiste d'un petit bout du système, et on est pas incité par notre pratique scientifique à penser systémique. La majorité des pbs écologiques vient justement d'un coté systémique, qu'on résoud pas, on essaie de résoudre chaque pb indépendemment avec du techno-solutionisme et et ca marche juste ptn de pas aaaaaaaaaaah. Faut trouver un moyen de bosser là dessus. Papier canadien mentionne qu'il "**manque un métier**", un corps intermédiaire qui recense qui a trouvé quoi, permettre de prendre du recul, faire du lien, un peu analogue à la médiation scientifique mais en intra-corps de métier des scientifiques. 
 
 
-5 Ajouté par benoit et simon : on voit que les responsables sont parfaitement au courant et s'en foutent, rien avance même sur un mini pb que nous on connait donc c'est à se flinguer...
+5 Ajouté par benoit et simon : on voit que les responsables sont parfaitement au courant et s'en foutent, rien avance même sur un mini pb que nous on connait donc c'est à se flinguer, + comme on est spécialiste, on aime pas sortir de notre zone de confort (aller voir la socio et l'éco par exemple...)
+
 
 
