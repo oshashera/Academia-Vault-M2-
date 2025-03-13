@@ -34,6 +34,22 @@ ____
 Discussion réunion thème paysabio du 13/3/2025 autour de l'article "Scientist engagement and the knowledge-action gap"
 Article disponible sur [Nature (payant/accès limité)](https://doi.org/10.1038/s41559-024-02535-0), préprint disponible sur [HAL](https://cnrs.hal.science/SETE/hal-04730178v1)
 
+>[!faq] Les chercheurs et la communauté scientifique au sens large peut-elle et doit-elle s'engager ?
+>
+>Contexte : Changement climatique et perte de biodiversité → accélération/intensification alarmante alors qu'il **n'y a jamais eu antant de production scientifique sur le sujet !** 
+>- ["] Entre 2015 et aujourd'hui il y a eu plus d'article en écologie que pendant les 100 premières années de la discipline "
+>
+>> [!donc] Toujours plus de connaissances disponibles, **comment se fait-il que le problème ne soit pas réglé ?**
+>
+>C'est la question de l'article : 
+>Point de départ : crise environnementale, pourquoi continuer à produire des connaissances sur le sujet ?
+>Un des argument les plus récurrent est "on ne peut bien protéger que ce qu'on connait bien" → le fait d'avoir des connaissances serait donc primordial.
+>>[warning] Ce n'est pas le cas
+>> Si la connaissance est effectivement la clé, alors on devrait observer chez les plus informé des pratiques ou dynamiques qui vont dans ce sens.
+>>=> Les chercheuses et chercheurs en écologie / environnement / évolution ont-ils des pratiques différentes du reste de la société ?
+>>==**NON**==
+>><u><i>Exemple :</i></u> En 2023 (bilan carbone de l'UMR), 
+
 
 
 
