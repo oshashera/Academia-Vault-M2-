@@ -28,3 +28,7 @@ Engagement politique (institutionnelle ou non ? mais a priori surtout institutio
 Mais pas suffisant
 On peut aussi choisir de changer quelles thématiques on traite, etc etc...
 
+
+
+
+
