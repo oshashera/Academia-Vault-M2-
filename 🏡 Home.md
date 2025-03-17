@@ -33,10 +33,10 @@ Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numériq
 | ------------------------------------------------------------------- | ----------------------------------------------- | -------- |
 | Remodeler introduction                                              | Remodeler intro, avancer / structure EdlA       | Lundi    |
 | Puçerons finir food + commencer habitat                             | Puçerons habitats + **faire liste v1 pour TRY** | Mardi    |
-| **Valider list1** + M&M biblio + envoyer V2 intro/EdlA pour valider |                                                 | Mercredi |
-|                                                                     |                                                 | Jeudi    |
-|                                                                     |                                                 | Vendredi |
-| Rapport de mi-parcours                                              |                                                 | Samedi   |
+| **Valider list1** + M&M biblio + envoyer V2 intro/EdlA pour valider | ==CV /motiv / coordonnées etc pour Avignon==    | Mercredi |
+| M&M                                                                 | M&M                                             | Jeudi    |
+|                                                                     | **Rapport de mi-parcours**                      | Vendredi |
+| **Rapport de mi-parcours**                                          |                                                 | Samedi   |
 |                                                                     |                                                 | Dimanche |
 
 ```widgets
