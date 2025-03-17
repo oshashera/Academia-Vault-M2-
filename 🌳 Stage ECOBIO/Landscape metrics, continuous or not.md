@@ -50,7 +50,7 @@ GLCM has limits though^["GLCM indices are significant in predicting composition 
 >"amplitude metrics measure variation in surface “height”, where height refers to the magnitude of the value of interest. Several metrics in this category summarize conventional aspects of the statistical distribution of values (e.g., mean, skewness, etc.). **These metrics quantify the composition of the landscape variable but do not measure configuration**" 
 >"Applied to an ecological variable such as elevation, amplitude metrics could statistically summarize the **distribution** of elevation values across the landscape (Sa, Sq)"
 >Check Fan (2014) for quantification of comp/conf in gradient landscape^["For example, Fan and Myint (2014) identified relationships between a series of landscape metrics and statistical measures of spatial autocorrelation computed using three vegetation indices. While the spatial autocorrelation measures used in their analysis were not derived from microscopy or surface metrology, they did quantify landscape composition and configuration in a gradient surface, which is the ultimate goal of surface metrics"] 
->>[!quote]  Kedron P, Frazier AE (eds) (2019) Current Trends in Landscape Research. Springer International Publishing, Cham (chapter 22)
+>>[!quote]  Kedron, P.J., Frazier, A.E. (2019). Gradient Analysis and Surface Metrics for Landscape Ecology. In: Mueller, L., Eulenstein, F. (eds) Current Trends in Landscape Research. Innovations in Landscape Research. Springer, Cham. https://doi.org/10.1007/978-3-030-30069-2_22
 
 
  >[!important] From "current trends in lanscape..."
@@ -155,10 +155,7 @@ Mais que pour du PMM
 >But issues of redundancy
 >"Calculating continuous metrics is less time-consuming than landscape metrics because they use vegetation indexes as input that are easy to calculate. The output images from Fourier analysis and spatial autocorrelation indices provide visual interpretation" 
 >- [?] on pourrait utiliser Getis (hotspot) pour faire hotspot, into mon truc de connectivité ? On utiliserait aussi les distances "absolues" (donc plus courte, pas de least-resistance) pour faire moyenne + variance des distances entre hotspots similaires à X% ? comme ca si peu de var => maillage "régulier" et donc peu hétéro de config (fragm), mais si distance moyenne courte => ségrégation / concentration (donc hétéro config ?) dans un coin des mêmes ressources. si moyenne élevée / moyenne => répartition plus homogènes dans tt le paysage Si var élevée => zbeul  
-
-
-
-
+>    
 >[!quote] Rahimi E, Barghjelveh S, Dong P (2022) A Comparison of Discrete and Continuous Metrics for Measuring Landscape Changes. J Indian Soc Remote Sens 50:1257–1273. [https://doi.org/10.1007/s12524-022-01526-7](https://doi.org/10.1007/s12524-022-01526-7)
 
 
@@ -176,9 +173,27 @@ staphylins
 
 
 
-2005 McGarigal & Cushman
-
+>[!info] The gradient concept of landscapes
+>
+>
+> Surface metrology : 
+> Famille 1 → surface amplitude in roughness, skewness and kurtosis + total and relative amplitude
+> Famille 2 → Attribute of surface combining amplitude and spatial characteristics like curvature of local peaks
+> Famille 3 → Spatial attributes of surface associated with orientation of dominant texture
+> Famille 4 → B
 Correspondances entre metrics: 
-Patch density
-%of landscape
-Largest 
+>
+COMPO :
+>- Patch density → Peak density
+>- %of landscape → Surface volume
+>- Largest Patch Index → Maximum peak height
+>
+>CONFIG :
+>- Edge density → Mean slope
+>- Nearest-neighbor index → Mean nearest-maximum index
+>- Fractal-dimension index → Surface fractal dimension
+>
+>MS surface metrics mesurent des trucs super different du classique^["Many of the surface-metrology metrics, however, measure attributes that are conceptually quite foreign to conventional landscape pattern analysis."]
+>Fourier découpe la surface en set de pattern de basse/moy/haute frequence^["Fourier spectral decomposition breaks up the overall surface patterns into sets of high, medium, and low frequency patterns"]
+>>[!quote] McGarigal K, Cushman SA (2005) The gradient concept of landscape structure. In: Wiens JA, Moss MR (eds) Issues and Perspectives in Landscape Ecology, 1st edn. Cambridge University Press, pp 112–119
+
