@@ -12,7 +12,7 @@ Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numériq
 | Mois  | Semaine | Tâche(s)                                                            |
 | ----- | ------- | ------------------------------------------------------------------- |
 | Mars  | 3-7     | Intro ✅+ Edla ❌+ pucerons ❌                                         |
-|       | 10-14   | Intro + Edla + pucerons                                             |
+|       | 10-14   | Intro 🟧+ Edla ❌+ pucerons 🟧                                       |
 |       | 17-21   | M&M + plantes + demande TRY 1 ?                                     |
 |       | 24-29   | M&M + plantes                                                       |
 | Avril | 31-4    | Intro / Edla (finir ?) v3/bien avancée + demande TRY 2? + Rstudio ? |
@@ -29,15 +29,15 @@ Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numériq
 |       | 16-21   | **Préparer ORAL**                                                   |
 |       | 23-27   | ORAL                                                                |
 
-| Matin                           | Après-midi               | Jour     |
-| ------------------------------- | ------------------------ | -------- |
-| TT intro                        | TT intro                 | Lundi    |
-| Intro ? Début plan Edla + visio | Biblio pucerons céréales | Mardi    |
-| m&m suite ?                     | pucerons céréales        | Mercredi |
-| pucerons céréales+ réu paysabio | pucerons fin ?           | Jeudi    |
-| m&m suite                       | m&m suite                | Vendredi |
-|                                 |                          | Samedi   |
-|                                 |                          | Dimanche |
+| Matin                                                               | Après-midi                                      | Jour     |
+| ------------------------------------------------------------------- | ----------------------------------------------- | -------- |
+| Remodeler introduction                                              | Remodeler intro, avancer / structure EdlA       | Lundi    |
+| Puçerons finir food + commencer habitat                             | Puçerons habitats + **faire liste v1 pour TRY** | Mardi    |
+| **Valider list1** + M&M biblio + envoyer V2 intro/EdlA pour valider |                                                 | Mercredi |
+|                                                                     |                                                 | Jeudi    |
+|                                                                     |                                                 | Vendredi |
+| Rapport de mi-parcours                                              |                                                 | Samedi   |
+|                                                                     |                                                 | Dimanche |
 
 ```widgets
 type: clock 
