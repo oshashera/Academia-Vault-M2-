@@ -29,15 +29,15 @@ Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numériq
 |       | 16-21   | **Préparer ORAL**                                                   |
 |       | 23-27   | ORAL                                                                |
 
-| Matin                                                               | Après-midi                                      | Jour     |
-| ------------------------------------------------------------------- | ----------------------------------------------- | -------- |
-| ==CV /motiv / coordonnées etc pour Avignon==                        | Remodeler intro, avancer / structure EdlA       | Lundi    |
-| Puçerons finir food + commencer habitat                             | Puçerons habitats + **faire liste v1 pour TRY** | Mardi    |
-| **Valider list1** + M&M biblio + envoyer V2 intro/EdlA pour valider | Remodeler intro                                 | Mercredi |
-| M&M biblio                                                          | M&M                                             | Jeudi    |
-| M&M                                                                 | **Rapport de mi-parcours**                      | Vendredi |
-| **Rapport de mi-parcours**                                          |                                                 | Samedi   |
-|                                                                     |                                                 | Dimanche |
+| Matin                                                                                           | Après-midi                                | Jour     |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------- | -------- |
+| ==CV /motiv / coordonnées etc pour Avignon==                                                    | Remodeler intro, avancer / structure EdlA | Lundi    |
+| **ETAT AVANCEMENT A FAIRE** Puçerons finir food + commencer habitat **faire liste v1 pour TRY** | Puçerons habitats +  + **présentation**   | Mardi    |
+| **Valider list1** + M&M biblio + envoyer V2 intro/EdlA pour valider                             | Remodeler intro                           | Mercredi |
+| M&M biblio                                                                                      | M&M                                       | Jeudi    |
+| M&M                                                                                             | **Rapport de mi-parcours**                | Vendredi |
+| **Rapport de mi-parcours**                                                                      |                                           | Samedi   |
+|                                                                                                 |                                           | Dimanche |
 
 ```widgets
 type: clock 

@@ -173,3 +173,12 @@ mollusques (limaces/escargots) => annegret ?
 carabes
 pucerons
 staphylins
+
+
+
+2005 McGarigal & Cushman
+
+Correspondances entre metrics: 
+Patch density
+%of landscape
+Largest 
