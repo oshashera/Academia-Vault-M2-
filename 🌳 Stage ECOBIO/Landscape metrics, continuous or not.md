@@ -177,11 +177,12 @@ staphylins
 >
 >
 > Surface metrology : 
-> Famille 1 → surface amplitude in roughness, skewness and kurtosis + total and relative amplitude
-> Famille 2 → Attribute of surface combining amplitude and spatial characteristics like curvature of local peaks
-> Famille 3 → Spatial attributes of surface associated with orientation of dominant texture
-> Famille 4 → B
-Correspondances entre metrics: 
+> Famille 1 → surface amplitude in roughness, skewness and kurtosis + total and relative amplitude (?)
+> Famille 2 → Attribute of surface combining amplitude and spatial characteristics like curvature of local peaks (?)
+> Famille 3 → Spatial attributes of surface associated with orientation of dominant texture (????)
+> Famille 4 → Based on Abott curve (?)
+> 
+**Correspondances entre metrics:** 
 >
 COMPO :
 >- Patch density → Peak density
