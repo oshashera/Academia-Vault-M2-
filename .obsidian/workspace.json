@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Landscape metrics, continuous or not"
             }
+          },
+          {
+            "id": "e02d0fe26e56119f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏡 Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🏡 Home"
+            }
+          },
+          {
+            "id": "556c588e87e72658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Besoins ? Facteurs  ?"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,9 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "556c588e87e72658",
   "lastOpenFiles": [
     "🏡 Home.md",
+    "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "Notes réunion Paysabio du 13-3-2025 - Simon Chollet.md",
@@ -226,7 +256,6 @@
     "Cours/Diversité des modes de production/🟢 Histoire de l'agriculture.md",
     "🌳 Stage ECOBIO/Traits fx dans l'index de TRY.md",
     "🌳 Stage ECOBIO/Services, fx et traits v1 ?.md",
-    "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "Thèses - infos, pistes etc.md",
     "Trucs divers utiles.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
