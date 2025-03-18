@@ -10,7 +10,11 @@ Landscape with the same habitat amount can have different levels of reachability
 ![[Pasted image 20250318143231.png]]
 ![[Pasted image 20250318143419.png]]
 
+![[Pasted image 20250318144323.png]]
 
+The closer the resource the higher the probability of successful foraging (collembola)
+High quality resources produce larger individuals who tend to forage faster
+Short perception distance (1-2 cm) with a memory strategy
 
 
 
