@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "🏡 Home"
             }
+          },
+          {
+            "id": "38bbfacd2939fe26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes thèse micro arthropodes et écologie du paysaege.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes thèse micro arthropodes et écologie du paysaege"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,11 +229,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "38bbfacd2939fe26",
   "lastOpenFiles": [
+    "Images/Pasted image 20250318143419.png",
+    "Images/Pasted image 20250318143231.png",
+    "Images/Pasted image 20250318142938.png",
+    "Images/Pasted image 20250318142756.png",
+    "Images/Pasted image 20250318142746.png",
+    "🏡 Home.md",
+    "Notes thèse micro arthropodes et écologie du paysaege.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
-    "🏡 Home.md",
     "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
     "Notes réunion Paysabio du 13-3-2025 - Simon Chollet.md",
     "cheatsheet.md",
@@ -243,18 +264,12 @@
     "Zbeul bouquin.md",
     "Structure et notes podcast edith.md",
     "Soutenances de stage.md",
-    "Réunion nouveaux entrants - Hygiène et sécurité.md",
-    "Réponse exam.md",
     "Images/Pasted image 20250303155753.png",
     "Images/Pasted image 20250303155725.png",
     "Images/Pasted image 20250303155645.png",
     "Images/Pasted image 20250228113623.png",
     "Images/Pasted image 20250227162755.png",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?",
-    "Images/Pasted image 20250224121023.png",
-    "Images/Pasted image 20250224120838.png",
-    "Images/Pasted image 20250217133057.png",
-    "Images/Pasted image 20250217132538.png",
     "🌐📔-🌳 Écopédia",
     "🌳 Stage ECOBIO/Taxons.canvas",
     "🌳 Stage ECOBIO/RÉCAP DONNÉES BRETAGNE pCloud.canvas",
