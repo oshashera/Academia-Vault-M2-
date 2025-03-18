@@ -26,7 +26,32 @@ What did we observe ?
 
 #### Population size is explained by the amount of reachable habitat
 
+![[Pasted image 20250318145756.png]]
 
+
+#### Explicit incorporation of matrix resistance in habitat reachability
+![[Pasted image 20250318145842.png]]
+![[Pasted image 20250318145901.png]]
+
+
+#### First extinction at week 6 in landscape with less reachable habitat
+![[Pasted image 20250318150016.png]]
+
+![[Pasted image 20250318150051.png]]
+
+### Connectivity experiment
+![[Pasted image 20250318150229.png]]
+
+
+#### Corridors increase dispersal at short distances but at long distances also increase mortality
+![[Pasted image 20250318150257.png]]
+
+
+#### Higher colonization success in corridors
+![[Pasted image 20250318150417.png]]
+
+#### Higher adult survival in networks by channelizing their movement
+![[Pasted image 20250318150456.png]]
 
 
 
