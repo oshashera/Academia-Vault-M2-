@@ -16,7 +16,15 @@ The closer the resource the higher the probability of successful foraging (colle
 High quality resources produce larger individuals who tend to forage faster
 Short perception distance (1-2 cm) with a memory strategy
 
+![[Pasted image 20250318145403.png]]
 
+What did we observe ?
+![[Pasted image 20250318145506.png]]
+
+#### Patch colonization in different matrics is explained by mortality risk
+![[Pasted image 20250318145653.png]]
+
+#### Population size is explained by the amount of reachable habitat
 
 
 
