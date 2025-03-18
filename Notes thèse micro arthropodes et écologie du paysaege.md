@@ -53,6 +53,12 @@ What did we observe ?
 #### Higher adult survival in networks by channelizing their movement
 ![[Pasted image 20250318150456.png]]
 
+### conclusion
+![[Pasted image 20250318150821.png]]
+But limitations of these experiments (and perspectives)
+![[Pasted image 20250318151216.png]]
+
+![[Pasted image 20250318151227.png|center|450]]
 
 
 
