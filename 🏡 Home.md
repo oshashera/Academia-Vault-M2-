@@ -9,35 +9,35 @@ Pour le ==31 MARS== - Envoi de [[l'état d'avancement des travaux (rapport de mi
 Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numérique (format pdf) du rapport à chaque membre du jury **au plus tard le lund 16 juin 2025**,
 
 
-| Mois  | Semaine | Tâche(s)                                                              |
-| ----- | ------- | --------------------------------------------------------------------- |
-| Mars  | 3-7     | Intro ✅+ Edla ❌+ pucerons ❌                                           |
-|       | 10-14   | Intro 🟧+ Edla ❌+ pucerons 🟧                                         |
-|       | 17-21   | M&M + intro/edla plan + puçerons + demande TRY 1 ?                    |
-|       | 24-29   | M&M + rédiger intro+ plantes + **rapport mi parcours**                |
-| Avril | 31-4    | m&m (+remodeler intro ?) v3/bien avancée + demande TRY 2? + Rstudio ? |
-|       | 7-11    | Rstudio + M&M v2                                                      |
-|       | 14-18   | Rstudio + M&M v3                                                      |
-|       | 21-25   | Rstudio (complet)                                                     |
-| Mai   | 28-2    | Rstudio (complet) + analyses                                          |
-|       | 5-9     | Rstudio (complet) + analyses                                          |
-|       | 12-16   | Résultat R analyse + rédac                                            |
-|       | 19-23   | Résultat R analyse + rédac                                            |
-|       | 26-30   | Résultat R analyse + rédaction + discussion                           |
-| Juin  | 2-6     | Discussion + CCL + Rstudio éventuel                                   |
-|       | 9-13    | Discussion + CCL + **rendre écrit**                                   |
-|       | 16-21   | **Préparer ORAL**                                                     |
-|       | 23-27   | ORAL                                                                  |
+| Mois  | Semaine | Tâche(s)                                                                           |
+| ----- | ------- | --------------------------------------------------------------------------------- |
+| Mars  | 3-7     | Intro ✅+ Edla ❌+ pucerons                                                          |
+|       | 10-14   | Intro 🟧+ Edla ❌+ pucerons                                                         |
+|       | 17-21  intro/edla plan + puçerons✅ + demande TRY 1 ?⏰🟧 + **début rapport mi parcours** rs** |
+|       | 24-29   | M&M + rédiger intro+ plantes + **rapport mi parco                                  |
+| Avril | 31-4    | m&m (+remodeler intro ?) v3/bien avancée + demande TRY 2? + Rst                    |
+|       | 7-11    | Rstudio +                                                                          |
+|       | 14-18   | Rstudio                                                                            |
+|       | 21-25   | Rstudio                                                                            |
+| Mai   | 28-2    | Rstudio (complet)                                                                  |
+|       | 5-9     | Rstudio (complet)                                                                  |
+|       | 12-16   | Résultat R ana                                                                     |
+|       | 19-23   | Résultat R an                                                                      |
+|       | 26-30   | Résultat R analyse + rédactio                                                      |
+| Juin  | 2-6     | Discussion + CCL + R                                                               |
+|       | 9-13    | Discussion + CCL +                                                                 |
+|       | 16-21   |                                                                                    |
+|                                                                                                      |
 
-| Matin                                                                                           | Après-midi                                | Jour     |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------- | -------- |
-| ==CV /motiv / coordonnées etc pour Avignon==                                                    | Remodeler intro, avancer / structure EdlA | Lundi    |
-| **ETAT AVANCEMENT A FAIRE** Puçerons finir food + commencer habitat **faire liste v1 pour TRY** | Puçerons habitats + **présentation**      | Mardi    |
-| Préparer idée / comp M&M comme indiqué dans notes papier + habitat pucerons                     | Faire plan intro cf notes papier          | Mercredi |
-| M&M biblio                                                                                      | M&M plan                                  | Jeudi    |
-| M&M + **Valider list1** + ==**REPAS AVEC EDITH**                                                | **Rapport de mi-parcours**                | Vendredi |
-| **Rapport de mi-parcours**                                                                      | **Rapport de mi-parcours**                | Samedi   |
-|                                                                                                 |                                           | Dimanche |
+| Matin                                                                                           | Après-midi                                     | Jour     |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------- |
+| ==CV /motiv / coordonnées etc pour Avignon==                                                    | Remodeler intro, avancer / structure EdlA      | Lundi    |
+| **ETAT AVANCEMENT A FAIRE** Puçerons finir food + commencer habitat **faire liste v1 pour TRY** | Puçerons habitats + **présentation**           | Mardi    |
+| Préparer idée / comp M&M comme indiqué dans notes papier + habitat pucerons                     | Faire plan intro cf notes papier               | Mercredi |
+| habitat pucerons fini ✅                                                                         | liste1 envoyé aux encadrantes + liste plante ✅ | Jeudi    |
+| M&M +  ==**REPAS AVEC EDITH**                                                                   | **Rapport de mi-parcours** + ==PERMIS==        | Vendredi |
+| **Rapport de mi-parcours**                                                                      | **Rapport de mi-parcours**                     | Samedi   |
+|                                                                                                 |                                                | Dimanche |
 
 ```widgets
 type: clock 
