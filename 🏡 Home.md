@@ -9,25 +9,25 @@ Pour le ==31 MARS== - Envoi de [[l'état d'avancement des travaux (rapport de mi
 Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numérique (format pdf) du rapport à chaque membre du jury **au plus tard le lund 16 juin 2025**,
 
 
-| Mois  | Semaine | Tâche(s)                                                            |
-| ----- | ------- | ------------------------------------------------------------------- |
-| Mars  | 3-7     | Intro ✅+ Edla ❌+ pucerons ❌                                         |
-|       | 10-14   | Intro 🟧+ Edla ❌+ pucerons 🟧                                       |
-|       | 17-21   | M&M + plantes + demande TRY 1 ?                                     |
-|       | 24-29   | M&M + plantes                                                       |
-| Avril | 31-4    | Intro / Edla (finir ?) v3/bien avancée + demande TRY 2? + Rstudio ? |
-|       | 7-11    | Rstudio + M&M v2                                                    |
-|       | 14-18   | Rstudio + M&M v3                                                    |
-|       | 21-25   | Rstudio (complet)                                                   |
-| Mai   | 28-2    | Rstudio (complet) + analyses                                        |
-|       | 5-9     | Rstudio (complet) + analyses                                        |
-|       | 12-16   | Résultat R analyse + rédac                                          |
-|       | 19-23   | Résultat R analyse + rédac                                          |
-|       | 26-30   | Résultat R analyse + rédaction + discussion                         |
-| Juin  | 2-6     | Discussion + CCL + Rstudio éventuel                                 |
-|       | 9-13    | Discussion + CCL + **rendre écrit**                                 |
-|       | 16-21   | **Préparer ORAL**                                                   |
-|       | 23-27   | ORAL                                                                |
+| Mois  | Semaine | Tâche(s)                                                              |
+| ----- | ------- | --------------------------------------------------------------------- |
+| Mars  | 3-7     | Intro ✅+ Edla ❌+ pucerons ❌                                           |
+|       | 10-14   | Intro 🟧+ Edla ❌+ pucerons 🟧                                         |
+|       | 17-21   | M&M + intro/edla plan + puçerons + demande TRY 1 ?                    |
+|       | 24-29   | M&M + rédiger intro+ plantes + **rapport mi parcours**                |
+| Avril | 31-4    | m&m (+remodeler intro ?) v3/bien avancée + demande TRY 2? + Rstudio ? |
+|       | 7-11    | Rstudio + M&M v2                                                      |
+|       | 14-18   | Rstudio + M&M v3                                                      |
+|       | 21-25   | Rstudio (complet)                                                     |
+| Mai   | 28-2    | Rstudio (complet) + analyses                                          |
+|       | 5-9     | Rstudio (complet) + analyses                                          |
+|       | 12-16   | Résultat R analyse + rédac                                            |
+|       | 19-23   | Résultat R analyse + rédac                                            |
+|       | 26-30   | Résultat R analyse + rédaction + discussion                           |
+| Juin  | 2-6     | Discussion + CCL + Rstudio éventuel                                   |
+|       | 9-13    | Discussion + CCL + **rendre écrit**                                   |
+|       | 16-21   | **Préparer ORAL**                                                     |
+|       | 23-27   | ORAL                                                                  |
 
 | Matin                                                                                           | Après-midi                                | Jour     |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------- | -------- |
