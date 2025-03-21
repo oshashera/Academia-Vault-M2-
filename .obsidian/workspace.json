@@ -35,8 +35,7 @@
               "title": "🏡 Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82fc37338e283c5d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
     "🏡 Home.md",
+    "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "Notes thèse micro arthropodes et écologie du paysaege.md",
