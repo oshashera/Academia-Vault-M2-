@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "🏡 Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -216,8 +216,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🏡 Home.md",
+    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "Notes thèse micro arthropodes et écologie du paysaege.md",
     "Images/Pasted image 20250318151227.png",
