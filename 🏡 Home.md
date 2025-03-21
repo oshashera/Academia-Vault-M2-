@@ -35,7 +35,7 @@ Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numériq
 | **ETAT AVANCEMENT A FAIRE** Puçerons finir food + commencer habitat **faire liste v1 pour TRY** | Puçerons habitats + **présentation**           | Mardi    |
 | Préparer idée / comp M&M comme indiqué dans notes papier + habitat pucerons                     | Faire plan intro cf notes papier               | Mercredi |
 | habitat pucerons fini ✅                                                                         | liste1 envoyé aux encadrantes + liste plante ✅ | Jeudi    |
-| M&M +  ==**REPAS AVEC EDITH**                                                                   | **Rapport de mi-parcours** + ==PERMIS==        | Vendredi |
+| Intro Rework ?==**REPAS AVEC EDITH**==                                                          | **Rapport de mi-parcours** + ==PERMIS==        | Vendredi |
 | **Rapport de mi-parcours**                                                                      | **Rapport de mi-parcours**                     | Samedi   |
 |                                                                                                 |                                                | Dimanche |
 
