@@ -34,8 +34,26 @@
               "icon": "lucide-file",
               "title": "🏡 Home"
             }
+          },
+          {
+            "id": "c4be37ef19a5d611",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🌳 Stage ECOBIO/méthodo.canvas",
+                "viewState": {
+                  "x": 865.685438816435,
+                  "y": -44.27747188597636,
+                  "zoom": -0.18510098820811843
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "méthodo"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,10 +246,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c4be37ef19a5d611",
   "lastOpenFiles": [
-    "🏡 Home.md",
     "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
+    "🏡 Home.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "Notes thèse micro arthropodes et écologie du paysaege.md",
