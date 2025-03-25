@@ -526,3 +526,6 @@ envoyer littérature continu
 checker ce qui se fait en fx
 **faire habitat pollinisateur**
 **faire intro**
+
+
+taxref => répertorie traits 
