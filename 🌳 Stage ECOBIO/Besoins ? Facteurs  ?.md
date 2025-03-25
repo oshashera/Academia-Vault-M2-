@@ -521,3 +521,8 @@ I'll try to find articles that give a little hindsight into those varying needs
 
 
 check le package esquisse sur r pour dessins / graphs etc
+
+envoyer littérature continu
+checker ce qui se fait en fx
+**faire habitat pollinisateur**
+**faire intro**
