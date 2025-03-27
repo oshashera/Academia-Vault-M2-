@@ -4,4 +4,6 @@ Sixth extinction is not exact but quite accurate considering the scope and rates
 Causes of extinction :"including overhunting, replacement by introduced species, deforestation, habitat destruction, increased land use, and/or introduction of alien pathogens. Size and connectivity constraints make oceanic islands especially sensitive to these disturbances", not even considering DARK extinction (exctinction before being discovered)
 Conservation is very important, but "If we were hypothetically able to preserve every single species living on the planet, we would prevent background extinction, stop natural selection and, as a consequence, evolution. The living world is what it is thanks to the speciation/extinction balance, which is fundamental for evolutionary diversification."
 
+>[!cite] Towards quantifying the mass extinction debt of the Anthropocene
+>"Even if human interference ceased immediately, extinctions would continue owing to the phenomenon of ‘extinction debt’. Extinction debt describes the lag time between an initial perturbation and the extinction of species, as populations decline."
 
