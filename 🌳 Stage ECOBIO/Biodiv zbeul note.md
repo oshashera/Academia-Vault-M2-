@@ -21,4 +21,7 @@ Conservation is very important, but "If we were hypothetically able to preserve 
 >
 >"The fact that the expansion and intensification of agriculture has been the major driver of past biodiversity loss and ecosystem degradation globally is beyond dispute."
 >
+>"The expansion and intensification of agriculture during the 20th century contributed to poverty alleviation and improved food security globally, but these benefits came at a cost to the environment (Tilman 1999). Natural ecosystems have been destroyed or damaged, and the ecosystem services they provide to man degraded or lost" & "these ecosystem changes have been accompanied by losses of biodiversity locally and by an increased risk of extinction globally"
 >
+
+"biodiversity loss reduces the efficiency by which ecological communities capture biologically essential resources, produce biomass, decompose and recycle biologically essential nutrients"
