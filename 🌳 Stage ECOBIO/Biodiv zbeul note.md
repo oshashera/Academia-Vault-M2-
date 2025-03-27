@@ -28,4 +28,7 @@ Conservation is very important, but "If we were hypothetically able to preserve 
 >
 >The impact of biodiversity on any single ecosystem process is nonlinear and saturating, such that change accelerates as biodiversity loss increases.
 >
->
+>"The green arrows in Table 1 show the ecosystem services for which there is sufficient evidence to conclude that biodiversity has an impact on the service as predicted." ↓
+>![[Pasted image 20250327141803.png]]
+
+>[!cite] Biodiversity, Extinction, and Humanity’s Future: The Ecological and Evolutionary Consequences of Human Population and Resource Use
