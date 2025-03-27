@@ -17,3 +17,8 @@ Conservation is very important, but "If we were hypothetically able to preserve 
 >
 >
 
+>[!cite] Agriculture and biodiversity conservation: opportunity knocks
+>
+>"The fact that the expansion and intensification of agriculture has been the major driver of past biodiversity loss and ecosystem degradation globally is beyond dispute."
+>
+>
