@@ -29,15 +29,15 @@ Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numériq
 |       | 16-21   |                                                                                    |
 |                                                                                                      |
 
-| Matin                                                                                           | Après-midi                                     | Jour     |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------- |
-| ==CV /motiv / coordonnées etc pour Avignon==                                                    | Remodeler intro, avancer / structure EdlA      | Lundi    |
-| **ETAT AVANCEMENT A FAIRE** Puçerons finir food + commencer habitat **faire liste v1 pour TRY** | Puçerons habitats + **présentation**           | Mardi    |
-| Préparer idée / comp M&M comme indiqué dans notes papier + habitat pucerons                     | Faire plan intro cf notes papier               | Mercredi |
-| habitat pucerons fini ✅                                                                         | liste1 envoyé aux encadrantes + liste plante ✅ | Jeudi    |
-| Intro Rework ?==**REPAS AVEC EDITH**==                                                          | **Rapport de mi-parcours** + ==PERMIS==        | Vendredi |
-| **Rapport de mi-parcours**                                                                      | **Rapport de mi-parcours**                     | Samedi   |
-|                                                                                                 |                                                | Dimanche |
+| Matin                                        | Après-midi                      | Jour     |
+| -------------------------------------------- | ------------------------------- | -------- |
+| ...                                          | Pollinisateurs habitats         | Lundi    |
+| Plantes                                      | Plantes                         | Mardi    |
+| M&M rédac                                    | M&M rédac + query 2 pour TRY?   | Mercredi |
+| Remodelage intro + M&M si pas fini           | Remodelage intro                | Jeudi    |
+| Récup traits dans baseflor + dans AgriLand ? | Traits ds baseflore + Agriland? | Vendredi |
+|                                              |                                 | Samedi   |
+|                                              |                                 | Dimanche |
 
 ```widgets
 type: clock 

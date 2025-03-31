@@ -529,3 +529,26 @@ checker ce qui se fait en fx
 
 
 taxref => répertorie traits 
+
+## Pollinisateurs habitats 
+
+#### Habitats
+
+
+| Info | Citation | Source |
+| ---- | -------- | ------ |
+|      |          |        |
+
+
+
+
+
+
+## Weeds 
+
+#### Dispersion / capacité à se reproduire : nb de graines ...
+
+
+
+
+#### Abondance dans le paysage / production de biomasse
