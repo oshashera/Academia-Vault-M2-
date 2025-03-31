@@ -535,11 +535,13 @@ taxref => répertorie traits
 #### Habitats
 
 
-| Info                   | Citation                                                                                                                                                                                                   | Source               |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| On sait moyen voir peu | "Yet little is known about habitat importance and preferences for major groups of pollinators, although this information is crucial to anticipate  and mitigate the current decline of their populations." | Collado et al (2019) |
-|                        | "Preference is defined as the tendency of a species to be associated with certain environments more  than expected by chance"                                                                              |                      |
-|                        | ![[Pasted image 20250331134538.png]]                                                                                                                                                                       |                      |
+| Info                                                                                          | Citation                                                                                                                                                                                                   | Source               |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| On sait moyen voir peu                                                                        | "Yet little is known about habitat importance and preferences for major groups of pollinators, although this information is crucial to anticipate  and mitigate the current decline of their populations." | Collado et al (2019) |
+|                                                                                               | "Preference is defined as the tendency of a species to be associated with certain environments more  than expected by chance"                                                                              |                      |
+| Shrubs >Evergreen Forest >> Pasture / herbaceous > crops > Deciduous forest<br><br>???<br>??? | ![[Pasted image 20250331134538.png]]                                                                                                                                                                       |                      |
+| Apidae =<br>(0.66+0.05+0.87+0.19+ /11                                                         | ![[Pasted image 20250331135649.png\|800]]<br>![[Pasted image 20250331135730.png\|800]]                                                                                                                     |                      |
+|                                                                                               |                                                                                                                                                                                                            |                      |
 
 
 
