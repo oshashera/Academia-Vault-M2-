@@ -535,9 +535,10 @@ taxref => répertorie traits
 #### Habitats
 
 
-| Info | Citation | Source |
-| ---- | -------- | ------ |
-|      |          |        |
+| Info                   | Citation                                                                                                                                                                                                   | Source               |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| On sait moyen voir peu | "Yet little is known about habitat importance and preferences for major groups of pollinators, although this information is crucial to anticipate  and mitigate the current decline of their populations." | Collado et al (2019) |
+|                        | "Preference is defined as the tendency of a species to be associated with certain environments more  than expected by chance"                                                                              |                      |
 
 
 
