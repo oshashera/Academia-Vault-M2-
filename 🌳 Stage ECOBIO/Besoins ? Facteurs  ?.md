@@ -567,6 +567,10 @@ taxref => répertorie traits
 #### Dispersion / capacité à se reproduire : nb de graines ...
 
 
+| Info | Citation | Source |
+| ---- | -------- | ------ |
+|      |          |        |
+
 
 
 ###### Abondance dans le paysage / production de biomasse (==éventuellement==)
