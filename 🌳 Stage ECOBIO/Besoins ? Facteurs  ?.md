@@ -567,10 +567,10 @@ taxref => répertorie traits
 #### Dispersion / capacité à se reproduire : nb de graines ...
 
 
-| Info | Citation | Source |
-| ---- | -------- | ------ |
-|      |          |        |
-|      |          |        |
+| Info                                                                                                                          | Citation                                                                                                                                                                                                                                                        | Source |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Height<br>Seed mass<br>Seed lengths / dimensions**<br><br>Leaf dry mass per leaf fresh mass ?????<br><br>  \|<br>  \|<br> ↓ | ![[Pasted image 20250403155051.png]]                                                                                                                                                                                                                            |        |
+| LDMC bas = palatabilité                                                                                                       | "Leaf traits, such as greater leaf dry matter content (LDMC) could reduce leaf N and water content, and further decrease plant palatability. As a result, leaves with lower LDMC are preferred by herbivores, ultimately leading to increased dispersal rates." |        |
 
 Mes idées : seeds dispersal = giga important 
 Pour ca, caractéristiques des graines et de leur organe porteur ?
