@@ -570,7 +570,14 @@ taxref => répertorie traits
 | Info | Citation | Source |
 | ---- | -------- | ------ |
 |      |          |        |
+|      |          |        |
 
+Mes idées : seeds dispersal = giga important 
+Pour ca, caractéristiques des graines et de leur organe porteur ?
+
+- Seed size / width/height ==dimensions==
+- Seed mass ==poids== (notamment si vent)
+- Infloresc
 
 
 ###### Abondance dans le paysage / production de biomasse (==éventuellement==)
