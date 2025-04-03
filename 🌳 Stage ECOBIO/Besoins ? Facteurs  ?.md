@@ -575,9 +575,15 @@ taxref => répertorie traits
 Mes idées : seeds dispersal = giga important 
 Pour ca, caractéristiques des graines et de leur organe porteur ?
 
-- Seed size / width/height ==dimensions==
-- Seed mass ==poids== (notamment si vent)
-- Infloresc
+- **Seed size / width/height** ==dimensions==
+- **Seed mass** ==poids== (notamment si vent)
+- **Inflorescence height** ==prise au vent pour dispersion ?== + **seed releasing height**
+- **Seed number per plant** &&&OR&&& **seed number per inflorescence** + **number of inflorescences per plant**
+- **Dispersal distance** ??? (peu de relvés)
+- **Dispersal frequencies** ??? (peu de relevés)
+- **Seedbank longevity**
+- **Seed germination date** and **seed germination rate**
+- **Seed morphology type** ?
 
 
 ###### Abondance dans le paysage / production de biomasse (==éventuellement==)
