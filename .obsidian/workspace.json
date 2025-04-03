@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
-                "mode": "source",
+                "file": "🏡 Home.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "l'état d'avancement des travaux (rapport de mi-parcours)"
-            }
-          },
-          {
-            "id": "25cbbf8b780b7340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Besoins ? Facteurs  ?"
+              "title": "🏡 Home"
             }
           }
         ]
@@ -230,6 +216,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
     "Thèses ?.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🏡 Home.md",
@@ -242,7 +229,6 @@
     "Images/Pasted image 20250331135730.png",
     "Images/Pasted image 20250331135649.png",
     "Images/Pasted image 20250331134538.png",
-    "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
     "🌳 Stage ECOBIO/Biodiv zbeul note.md",
     "Images/Pasted image 20250327141803.png",
     "Welcome into the waterscape (ca a changé le spiderverse whalla).md",
