@@ -13,8 +13,10 @@ My work aims to predict in-field abundance and species richness for 7 different 
 
 #### Community simulation
 
-Our works is based on using digital versions of the surveyed landscapes. The GIS data received was in the form of 
+Our work aims to emancipate itself from the pitfalls of the discrete approach of landscape ecology that oversimplifies and smooths variations in landscapes. We state that two forest patches amongst the same landscape, although possibly extremely similar, are most-likely not identical in terms of community composition. Moreover, even under classical landscape ecology, it is recognized that a patch covering a large area of soil is not totally homogeneous within it, and the discrete categorization of classical ecology does not allow us to capture this heterogeneity.
+Our work is based on using digital versions of the surveyed landscapes. The GIS data received was in the form of vector maps, that we promptly rasterized in a grid with ==**5m diameter squares (resolution XXXX???)**==.
 
+[parler du patch id avant de convertir en grid, qui permet d'attribuer un pool de pool d'espèces à un grand patch pour avoir de la var mais pas 50 pools différents non plus]
 #### Indicator choice 
 
 From the beginning of the internship it was clearly intended for us to use Community-Weighted Means (CWM) to analyse the functional landscape, as it is both a common indicator in functional ecology, and as it was already used in previous works as an indicator of compositional heterogeneity (but not configurational, which is harder to quantify, thus prompting us to search for additional metrics). What stemmed from the aforementioned bibliographic work was the need to characterize the diversity (and proportion) of the supply of different habitats/resources, prompting us to use Community-Weighted Variance (CWV) too. This was either due to a varied life cycle that requires different habitats, or to a failure to create sufficiently precise / differentiated subgroups for a taxa (the most obvious example being carabids once again) .
