@@ -9,8 +9,8 @@ Parties :
 >[!important] A GARDER EN TETE 
 >Tableau TRAIT X ORGANISME
 >"rajouter une colonne type de trait quali/quanti" 🟧✅
->trier en fonction des organes (genre seed traits cote à cote dans tableau)
-> Voir comment faire pour la partie "valeur" qui favorise les espèces
+>trier en fonction des organes (genre seed traits cote à cote dans tableau) ✅
+> Voir comment faire pour la partie "valeur" qui favorise les espèces 🔴
 >MENTIONNER le coté "on prends pas en compte ce qui défavorise les sp" genre allélopathie ou composés phénoliques etc etc (biais mais justifiable pcq pb de temps, et que vu qu'on s'intéresse que a des besoins primaire, s'ils sont pas satisfait / favorables, alors on peut raisonnablement supposer que c'est défavorable)
 > Ptet virer d'ou viennent (fin mettre en ANNEXE) les traits en terme de bdd
 >
