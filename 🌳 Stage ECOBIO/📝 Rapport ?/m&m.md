@@ -41,7 +41,8 @@ Our workflow takes the vector map of the landscape of interest and transforms it
 
 ==[définir seuils pour nb communautés au sein d'un patch de taille X,XX,XXX ????]
 
-With those issues solved, only the species selection remains.
+With those issues solved, only the species selection remains. In order to create plant communities for our landscapes, we used sub-communities based on a "land-use" species list while taking into account abundance (see fig X)
+
 
 [parler du mécanisme de création de pools / commus + règles internes ????]
 #### Indicator choice 

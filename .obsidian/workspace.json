@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "55d5cd92cf5f04af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/figure community selection.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "figure community selection"
+            }
+          },
+          {
             "id": "bb9e9b199f7c0686",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Besoins ? Facteurs  ?"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,12 +241,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "55d5cd92cf5f04af",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/méthodo.canvas",
-    "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
-    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🏡 Home.md",
+    "Excalidraw/figure community selection.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
+    "🌳 Stage ECOBIO/méthodo.canvas",
+    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "Images/Pasted image 20250403164241.png",
     "Images/Pasted image 20250403164211.png",
     "🌐📔-🌳 Écopédia/🔴 Théorie de la libération des ennemis (enemy release theory).md",
