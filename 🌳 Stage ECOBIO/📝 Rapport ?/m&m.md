@@ -36,7 +36,7 @@ My work aims to predict in-field abundance and species richness for 7 different 
 
 #### Community simulation
 Variations ds landscape ; hetero inter et intra patch ; Donc patch IDs pour aider à savoir quoi assigner où un fois rasterizé.
-
+Our model intends to explore the influence of landscape's plant communities functional traits on in-field biodiversity. The community simulation is primordial since i
 Our work aims to emancipate itself from the pitfalls of the discrete approach of landscape ecology that oversimplifies and smooths variations in landscapes. We state that two forest patches amongst the same landscape, although possibly extremely similar, are most-likely not identical in terms of community composition. Moreover, even under classical landscape ecology, it is recognized that a patch covering a large area of soil is not totally homogeneous within it, and the discrete categorization of classical ecology does not allow us to capture this heterogeneity. In order to translate this notion into our model and process, we settled on defining "patch IDs" for each patch of each soil occupation type in the QGIS vector map that we use as an input. This way, even when rasterized, each tile has an ID which allows us to avoid assigning too many different communities within what would be considered a single patch in classical landscape ecology, and to scale this process according to patch size. We set ==treshold ?==
 ==[définir seuils pour nb communautés au sein d'un patch de taille X,XX,XXX ????]
 
