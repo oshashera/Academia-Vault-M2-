@@ -434,44 +434,6 @@
       "y": -643
     },
     {
-      "color": "5",
-      "height": 72,
-      "id": "0e6c9b628104a452",
-      "styleAttributes": {
-      },
-      "text": "Par climat et par type de patch/occupation ",
-      "type": "text",
-      "width": 256,
-      "x": -728,
-      "y": 317
-    },
-    {
-      "color": "6",
-      "height": 72,
-      "id": "da39e29482d7bcaf",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "Effet sur grp taxo",
-      "type": "text",
-      "width": 256,
-      "x": -659,
-      "y": 545
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "87520db65305e055",
-      "styleAttributes": {
-      },
-      "text": "Nb moyen sp (+/- var à établir)",
-      "type": "text",
-      "width": 256,
-      "x": -512,
-      "y": 401
-    },
-    {
       "color": "2",
       "height": 72,
       "id": "3bf83cd2874cd881",
@@ -506,184 +468,6 @@
       "width": 354,
       "x": -689,
       "y": -85
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "eb05b35d76c88b71",
-      "styleAttributes": {
-      },
-      "text": "Matrice SP végétale possible par occupation & climat",
-      "type": "text",
-      "width": 315,
-      "x": -176,
-      "y": 353
-    },
-    {
-      "color": "2",
-      "height": 132,
-      "id": "df97a9890a4b5981",
-      "styleAttributes": {
-        "border": "dashed"
-      },
-      "text": "Sélection traits les plus explicatifs au niveau local (CWM) pour chaque grp taxon avec random forest",
-      "type": "text",
-      "width": 335,
-      "x": 374,
-      "y": -607
-    },
-    {
-      "height": 120,
-      "id": "5f45f898cc433088",
-      "styleAttributes": {
-      },
-      "text": "“In a last step, we applied a multi-model inference to build all possible generalized linear models based on all additive combinations of up to four explanatory variables for each flower-visiting insect group.” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=MDR3M8TD)) + rank with AIC",
-      "type": "text",
-      "width": 783,
-      "x": 424,
-      "y": -31
-    },
-    {
-      "color": "3",
-      "height": 72,
-      "id": "235e8c7efeaaeea5",
-      "styleAttributes": {
-      },
-      "text": "4) Multi model inference",
-      "type": "text",
-      "width": 256,
-      "x": 424,
-      "y": -151
-    },
-    {
-      "color": "3",
-      "height": 72,
-      "id": "797f4e657d2d7449",
-      "styleAttributes": {
-      },
-      "text": "1) Local",
-      "type": "text",
-      "width": 256,
-      "x": 758,
-      "y": -619
-    },
-    {
-      "color": "3",
-      "height": 72,
-      "id": "413b8ad732de72f4",
-      "styleAttributes": {
-      },
-      "text": "2) Landscape",
-      "type": "text",
-      "width": 256,
-      "x": 758,
-      "y": -535
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "8ca869ad6987f8c2",
-      "styleAttributes": {
-      },
-      "text": "party R package (pour random forest)",
-      "type": "text",
-      "width": 226,
-      "x": 414,
-      "y": -379
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "e132b1c117a0c708",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "R package FD (pour CWM)",
-      "type": "text",
-      "width": 178,
-      "x": 374,
-      "y": -295
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "f5467b79a218be43",
-      "styleAttributes": {
-      },
-      "text": "MuMin package (AIC)",
-      "type": "text",
-      "width": 256,
-      "x": 1271,
-      "y": 53
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "1da67e34172112e1",
-      "styleAttributes": {
-      },
-      "text": "rsq R package",
-      "type": "text",
-      "width": 187,
-      "x": 1341,
-      "y": 155
-    },
-    {
-      "height": 60,
-      "id": "e916207622361a90",
-      "styleAttributes": {
-      },
-      "text": "\\+ explained variance (R²) estimé pour le meilleur modèle (AIC) avec rsq fonction",
-      "type": "text",
-      "width": 679,
-      "x": 527,
-      "y": 125
-    },
-    {
-      "height": 102,
-      "id": "1a501a7c8a34e4c3",
-      "styleAttributes": {
-      },
-      "text": "\"test for the effects of the important field and landscape variables (pre-selected with conditional random forests) on the abundance of each flower-visiting insect group\" + poisson error distrib",
-      "type": "text",
-      "width": 699,
-      "x": 828,
-      "y": -157
-    },
-    {
-      "height": 138,
-      "id": "ee5e09c24c4614a6",
-      "styleAttributes": {
-      },
-      "text": "“Variables were considered as informative and relevant when their conditional score was above the absolute value of the lowest negative-scoring variable” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=KXBJ49IK)) **keske quoi ? à checker**",
-      "type": "text",
-      "width": 512,
-      "x": 788,
-      "y": -433
-    },
-    {
-      "color": "3",
-      "height": 72,
-      "id": "979d5ddd2e3328b3",
-      "styleAttributes": {
-      },
-      "text": "3) GLM",
-      "type": "text",
-      "width": 256,
-      "x": 758,
-      "y": -259
-    },
-    {
-      "color": "5",
-      "height": 72,
-      "id": "846c96d24e844ad4",
-      "styleAttributes": {
-      },
-      "text": "MAss R package overdispersion fittage",
-      "type": "text",
-      "width": 256,
-      "x": 1221,
-      "y": -259
     },
     {
       "color": "2",
@@ -724,14 +508,77 @@
     {
       "color": "5",
       "height": 72,
-      "id": "9cf0fed7cfba1ecb",
+      "id": "0e6c9b628104a452",
       "styleAttributes": {
       },
-      "text": "Pondération prorata occupation/ensemble paysage",
+      "text": "Par climat et par type de patch/occupation ",
       "type": "text",
-      "width": 463,
-      "x": 972,
-      "y": 473
+      "width": 256,
+      "x": -728,
+      "y": 317
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "da39e29482d7bcaf",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Effet sur grp taxo",
+      "type": "text",
+      "width": 256,
+      "x": -659,
+      "y": 545
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "87520db65305e055",
+      "styleAttributes": {
+      },
+      "text": "Nb moyen sp (+/- var à établir)",
+      "type": "text",
+      "width": 256,
+      "x": -512,
+      "y": 401
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "eb05b35d76c88b71",
+      "styleAttributes": {
+      },
+      "text": "Matrice SP végétale possible par occupation & climat",
+      "type": "text",
+      "width": 315,
+      "x": -176,
+      "y": 353
+    },
+    {
+      "color": "2",
+      "height": 132,
+      "id": "df97a9890a4b5981",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "Sélection traits les plus explicatifs au niveau local (CWM) pour chaque grp taxon avec random forest",
+      "type": "text",
+      "width": 335,
+      "x": 374,
+      "y": -607
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "8ca869ad6987f8c2",
+      "styleAttributes": {
+      },
+      "text": "party R package (pour random forest)",
+      "type": "text",
+      "width": 226,
+      "x": 414,
+      "y": -379
     },
     {
       "color": "3",
@@ -744,6 +591,195 @@
       "width": 256,
       "x": -211,
       "y": -375
+    },
+    {
+      "height": 120,
+      "id": "5f45f898cc433088",
+      "styleAttributes": {
+      },
+      "text": "“In a last step, we applied a multi-model inference to build all possible generalized linear models based on all additive combinations of up to four explanatory variables for each flower-visiting insect group.” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=MDR3M8TD)) + rank with AIC",
+      "type": "text",
+      "width": 783,
+      "x": 424,
+      "y": -31
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "235e8c7efeaaeea5",
+      "styleAttributes": {
+      },
+      "text": "4) Multi model inference",
+      "type": "text",
+      "width": 256,
+      "x": 424,
+      "y": -151
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "e132b1c117a0c708",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "R package FD (pour CWM)",
+      "type": "text",
+      "width": 178,
+      "x": 374,
+      "y": -295
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "f5467b79a218be43",
+      "styleAttributes": {
+      },
+      "text": "MuMin package (AIC)",
+      "type": "text",
+      "width": 256,
+      "x": 1271,
+      "y": 53
+    },
+    {
+      "height": 60,
+      "id": "e916207622361a90",
+      "styleAttributes": {
+      },
+      "text": "\\+ explained variance (R²) estimé pour le meilleur modèle (AIC) avec rsq fonction",
+      "type": "text",
+      "width": 679,
+      "x": 527,
+      "y": 125
+    },
+    {
+      "height": 102,
+      "id": "1a501a7c8a34e4c3",
+      "styleAttributes": {
+      },
+      "text": "\"test for the effects of the important field and landscape variables (pre-selected with conditional random forests) on the abundance of each flower-visiting insect group\" + poisson error distrib",
+      "type": "text",
+      "width": 699,
+      "x": 828,
+      "y": -157
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "979d5ddd2e3328b3",
+      "styleAttributes": {
+      },
+      "text": "3) GLM",
+      "type": "text",
+      "width": 256,
+      "x": 758,
+      "y": -259
+    },
+    {
+      "color": "2",
+      "height": 108,
+      "id": "11b8b2b39400d33f",
+      "styleAttributes": {
+      },
+      "text": "8️⃣ CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
+      "type": "text",
+      "width": 364,
+      "x": -138,
+      "y": -199
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "27e86b0572ebf7b3",
+      "styleAttributes": {
+      },
+      "text": "6️⃣ sélection traits associés pour toutes les sp filtrées",
+      "type": "text",
+      "width": 275,
+      "x": -138,
+      "y": -619
+    },
+    {
+      "color": "2",
+      "height": 72,
+      "id": "334b2ebcd4c833b8",
+      "styleAttributes": {
+      },
+      "text": "7️⃣ CWM pour **chaque** trait pour **chaque** occupation de sol",
+      "type": "text",
+      "width": 315,
+      "x": -89,
+      "y": -499
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "797f4e657d2d7449",
+      "styleAttributes": {
+      },
+      "text": "1) Local",
+      "type": "text",
+      "width": 256,
+      "x": 758,
+      "y": -619
+    },
+    {
+      "color": "3",
+      "height": 72,
+      "id": "413b8ad732de72f4",
+      "styleAttributes": {
+      },
+      "text": "2) Landscape",
+      "type": "text",
+      "width": 256,
+      "x": 758,
+      "y": -535
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "1da67e34172112e1",
+      "styleAttributes": {
+      },
+      "text": "rsq R package",
+      "type": "text",
+      "width": 187,
+      "x": 1341,
+      "y": 155
+    },
+    {
+      "height": 138,
+      "id": "ee5e09c24c4614a6",
+      "styleAttributes": {
+      },
+      "text": "“Variables were considered as informative and relevant when their conditional score was above the absolute value of the lowest negative-scoring variable” ([Alignier et al., 2023, p. 2](zotero://select/library/items/82L4R3J7)) ([pdf](zotero://open-pdf/library/items/2Y4HBJHF?page=8&annotation=KXBJ49IK)) **keske quoi ? à checker**",
+      "type": "text",
+      "width": 512,
+      "x": 788,
+      "y": -433
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "846c96d24e844ad4",
+      "styleAttributes": {
+      },
+      "text": "MAss R package overdispersion fittage",
+      "type": "text",
+      "width": 256,
+      "x": 1221,
+      "y": -259
+    },
+    {
+      "color": "5",
+      "height": 72,
+      "id": "9cf0fed7cfba1ecb",
+      "styleAttributes": {
+      },
+      "text": "Pondération prorata occupation/ensemble paysage",
+      "type": "text",
+      "width": 463,
+      "x": 972,
+      "y": 473
     },
     {
       "color": "5",
@@ -782,42 +818,6 @@
       "width": 1251,
       "x": -95,
       "y": 599
-    },
-    {
-      "color": "2",
-      "height": 108,
-      "id": "11b8b2b39400d33f",
-      "styleAttributes": {
-      },
-      "text": "8️⃣ CWM pour chaque trait / paysage (pondération par surface type occupation sur ensemble paysage)",
-      "type": "text",
-      "width": 364,
-      "x": -138,
-      "y": -199
-    },
-    {
-      "color": "2",
-      "height": 72,
-      "id": "27e86b0572ebf7b3",
-      "styleAttributes": {
-      },
-      "text": "6️⃣ sélection traits associés pour toutes les sp filtrées",
-      "type": "text",
-      "width": 275,
-      "x": -138,
-      "y": -619
-    },
-    {
-      "color": "2",
-      "height": 72,
-      "id": "334b2ebcd4c833b8",
-      "styleAttributes": {
-      },
-      "text": "7️⃣ CWM pour **chaque** trait pour **chaque** occupation de sol",
-      "type": "text",
-      "width": 315,
-      "x": -89,
-      "y": -499
     }
   ]
 }
