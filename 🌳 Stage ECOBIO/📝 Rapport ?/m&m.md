@@ -25,3 +25,27 @@ From the beginning of the internship it was clearly intended to use Community-We
 
 
 
+>[!important] A GARDER EN TETE 
+>Tableau TRAIT X ORGANISME
+>"rajouter une colonne type de trait quali/quanti"
+>trier en fonction des organes (genre seed traits cote à cote dans tableau)
+> Voir comment faire pour la partie "valeur" qui favorise les espèces
+>MENTIONNER le coté "on prends pas en compte ce qui défavorise les sp" genre allélopathie ou composés phénoliques etc etc (biais mais justifiable pcq pb de temps, et que vu qu'on s'intéresse que a des besoins primaire, s'ils sont pas satisfait / favorables, alors on peut raisonnablement supposer que c'est défavorable)
+> Ptet virer d'ou viennent (fin mettre en ANNEXE) les traits en terme de bdd
+>
+>
+>
+>POUR LES RECHERCHES BIBLIOS :
+>
+   Expliquer le process d'acquisition des articles (types de requêtes, mots-clés genre "diet" / "food" / "feeding" / "nutrition" et "preferences", articles récup dans biblio d'autres articles, ...)
+>
+   JUSTIFIER PQ ON A PRIS QUE 2 BDD (TRY et baseflor => biais ???)
+>
+   "moi jv dire que bah c pas exhaustif mais j ai essayé de trouver des articles complets, dans des contextes européens, de préférence sur les adultes, etc
+   que si je tombais sur plusieurs refs j évaluais laquelle etait meilleure selon x ou y critère, ma query WoS je vais la mettre aussi; vrmt le m&m faut le voir comme un "si il prennnent qqn en stage qui doit refaire la mm chose, comme je peux l aider; j'vais dire que sur les articles, j ai gardé qu un seul article à chaque fois pck ct plus pratique et que je pouvais pas doser entre les articles; forcément c pas le script de ton stage mais l idée c est qu on capte aussi un peu l etat d esprit que t avais dans tes recherches" Raph
+>
+   "qu en croisant des sources t as gardé telle valeur pck x raison" Raph
+>
+   Parler du tableau du vietnam des carabes (et que ca a un peu échoué notamment suite à la discussion avec saska)
+>    
+   PROCESSUS D'EXTRACTION DES INFOS
