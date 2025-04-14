@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏡 Home"
+              "title": "m&m"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -215,8 +216,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/figure community selection.md",
     "🏡 Home.md",
+    "Excalidraw/figure community selection.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
