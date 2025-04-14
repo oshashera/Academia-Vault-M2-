@@ -1,10 +1,10 @@
 Parties : 
-- Biblio et choix des traits
-- Choix de la résolution / des nombres de communautés à simuler
-- Data cleaning + remodeling ?
-- Choix des indices et calculs pour les traits => variance ET moyenne des commus
-- Choix des règles de simulation des communautés
-- Choix des métriques calculées => Getis-Ord + PathOfLeastResistance + shortest euclidian distance + comparatif rapide des options dispo en familles / types de métriques pour continu
+- Biblio et choix des traits ✅
+- Choix de la résolution / des nombres de communautés à simuler 🟧✅
+- Data cleaning + remodeling ? 🔴
+- Choix des indices et calculs pour les traits => variance ET moyenne des commus ✅?
+- Choix des règles de simulation des communautés 🔴
+- Choix des métriques calculées => Getis-Ord + PathOfLeastResistance + shortest euclidian distance + comparatif rapide des options dispo en familles / types de métriques pour continu 🔴
 
 >[!important] A GARDER EN TETE 
 >Tableau TRAIT X ORGANISME
@@ -37,7 +37,14 @@ My work aims to predict in-field abundance and species richness for 7 different 
 #### Community simulation and GIS management
 Variations ds landscape ; hetero inter et intra patch ; Donc patch IDs pour aider à savoir quoi assigner où un fois rasterizé.
 
-Our workflow takes the vector map of the landscape of interest and transforms it into a raster, allowing me to bypass the classical land-use approach; My model's purpose to explore the influence of landscape's plant communities functional traits on in-field biodiversity. The community simulation is primordial since it will define the functional trait provision in our model. Instead of creating a unique model community for each land use, this work aims to emancipate itself from the pitfalls of the discrete approach of landscape ecology that oversimplifies and smooths variations in landscapes. Thus, we state for instance that two forest patches amongst the same landscape, while possibly similar, are most-likely not identical in terms of species composition. Moreover, even under classical landscape ecology, it is recognized that a patch covering a large area of land displays some inner heterogeneity, and the discrete categorization of classical ecology does not allow us to capture it. In order to translate this notion into our model and process, I settled on defining "patch IDs" for each patch of each soil occupation type in the QGIS vector map that we use as an input. This way, even when rasterized, each tile has an ID which allows us to both know what under what land-use category it would fall under, and to avoid assigning too many different communities within what would be considered a single patch in classical landscape ecology. It also allows me to scale this process according to patch size. However in order to implement this mechanic, we have to define ==treshold ?== <font color="#ff0000">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH</font>
+- Our workflow takes the vector map of the landscape of interest and transforms it into a raster, allowing me to bypass the classical land-use approach; My model's purpose is to explore the influence of landscape's plant communities functional traits on in-field biodiversity. The community simulation is primordial since it will define the functional trait provision in our model. In order to simulate (ideally) realist plant communities, from the botanical survey datasets, I recovered for each land use, the average abundance, as well as the means, medians and standard deviations of the number of species present in a quadrat. I also calculated the rate (probability) of presence of each species in a quadrat. This information, recorded in Table XXX, will be of great use in creating plant communities. The probability of presence and average abundance has been aggregated with the list of all species so as to have this information readily available for all species and soil occupations.
+
+|                                      | Forest           | Hedgerows        | Grasslands       | Weeds            |
+| ------------------------------------ | ---------------- | ---------------- | ---------------- | ---------------- |
+| Mean number of species per quadrat   | 12.2233502538071 | 10.1259259259259 | 11.39            | 10.4168831168831 |
+| Madian number of species per quadrat | 12               | 9                | 11               | 10               |
+| Standard deviation                   | 4.14813032400118 | 3.8615306339889  | 3.31896753613764 | 2.36939209102019 |
+- Instead of creating a unique model community for each land use, this work aims to emancipate itself from the pitfalls of the discrete approach of landscape ecology that oversimplifies and smooths variations in landscapes. Thus, we state for instance that two forest patches amongst the same landscape, while possibly similar, are most-likely not identical in terms of species composition. Moreover, even under classical landscape ecology, it is recognized that a patch covering a large area of land displays some inner heterogeneity, and the discrete categorization of classical ecology does not allow us to capture it. In order to translate this notion into our model and process, I settled on defining "patch IDs" for each patch of each soil occupation type in the QGIS vector map that we use as an input. This way, even when rasterized, each tile has an ID which allows us to both know what under what land-use category it would fall under, and to avoid assigning too many different communities within what would be considered a single patch in classical landscape ecology. It also allows me to scale this process according to patch size. However in order to implement this mechanic, we have to define ==treshold ?== <font color="#ff0000">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH</font>
 
 ==[définir seuils pour nb communautés au sein d'un patch de taille X,XX,XXX ????]
 
@@ -49,10 +56,3 @@ With those issues solved, only the species selection remains. In order to create
 
 From the beginning of the internship it was clearly intended to use Community-Weighted Means (CWM) to analyse the functional landscape, as it is both a common indicator in functional ecology, and as it was already used in previous works as an indicator of compositional heterogeneity (but not configurational heterogeneity, which is harder to quantify, thus prompting us to search for additional metrics). What stemmed from the aforementioned bibliographic work was the need to characterize the diversity (and proportion) of the supply of different habitats/resources, prompting us to use Community-Weighted Variance (CWV) too. This was either due to a varied life cycle that requires different habitats, or to a failure to create sufficiently precise / differentiated subgroups for a taxa (the most obvious example being carabids once again) .
 
-
-
-
-____
-Processus de création de communautés : 
-
-A partir des datasets de relevés botaniques, j'ai récupéré pour chaque occupation des sols, l'abondance moyenne, ainsi que les moyennes, médianes, et écarts types du nombre d'espèce présentes dans un quadrat. J'ai également calculé le taux de présence de chaque espèce dans un quadrat. Ces informations, consignées dans le tableau XXX seront d'un grande utilité pour créer des communautés végétales.
