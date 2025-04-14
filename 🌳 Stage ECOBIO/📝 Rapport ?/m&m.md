@@ -52,3 +52,7 @@ From the beginning of the internship it was clearly intended to use Community-We
 
 
 
+____
+Processus de création de communautés : 
+
+A partir des datasets de relevés botaniques, j'ai récupéré pour chaque occupation des sols, l'abondance moyenne, ainsi que les moyennes, médianes, et écarts types du nombre d'espèce présentes dans un quadrat. J'ai également calculé le taux de présence de chaque espèce dans un quadrat. Ces informations, consignées dans le tableau XXX seront d'un grande utilité pour créer des communautés végétales.
