@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
-                "mode": "source",
+                "file": "🏡 Home.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "m&m"
+              "title": "🏡 Home"
             }
           }
         ]
@@ -216,8 +216,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
+    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🏡 Home.md",
     "Excalidraw/figure community selection.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
