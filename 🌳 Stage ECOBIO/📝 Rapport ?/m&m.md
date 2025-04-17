@@ -61,12 +61,21 @@ elements <- c("apple", "banana", "cherry")
 weights <- c(0.1, 0.3, 0.6)
 
 # Randomly select 1 element, weighted by probability
-set.seed(123)  # for reproducibility
+set.seed(123)  # for reproducibility BUT WILL BE RANDOMIZED TOO (like with 10k possibilities ig?)
 sample(elements, size = 1, prob = weights)
 
 
+# Select 5 elements with replacement
+sample(elements, size = 5, replace = TRUE, prob = weights)
+
+# Select 2 elements without replacement
+sample(elements, size = 2, replace = FALSE, prob = weights)
 
 ```
+- *`prob` doesn't have to sum to 1; R will normalize them internally.
+- *When sampling **without replacement**, the sum of weights must match the number of elements and all probabilities must be non-zero for any element to be selected.*
+
+
 #### Indicator choice 
 
 From the beginning of the internship it was clearly intended to use Community-Weighted Means (CWM) to analyse the functional landscape, as it is both a common indicator in functional ecology, and as it was already used in previous works as an indicator of compositional heterogeneity (but not configurational heterogeneity, which is harder to quantify, thus prompting us to search for additional metrics). What stemmed from the aforementioned bibliographic work was the need to characterize the diversity (and proportion) of the supply of different habitats/resources, prompting us to use Community-Weighted Variance (CWV) too. This was either due to a varied life cycle that requires different habitats, or to a failure to create sufficiently precise / differentiated subgroups for a taxa (the most obvious example being carabids once again) .
