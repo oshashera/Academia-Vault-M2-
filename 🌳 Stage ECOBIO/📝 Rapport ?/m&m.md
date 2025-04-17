@@ -52,6 +52,21 @@ With those issues solved, only the species selection remains. In order to create
 
 
 [parler du mécanisme de création de pools / commus + règles internes ????]
+
+```R
+# Elements to choose from
+elements <- c("apple", "banana", "cherry")
+
+# Corresponding weights (probabilities of presence)
+weights <- c(0.1, 0.3, 0.6)
+
+# Randomly select 1 element, weighted by probability
+set.seed(123)  # for reproducibility
+sample(elements, size = 1, prob = weights)
+
+
+
+```
 #### Indicator choice 
 
 From the beginning of the internship it was clearly intended to use Community-Weighted Means (CWM) to analyse the functional landscape, as it is both a common indicator in functional ecology, and as it was already used in previous works as an indicator of compositional heterogeneity (but not configurational heterogeneity, which is harder to quantify, thus prompting us to search for additional metrics). What stemmed from the aforementioned bibliographic work was the need to characterize the diversity (and proportion) of the supply of different habitats/resources, prompting us to use Community-Weighted Variance (CWV) too. This was either due to a varied life cycle that requires different habitats, or to a failure to create sufficiently precise / differentiated subgroups for a taxa (the most obvious example being carabids once again) .
