@@ -55,4 +55,5 @@ ____
 ###### ZBEUL BDDS ET NA
 
 Seuils pour traits NA ?
-On veut avoir les infos pour recouvreemen
+On veut avoir les infos pour recouvrement >= **80%** (donc sp rares peuvent jarter?)
+Sp rares ? → définir seuils pour Pba.presence et %abondance tq :
