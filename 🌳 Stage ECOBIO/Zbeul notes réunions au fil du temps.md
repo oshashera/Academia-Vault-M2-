@@ -56,4 +56,6 @@ ____
 
 Seuils pour traits NA ?
 On veut avoir les infos pour recouvrement >= **80%** (donc sp rares peuvent jarter?)
-Sp rares ? → définir seuils pour Pba.presence et %abondance tq :
+Sp rares ? → définir seuils pour Pba.presence et %abondance tel que :
+![[Drawing 2025-04-18 13.40.05.excalidraw|800]]
+
