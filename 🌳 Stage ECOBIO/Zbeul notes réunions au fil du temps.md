@@ -32,6 +32,11 @@ ___
 1) Quadrat = réel assemblage vu
 2) Commu sp aléatoire weighted => risque de tirer un mélange inexistant | **demander à Cécile pourquoi elle a choisi quadrats** |
 Si Quadrat : => aire minimale pour une "parcelle" → valeurs de ref (ex : 16m² pour prairies, donc il faut tirer (avec remise) 4 quadrats de 2x2m² tels qu'on a dans nos data)
+Selon [DELASSUS L (2015)](https://www.cbnbrest.fr/pmb_pdf/CBNB_2015_Delassus_60091.pdf)
+![[Pasted image 20250418161109.png]]
+
+
+
 
 Si commu random: tenir compte des richesse max / occsol (= notre seuil max)
 Et sinon, pour les intervalles, faire un graph (pour chaque OCCSOL) tel que : 

@@ -20,30 +20,6 @@
               "icon": "lucide-file",
               "title": "Zbeul notes réunions au fil du temps"
             }
-          },
-          {
-            "id": "3aa897b835b2c8a7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-18 13.40.05.excalidraw"
-            }
-          },
-          {
-            "id": "2c8f2cd4c619e04f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Mon M&M.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Mon M&M"
-            }
           }
         ]
       }
@@ -240,9 +216,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md",
+    "Images/Pasted image 20250418161109.png",
     "🏡 Home.md",
     "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
+    "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md",
     "Excalidraw/Drawing 2025-04-18 13.30.29.excalidraw.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Mon M&M.md",
@@ -276,7 +253,6 @@
     "Thèses - infos, pistes etc.md",
     "Trucs divers utiles.md",
     "🌳 Stage ECOBIO/Rentrée stage.md",
-    "🌳 Stage ECOBIO/Article pollinisateur & méthodo.md",
     "Autre/A explorer pour le workflow.canvas",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?",
     "🌐📔-🌳 Écopédia",
