@@ -21,10 +21,38 @@ Aussi expliquer un peu le projet COnservES je pense, développer l'opposition é
 
 ### Réu cendrine 17/04/25
 
-GLANDULIFERA
+***GLANDULIFERA***
+
 
 2 options : tirer quadrats / simuler commu en tirant sp
+
+___
+###### Questionnement méthodo 
 
 1) Quadrat = réel assemblage vu
 2) Commu sp aléatoire weighted => risque de tirer un mélange inexistant | **demander à Cécile pourquoi elle a choisi quadrats** |
 Si Quadrat : => aire minimale pour une "parcelle" → valeurs de ref (ex : 16m² pour prairies, donc il faut tirer (avec remise) 4 quadrats de 2x2m² tels qu'on a dans nos data)
+
+Si commu random: tenir compte des richesse max / occsol (= notre seuil max)
+Et sinon, pour les intervalles, faire un graph (pour chaque OCCSOL) tel que : 
+![[Drawing 2025-04-18 13.30.29.excalidraw]] a partir des infos (que **Cendrine doit retrouver**) de surface pour chaque relevé dans mes bdds.
+
+
+Se renseigner sur ce qu'on pourrait utiliser du ***Package Chloé*** pour ce qu'on veut
+
+==**Résolution minimale = largeur haies**
+
+______
+###### Pbs à résoudre ?
+
+Combien de "adventice" : dans nos paysages on a champ de **blé** (liste "adventices), de **colza** (❌), et de **maïs** (❌)
+\+ **que faire des cultures ?** → l'intégrer / la tirer ? l'ignorer ? quid du vrai pb de grosse disparités entre les **var.**????
+
+Arbres ? dans relevés **forêts** (et haies jsp????) y a que les plantules qui ont été relevés, pas les adultes ?????
+Cendrine a mentionné des **classes d'abondance** (à check ???)
+
+____
+###### ZBEUL BDDS ET NA
+
+Seuils pour traits NA ?
+On veut avoir les infos pour recouvreemen
