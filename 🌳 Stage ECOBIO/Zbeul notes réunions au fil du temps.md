@@ -18,8 +18,13 @@ Aussi expliquer un peu le projet COnservES je pense, développer l'opposition é
 
 
 
-#### 3/12/25 (conservES climatic data)
 
+### Réu cendrine 17/04/25
 
+GLANDULIFERA
 
+2 options : tirer quadrats / simuler commu en tirant sp
 
+1) Quadrat = réel assemblage vu
+2) Commu sp aléatoire weighted => risque de tirer un mélange inexistant | **demander à Cécile pourquoi elle a choisi quadrats** |
+Si Quadrat : => aire minimale pour une "parcelle" → valeurs de ref (ex : 16m² pour prairies, donc il faut tirer (avec remise) 4 quadrats de 2x2m² tels qu'on a dans nos data)
