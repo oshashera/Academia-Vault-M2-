@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏡 Home"
+              "title": "Zbeul notes réunions au fil du temps"
+            }
+          },
+          {
+            "id": "32ae8a73a48bfe8c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Mon M&M.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Mon M&M"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,15 +227,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "32ae8a73a48bfe8c",
   "lastOpenFiles": [
+    "🏡 Home.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/Mon M&M.md",
     "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
     "Images/Pasted image 20250418161109.png",
-    "🏡 Home.md",
     "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md",
     "Excalidraw/Drawing 2025-04-18 13.30.29.excalidraw.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Mon M&M.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "Excalidraw/figure community selection.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
