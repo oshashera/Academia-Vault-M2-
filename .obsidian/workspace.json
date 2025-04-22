@@ -31,7 +31,8 @@
               "title": "Mon M&M"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "32ae8a73a48bfe8c",
   "lastOpenFiles": [
-    "🏡 Home.md",
     "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md",
+    "🏡 Home.md",
     "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Mon M&M.md",
     "Images/Pasted image 20250418161109.png",
