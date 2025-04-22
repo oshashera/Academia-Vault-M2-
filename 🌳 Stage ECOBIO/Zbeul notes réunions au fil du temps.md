@@ -66,4 +66,4 @@ Sp rares ? → définir seuils pour Pba.presence et %abondance tel que :
 
 
 ==pas oublier compo
-quelle est la variabilité de nos traits (var et mean, ecart min max(5% les + bas ou haut), etc etc pour lensemble du paysage==
+quelle est la variabilité de nos traits (var et mean, ecart min max(5% les + bas ou haut), etc etc pour lensemble du paysage==t
