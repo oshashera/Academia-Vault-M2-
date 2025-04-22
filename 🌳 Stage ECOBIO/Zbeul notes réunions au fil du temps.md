@@ -64,3 +64,6 @@ On veut avoir les infos pour recouvrement >= **80%** (donc sp rares peuvent jart
 Sp rares ? → définir seuils pour Pba.presence et %abondance tel que :
 ![[Drawing 2025-04-18 13.40.05.excalidraw|800]]
 
+
+==pas oublier compo
+quelle est la variabilité de nos traits (var et mean, ecart min max(5% les + bas ou haut), etc etc pour lensemble du paysage==

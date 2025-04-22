@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md"
+                "file": "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-18 13.40.05.excalidraw"
+              "icon": "lucide-file",
+              "title": "Zbeul notes réunions au fil du temps"
             }
           },
           {
@@ -31,8 +33,7 @@
               "title": "Mon M&M"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,12 +226,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32ae8a73a48bfe8c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/Mon M&M.md",
     "🏡 Home.md",
     "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Mon M&M.md",
     "Images/Pasted image 20250418161109.png",
     "Excalidraw/Drawing 2025-04-18 13.30.29.excalidraw.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
