@@ -19,14 +19,15 @@ Caractérisation difficile :
 #### Parasitoïdes
 
 #### Araignées
+
 #### Gastéropodes
 
 #### Carabides
 
 #### Puçerons
 
-
 #### Plantes (adventices)
+
 
 ## ==PB Listes espèces, traits et tri des data==
 
@@ -38,7 +39,7 @@ Caractérisation difficile :
 - Info sur chorie (zoo, anemo, baro, etc) un peu lacunaire, ou trouver source utile ?????
 #### DB traits
 
-- Try c'est super mais y a masse de NA, pas tjrs la même fiabilité des résultats, un grooooos manque de légendes sur les catégories quand c'est du catégoriel notamment quand c'est catégorie "1" "2" ou "3" et qu'on a aucune info sur ce quoi c'est
+- Try c'est super mais y a masse de NA, pas tjrs la même fiabilité des résultats, un grooooos manque de commentaires/infos/descriptions sur les catégories quand c'est du catégoriel notamment quand c'est catégorie "1" "2" ou "3" et qu'on a aucune info sur ce quoi c'est
 - Refus de fourniture de data sur les 2 requètes différentes par privés (compréhensible mais un peu dommage)
 
 
@@ -57,5 +58,10 @@ Caractérisation difficile :
 
 #### Comparaisons / évaluation Classique vs Fx_continu ????
 
+- Pb de comparaison notamment sur le coté config pcq on peut faire analogie sur la plus petite distance euclidéenne (a priori) mais le path of least resistance risque de manquer d'élément de comparaison ? comment faire ? normaliser un indice classique et ce qu'on calcule là ? comment normaliser une distance entre 0 et 1 si on a théoriquement pas de distance max (sauf si on prends la taille totale du buffer / maille paysagère mais ca n'aurait pas d'intérêt pcq c'est arbitraire ? quelle constante appliquer pour faire notre seuil de distance maximale en PoLR entre 2 pics?)
+
 #### Manque trait / sp ? Pool trop petit ?
 
+- A partir de quel seuil virer des traits si trop de NA?
+- Si trop de traits virés pour assurer caractérisation habitat ET diet d'un taxon on fait quoi ? On remet des traits même si NA? mais dans ce cas on les utilise ou pas aussi pour les autres taxons à qui ca pourrait servir ? 
+- 
