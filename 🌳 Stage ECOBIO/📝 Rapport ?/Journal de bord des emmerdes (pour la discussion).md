@@ -34,9 +34,12 @@ Caractérisation difficile :
 #### Liste sp.
 
 - Espèces arbres / strate arborées par prise en compte dans les quadrats, que les plantules → **gros biais notamment pour présence et abondance **
+- On a les relevés adventices que pour les champs de blés hors les commus dans champs de colza et maïs risque d'être très différentes : on les pends en compte comment ? on assigne que ceux du blé à tous ? Pavel a proposé de check si nos sp dans blé d'hivers sont les mêmes que chez eux(Rep Czech), ce qui est imho peu probable et que si c'est proche on considère que ce sera aussi proche pour maïs/colza (biaisé de fou notamment différentes pédo-climatiques).
+- Autre pb, on prends pas en compte dans nos occsols de culture les ... cultures.... mais en même temps est-ce qu'on aura les traits qu'on veut pour ??? et surtout comme y a sélection sur cultures y a des groooosses disparités/différences entre variétés de la même espèces et les DBs de trait on quasi rien au niveau var/subsp donc on fait quoi ? On prends la moyenne "espèce blé, colza et maïs?" C'est p'tet biaisé mais j'trouve ca moins pire que d'ignorer tt la couverture réalisée par les différentes cultures.... Pis ca peut aussi fournir de la bouffe pour les granivores par ex...
 - Pb homogénéisatio nomenclature entre les différentes BDDs (try, baseflore, relevés quadrats internes...) grosse perte de temps pour faire correspondre tout (mtn j'utilise les noms et surtout les ID try pour faire la """"clé primaire""") 
 - Infos sur floraison dispo sur baseflor mais pas pour tout : besoin d'aller sur tela botanica mais pas tjrs les infos et encore une fois pb nomenclature → temps perdu
 - Info sur chorie (zoo, anemo, baro, etc) un peu lacunaire, ou trouver source utile ?????
+- 
 #### DB traits
 
 - Try c'est super mais y a masse de NA, pas tjrs la même fiabilité des résultats, un grooooos manque de commentaires/infos/descriptions sur les catégories quand c'est du catégoriel notamment quand c'est catégorie "1" "2" ou "3" et qu'on a aucune info sur ce quoi c'est
@@ -58,7 +61,7 @@ Caractérisation difficile :
 
 #### Comparaisons / évaluation Classique vs Fx_continu ????
 
-- Pb de comparaison notamment sur le coté config pcq on peut faire analogie sur la plus petite distance euclidéenne (a priori) mais le path of least resistance risque de manquer d'élément de comparaison ? comment faire ? normaliser un indice classique et ce qu'on calcule là ? comment normaliser une distance entre 0 et 1 si on a théoriquement pas de distance max (sauf si on prends la taille totale du buffer / maille paysagère mais ca n'aurait pas d'intérêt pcq c'est arbitraire ? quelle constante appliquer pour faire notre seuil de distance maximale en PoLR entre 2 pics?)
+- Pb de comparaison notamment sur le coté config pcq on peut faire analogie sur la plus petite distance euclidienne (a priori) mais le path of least resistance risque de manquer d'élément de comparaison ? comment faire ? normaliser un indice classique et ce qu'on calcule là ? comment normaliser une distance entre 0 et 1 si on a théoriquement pas de distance max (sauf si on prends la taille totale du buffer / maille paysagère mais ca n'aurait pas d'intérêt pcq c'est arbitraire ? quelle constante appliquer pour faire notre seuil de distance maximale en PoLR entre 2 pics?)
 
 #### Manque trait / sp ? Pool trop petit ?
 
