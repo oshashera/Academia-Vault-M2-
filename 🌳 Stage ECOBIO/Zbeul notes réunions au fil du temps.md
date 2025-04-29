@@ -1,4 +1,4 @@
-a
+a = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76
 
 
 
@@ -79,4 +79,13 @@ Autre cult encore + denses donc probablement que passeraient pas les seuils tt f
 Ajouter mix cérale / légu ?	
 On verra quand on aura le buffer réel en occsol ?
 Demander cendrine pour le paysage à quel point ils sont précis la boite de presta	
-Check sensi des seuils de abo
+Check sensi des seuils de abondance / présence ?
+
+
+| Seuils \ Nb sp finale | Forêt | Prairies | Haies | Adventices | Total  |
+| --------------------- | ----- | -------- | ----- | ---------- | ------ |
+| A5% / P5%             |       |          |       |            |        |
+| A4% / P4%             |       |          |       |            |        |
+| A3% / P3%             | 28 sp | 24       | 16    | 8          | 76<br> |
+| A2% / P2%             |       |          |       |            |        |
+| A1% / P1%             |       |          |       |            |        |
