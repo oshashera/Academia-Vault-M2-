@@ -86,7 +86,21 @@ Check sensi des seuils de abondance / présence ?
 | --------------------- | ----- | -------- | ----- | --------------- | ------ |
 | A5% / P5%             | 11    | 17       | 9     | 7 (cultures...) | 44     |
 | A4% / P4%             | 20    | 21       | 10    | 7 (cultures...) | 58     |
-| A3% / P3%             | 28    | 24       | 21    | 8               | 81<br> |
-| A2% / P2%             | 42    | 36       | 35    | 11              | 124    |
+| **A3% / P3%**             | **28**    | **24**       | **21**    | **8**               | **81<br>** |
+| **A2% / P2%**             | **42**    | **36**       | **35**    | **11**              | **124**    |
 | A1% / P1%             | 69    | 66       | 86    | 20              | 241    |
 Un seuil de 2 ou 3% semble le plus adapté (reste à savoir combien de Na on aurait avec ca dans les BDD de traits)
+
+\+ mail cendrine
+
+"Salut Thomas,
+
+Alors le chiffre et la lettre A-E correspondent au numéro de la maille et le numéro de la parcelle dans la maille; par contre après ce sont plusieurs quadrats dans la meme prairie (5 en tout) - pr les prairies, cela doit etre la meme chose pr les haies (5 quadrats par haie) 
+
+Pr les adventices tu dois avoir une étiquette du style: 1_83_C1 à 8 
+
+C1 à 10 ce sont les quadrats par parcelle que tu peux pooler pour avoir un quadrat global
+
+(en fait tu voudrais pas me renvoyer les matrices que je t'ai données ? je n'ai plus accès au drive car ce sont des outils google interdits en chine), cela me permettrait de te préciser les choses
+
+les valeurs sont en pourcentage donc 0.1 veut dire 0.1% 20= 20%"
