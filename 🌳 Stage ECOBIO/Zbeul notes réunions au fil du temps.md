@@ -92,7 +92,7 @@ Check sensi des seuils de abondance / présence ?
 Un seuil de 2 ou 3% semble le plus adapté (reste à savoir combien de Na on aurait avec ca dans les BDD de traits)
 
 \+ mail cendrine
-
+	
 "Salut Thomas,
 
 Alors le chiffre et la lettre A-E correspondent au numéro de la maille et le numéro de la parcelle dans la maille; par contre après ce sont plusieurs quadrats dans la meme prairie (5 en tout) - pr les prairies, cela doit etre la meme chose pr les haies (5 quadrats par haie) 
