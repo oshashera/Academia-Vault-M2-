@@ -84,7 +84,7 @@ Check sensi des seuils de abondance / présence ?
 
 | Seuils \ Nb sp finale | Forêt | Prairies | Haies | Adventices | Total  |
 | --------------------- | ----- | -------- | ----- | ---------- | ------ |
-| A5% / P5%             |       |          |       |            |        |
+| A5% / P5%             | 28    |          |       |            |        |
 | A4% / P4%             |       |          |       |            |        |
 | A3% / P3%             | 28 sp | 24       | 16    | 8          | 76<br> |
 | A2% / P2%             |       |          |       |            |        |
