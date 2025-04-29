@@ -1,4 +1,4 @@
-a = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76
+a = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 76 = 241
 
 
 
@@ -82,10 +82,11 @@ Demander cendrine pour le paysage à quel point ils sont précis la boite de pre
 Check sensi des seuils de abondance / présence ?
 
 
-| Seuils \ Nb sp finale | Forêt | Prairies | Haies | Adventices | Total  |
-| --------------------- | ----- | -------- | ----- | ---------- | ------ |
-| A5% / P5%             | 28    |          |       |            |        |
-| A4% / P4%             |       |          |       |            |        |
-| A3% / P3%             | 28 sp | 24       | 16    | 8          | 76<br> |
-| A2% / P2%             |       |          |       |            |        |
-| A1% / P1%             |       |          |       |            |        |
+| Seuils \ Nb sp finale | Forêt | Prairies | Haies | Adventices      | Total  |
+| --------------------- | ----- | -------- | ----- | --------------- | ------ |
+| A5% / P5%             | 11    | 17       | 9     | 7 (cultures...) | 44     |
+| A4% / P4%             | 20    | 21       | 10    | 7 (cultures...) | 58     |
+| A3% / P3%             | 28    | 24       | 21    | 8               | 81<br> |
+| A2% / P2%             | 42    | 36       | 35    | 11              | 124    |
+| A1% / P1%             | 69    | 66       | 86    | 20              | 241    |
+Un seuil de 2 ou 3% semble le plus adapté (reste à savoir combien de Na on aurait avec ca dans les BDD de traits)
