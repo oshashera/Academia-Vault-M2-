@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -215,8 +216,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🏡 Home.md",
+    "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Procédure Raster Tile etc ?.md",
+    "🏡 Home.md",
     "Séminaire Carabes (25-04-25).md",
     "Cours/🎓 Apport méthodologique/Statistiques approfondies/TP-TD/🟢 Projet statistiques.md",
     "Cours/🎓 Apport méthodologique/Statistiques approfondies/CM/🟢 Les modèles linéaires.md",
@@ -225,7 +227,6 @@
     "Excalidraw/Drawing 2025-04-24 11.10.56.excalidraw.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Mon M&M.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
-    "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
     "Images/Pasted image 20250423092320.png",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md",

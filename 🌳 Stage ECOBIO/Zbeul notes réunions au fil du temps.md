@@ -69,3 +69,13 @@ Sp rares ? → définir seuils pour Pba.presence et %abondance tel que :
 
 ==pas oublier compo
 quelle est la variabilité de nos traits (var et mean, ecart min max(5% les + bas ou haut), etc etc pour lensemble du paysage==t
+
+##### Réu 4/29/25 Cécile (30 min)
+
+Adventices : Très  peu abondant et présent même si diversifié donc justifie de garder cutoff	
+Demander sp	cultures (Orge???? Sarrasin, Pois, Févrole)
+Vérif tt les cultures existantes	
+Autre cult encore + denses donc probablement que passeraient pas les seuils tt façon	
+Ajouter mix cérale / légu ?	
+On verra quand on aura le buffer réel en occsol ?
+Demander cendrine pour le paysage à quel point ils sont précis la boite de presta	
