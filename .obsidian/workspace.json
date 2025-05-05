@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -215,6 +216,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/Carabes.md",
+    "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
@@ -225,7 +228,6 @@
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Getis heatmap + Djikstra ? (gpt).md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Procédure Raster Tile etc ?.md",
     "Thèses ?.md",
-    "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
     "Séminaire Carabes (25-04-25).md",
     "Cours/🎓 Apport méthodologique/Statistiques approfondies/TP-TD/🟢 Projet statistiques.md",
     "Cours/🎓 Apport méthodologique/Statistiques approfondies/CM/🟢 Les modèles linéaires.md",
@@ -252,7 +254,6 @@
     "🌳 Stage ECOBIO/Biodiv zbeul note.md",
     "Welcome into the waterscape (ca a changé le spiderverse whalla).md",
     "Carabes zbeul notes.md",
-    "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
     "Autre/A explorer pour le workflow.canvas",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?",
     "🌐📔-🌳 Écopédia",
