@@ -104,3 +104,12 @@ C1 à 10 ce sont les quadrats par parcelle que tu peux pooler pour avoir un quad
 (en fait tu voudrais pas me renvoyer les matrices que je t'ai données ? je n'ai plus accès au drive car ce sont des outils google interdits en chine), cela me permettrait de te préciser les choses
 
 les valeurs sont en pourcentage donc 0.1 veut dire 0.1% 20= 20%"
+
+
+
+
+
+Ok it did not really select the good ones for quali or quanti
+so
+here are the trait id for the quantitative : 18, 26, 27, 47, 59 (can be quali too but take only the quanti for now), 95 (also quali but only take the quanti ones), 96, 111, 129, 131,
+qualitative : 33, 112, 
