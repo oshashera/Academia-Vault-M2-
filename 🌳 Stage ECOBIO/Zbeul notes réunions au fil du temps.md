@@ -111,7 +111,5 @@ les valeurs sont en pourcentage donc 0.1 veut dire 0.1% 20= 20%"
 
 Ok it did not really select the good ones for quali or quanti
 Be careful that there aren't always a value in StdValue for the quanti, when that is the case, make the mean with the values in OrigValueStr
-So : here are the trait id for the quantitative : 18, 26, 27, 47, 59 (can be quali too but take only the quanti for now), 95 (also quali but only take the quanti ones), 96, 111, 129, 131, 215 (keep only quanti ones), 238, 239, 252, 410, 890, 1021, 1031, 1104, 1107, 2809, 2817,
-qualitative : 33, 112, 
-
- 3441   3568   3574   3579   3580   3636   NA's
+So : here are the trait id for the quantitative : 18, 26, 27, 47, 59 (can be quali too but take only the quanti for now), 95 (also quali but only take the quanti ones), 96, 111, 129, 131, 215 (keep only quanti ones), 238, 239, 252, 410, 890, 1021, 1031, 1104, 1107, 2809, 2817, 3441, 3568 (make 2 separate means : for the "DataName" column : "Flower size (diameter)" in one mean, and "Display size (flower size incl. flower head, e.g. Asteraceae)"), 3574, 3579, 3580, 3636
+and the qualitative : 33, 112,
