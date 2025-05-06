@@ -116,4 +116,4 @@ and the qualitative : 33, 112,
 
 
 
-129 et 
+129 et 3441 présente en théorie la même info mais grosse disparité si présent pour même plante, et bcp moins d'observations pour 3441 donc on garde 129 
