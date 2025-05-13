@@ -147,7 +147,12 @@ Prendre groupe taxo le + fiable en priorité
 
 
 Tirer richesse occsol par range (min-max) selon loi normale ?
-Tirer XX (100 ?) commu pour chaque occsol, avec ID | Trait aggrégé (cwm) | 
+Tirer XX (100 ?) commu pour chaque occsol, avec ID | Trait aggrégé (cwm) | trait aggégé 2
+Faire nb parcelle occsol sur buffer full
+
+Se focus sur 1 échelle pour l'instant (1Km ?)
+
+
 
 
 
