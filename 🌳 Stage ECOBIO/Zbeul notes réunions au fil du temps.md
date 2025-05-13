@@ -120,7 +120,7 @@ and the qualitative : 33, 112,
 
 
 
-
+#### Réu cendrine 13-05-25
 
 Raster OSO (occsol avec classes,  vérif typo classe à quel point c'est fin sur le type de forêt) 
 BD haies (buffer 5m large total (donc 10m pcq OSO est en rez 10m et on pourrait l'inclure en OSO))

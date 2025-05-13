@@ -4,10 +4,16 @@ cssclasses:
 banner: "![[1632213678884.jpg]]"
 banner_y: 0.5
 ---
-Pour le ==31 MARS== - Envoi de [[l'état d'avancement des travaux (rapport de mi-parcours)]], le plan détaillé du rapport, le titre définitif et la confidentialité du rapport et/ou de la soutenance au responsable de la mineure, à l’enseignant référent[1](#sdfootnote1sym) et au secrétariat pédagogique **au plus tard le 31 mars 2025**.
-    
 Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numérique (format pdf) du rapport à chaque membre du jury **au plus tard le lund 16 juin 2025**,
 
+A faire MERCREDI 14/05: 
+- [ ] 🔼 Finir intro (trouver article paysage fx en + de alignier)
+- [ ] ⏫ Export mes buffers (maison ?)
+- [ ] ⏫ Faire mon script selection communauté (cf [[Zbeul notes réunions au fil du temps#Réu cendrine 13-05-25|Réu cendrine Mer 13/5/25]])
+
+A faire Jeudi 15/05 :
+- [ ] 🔼  Finir intro
+- [ ] 🔽 Reprendre le M&M
 
 | Mois  | Semaine                                                                                      | Tâche(s)                                                        |
 | ----- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
