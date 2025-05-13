@@ -142,6 +142,14 @@ Vérif correlation entre les 11 traits à -25% pour réduire potentiellement
 
 Vérif dans taxon-trait qu'est ce qu'il reste et si on peut tjrs faire tt les taxons ou pas (si pas dire que pas possibles vàv des données)
 
+Prendre groupe taxo le + fiable en priorité 
+
+
+
+
+
+
+
 3 couches buffer 
 300
 750
