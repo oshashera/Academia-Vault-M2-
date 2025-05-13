@@ -122,10 +122,17 @@ and the qualitative : 33, 112,
 
 
 
-Raster OSO (occsol avec classes) (corinlandcover ????)
-Raster Haies ()
+Raster OSO (occsol avec classes,  vérif typo classe à quel point c'est fin sur le type de forêt) 
+BD haies (buffer 5m large total (donc 10m pcq OSO est en rez 10m et on pourrait l'inclure en OSO))
 Conservatoire bota brest carte prédictive habitats semi-naturels (cbn)
 Theia
+
+
+Regarder combien de patchs de forêt
+Afficher photo aérienne 
+
+**Demander à Ronan tt ses rasters au cas ou ????**
+
 
 
 
