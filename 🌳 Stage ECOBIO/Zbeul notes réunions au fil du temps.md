@@ -117,3 +117,20 @@ and the qualitative : 33, 112,
 
 
 129 et 3441 présente en théorie la même info mais grosse disparité si présent pour même plante, et bcp moins d'observations pour 3441 donc on garde 129 
+
+
+
+
+
+Raster OSO (occsol avec classes) (corinlandcover ????)
+Raster Haies ()
+Conservatoire bota brest carte prédictive habitats semi-naturels (cbn)
+Theia
+
+
+
+3 couches buffer 
+300
+750
+1000 m
+
