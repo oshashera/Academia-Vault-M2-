@@ -146,6 +146,10 @@ Prendre groupe taxo le + fiable en priorité
 
 
 
+Tirer richesse occsol par range (min-max) selon loi normale ?
+Tirer XX (100 ?) commu pour chaque occsol, avec ID | Trait aggrégé (cwm) | 
+
+
 
 
 
