@@ -133,8 +133,14 @@ Afficher photo aérienne
 
 **Demander à Ronan tt ses rasters au cas ou ????**
 
+Vérif correlation entre traits et on aura 1 trait - 1 taille de buffer => 1 raster
+
+Vérif correlation entre traits et 50% de Na (voir si certains prédisent des traits avec bcp de trous)
+
+Vérif correlation entre les 11 traits à -25% pour réduire potentiellement
 
 
+Vérif dans taxon-trait qu'est ce qu'il reste et si on peut tjrs faire tt les taxons ou pas (si pas dire que pas possibles vàv des données)
 
 3 couches buffer 
 300
