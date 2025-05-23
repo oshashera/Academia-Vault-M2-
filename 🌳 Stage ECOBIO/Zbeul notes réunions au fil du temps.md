@@ -164,3 +164,14 @@ Se focus sur 1 échelle pour l'instant (1Km ?)
 750
 1000 m
 
+
+
+
+
+|                         | Bois | Prairies | Haies | Adventices         |
+| ----------------------- | ---- | -------- | ----- | ------------------ |
+| Min nb sp par parcelles | 17   | 9        | 9     | 0 (1 avec culture) |
+| Max nb sp par parcelles | 58   | 37       | 41    | 25 (avec culture)  |
+Ok, mtn ce que je veux faire en gros c'est :
+
+j'ai mon tableau avec combien j'ai de parcelles par occsol (Summary_attribut_table), le tableau avec le min et max d'sp dans une parcelle par occsol.

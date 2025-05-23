@@ -511,9 +511,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-z-50,.tpfy-dialog .tpfy-z-50,.tpfy-toaster .tpfy-z-50,.tpfy-z-50:where(.tpfy-dialog,.tpfy-toaster) {
   z-index: 50;
 }
-.tpfy-view .tpfy-col-span-2,.tpfy-dialog .tpfy-col-span-2,.tpfy-toaster .tpfy-col-span-2,.tpfy-col-span-2:where(.tpfy-dialog,.tpfy-toaster) {
-  grid-column: span 2 / span 2;
-}
 .tpfy-view .tpfy--mx-1,.tpfy-dialog .tpfy--mx-1,.tpfy-toaster .tpfy--mx-1,.tpfy--mx-1:where(.tpfy-dialog,.tpfy-toaster) {
   margin-left: -0.25rem;
   margin-right: -0.25rem;
@@ -559,9 +556,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-mt-2,.tpfy-dialog .tpfy-mt-2,.tpfy-toaster .tpfy-mt-2,.tpfy-mt-2:where(.tpfy-dialog,.tpfy-toaster) {
   margin-top: 0.5rem;
 }
-.tpfy-view .tpfy-mt-4,.tpfy-dialog .tpfy-mt-4,.tpfy-toaster .tpfy-mt-4,.tpfy-mt-4:where(.tpfy-dialog,.tpfy-toaster) {
-  margin-top: 1rem;
-}
 .tpfy-view .tpfy-block,.tpfy-dialog .tpfy-block,.tpfy-toaster .tpfy-block,.tpfy-block:where(.tpfy-dialog,.tpfy-toaster) {
   display: block;
 }
@@ -587,15 +581,15 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .\!tpfy-h-5,.tpfy-dialog .\!tpfy-h-5,.tpfy-toaster .\!tpfy-h-5,.\!tpfy-h-5:where(.tpfy-dialog,.tpfy-toaster) {
   height: 1.25rem !important;
 }
+.tpfy-view .\!tpfy-h-8,.tpfy-dialog .\!tpfy-h-8,.tpfy-toaster .\!tpfy-h-8,.\!tpfy-h-8:where(.tpfy-dialog,.tpfy-toaster) {
+  height: 2rem !important;
+}
 .tpfy-view .\!tpfy-h-fit,.tpfy-dialog .\!tpfy-h-fit,.tpfy-toaster .\!tpfy-h-fit,.\!tpfy-h-fit:where(.tpfy-dialog,.tpfy-toaster) {
   height: -moz-fit-content !important;
   height: fit-content !important;
 }
 .tpfy-view .\!tpfy-h-full,.tpfy-dialog .\!tpfy-h-full,.tpfy-toaster .\!tpfy-h-full,.\!tpfy-h-full:where(.tpfy-dialog,.tpfy-toaster) {
   height: 100% !important;
-}
-.tpfy-view .tpfy-h-1\/2,.tpfy-dialog .tpfy-h-1\/2,.tpfy-toaster .tpfy-h-1\/2,.tpfy-h-1\/2:where(.tpfy-dialog,.tpfy-toaster) {
-  height: 50%;
 }
 .tpfy-view .tpfy-h-1\/3,.tpfy-dialog .tpfy-h-1\/3,.tpfy-toaster .tpfy-h-1\/3,.tpfy-h-1\/3:where(.tpfy-dialog,.tpfy-toaster) {
   height: 33.333333%;
@@ -608,9 +602,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-h-10,.tpfy-dialog .tpfy-h-10,.tpfy-toaster .tpfy-h-10,.tpfy-h-10:where(.tpfy-dialog,.tpfy-toaster) {
   height: 2.5rem;
-}
-.tpfy-view .tpfy-h-12,.tpfy-dialog .tpfy-h-12,.tpfy-toaster .tpfy-h-12,.tpfy-h-12:where(.tpfy-dialog,.tpfy-toaster) {
-  height: 3rem;
 }
 .tpfy-view .tpfy-h-16,.tpfy-dialog .tpfy-h-16,.tpfy-toaster .tpfy-h-16,.tpfy-h-16:where(.tpfy-dialog,.tpfy-toaster) {
   height: 4rem;
@@ -651,9 +642,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-h-48,.tpfy-dialog .tpfy-h-48,.tpfy-toaster .tpfy-h-48,.tpfy-h-48:where(.tpfy-dialog,.tpfy-toaster) {
   height: 12rem;
 }
-.tpfy-view .tpfy-h-5,.tpfy-dialog .tpfy-h-5,.tpfy-toaster .tpfy-h-5,.tpfy-h-5:where(.tpfy-dialog,.tpfy-toaster) {
-  height: 1.25rem;
-}
 .tpfy-view .tpfy-h-6,.tpfy-dialog .tpfy-h-6,.tpfy-toaster .tpfy-h-6,.tpfy-h-6:where(.tpfy-dialog,.tpfy-toaster) {
   height: 1.5rem;
 }
@@ -688,8 +676,8 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-max-h-96,.tpfy-dialog .tpfy-max-h-96,.tpfy-toaster .tpfy-max-h-96,.tpfy-max-h-96:where(.tpfy-dialog,.tpfy-toaster) {
   max-height: 24rem;
 }
-.tpfy-view .tpfy-max-h-\[1\/2\],.tpfy-dialog .tpfy-max-h-\[1\/2\],.tpfy-toaster .tpfy-max-h-\[1\/2\],.tpfy-max-h-\[1\/2\]:where(.tpfy-dialog,.tpfy-toaster) {
-  max-height: 1/2;
+.tpfy-view .tpfy-max-h-\[1\/3\],.tpfy-dialog .tpfy-max-h-\[1\/3\],.tpfy-toaster .tpfy-max-h-\[1\/3\],.tpfy-max-h-\[1\/3\]:where(.tpfy-dialog,.tpfy-toaster) {
+  max-height: 1/3;
 }
 .tpfy-view .tpfy-max-h-\[300px\],.tpfy-dialog .tpfy-max-h-\[300px\],.tpfy-toaster .tpfy-max-h-\[300px\],.tpfy-max-h-\[300px\]:where(.tpfy-dialog,.tpfy-toaster) {
   max-height: 300px;
@@ -717,6 +705,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .\!tpfy-w-48,.tpfy-dialog .\!tpfy-w-48,.tpfy-toaster .\!tpfy-w-48,.\!tpfy-w-48:where(.tpfy-dialog,.tpfy-toaster) {
   width: 12rem !important;
+}
+.tpfy-view .\!tpfy-w-8,.tpfy-dialog .\!tpfy-w-8,.tpfy-toaster .\!tpfy-w-8,.\!tpfy-w-8:where(.tpfy-dialog,.tpfy-toaster) {
+  width: 2rem !important;
 }
 .tpfy-view .\!tpfy-w-\[400px\],.tpfy-dialog .\!tpfy-w-\[400px\],.tpfy-toaster .\!tpfy-w-\[400px\],.\!tpfy-w-\[400px\]:where(.tpfy-dialog,.tpfy-toaster) {
   width: 400px !important;
@@ -769,6 +760,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-w-4,.tpfy-dialog .tpfy-w-4,.tpfy-toaster .tpfy-w-4,.tpfy-w-4:where(.tpfy-dialog,.tpfy-toaster) {
   width: 1rem;
 }
+.tpfy-view .tpfy-w-48,.tpfy-dialog .tpfy-w-48,.tpfy-toaster .tpfy-w-48,.tpfy-w-48:where(.tpfy-dialog,.tpfy-toaster) {
+  width: 12rem;
+}
 .tpfy-view .tpfy-w-5,.tpfy-dialog .tpfy-w-5,.tpfy-toaster .tpfy-w-5,.tpfy-w-5:where(.tpfy-dialog,.tpfy-toaster) {
   width: 1.25rem;
 }
@@ -780,6 +774,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-w-72,.tpfy-dialog .tpfy-w-72,.tpfy-toaster .tpfy-w-72,.tpfy-w-72:where(.tpfy-dialog,.tpfy-toaster) {
   width: 18rem;
+}
+.tpfy-view .tpfy-w-8,.tpfy-dialog .tpfy-w-8,.tpfy-toaster .tpfy-w-8,.tpfy-w-8:where(.tpfy-dialog,.tpfy-toaster) {
+  width: 2rem;
 }
 .tpfy-view .tpfy-w-80,.tpfy-dialog .tpfy-w-80,.tpfy-toaster .tpfy-w-80,.tpfy-w-80:where(.tpfy-dialog,.tpfy-toaster) {
   width: 20rem;
@@ -823,6 +820,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-max-w-56,.tpfy-dialog .tpfy-max-w-56,.tpfy-toaster .tpfy-max-w-56,.tpfy-max-w-56:where(.tpfy-dialog,.tpfy-toaster) {
   max-width: 14rem;
+}
+.tpfy-view .tpfy-max-w-\[200px\],.tpfy-dialog .tpfy-max-w-\[200px\],.tpfy-toaster .tpfy-max-w-\[200px\],.tpfy-max-w-\[200px\]:where(.tpfy-dialog,.tpfy-toaster) {
+  max-width: 200px;
 }
 .tpfy-view .tpfy-max-w-full,.tpfy-dialog .tpfy-max-w-full,.tpfy-toaster .tpfy-max-w-full,.tpfy-max-w-full:where(.tpfy-dialog,.tpfy-toaster) {
   max-width: 100%;
@@ -1061,6 +1061,10 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
   --tw-border-opacity: 1;
   border-color: rgb(12 74 110 / var(--tw-border-opacity, 1));
 }
+.tpfy-view .tpfy-border-stone-200,.tpfy-dialog .tpfy-border-stone-200,.tpfy-toaster .tpfy-border-stone-200,.tpfy-border-stone-200:where(.tpfy-dialog,.tpfy-toaster) {
+  --tw-border-opacity: 1;
+  border-color: rgb(231 229 228 / var(--tw-border-opacity, 1));
+}
 .tpfy-view .tpfy-border-stone-300,.tpfy-dialog .tpfy-border-stone-300,.tpfy-toaster .tpfy-border-stone-300,.tpfy-border-stone-300:where(.tpfy-dialog,.tpfy-toaster) {
   --tw-border-opacity: 1;
   border-color: rgb(214 211 209 / var(--tw-border-opacity, 1));
@@ -1194,20 +1198,11 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-bg-zinc-50\/90,.tpfy-dialog .tpfy-bg-zinc-50\/90,.tpfy-toaster .tpfy-bg-zinc-50\/90,.tpfy-bg-zinc-50\/90:where(.tpfy-dialog,.tpfy-toaster) {
   background-color: rgb(250 250 250 / 0.9);
 }
-.tpfy-view .tpfy-bg-cover,.tpfy-dialog .tpfy-bg-cover,.tpfy-toaster .tpfy-bg-cover,.tpfy-bg-cover:where(.tpfy-dialog,.tpfy-toaster) {
-  background-size: cover;
-}
-.tpfy-view .tpfy-bg-center,.tpfy-dialog .tpfy-bg-center,.tpfy-toaster .tpfy-bg-center,.tpfy-bg-center:where(.tpfy-dialog,.tpfy-toaster) {
-  background-position: center;
-}
 .tpfy-view .tpfy-fill-current,.tpfy-dialog .tpfy-fill-current,.tpfy-toaster .tpfy-fill-current,.tpfy-fill-current:where(.tpfy-dialog,.tpfy-toaster) {
   fill: currentColor;
 }
 .tpfy-view .\!tpfy-p-0,.tpfy-dialog .\!tpfy-p-0,.tpfy-toaster .\!tpfy-p-0,.\!tpfy-p-0:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 0px !important;
-}
-.tpfy-view .\!tpfy-p-0\.5,.tpfy-dialog .\!tpfy-p-0\.5,.tpfy-toaster .\!tpfy-p-0\.5,.\!tpfy-p-0\.5:where(.tpfy-dialog,.tpfy-toaster) {
-  padding: 0.125rem !important;
 }
 .tpfy-view .tpfy-p-0,.tpfy-dialog .tpfy-p-0,.tpfy-toaster .tpfy-p-0,.tpfy-p-0:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 0px;
@@ -1223,6 +1218,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-p-4,.tpfy-dialog .tpfy-p-4,.tpfy-toaster .tpfy-p-4,.tpfy-p-4:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 1rem;
+}
+.tpfy-view .tpfy-p-5,.tpfy-dialog .tpfy-p-5,.tpfy-toaster .tpfy-p-5,.tpfy-p-5:where(.tpfy-dialog,.tpfy-toaster) {
+  padding: 1.25rem;
 }
 .tpfy-view .tpfy-p-6,.tpfy-dialog .tpfy-p-6,.tpfy-toaster .tpfy-p-6,.tpfy-p-6:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 1.5rem;
@@ -1257,6 +1255,10 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-px-8,.tpfy-dialog .tpfy-px-8,.tpfy-toaster .tpfy-px-8,.tpfy-px-8:where(.tpfy-dialog,.tpfy-toaster) {
   padding-left: 2rem;
   padding-right: 2rem;
+}
+.tpfy-view .tpfy-py-0,.tpfy-dialog .tpfy-py-0,.tpfy-toaster .tpfy-py-0,.tpfy-py-0:where(.tpfy-dialog,.tpfy-toaster) {
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .tpfy-view .tpfy-py-0\.5,.tpfy-dialog .tpfy-py-0\.5,.tpfy-toaster .tpfy-py-0\.5,.tpfy-py-0\.5:where(.tpfy-dialog,.tpfy-toaster) {
   padding-top: 0.125rem;
@@ -1425,9 +1427,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-opacity-70,.tpfy-dialog .tpfy-opacity-70,.tpfy-toaster .tpfy-opacity-70,.tpfy-opacity-70:where(.tpfy-dialog,.tpfy-toaster) {
   opacity: 0.7;
 }
-.tpfy-view .tpfy-bg-blend-normal,.tpfy-dialog .tpfy-bg-blend-normal,.tpfy-toaster .tpfy-bg-blend-normal,.tpfy-bg-blend-normal:where(.tpfy-dialog,.tpfy-toaster) {
-  background-blend-mode: normal;
-}
 .tpfy-view .\!tpfy-shadow-none,.tpfy-dialog .\!tpfy-shadow-none,.tpfy-toaster .\!tpfy-shadow-none,.\!tpfy-shadow-none:where(.tpfy-dialog,.tpfy-toaster) {
   --tw-shadow: 0 0 #0000 !important;
   --tw-shadow-colored: 0 0 #0000 !important;
@@ -1461,6 +1460,14 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-outline-none,.tpfy-dialog .tpfy-outline-none,.tpfy-toaster .tpfy-outline-none,.tpfy-outline-none:where(.tpfy-dialog,.tpfy-toaster) {
   outline: 2px solid transparent;
   outline-offset: 2px;
+}
+.tpfy-view .tpfy-ring-2,.tpfy-dialog .tpfy-ring-2,.tpfy-toaster .tpfy-ring-2,.tpfy-ring-2:where(.tpfy-dialog,.tpfy-toaster) {
+  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
+}
+.tpfy-view .tpfy-ring-primary,.tpfy-dialog .tpfy-ring-primary,.tpfy-toaster .tpfy-ring-primary,.tpfy-ring-primary:where(.tpfy-dialog,.tpfy-toaster) {
+  --tw-ring-color: hsl(var(--primary));
 }
 .tpfy-view .tpfy-ring-offset-background,.tpfy-dialog .tpfy-ring-offset-background,.tpfy-toaster .tpfy-ring-offset-background,.tpfy-ring-offset-background:where(.tpfy-dialog,.tpfy-toaster) {
   --tw-ring-offset-color: hsl(var(--background));
@@ -1705,7 +1712,12 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .block-language-templify .tpfy-content .workspace-leaf {
   height: 50vh;
 }
-.block-language-templify .hide-header .view-header {
+.block-language-templify .hide-header .view-header,
+.tpfy-view .react-grid-item .hide-header .view-header,
+.tpfy-dialog .react-grid-item .hide-header .view-header,
+.tpfy-toaster .react-grid-item .hide-header .view-header,
+.react-grid-item .hide-header .view-header:where(.tpfy-dialog,.tpfy-toaster),
+.templify .hide-header .view-header {
   display: none;
 }
 .tpfy-view .react-grid-layout .tpfy-content .cm-scroller,.tpfy-dialog .react-grid-layout .tpfy-content .cm-scroller,.tpfy-toaster .react-grid-layout .tpfy-content .cm-scroller,.react-grid-layout .tpfy-content .cm-scroller:where(.tpfy-dialog,.tpfy-toaster),.block-language-templify .tpfy-content .cm-scroller {
@@ -2886,9 +2898,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-z-50,.tpfy-dialog .tpfy-z-50,.tpfy-toaster .tpfy-z-50,.tpfy-z-50:where(.tpfy-dialog,.tpfy-toaster) {
   z-index: 50;
 }
-.tpfy-view .tpfy-col-span-2,.tpfy-dialog .tpfy-col-span-2,.tpfy-toaster .tpfy-col-span-2,.tpfy-col-span-2:where(.tpfy-dialog,.tpfy-toaster) {
-  grid-column: span 2 / span 2;
-}
 .tpfy-view .tpfy--mx-1,.tpfy-dialog .tpfy--mx-1,.tpfy-toaster .tpfy--mx-1,.tpfy--mx-1:where(.tpfy-dialog,.tpfy-toaster) {
   margin-left: -0.25rem;
   margin-right: -0.25rem;
@@ -2934,9 +2943,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-mt-2,.tpfy-dialog .tpfy-mt-2,.tpfy-toaster .tpfy-mt-2,.tpfy-mt-2:where(.tpfy-dialog,.tpfy-toaster) {
   margin-top: 0.5rem;
 }
-.tpfy-view .tpfy-mt-4,.tpfy-dialog .tpfy-mt-4,.tpfy-toaster .tpfy-mt-4,.tpfy-mt-4:where(.tpfy-dialog,.tpfy-toaster) {
-  margin-top: 1rem;
-}
 .tpfy-view .tpfy-block,.tpfy-dialog .tpfy-block,.tpfy-toaster .tpfy-block,.tpfy-block:where(.tpfy-dialog,.tpfy-toaster) {
   display: block;
 }
@@ -2962,15 +2968,15 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .\!tpfy-h-5,.tpfy-dialog .\!tpfy-h-5,.tpfy-toaster .\!tpfy-h-5,.\!tpfy-h-5:where(.tpfy-dialog,.tpfy-toaster) {
   height: 1.25rem !important;
 }
+.tpfy-view .\!tpfy-h-8,.tpfy-dialog .\!tpfy-h-8,.tpfy-toaster .\!tpfy-h-8,.\!tpfy-h-8:where(.tpfy-dialog,.tpfy-toaster) {
+  height: 2rem !important;
+}
 .tpfy-view .\!tpfy-h-fit,.tpfy-dialog .\!tpfy-h-fit,.tpfy-toaster .\!tpfy-h-fit,.\!tpfy-h-fit:where(.tpfy-dialog,.tpfy-toaster) {
   height: -moz-fit-content !important;
   height: fit-content !important;
 }
 .tpfy-view .\!tpfy-h-full,.tpfy-dialog .\!tpfy-h-full,.tpfy-toaster .\!tpfy-h-full,.\!tpfy-h-full:where(.tpfy-dialog,.tpfy-toaster) {
   height: 100% !important;
-}
-.tpfy-view .tpfy-h-1\/2,.tpfy-dialog .tpfy-h-1\/2,.tpfy-toaster .tpfy-h-1\/2,.tpfy-h-1\/2:where(.tpfy-dialog,.tpfy-toaster) {
-  height: 50%;
 }
 .tpfy-view .tpfy-h-1\/3,.tpfy-dialog .tpfy-h-1\/3,.tpfy-toaster .tpfy-h-1\/3,.tpfy-h-1\/3:where(.tpfy-dialog,.tpfy-toaster) {
   height: 33.333333%;
@@ -2983,9 +2989,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-h-10,.tpfy-dialog .tpfy-h-10,.tpfy-toaster .tpfy-h-10,.tpfy-h-10:where(.tpfy-dialog,.tpfy-toaster) {
   height: 2.5rem;
-}
-.tpfy-view .tpfy-h-12,.tpfy-dialog .tpfy-h-12,.tpfy-toaster .tpfy-h-12,.tpfy-h-12:where(.tpfy-dialog,.tpfy-toaster) {
-  height: 3rem;
 }
 .tpfy-view .tpfy-h-16,.tpfy-dialog .tpfy-h-16,.tpfy-toaster .tpfy-h-16,.tpfy-h-16:where(.tpfy-dialog,.tpfy-toaster) {
   height: 4rem;
@@ -3026,9 +3029,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-h-48,.tpfy-dialog .tpfy-h-48,.tpfy-toaster .tpfy-h-48,.tpfy-h-48:where(.tpfy-dialog,.tpfy-toaster) {
   height: 12rem;
 }
-.tpfy-view .tpfy-h-5,.tpfy-dialog .tpfy-h-5,.tpfy-toaster .tpfy-h-5,.tpfy-h-5:where(.tpfy-dialog,.tpfy-toaster) {
-  height: 1.25rem;
-}
 .tpfy-view .tpfy-h-6,.tpfy-dialog .tpfy-h-6,.tpfy-toaster .tpfy-h-6,.tpfy-h-6:where(.tpfy-dialog,.tpfy-toaster) {
   height: 1.5rem;
 }
@@ -3063,8 +3063,8 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-max-h-96,.tpfy-dialog .tpfy-max-h-96,.tpfy-toaster .tpfy-max-h-96,.tpfy-max-h-96:where(.tpfy-dialog,.tpfy-toaster) {
   max-height: 24rem;
 }
-.tpfy-view .tpfy-max-h-\[1\/2\],.tpfy-dialog .tpfy-max-h-\[1\/2\],.tpfy-toaster .tpfy-max-h-\[1\/2\],.tpfy-max-h-\[1\/2\]:where(.tpfy-dialog,.tpfy-toaster) {
-  max-height: 1/2;
+.tpfy-view .tpfy-max-h-\[1\/3\],.tpfy-dialog .tpfy-max-h-\[1\/3\],.tpfy-toaster .tpfy-max-h-\[1\/3\],.tpfy-max-h-\[1\/3\]:where(.tpfy-dialog,.tpfy-toaster) {
+  max-height: 1/3;
 }
 .tpfy-view .tpfy-max-h-\[300px\],.tpfy-dialog .tpfy-max-h-\[300px\],.tpfy-toaster .tpfy-max-h-\[300px\],.tpfy-max-h-\[300px\]:where(.tpfy-dialog,.tpfy-toaster) {
   max-height: 300px;
@@ -3092,6 +3092,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .\!tpfy-w-48,.tpfy-dialog .\!tpfy-w-48,.tpfy-toaster .\!tpfy-w-48,.\!tpfy-w-48:where(.tpfy-dialog,.tpfy-toaster) {
   width: 12rem !important;
+}
+.tpfy-view .\!tpfy-w-8,.tpfy-dialog .\!tpfy-w-8,.tpfy-toaster .\!tpfy-w-8,.\!tpfy-w-8:where(.tpfy-dialog,.tpfy-toaster) {
+  width: 2rem !important;
 }
 .tpfy-view .\!tpfy-w-\[400px\],.tpfy-dialog .\!tpfy-w-\[400px\],.tpfy-toaster .\!tpfy-w-\[400px\],.\!tpfy-w-\[400px\]:where(.tpfy-dialog,.tpfy-toaster) {
   width: 400px !important;
@@ -3144,6 +3147,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-w-4,.tpfy-dialog .tpfy-w-4,.tpfy-toaster .tpfy-w-4,.tpfy-w-4:where(.tpfy-dialog,.tpfy-toaster) {
   width: 1rem;
 }
+.tpfy-view .tpfy-w-48,.tpfy-dialog .tpfy-w-48,.tpfy-toaster .tpfy-w-48,.tpfy-w-48:where(.tpfy-dialog,.tpfy-toaster) {
+  width: 12rem;
+}
 .tpfy-view .tpfy-w-5,.tpfy-dialog .tpfy-w-5,.tpfy-toaster .tpfy-w-5,.tpfy-w-5:where(.tpfy-dialog,.tpfy-toaster) {
   width: 1.25rem;
 }
@@ -3155,6 +3161,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-w-72,.tpfy-dialog .tpfy-w-72,.tpfy-toaster .tpfy-w-72,.tpfy-w-72:where(.tpfy-dialog,.tpfy-toaster) {
   width: 18rem;
+}
+.tpfy-view .tpfy-w-8,.tpfy-dialog .tpfy-w-8,.tpfy-toaster .tpfy-w-8,.tpfy-w-8:where(.tpfy-dialog,.tpfy-toaster) {
+  width: 2rem;
 }
 .tpfy-view .tpfy-w-80,.tpfy-dialog .tpfy-w-80,.tpfy-toaster .tpfy-w-80,.tpfy-w-80:where(.tpfy-dialog,.tpfy-toaster) {
   width: 20rem;
@@ -3198,6 +3207,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-max-w-56,.tpfy-dialog .tpfy-max-w-56,.tpfy-toaster .tpfy-max-w-56,.tpfy-max-w-56:where(.tpfy-dialog,.tpfy-toaster) {
   max-width: 14rem;
+}
+.tpfy-view .tpfy-max-w-\[200px\],.tpfy-dialog .tpfy-max-w-\[200px\],.tpfy-toaster .tpfy-max-w-\[200px\],.tpfy-max-w-\[200px\]:where(.tpfy-dialog,.tpfy-toaster) {
+  max-width: 200px;
 }
 .tpfy-view .tpfy-max-w-full,.tpfy-dialog .tpfy-max-w-full,.tpfy-toaster .tpfy-max-w-full,.tpfy-max-w-full:where(.tpfy-dialog,.tpfy-toaster) {
   max-width: 100%;
@@ -3436,6 +3448,10 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
   --tw-border-opacity: 1;
   border-color: rgb(12 74 110 / var(--tw-border-opacity, 1));
 }
+.tpfy-view .tpfy-border-stone-200,.tpfy-dialog .tpfy-border-stone-200,.tpfy-toaster .tpfy-border-stone-200,.tpfy-border-stone-200:where(.tpfy-dialog,.tpfy-toaster) {
+  --tw-border-opacity: 1;
+  border-color: rgb(231 229 228 / var(--tw-border-opacity, 1));
+}
 .tpfy-view .tpfy-border-stone-300,.tpfy-dialog .tpfy-border-stone-300,.tpfy-toaster .tpfy-border-stone-300,.tpfy-border-stone-300:where(.tpfy-dialog,.tpfy-toaster) {
   --tw-border-opacity: 1;
   border-color: rgb(214 211 209 / var(--tw-border-opacity, 1));
@@ -3569,20 +3585,11 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-bg-zinc-50\/90,.tpfy-dialog .tpfy-bg-zinc-50\/90,.tpfy-toaster .tpfy-bg-zinc-50\/90,.tpfy-bg-zinc-50\/90:where(.tpfy-dialog,.tpfy-toaster) {
   background-color: rgb(250 250 250 / 0.9);
 }
-.tpfy-view .tpfy-bg-cover,.tpfy-dialog .tpfy-bg-cover,.tpfy-toaster .tpfy-bg-cover,.tpfy-bg-cover:where(.tpfy-dialog,.tpfy-toaster) {
-  background-size: cover;
-}
-.tpfy-view .tpfy-bg-center,.tpfy-dialog .tpfy-bg-center,.tpfy-toaster .tpfy-bg-center,.tpfy-bg-center:where(.tpfy-dialog,.tpfy-toaster) {
-  background-position: center;
-}
 .tpfy-view .tpfy-fill-current,.tpfy-dialog .tpfy-fill-current,.tpfy-toaster .tpfy-fill-current,.tpfy-fill-current:where(.tpfy-dialog,.tpfy-toaster) {
   fill: currentColor;
 }
 .tpfy-view .\!tpfy-p-0,.tpfy-dialog .\!tpfy-p-0,.tpfy-toaster .\!tpfy-p-0,.\!tpfy-p-0:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 0px !important;
-}
-.tpfy-view .\!tpfy-p-0\.5,.tpfy-dialog .\!tpfy-p-0\.5,.tpfy-toaster .\!tpfy-p-0\.5,.\!tpfy-p-0\.5:where(.tpfy-dialog,.tpfy-toaster) {
-  padding: 0.125rem !important;
 }
 .tpfy-view .tpfy-p-0,.tpfy-dialog .tpfy-p-0,.tpfy-toaster .tpfy-p-0,.tpfy-p-0:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 0px;
@@ -3598,6 +3605,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-p-4,.tpfy-dialog .tpfy-p-4,.tpfy-toaster .tpfy-p-4,.tpfy-p-4:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 1rem;
+}
+.tpfy-view .tpfy-p-5,.tpfy-dialog .tpfy-p-5,.tpfy-toaster .tpfy-p-5,.tpfy-p-5:where(.tpfy-dialog,.tpfy-toaster) {
+  padding: 1.25rem;
 }
 .tpfy-view .tpfy-p-6,.tpfy-dialog .tpfy-p-6,.tpfy-toaster .tpfy-p-6,.tpfy-p-6:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 1.5rem;
@@ -3632,6 +3642,10 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-px-8,.tpfy-dialog .tpfy-px-8,.tpfy-toaster .tpfy-px-8,.tpfy-px-8:where(.tpfy-dialog,.tpfy-toaster) {
   padding-left: 2rem;
   padding-right: 2rem;
+}
+.tpfy-view .tpfy-py-0,.tpfy-dialog .tpfy-py-0,.tpfy-toaster .tpfy-py-0,.tpfy-py-0:where(.tpfy-dialog,.tpfy-toaster) {
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .tpfy-view .tpfy-py-0\.5,.tpfy-dialog .tpfy-py-0\.5,.tpfy-toaster .tpfy-py-0\.5,.tpfy-py-0\.5:where(.tpfy-dialog,.tpfy-toaster) {
   padding-top: 0.125rem;
@@ -3800,9 +3814,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-opacity-70,.tpfy-dialog .tpfy-opacity-70,.tpfy-toaster .tpfy-opacity-70,.tpfy-opacity-70:where(.tpfy-dialog,.tpfy-toaster) {
   opacity: 0.7;
 }
-.tpfy-view .tpfy-bg-blend-normal,.tpfy-dialog .tpfy-bg-blend-normal,.tpfy-toaster .tpfy-bg-blend-normal,.tpfy-bg-blend-normal:where(.tpfy-dialog,.tpfy-toaster) {
-  background-blend-mode: normal;
-}
 .tpfy-view .\!tpfy-shadow-none,.tpfy-dialog .\!tpfy-shadow-none,.tpfy-toaster .\!tpfy-shadow-none,.\!tpfy-shadow-none:where(.tpfy-dialog,.tpfy-toaster) {
   --tw-shadow: 0 0 #0000 !important;
   --tw-shadow-colored: 0 0 #0000 !important;
@@ -3836,6 +3847,14 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-outline-none,.tpfy-dialog .tpfy-outline-none,.tpfy-toaster .tpfy-outline-none,.tpfy-outline-none:where(.tpfy-dialog,.tpfy-toaster) {
   outline: 2px solid transparent;
   outline-offset: 2px;
+}
+.tpfy-view .tpfy-ring-2,.tpfy-dialog .tpfy-ring-2,.tpfy-toaster .tpfy-ring-2,.tpfy-ring-2:where(.tpfy-dialog,.tpfy-toaster) {
+  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
+}
+.tpfy-view .tpfy-ring-primary,.tpfy-dialog .tpfy-ring-primary,.tpfy-toaster .tpfy-ring-primary,.tpfy-ring-primary:where(.tpfy-dialog,.tpfy-toaster) {
+  --tw-ring-color: hsl(var(--primary));
 }
 .tpfy-view .tpfy-ring-offset-background,.tpfy-dialog .tpfy-ring-offset-background,.tpfy-toaster .tpfy-ring-offset-background,.tpfy-ring-offset-background:where(.tpfy-dialog,.tpfy-toaster) {
   --tw-ring-offset-color: hsl(var(--background));
@@ -5082,9 +5101,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-z-50,.tpfy-dialog .tpfy-z-50,.tpfy-toaster .tpfy-z-50,.tpfy-z-50:where(.tpfy-dialog,.tpfy-toaster) {
   z-index: 50;
 }
-.tpfy-view .tpfy-col-span-2,.tpfy-dialog .tpfy-col-span-2,.tpfy-toaster .tpfy-col-span-2,.tpfy-col-span-2:where(.tpfy-dialog,.tpfy-toaster) {
-  grid-column: span 2 / span 2;
-}
 .tpfy-view .tpfy--mx-1,.tpfy-dialog .tpfy--mx-1,.tpfy-toaster .tpfy--mx-1,.tpfy--mx-1:where(.tpfy-dialog,.tpfy-toaster) {
   margin-left: -0.25rem;
   margin-right: -0.25rem;
@@ -5130,9 +5146,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-mt-2,.tpfy-dialog .tpfy-mt-2,.tpfy-toaster .tpfy-mt-2,.tpfy-mt-2:where(.tpfy-dialog,.tpfy-toaster) {
   margin-top: 0.5rem;
 }
-.tpfy-view .tpfy-mt-4,.tpfy-dialog .tpfy-mt-4,.tpfy-toaster .tpfy-mt-4,.tpfy-mt-4:where(.tpfy-dialog,.tpfy-toaster) {
-  margin-top: 1rem;
-}
 .tpfy-view .tpfy-block,.tpfy-dialog .tpfy-block,.tpfy-toaster .tpfy-block,.tpfy-block:where(.tpfy-dialog,.tpfy-toaster) {
   display: block;
 }
@@ -5158,15 +5171,15 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .\!tpfy-h-5,.tpfy-dialog .\!tpfy-h-5,.tpfy-toaster .\!tpfy-h-5,.\!tpfy-h-5:where(.tpfy-dialog,.tpfy-toaster) {
   height: 1.25rem !important;
 }
+.tpfy-view .\!tpfy-h-8,.tpfy-dialog .\!tpfy-h-8,.tpfy-toaster .\!tpfy-h-8,.\!tpfy-h-8:where(.tpfy-dialog,.tpfy-toaster) {
+  height: 2rem !important;
+}
 .tpfy-view .\!tpfy-h-fit,.tpfy-dialog .\!tpfy-h-fit,.tpfy-toaster .\!tpfy-h-fit,.\!tpfy-h-fit:where(.tpfy-dialog,.tpfy-toaster) {
   height: -moz-fit-content !important;
   height: fit-content !important;
 }
 .tpfy-view .\!tpfy-h-full,.tpfy-dialog .\!tpfy-h-full,.tpfy-toaster .\!tpfy-h-full,.\!tpfy-h-full:where(.tpfy-dialog,.tpfy-toaster) {
   height: 100% !important;
-}
-.tpfy-view .tpfy-h-1\/2,.tpfy-dialog .tpfy-h-1\/2,.tpfy-toaster .tpfy-h-1\/2,.tpfy-h-1\/2:where(.tpfy-dialog,.tpfy-toaster) {
-  height: 50%;
 }
 .tpfy-view .tpfy-h-1\/3,.tpfy-dialog .tpfy-h-1\/3,.tpfy-toaster .tpfy-h-1\/3,.tpfy-h-1\/3:where(.tpfy-dialog,.tpfy-toaster) {
   height: 33.333333%;
@@ -5179,9 +5192,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-h-10,.tpfy-dialog .tpfy-h-10,.tpfy-toaster .tpfy-h-10,.tpfy-h-10:where(.tpfy-dialog,.tpfy-toaster) {
   height: 2.5rem;
-}
-.tpfy-view .tpfy-h-12,.tpfy-dialog .tpfy-h-12,.tpfy-toaster .tpfy-h-12,.tpfy-h-12:where(.tpfy-dialog,.tpfy-toaster) {
-  height: 3rem;
 }
 .tpfy-view .tpfy-h-16,.tpfy-dialog .tpfy-h-16,.tpfy-toaster .tpfy-h-16,.tpfy-h-16:where(.tpfy-dialog,.tpfy-toaster) {
   height: 4rem;
@@ -5222,9 +5232,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-h-48,.tpfy-dialog .tpfy-h-48,.tpfy-toaster .tpfy-h-48,.tpfy-h-48:where(.tpfy-dialog,.tpfy-toaster) {
   height: 12rem;
 }
-.tpfy-view .tpfy-h-5,.tpfy-dialog .tpfy-h-5,.tpfy-toaster .tpfy-h-5,.tpfy-h-5:where(.tpfy-dialog,.tpfy-toaster) {
-  height: 1.25rem;
-}
 .tpfy-view .tpfy-h-6,.tpfy-dialog .tpfy-h-6,.tpfy-toaster .tpfy-h-6,.tpfy-h-6:where(.tpfy-dialog,.tpfy-toaster) {
   height: 1.5rem;
 }
@@ -5259,8 +5266,8 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-max-h-96,.tpfy-dialog .tpfy-max-h-96,.tpfy-toaster .tpfy-max-h-96,.tpfy-max-h-96:where(.tpfy-dialog,.tpfy-toaster) {
   max-height: 24rem;
 }
-.tpfy-view .tpfy-max-h-\[1\/2\],.tpfy-dialog .tpfy-max-h-\[1\/2\],.tpfy-toaster .tpfy-max-h-\[1\/2\],.tpfy-max-h-\[1\/2\]:where(.tpfy-dialog,.tpfy-toaster) {
-  max-height: 1/2;
+.tpfy-view .tpfy-max-h-\[1\/3\],.tpfy-dialog .tpfy-max-h-\[1\/3\],.tpfy-toaster .tpfy-max-h-\[1\/3\],.tpfy-max-h-\[1\/3\]:where(.tpfy-dialog,.tpfy-toaster) {
+  max-height: 1/3;
 }
 .tpfy-view .tpfy-max-h-\[300px\],.tpfy-dialog .tpfy-max-h-\[300px\],.tpfy-toaster .tpfy-max-h-\[300px\],.tpfy-max-h-\[300px\]:where(.tpfy-dialog,.tpfy-toaster) {
   max-height: 300px;
@@ -5288,6 +5295,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .\!tpfy-w-48,.tpfy-dialog .\!tpfy-w-48,.tpfy-toaster .\!tpfy-w-48,.\!tpfy-w-48:where(.tpfy-dialog,.tpfy-toaster) {
   width: 12rem !important;
+}
+.tpfy-view .\!tpfy-w-8,.tpfy-dialog .\!tpfy-w-8,.tpfy-toaster .\!tpfy-w-8,.\!tpfy-w-8:where(.tpfy-dialog,.tpfy-toaster) {
+  width: 2rem !important;
 }
 .tpfy-view .\!tpfy-w-\[400px\],.tpfy-dialog .\!tpfy-w-\[400px\],.tpfy-toaster .\!tpfy-w-\[400px\],.\!tpfy-w-\[400px\]:where(.tpfy-dialog,.tpfy-toaster) {
   width: 400px !important;
@@ -5340,6 +5350,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-w-4,.tpfy-dialog .tpfy-w-4,.tpfy-toaster .tpfy-w-4,.tpfy-w-4:where(.tpfy-dialog,.tpfy-toaster) {
   width: 1rem;
 }
+.tpfy-view .tpfy-w-48,.tpfy-dialog .tpfy-w-48,.tpfy-toaster .tpfy-w-48,.tpfy-w-48:where(.tpfy-dialog,.tpfy-toaster) {
+  width: 12rem;
+}
 .tpfy-view .tpfy-w-5,.tpfy-dialog .tpfy-w-5,.tpfy-toaster .tpfy-w-5,.tpfy-w-5:where(.tpfy-dialog,.tpfy-toaster) {
   width: 1.25rem;
 }
@@ -5351,6 +5364,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-w-72,.tpfy-dialog .tpfy-w-72,.tpfy-toaster .tpfy-w-72,.tpfy-w-72:where(.tpfy-dialog,.tpfy-toaster) {
   width: 18rem;
+}
+.tpfy-view .tpfy-w-8,.tpfy-dialog .tpfy-w-8,.tpfy-toaster .tpfy-w-8,.tpfy-w-8:where(.tpfy-dialog,.tpfy-toaster) {
+  width: 2rem;
 }
 .tpfy-view .tpfy-w-80,.tpfy-dialog .tpfy-w-80,.tpfy-toaster .tpfy-w-80,.tpfy-w-80:where(.tpfy-dialog,.tpfy-toaster) {
   width: 20rem;
@@ -5394,6 +5410,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-max-w-56,.tpfy-dialog .tpfy-max-w-56,.tpfy-toaster .tpfy-max-w-56,.tpfy-max-w-56:where(.tpfy-dialog,.tpfy-toaster) {
   max-width: 14rem;
+}
+.tpfy-view .tpfy-max-w-\[200px\],.tpfy-dialog .tpfy-max-w-\[200px\],.tpfy-toaster .tpfy-max-w-\[200px\],.tpfy-max-w-\[200px\]:where(.tpfy-dialog,.tpfy-toaster) {
+  max-width: 200px;
 }
 .tpfy-view .tpfy-max-w-full,.tpfy-dialog .tpfy-max-w-full,.tpfy-toaster .tpfy-max-w-full,.tpfy-max-w-full:where(.tpfy-dialog,.tpfy-toaster) {
   max-width: 100%;
@@ -5632,6 +5651,10 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
   --tw-border-opacity: 1;
   border-color: rgb(12 74 110 / var(--tw-border-opacity, 1));
 }
+.tpfy-view .tpfy-border-stone-200,.tpfy-dialog .tpfy-border-stone-200,.tpfy-toaster .tpfy-border-stone-200,.tpfy-border-stone-200:where(.tpfy-dialog,.tpfy-toaster) {
+  --tw-border-opacity: 1;
+  border-color: rgb(231 229 228 / var(--tw-border-opacity, 1));
+}
 .tpfy-view .tpfy-border-stone-300,.tpfy-dialog .tpfy-border-stone-300,.tpfy-toaster .tpfy-border-stone-300,.tpfy-border-stone-300:where(.tpfy-dialog,.tpfy-toaster) {
   --tw-border-opacity: 1;
   border-color: rgb(214 211 209 / var(--tw-border-opacity, 1));
@@ -5765,20 +5788,11 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-bg-zinc-50\/90,.tpfy-dialog .tpfy-bg-zinc-50\/90,.tpfy-toaster .tpfy-bg-zinc-50\/90,.tpfy-bg-zinc-50\/90:where(.tpfy-dialog,.tpfy-toaster) {
   background-color: rgb(250 250 250 / 0.9);
 }
-.tpfy-view .tpfy-bg-cover,.tpfy-dialog .tpfy-bg-cover,.tpfy-toaster .tpfy-bg-cover,.tpfy-bg-cover:where(.tpfy-dialog,.tpfy-toaster) {
-  background-size: cover;
-}
-.tpfy-view .tpfy-bg-center,.tpfy-dialog .tpfy-bg-center,.tpfy-toaster .tpfy-bg-center,.tpfy-bg-center:where(.tpfy-dialog,.tpfy-toaster) {
-  background-position: center;
-}
 .tpfy-view .tpfy-fill-current,.tpfy-dialog .tpfy-fill-current,.tpfy-toaster .tpfy-fill-current,.tpfy-fill-current:where(.tpfy-dialog,.tpfy-toaster) {
   fill: currentColor;
 }
 .tpfy-view .\!tpfy-p-0,.tpfy-dialog .\!tpfy-p-0,.tpfy-toaster .\!tpfy-p-0,.\!tpfy-p-0:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 0px !important;
-}
-.tpfy-view .\!tpfy-p-0\.5,.tpfy-dialog .\!tpfy-p-0\.5,.tpfy-toaster .\!tpfy-p-0\.5,.\!tpfy-p-0\.5:where(.tpfy-dialog,.tpfy-toaster) {
-  padding: 0.125rem !important;
 }
 .tpfy-view .tpfy-p-0,.tpfy-dialog .tpfy-p-0,.tpfy-toaster .tpfy-p-0,.tpfy-p-0:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 0px;
@@ -5794,6 +5808,9 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 .tpfy-view .tpfy-p-4,.tpfy-dialog .tpfy-p-4,.tpfy-toaster .tpfy-p-4,.tpfy-p-4:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 1rem;
+}
+.tpfy-view .tpfy-p-5,.tpfy-dialog .tpfy-p-5,.tpfy-toaster .tpfy-p-5,.tpfy-p-5:where(.tpfy-dialog,.tpfy-toaster) {
+  padding: 1.25rem;
 }
 .tpfy-view .tpfy-p-6,.tpfy-dialog .tpfy-p-6,.tpfy-toaster .tpfy-p-6,.tpfy-p-6:where(.tpfy-dialog,.tpfy-toaster) {
   padding: 1.5rem;
@@ -5828,6 +5845,10 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-px-8,.tpfy-dialog .tpfy-px-8,.tpfy-toaster .tpfy-px-8,.tpfy-px-8:where(.tpfy-dialog,.tpfy-toaster) {
   padding-left: 2rem;
   padding-right: 2rem;
+}
+.tpfy-view .tpfy-py-0,.tpfy-dialog .tpfy-py-0,.tpfy-toaster .tpfy-py-0,.tpfy-py-0:where(.tpfy-dialog,.tpfy-toaster) {
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .tpfy-view .tpfy-py-0\.5,.tpfy-dialog .tpfy-py-0\.5,.tpfy-toaster .tpfy-py-0\.5,.tpfy-py-0\.5:where(.tpfy-dialog,.tpfy-toaster) {
   padding-top: 0.125rem;
@@ -5996,9 +6017,6 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-opacity-70,.tpfy-dialog .tpfy-opacity-70,.tpfy-toaster .tpfy-opacity-70,.tpfy-opacity-70:where(.tpfy-dialog,.tpfy-toaster) {
   opacity: 0.7;
 }
-.tpfy-view .tpfy-bg-blend-normal,.tpfy-dialog .tpfy-bg-blend-normal,.tpfy-toaster .tpfy-bg-blend-normal,.tpfy-bg-blend-normal:where(.tpfy-dialog,.tpfy-toaster) {
-  background-blend-mode: normal;
-}
 .tpfy-view .\!tpfy-shadow-none,.tpfy-dialog .\!tpfy-shadow-none,.tpfy-toaster .\!tpfy-shadow-none,.\!tpfy-shadow-none:where(.tpfy-dialog,.tpfy-toaster) {
   --tw-shadow: 0 0 #0000 !important;
   --tw-shadow-colored: 0 0 #0000 !important;
@@ -6032,6 +6050,14 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-outline-none,.tpfy-dialog .tpfy-outline-none,.tpfy-toaster .tpfy-outline-none,.tpfy-outline-none:where(.tpfy-dialog,.tpfy-toaster) {
   outline: 2px solid transparent;
   outline-offset: 2px;
+}
+.tpfy-view .tpfy-ring-2,.tpfy-dialog .tpfy-ring-2,.tpfy-toaster .tpfy-ring-2,.tpfy-ring-2:where(.tpfy-dialog,.tpfy-toaster) {
+  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
+}
+.tpfy-view .tpfy-ring-primary,.tpfy-dialog .tpfy-ring-primary,.tpfy-toaster .tpfy-ring-primary,.tpfy-ring-primary:where(.tpfy-dialog,.tpfy-toaster) {
+  --tw-ring-color: hsl(var(--primary));
 }
 .tpfy-view .tpfy-ring-offset-background,.tpfy-dialog .tpfy-ring-offset-background,.tpfy-toaster .tpfy-ring-offset-background,.tpfy-ring-offset-background:where(.tpfy-dialog,.tpfy-toaster) {
   --tw-ring-offset-color: hsl(var(--background));
@@ -6089,6 +6115,7 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 .tpfy-view .tpfy-\@container,.tpfy-dialog .tpfy-\@container,.tpfy-toaster .tpfy-\@container,.tpfy-\@container:where(.tpfy-dialog,.tpfy-toaster) {
   container-type: inline-size;
 }
+
 
 .theme-dark .tpfy-view *, .theme-dark .tpfy-dialog *, .theme-dark .tpfy-toaster *, .theme-dark :where(.tpfy-dialog, .tpfy-toaster) {
 	--background: 0 0% 3.9%;
@@ -6900,6 +6927,495 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 
 .tpfy-view .\[\&_svg\]\:tpfy-shrink-0 svg,.tpfy-dialog .\[\&_svg\]\:tpfy-shrink-0 svg,.tpfy-toaster .\[\&_svg\]\:tpfy-shrink-0 svg,.\[\&_svg\]\:tpfy-shrink-0 svg:where(.tpfy-dialog,.tpfy-toaster) {
   flex-shrink: 0;
+}
+:root {
+  --tpfy-bg-color-1: #f8f9fa;
+  --tpfy-bg-color-2: #e9ecef;
+  --tpfy-bg-color-3: #dee2e6;
+  --tpfy-bg-color-4: #ced4da;
+  --tpfy-bg-color-5: #adb5bd;
+  --tpfy-bg-color-6: #f8d9eb;
+  --tpfy-bg-color-7: #eed2b8;
+  --tpfy-bg-color-8: #eee5b5;
+  --tpfy-bg-color-9: #d1e7dd;
+  --tpfy-bg-color-10: #c3e6cb;
+  --tpfy-bg-color-11: #d1ecf1;
+  --tpfy-bg-color-12: #cce5ff;
+  --tpfy-bg-color-13: #cfd4ff;
+  --tpfy-bg-color-14: #e2d9f3;
+  --tpfy-bg-color-15: #e8d9ec;
+  --tpfy-bg-color-16: #f5c2c7;
+  --tpfy-bg-color-17: #ffe5d0;
+  --tpfy-bg-color-18: #fff3cd;
+  --tpfy-bg-color-19: #d9edfd;
+  --tpfy-bg-color-20: #e8eaed;
+  --tpfy-text-color-1: #212529;
+  --tpfy-text-color-2: #343a40;
+  --tpfy-text-color-3: #495057;
+  --tpfy-text-color-4: #6c757d;
+  --tpfy-text-color-5: #adb5bd;
+  --tpfy-text-color-6: #d63384;
+  --tpfy-text-color-7: #fd7e14;
+  --tpfy-text-color-8: #ffc107;
+  --tpfy-text-color-9: #198754;
+  --tpfy-text-color-10: #20c997;
+  --tpfy-text-color-11: #0dcaf0;
+  --tpfy-text-color-12: #0d6efd;
+  --tpfy-text-color-13: #6610f2;
+  --tpfy-text-color-14: #6f42c1;
+  --tpfy-text-color-15: #a370f7;
+  --tpfy-text-color-16: #dc3545;
+  --tpfy-text-color-17: #fd7e14;
+  --tpfy-text-color-18: #ffc107;
+  --tpfy-text-color-19: #0d6efd;
+  --tpfy-text-color-20: #212529;
+  --tpfy-font-sans: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --tpfy-font-serif: Georgia, Cambria, 'Times New Roman', Times, serif;
+  --tpfy-font-mono: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+  --tpfy-text-xs: 0.75rem;
+  --tpfy-text-sm: 0.875rem;
+  --tpfy-text-base: 1rem;
+  --tpfy-text-lg: 1.125rem;
+  --tpfy-text-xl: 1.25rem;
+}
+.theme-dark {
+  --tpfy-bg-color-1: #212529;
+  --tpfy-bg-color-2: #343a40;
+  --tpfy-bg-color-3: #495057;
+  --tpfy-bg-color-4: #6c757d;
+  --tpfy-bg-color-5: #adb5bd;
+  --tpfy-bg-color-6: #59063a;
+  --tpfy-bg-color-7: #7d4f24;
+  --tpfy-bg-color-8: #856404;
+  --tpfy-bg-color-9: #0f5132;
+  --tpfy-bg-color-10: #165724;
+  --tpfy-bg-color-11: #155724;
+  --tpfy-bg-color-12: #084298;
+  --tpfy-bg-color-13: #33087e;
+  --tpfy-bg-color-14: #4b206c;
+  --tpfy-bg-color-15: #532d75;
+  --tpfy-bg-color-16: #842029;
+  --tpfy-bg-color-17: #7d4e17;
+  --tpfy-bg-color-18: #806520;
+  --tpfy-bg-color-19: #084298;
+  --tpfy-bg-color-20: #343a40;
+  --tpfy-text-color-1: #f8f9fa;
+  --tpfy-text-color-2: #e9ecef;
+  --tpfy-text-color-3: #dee2e6;
+  --tpfy-text-color-4: #ced4da;
+  --tpfy-text-color-5: #adb5bd;
+  --tpfy-text-color-6: #ff6b9d;
+  --tpfy-text-color-7: #ffaa72;
+  --tpfy-text-color-8: #ffda6a;
+  --tpfy-text-color-9: #75e39a;
+  --tpfy-text-color-10: #60ebbf;
+  --tpfy-text-color-11: #70e2ff;
+  --tpfy-text-color-12: #6ea8fe;
+  --tpfy-text-color-13: #a370f7;
+  --tpfy-text-color-14: #be95f4;
+  --tpfy-text-color-15: #d8b4fe;
+  --tpfy-text-color-16: #ff8d85;
+  --tpfy-text-color-17: #ffb266;
+  --tpfy-text-color-18: #ffe066;
+  --tpfy-text-color-19: #6ea8fe;
+  --tpfy-text-color-20: #e9ecef;
+  --tpfy-font-sans: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --tpfy-font-serif: Georgia, Cambria, 'Times New Roman', Times, serif;
+  --tpfy-font-mono: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+  --tpfy-text-xs: 0.75rem;
+  --tpfy-text-sm: 0.875rem;
+  --tpfy-text-base: 1rem;
+  --tpfy-text-lg: 1.125rem;
+  --tpfy-text-xl: 1.25rem;
+}
+.theme-light .tpfy-bg-color-1 {
+  background-color: var(--tpfy-bg-color-1);
+}
+.theme-light .tpfy-bg-color-2 {
+  background-color: var(--tpfy-bg-color-2);
+}
+.theme-light .tpfy-bg-color-3 {
+  background-color: var(--tpfy-bg-color-3);
+}
+.theme-light .tpfy-bg-color-4 {
+  background-color: var(--tpfy-bg-color-4);
+}
+.theme-light .tpfy-bg-color-5 {
+  background-color: var(--tpfy-bg-color-5);
+}
+.theme-light .tpfy-bg-color-6 {
+  background-color: var(--tpfy-bg-color-6);
+}
+.theme-light .tpfy-bg-color-7 {
+  background-color: var(--tpfy-bg-color-7);
+}
+.theme-light .tpfy-bg-color-8 {
+  background-color: var(--tpfy-bg-color-8);
+}
+.theme-light .tpfy-bg-color-9 {
+  background-color: var(--tpfy-bg-color-9);
+}
+.theme-light .tpfy-bg-color-10 {
+  background-color: var(--tpfy-bg-color-10);
+}
+.theme-light .tpfy-bg-color-11 {
+  background-color: var(--tpfy-bg-color-11);
+}
+.theme-light .tpfy-bg-color-12 {
+  background-color: var(--tpfy-bg-color-12);
+}
+.theme-light .tpfy-bg-color-13 {
+  background-color: var(--tpfy-bg-color-13);
+}
+.theme-light .tpfy-bg-color-14 {
+  background-color: var(--tpfy-bg-color-14);
+}
+.theme-light .tpfy-bg-color-15 {
+  background-color: var(--tpfy-bg-color-15);
+}
+.theme-light .tpfy-bg-color-16 {
+  background-color: var(--tpfy-bg-color-16);
+}
+.theme-light .tpfy-bg-color-17 {
+  background-color: var(--tpfy-bg-color-17);
+}
+.theme-light .tpfy-bg-color-18 {
+  background-color: var(--tpfy-bg-color-18);
+}
+.theme-light .tpfy-bg-color-19 {
+  background-color: var(--tpfy-bg-color-19);
+}
+.theme-light .tpfy-bg-color-20 {
+  background-color: var(--tpfy-bg-color-20);
+}
+.theme-light .tpfy-text-color-1 {
+  color: var(--tpfy-text-color-1);
+}
+.theme-light .tpfy-text-color-1.preview {
+  background-color: var(--tpfy-text-color-1);
+}
+.theme-light .tpfy-text-color-2 {
+  color: var(--tpfy-text-color-2);
+}
+.theme-light .tpfy-text-color-2.preview {
+  background-color: var(--tpfy-text-color-2);
+}
+.theme-light .tpfy-text-color-3 {
+  color: var(--tpfy-text-color-3);
+}
+.theme-light .tpfy-text-color-3.preview {
+  background-color: var(--tpfy-text-color-3);
+}
+.theme-light .tpfy-text-color-4 {
+  color: var(--tpfy-text-color-4);
+}
+.theme-light .tpfy-text-color-4.preview {
+  background-color: var(--tpfy-text-color-4);
+}
+.theme-light .tpfy-text-color-5 {
+  color: var(--tpfy-text-color-5);
+}
+.theme-light .tpfy-text-color-5.preview {
+  background-color: var(--tpfy-text-color-5);
+}
+.theme-light .tpfy-text-color-6 {
+  color: var(--tpfy-text-color-6);
+}
+.theme-light .tpfy-text-color-6.preview {
+  background-color: var(--tpfy-text-color-6);
+}
+.theme-light .tpfy-text-color-7 {
+  color: var(--tpfy-text-color-7);
+}
+.theme-light .tpfy-text-color-7.preview {
+  background-color: var(--tpfy-text-color-7);
+}
+.theme-light .tpfy-text-color-8 {
+  color: var(--tpfy-text-color-8);
+}
+.theme-light .tpfy-text-color-8.preview {
+  background-color: var(--tpfy-text-color-8);
+}
+.theme-light .tpfy-text-color-9 {
+  color: var(--tpfy-text-color-9);
+}
+.theme-light .tpfy-text-color-9.preview {
+  background-color: var(--tpfy-text-color-9);
+}
+.theme-light .tpfy-text-color-10 {
+  color: var(--tpfy-text-color-10);
+}
+.theme-light .tpfy-text-color-10.preview {
+  background-color: var(--tpfy-text-color-10);
+}
+.theme-light .tpfy-text-color-11 {
+  color: var(--tpfy-text-color-11);
+}
+.theme-light .tpfy-text-color-11.preview {
+  background-color: var(--tpfy-text-color-11);
+}
+.theme-light .tpfy-text-color-12 {
+  color: var(--tpfy-text-color-12);
+}
+.theme-light .tpfy-text-color-12.preview {
+  background-color: var(--tpfy-text-color-12);
+}
+.theme-light .tpfy-text-color-13 {
+  color: var(--tpfy-text-color-13);
+}
+.theme-light .tpfy-text-color-13.preview {
+  background-color: var(--tpfy-text-color-13);
+}
+.theme-light .tpfy-text-color-14 {
+  color: var(--tpfy-text-color-14);
+}
+.theme-light .tpfy-text-color-14.preview {
+  background-color: var(--tpfy-text-color-14);
+}
+.theme-light .tpfy-text-color-15 {
+  color: var(--tpfy-text-color-15);
+}
+.theme-light .tpfy-text-color-15.preview {
+  background-color: var(--tpfy-text-color-15);
+}
+.theme-light .tpfy-text-color-16 {
+  color: var(--tpfy-text-color-16);
+}
+.theme-light .tpfy-text-color-16.preview {
+  background-color: var(--tpfy-text-color-16);
+}
+.theme-light .tpfy-text-color-17 {
+  color: var(--tpfy-text-color-17);
+}
+.theme-light .tpfy-text-color-17.preview {
+  background-color: var(--tpfy-text-color-17);
+}
+.theme-light .tpfy-text-color-18 {
+  color: var(--tpfy-text-color-18);
+}
+.theme-light .tpfy-text-color-18.preview {
+  background-color: var(--tpfy-text-color-18);
+}
+.theme-light .tpfy-text-color-19 {
+  color: var(--tpfy-text-color-19);
+}
+.theme-light .tpfy-text-color-19.preview {
+  background-color: var(--tpfy-text-color-19);
+}
+.theme-light .tpfy-text-color-20 {
+  color: var(--tpfy-text-color-20);
+}
+.theme-light .tpfy-text-color-20.preview {
+  background-color: var(--tpfy-text-color-20);
+}
+.theme-dark .tpfy-bg-color-1 {
+  background-color: var(--tpfy-bg-color-1);
+}
+.theme-dark .tpfy-bg-color-2 {
+  background-color: var(--tpfy-bg-color-2);
+}
+.theme-dark .tpfy-bg-color-3 {
+  background-color: var(--tpfy-bg-color-3);
+}
+.theme-dark .tpfy-bg-color-4 {
+  background-color: var(--tpfy-bg-color-4);
+}
+.theme-dark .tpfy-bg-color-5 {
+  background-color: var(--tpfy-bg-color-5);
+}
+.theme-dark .tpfy-bg-color-6 {
+  background-color: var(--tpfy-bg-color-6);
+}
+.theme-dark .tpfy-bg-color-7 {
+  background-color: var(--tpfy-bg-color-7);
+}
+.theme-dark .tpfy-bg-color-8 {
+  background-color: var(--tpfy-bg-color-8);
+}
+.theme-dark .tpfy-bg-color-9 {
+  background-color: var(--tpfy-bg-color-9);
+}
+.theme-dark .tpfy-bg-color-10 {
+  background-color: var(--tpfy-bg-color-10);
+}
+.theme-dark .tpfy-bg-color-11 {
+  background-color: var(--tpfy-bg-color-11);
+}
+.theme-dark .tpfy-bg-color-12 {
+  background-color: var(--tpfy-bg-color-12);
+}
+.theme-dark .tpfy-bg-color-13 {
+  background-color: var(--tpfy-bg-color-13);
+}
+.theme-dark .tpfy-bg-color-14 {
+  background-color: var(--tpfy-bg-color-14);
+}
+.theme-dark .tpfy-bg-color-15 {
+  background-color: var(--tpfy-bg-color-15);
+}
+.theme-dark .tpfy-bg-color-16 {
+  background-color: var(--tpfy-bg-color-16);
+}
+.theme-dark .tpfy-bg-color-17 {
+  background-color: var(--tpfy-bg-color-17);
+}
+.theme-dark .tpfy-bg-color-18 {
+  background-color: var(--tpfy-bg-color-18);
+}
+.theme-dark .tpfy-bg-color-19 {
+  background-color: var(--tpfy-bg-color-19);
+}
+.theme-dark .tpfy-bg-color-20 {
+  background-color: var(--tpfy-bg-color-20);
+}
+.theme-dark .tpfy-text-color-1 {
+  color: var(--tpfy-text-color-1);
+}
+.theme-dark .tpfy-text-color-1.preview {
+  background-color: var(--tpfy-text-color-1);
+}
+.theme-dark .tpfy-text-color-2 {
+  color: var(--tpfy-text-color-2);
+}
+.theme-dark .tpfy-text-color-2.preview {
+  background-color: var(--tpfy-text-color-2);
+}
+.theme-dark .tpfy-text-color-3 {
+  color: var(--tpfy-text-color-3);
+}
+.theme-dark .tpfy-text-color-3.preview {
+  background-color: var(--tpfy-text-color-3);
+}
+.theme-dark .tpfy-text-color-4 {
+  color: var(--tpfy-text-color-4);
+}
+.theme-dark .tpfy-text-color-4.preview {
+  background-color: var(--tpfy-text-color-4);
+}
+.theme-dark .tpfy-text-color-5 {
+  color: var(--tpfy-text-color-5);
+}
+.theme-dark .tpfy-text-color-5.preview {
+  background-color: var(--tpfy-text-color-5);
+}
+.theme-dark .tpfy-text-color-6 {
+  color: var(--tpfy-text-color-6);
+}
+.theme-dark .tpfy-text-color-6.preview {
+  background-color: var(--tpfy-text-color-6);
+}
+.theme-dark .tpfy-text-color-7 {
+  color: var(--tpfy-text-color-7);
+}
+.theme-dark .tpfy-text-color-7.preview {
+  background-color: var(--tpfy-text-color-7);
+}
+.theme-dark .tpfy-text-color-8 {
+  color: var(--tpfy-text-color-8);
+}
+.theme-dark .tpfy-text-color-8.preview {
+  background-color: var(--tpfy-text-color-8);
+}
+.theme-dark .tpfy-text-color-9 {
+  color: var(--tpfy-text-color-9);
+}
+.theme-dark .tpfy-text-color-9.preview {
+  background-color: var(--tpfy-text-color-9);
+}
+.theme-dark .tpfy-text-color-10 {
+  color: var(--tpfy-text-color-10);
+}
+.theme-dark .tpfy-text-color-10.preview {
+  background-color: var(--tpfy-text-color-10);
+}
+.theme-dark .tpfy-text-color-11 {
+  color: var(--tpfy-text-color-11);
+}
+.theme-dark .tpfy-text-color-11.preview {
+  background-color: var(--tpfy-text-color-11);
+}
+.theme-dark .tpfy-text-color-12 {
+  color: var(--tpfy-text-color-12);
+}
+.theme-dark .tpfy-text-color-12.preview {
+  background-color: var(--tpfy-text-color-12);
+}
+.theme-dark .tpfy-text-color-13 {
+  color: var(--tpfy-text-color-13);
+}
+.theme-dark .tpfy-text-color-13.preview {
+  background-color: var(--tpfy-text-color-13);
+}
+.theme-dark .tpfy-text-color-14 {
+  color: var(--tpfy-text-color-14);
+}
+.theme-dark .tpfy-text-color-14.preview {
+  background-color: var(--tpfy-text-color-14);
+}
+.theme-dark .tpfy-text-color-15 {
+  color: var(--tpfy-text-color-15);
+}
+.theme-dark .tpfy-text-color-15.preview {
+  background-color: var(--tpfy-text-color-15);
+}
+.theme-dark .tpfy-text-color-16 {
+  color: var(--tpfy-text-color-16);
+}
+.theme-dark .tpfy-text-color-16.preview {
+  background-color: var(--tpfy-text-color-16);
+}
+.theme-dark .tpfy-text-color-17 {
+  color: var(--tpfy-text-color-17);
+}
+.theme-dark .tpfy-text-color-17.preview {
+  background-color: var(--tpfy-text-color-17);
+}
+.theme-dark .tpfy-text-color-18 {
+  color: var(--tpfy-text-color-18);
+}
+.theme-dark .tpfy-text-color-18.preview {
+  background-color: var(--tpfy-text-color-18);
+}
+.theme-dark .tpfy-text-color-19 {
+  color: var(--tpfy-text-color-19);
+}
+.theme-dark .tpfy-text-color-19.preview {
+  background-color: var(--tpfy-text-color-19);
+}
+.theme-dark .tpfy-text-color-20 {
+  color: var(--tpfy-text-color-20);
+}
+.theme-dark .tpfy-text-color-20.preview {
+  background-color: var(--tpfy-text-color-20);
+}
+.tpfy-font-sans {
+  font-family: var(--tpfy-font-sans);
+}
+.tpfy-font-serif {
+  font-family: var(--tpfy-font-serif);
+}
+.tpfy-font-mono {
+  font-family: var(--tpfy-font-mono);
+}
+.tpfy-font-ui-xs {
+  --font-text-size: var(--tpfy-text-xs);
+  font-size: var(--tpfy-text-xs);
+}
+.tpfy-font-ui-sm {
+  --font-text-size: var(--tpfy-text-sm);
+  font-size: var(--tpfy-text-sm);
+}
+.tpfy-font-ui-base {
+  --font-text-size: var(--tpfy-text-base);
+  font-size: var(--tpfy-text-base);
+}
+.tpfy-font-ui-lg {
+  --font-text-size: var(--tpfy-text-lg);
+  font-size: var(--tpfy-text-lg);
+}
+.tpfy-font-ui-xl {
+  --font-text-size: var(--tpfy-text-xl);
+  font-size: var(--tpfy-text-xl);
 }
 .view-content.templify {
   padding: 0;

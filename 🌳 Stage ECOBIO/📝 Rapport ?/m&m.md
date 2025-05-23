@@ -80,3 +80,104 @@ sample(elements, size = 2, replace = FALSE, prob = weights)
 
 From the beginning of the internship it was clearly intended to use Community-Weighted Means (CWM) to analyse the functional landscape, as it is both a common indicator in functional ecology, and as it was already used in previous works as an indicator of compositional heterogeneity (but not configurational heterogeneity, which is harder to quantify, thus prompting us to search for additional metrics). What stemmed from the aforementioned bibliographic work was the need to characterize the diversity (and proportion) of the supply of different habitats/resources, prompting us to use Community-Weighted Variance (CWV) too. This was either due to a varied life cycle that requires different habitats, or to a failure to create sufficiently precise / differentiated subgroups for a taxa (the most obvious example being carabids once again) .
 
+
+
+
+
+
+
+
+
+## Sélection commu : 
+
+#### pour cultures 
+1. Déterminer le nombre de communautés à simuler
+Prendre le tableau Summary_attribut_table
+Filtrer les lignes où Classe ∈ c(5, 6, 7, 10)
+Compter les parcelles distinctes via Id_parcell
+	→ Ce compte = nombre de communautés à simuler pour l’occsol "culture"
+
+
+2. Pour chaque communauté (i.e. chaque parcelle concernée) :
+
+a. Identifier la classe (5, 6, 7 ou 10)
+→ Elle influencera le choix des cultures prioritaires uniques (excluant les autres grandes cultures)
+
+b. Déterminer la taille de communauté à simuler
+Aller chercher min et max dans le tableau Min_Max_communautés_occsol, colonne "Adventices"
+Tirer une valeur entière entre ces bornes selon une distribution normale
+	Moyenne = moyenne(min, max)
+	Écart-type ≈ (max - min) / 4 (pour rester dans l’intervalle 95%)
+
+c. Tirer aléatoirement (sans remise) des espèces depuis List_sp_filtres, sous conditions :
+Adventices.Mean.abundance > 0 et Adventices.Presence.probability > 0
+Exclure "Zea mays", "Fagopyrum esculentum", "Brassica napus", "Vicia faba", "Triticum aestivum", "Pisum sativum", "Hordeum vulgare" sauf si :
+	Classe == 5 → peut tirer "Brassica napus"
+	Classe == 6 → peut tirer "Triticum aestivum" ou "Hordeum vulgare"
+	Classe == 7 → peut tirer "Pisum sativum" ou "Vicia faba"
+	Classe == 10 → peut tirer "Zea mays"
+Une et une seule parmi les espèces autorisées par classe peut être tirée par communauté
+
+🔹 3. Stocker les communautés
+Pour chaque simulation : un tableau avec les IDs TRY des espèces tirées
+Répéter pour chaque communauté à simuler (nb déterminé en étape 1)
+Stocker dans une liste de dataframes, ou un tableau long avec un identifiant de simulation
+
+
+
+
+
+
+
+Tableau sp (import du csv) ou on garde que les colonnes qu'on veut.
+
+Data avec nb sp commu (min, max, moy, sd).
+
+
+Pour culture : 
+
+```R
+# 1. Taille de la communauté : tirage selon loi normale, avec moyenne et écart type (standard deviation = sd) 
+  min_sp = as.numeric(Min_Max_communautés_occsol[1, "Adventices"]) #valeur min pour l'occsol culture
+  max_sp = as.numeric(Min_Max_communautés_occsol[2, "Adventices"]) # valeur max
+  mean_sp = as.numeric(Min_Max_communautés_occsol[3, "Adventices"]) # moyenne
+  sd_sp = as.numeric(Min_Max_communautés_occsol[4, "Adventices"]) # écart type 
+  
+  taille <- round(rtruncnorm(1, a = min_sp, b = max_sp, mean = mean_sp, sd = sd_sp)) # c'est un entier qu'on veut récup donc round
+```
+
+
+
+
+Récupérer la liste de tt les espèces avec simultanément des abondances > 2 et proba > 0.02. 
+Stocker tt ces espèces dans un df "pool_adventices_full" (garder leur try ID et leur nom de FINAL.LIST.UNIQUE)
+
+Split ce pool_adventice_full en 2 data_frame : 
+"pool_adventices_weed" qui vaut à "pool_adventices_full" - les lignes ayant les noms de FINAL.LIST.UNIQUE : "Zea mays", "Fagopyrum esculentum", "Brassica napus",  "Vicia faba", "Triticum aestivum", "Pisum sativum", "Hordeum vulgare", qui vont aller dans le 2ème data frame "pool_adventices_culture"
+
+Ensuite, on va, pour chaque parcelle, récup la classe  :
+On va tirer aléatoirement parmis "pool_adventices_weed" (taille_commu - 1) sans remise (si il y a plus rien on tire plus). On va ensuite ajouter une espèce de pool_adventices_culture, selon l'occsol ("5" = "Brassica napus", "6" = "Triticum aestivum", ou "Hordeum vulgare" (un des 2 tirés random),  "7" = "Pisum sativum" ou"Vicia faba" (un des 2 tiré random),  "10" = "Zea mays") 
+
+Donc en sortant de cette opération j'ai une commu qui a, pour taille de commu = N : 
+N-1 sp tirées du pool_adventices_weed + 1sp issue de pool_adventices_culture selon le type d'occsol (colonne "classe").
+
+On va répétér ca pour tt les commus, de manière a avoir 1 commu / parcelle (adapté au code d'occsol).
+
+On va stocker tout ca dans un tableau nommé communautés_culture_sp qui aura comme colonne :
+- une colonne avec l'Id_parcell
+- une colonne avec la Classe
+- une colonne avec le nom de l'espèce, tiré de FINAL.LIST.UNIQUE (1 sp de la commu par ligne donc chaque commu font plusieurs lignes)
+- une colonne intitulée "abondance originale" qui a pour valeur pour l'espèce de la ligne la valeur associé à cette espèce dans Adventices.Mean.Abundance.
+  
+  
+  
+  
+  
+  
+  
+  
+  To calculate the community-weighted mean (CWM) for qualitative traits, you can adapt the standard CWM calculation by using the modal class (the most frequent category) instead of a numerical average. This approach is particularly useful when dealing with categorical traits, such as pollination syndrome or seed morphology type.
+🧮 CWM for Qualitative Traits
+For each community, the CWM for a qualitative trait can be calculated by determining the most frequent category among the species present, weighted by their relative abundance. This method is known as the community-weighted mode
+
+https://digital.csic.es/bitstream/10261/221270/3/R_Material_traits.pdf (P115 "tells us what is the most dominant type in each plot") => modal approach
