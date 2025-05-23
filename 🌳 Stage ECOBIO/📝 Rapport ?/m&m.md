@@ -214,4 +214,17 @@ Methodology :
 		4) Recupération des infos d'abondance moy et pba présence pour cette liste (infos extraits/ issues des listes antérieures)
 	3) Ajout des valeurs de traits pour tt les traits pour cette liste finale espèces → filtrage pour ne garder que les traits ayant 25% de NA ou moins
 	4) Vérification de l'absence de trop forte corrélation entre traits conservés → limiter doublon d'information → corrélation pearson
-	5) Vérification de l'absence / présence de corrélation entre les traits conservés et ceux avec trop de NA → comparaisons 2 par 2 pour toutes les espèces ou des valeurs existent pour ces 2 traits → si corrélation et nombre suffisant de comparaison (+de 75% de lignes comparées)
+	5) Vérification de l'absence / présence de corrélation entre les traits conservés et ceux avec trop de NA → comparaisons 2 par 2 pour toutes les espèces ou des valeurs existent pour ces 2 traits → si corrélation et nombre suffisant de comparaison (+de 75% de lignes comparées) alors on pourra tirer des conclusions sur ces traits là aussi.
+	6) Enregistrement dans un fichier de cette liste contenant : nom sp, id try de l'espèce, abondance et pba.présence pour chaque occsol, traits conservés.
+4) Préparation SIG (QGIS):
+	1) Création de buffers (distances variables, nous avons choisis 3 distances autour de centroides dans les champs étudiés : 300, 750 et 1000m)
+		1) Création buffers de taille désirées
+		2) Intersection avec occsols (bd OSO,théia, classes occsol, vectoriel)
+		3) Création buffer haies (bd haies, IGN, linéaire vectoriel) de 10m de large (résolution initiale de OSO qui était raster puis vectorisé avant d'être rendu disponible sur théia)
+		4) Intersection avec buffer haies
+		5) M
+		6) Création d'un attribut "zone" pour pouvoir séparer la carto globale (tous buffers) en 1 carte / buffer
+		7) Création d'un attribut "id parcelle" permettant d'associer une parcelle précise à une communauté simulée précise
+		8) Sauvegarde en vectoriel (gpkg pour ma part)
+5) Community selection (Rstudio):
+	1) Récupération du nombre de communautés à simuler pour chaque occsol → chargement table d'attribut puis comptage de tt les parcelles appartenant à une commu
