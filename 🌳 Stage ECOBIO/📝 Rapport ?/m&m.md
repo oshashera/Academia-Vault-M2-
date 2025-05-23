@@ -220,11 +220,14 @@ Methodology :
 	1) Création de buffers (distances variables, nous avons choisis 3 distances autour de centroides dans les champs étudiés : 300, 750 et 1000m)
 		1) Création buffers de taille désirées
 		2) Intersection avec occsols (bd OSO,théia, classes occsol, vectoriel)
-		3) Création buffer haies (bd haies, IGN, linéaire vectoriel) de 10m de large (résolution initiale de OSO qui était raster puis vectorisé avant d'être rendu disponible sur théia)
+		3) Création buffer haies (bd haies, IGN, linéaire vectoriel) de 10m de large (résolution initiale de OSO qui était raster puis vectorisé avant d'être rendu disponible sur théia), avec ajout de l'attribut "classe" (même attribut que OSO, code numérique associé à une occsol précise), et ajout de la valeur 99 pour toutes les haies.
 		4) Intersection avec buffer haies
-		5) M
-		6) Création d'un attribut "zone" pour pouvoir séparer la carto globale (tous buffers) en 1 carte / buffer
-		7) Création d'un attribut "id parcelle" permettant d'associer une parcelle précise à une communauté simulée précise
-		8) Sauvegarde en vectoriel (gpkg pour ma part)
+		5) Création d'un attribut "zone" pour pouvoir séparer la carto globale (tous buffers) en 1 carte / buffer
+		6) Création d'un attribut "id parcelle" permettant d'associer une parcelle précise à une communauté simulée précise
+		7) Sauvegarde en vectoriel (gpkg pour ma part)
 5) Community selection (Rstudio):
-	1) Récupération du nombre de communautés à simuler pour chaque occsol → chargement table d'attribut puis comptage de tt les parcelles appartenant à une commu
+	1) Récupération du nombre N de communautés à simuler pour chaque occsol → chargement table d'attribut puis comptage de tt les parcelles appartenant à une occsol (n° dans "classe")
+	2) 2 Modes : **\[option A]** Boucle de simulation des commus : pour N, tirer (sans remise) une espèce qui a une valeur supérieure au seuil défini précedemment (1 à 5%, cf 3.2.2) pour l'occsol en question en abondance et pba de présence, car certaines espèces sont présentes dans plusieurs occsols, et bien que éliminées dans certaines occsol précédemment (par seuil), ont pu être sélectionnée pour une autre occsol et donc être dans la liste finale avec des valeurs insuffisantes dans la plupart des occsol sauf au moins une. → Cas pour prairies
+	   **\[option B]** Split en 2 sets des plantes de l'occsol : cultures/adventices pour champs, arbres/autres pour haies et forêt → tirage séparé de X espèce dans chaque pool de sorte à avoir le nombre d'espèce attributé à la communauté TOUT EN ASSURANT LA PRESENCE DES 2 SUBSET (arbres ou cultures) dans l'occsol. Règles de sélections supplémentaires sur le nombre d'espèce à tirer dans les sets "cultures" (1, pas d'association, mais on pourrait), et "arbres" (pour forêt et haies, tiré aléatoirement entre 1 et 3 (essences dominantes) auquel on attribuera aléatoirement des % d'abondance de sorte à avoir **==VOIR AVEC CENDRINE==** recouvrement)
+	   ==> DANS 
+	3) 
