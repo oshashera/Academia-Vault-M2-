@@ -204,4 +204,14 @@ Methodology :
 	3) Traduction en possible traits végétaux ayant une influence (limitation au niveau du taxons et du niveau trophique inférieur : on peut check ce qui favorise l'abondance de ses proies, mais pas des proies de ses proies sinon on s'en sort plus
 	4) On vérifie si on trouve ces traits ou des équivalents dans les bdds (TRY majoritairement, dataflor aussi,...), ou si on peut les calculer / approximer a partir de traits de ces bdds (transpiration plante pourrait être=> transpiration/leaf area X leaf area/plant = transpiration/plant).
 	5) On fait un tableau croisé Trait / organisme pour tous les traits ainsi existant ou estimables
-	6) Re
+	6) Requêtes / récupération / compilation de ces traits par espèces de la liste unique des espèces (1.3)
+3) Preparations for community selections :
+	1) Calcul des min/max, moy, sd des tailles commus pour chaque occsol → tableau occsol X min,max,moy,sd
+	2) Constitution liste finale espèces :
+		1) Split liste unique espèce en listes (1/occsol) qui ont des abondances et pba non nulles => liste intermédiaires
+		2) Pour chaque occsol, on filtre les espèces trop rare (pour descendre le taux de NA qu'on aura pour les traits, pour garder plus de traits) → seuil de 1 à 5% → on ne garde que les espèces qui ont plus que ces seuils en abondance moyenne ET en proba d'être présente. Valeur de 1 à 5% de sorte à avoir plus que la taille moyenne des communautés dans cet occsol (nous on a gardé pour seuil = 2%) de sorte a avoir des communautés différentes possibles.
+		3) Refusion en une liste unique de toutes ces listes filtrées par seuil → liste espèce finale
+		4) Recupération des infos d'abondance moy et pba présence pour cette liste (infos extraits/ issues des listes antérieures)
+	3) Ajout des valeurs de traits pour tt les traits pour cette liste finale espèces → filtrage pour ne garder que les traits ayant 25% de NA ou moins
+	4) Vérification de l'absence de trop forte corrélation entre traits conservés → limiter doublon d'information → corrélation pearson
+	5) Vérification de l'absence / présence de corrélation entre les traits conservés et ceux avec trop de NA → comparaisons 2 par 2 pour toutes les espèces ou des valeurs existent pour ces 2 traits → si corrélation et nombre suffisant de comparaison (+de 75% de lignes comparées)
