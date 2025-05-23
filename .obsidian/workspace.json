@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Brouillons divers biodiv fx"
             }
+          },
+          {
+            "id": "9d9a30f0bde4e7ad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-23 14.30.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-23 14.30.32.excalidraw"
+            }
           }
         ]
       }
@@ -73,22 +85,14 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "bb623da1b0d021bb",
-            "type": "leaf",
-            "state": {
-              "type": "vertical-tabs",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -210,18 +214,29 @@
       "daily-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "templater-obsidian:Templater": false,
+      "templify:Templify Market": false,
+      "widgets:Add widget": false
     }
   },
-  "active": "6cdd05b03d42049d",
+  "active": "f66544e0915dc1b3",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Excalidraw/Drawing 2025-05-23 14.30.32.excalidraw.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Brouillons divers biodiv fx.md",
+    "🏡 Home.md",
+    "Untitled.md",
     "🌳 Stage ECOBIO/Biodiv zbeul note.md",
     "synthèse biblio/V2 Synthèse.canvas",
     "synthèse biblio/Synthèse biblio.canvas",
     "synthèse biblio/⚠🚨 Synthèse biblio.md",
-    "🏡 Home.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "Cours/🎓 Conception de systèmes/🟢 Quels sont les défis à relever pour une méthanisation agroécologique ?.md",
@@ -245,7 +260,6 @@
     "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md",
     "Images/Pasted image 20250418161109.png",
     "Excalidraw/Drawing 2025-04-18 13.30.29.excalidraw.md",
-    "Excalidraw/figure community selection.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "Images/Pasted image 20250403164241.png",
     "Images/Pasted image 20250403164211.png",
