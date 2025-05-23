@@ -232,4 +232,10 @@ Methodology :
 	   ==> DANS TOUS LES CAS : stockage dans un df
 	3) Calcul CWM / CWV : calcul pour chaque commu du CWM (trait quanti : moyenne des valeurs de traits des espèces pondérée par l'abondance des espèces; trait quali : valeur modale (dominante) au vu de l'abondance cumulée des espèces qui présentent cet valeur précise) et CWV (quanti : **à compléter**; quali : ==A COMPLETER ET CHECK== **https://en.wikipedia.org/wiki/Qualitative_variation**) → stockage dans un df
 	4) Update de la table d'attribut du gpkg-région (3x → 3 échelles de buffer) en ajoutant les colonnes de CWM et CWV pour chaque parcelle.
-6) Raster generalization avec basevalue pour color-coder (=à définir comment récup la baseline, surement valeur médiane ou moyenne pour la région pour le trait ? → calculer )
+6) Raster generalization avec basevalue pour color-coder (=à définir comment récup la baseline, surement valeur médiane ou moyenne pour la région pour le trait ? → calculer sur R avant, genre en 5.3.3 ?)
+7) Analyse sur le raster → ==A DEFINIR
+	1) Basique **revoir ca**
+	2) Continue et innovante → Getis ord heatmap
+		1) Heatmap (baseline à gérer ?)
+		2) Polr : détailler
+		3) Sec : détailler
