@@ -181,3 +181,27 @@ On va stocker tout ca dans un tableau nommé communautés_culture_sp qui aura co
 For each community, the CWM for a qualitative trait can be calculated by determining the most frequent category among the species present, weighted by their relative abundance. This method is known as the community-weighted mode
 
 https://digital.csic.es/bitstream/10261/221270/3/R_Material_traits.pdf (P115 "tells us what is the most dominant type in each plot") => modal approach
+
+
+
+
+
+
+
+
+
+
+
+Methodology : 
+
+1) Species management
+	1) Récupération de relevés des sp végétales dans parcelles de la zone étudiée
+	2) Calcul pour chaque occsol des abondances et probabilités de présence moyennes par espèce du dataset correspondant
+	3) Filtrage des communautés pour créer liste unique espèce avec abondances et proba de présence pour chaque occsol
+2) Trait management
+	1) Lecture articles trouvé via mots clés "need" "requirement" "preferences" "diet" "feeding" "food" "habitat" "shelter"
+	2) Extraction de citations et infos clés sur taxons d'intérêts
+	3) Traduction en possible traits végétaux ayant une influence (limitation au niveau du taxons et du niveau trophique inférieur : on peut check ce qui favorise l'abondance de ses proies, mais pas des proies de ses proies sinon on s'en sort plus
+	4) On vérifie si on trouve ces traits ou des équivalents dans les bdds (TRY majoritairement, dataflor aussi,...), ou si on peut les calculer / approximer a partir de traits de ces bdds (transpiration plante pourrait être=> transpiration/leaf area X leaf area/plant = transpiration/plant).
+	5) On fait un tableau croisé Trait / organisme pour tous les traits ainsi existant ou estimables
+	6) Re
