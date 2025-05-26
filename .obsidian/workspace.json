@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Brouillons divers biodiv fx.md",
+                "file": "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brouillons divers biodiv fx"
+              "title": "l'état d'avancement des travaux (rapport de mi-parcours)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Liu H, Yin D, He P, et al (2024) Linking plant functional traits to biodiversity under environmental change. Biological Diversity",
+                "query": "problématique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -216,10 +216,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/📝 Rapport ?/Brouillons divers biodiv fx.md",
     "🏡 Home.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/OUTDATED Mon M&M.md",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Brouillons divers biodiv fx.md",
     "Images/Pasted image 20250523150108.png",
     "Excalidraw/Drawing 2025-05-23 14.30.32.excalidraw.md",
     "Untitled.md",
