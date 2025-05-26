@@ -33,14 +33,19 @@ Then, in order to be able to keep as most traits as we could, we chose to remove
 ###### 3.2.3) Refusion en une liste unique de toutes ces listes filtrées par seuil → liste espèce finale
 I then re-joined those filtered spreadsheets into a single spreadsheet. This would form our final species list, comprised of : the TRY Species ID, the species name, their abundance and presence probability for each land-use, each traits and the units of those traits (for quantitative traits).
 #### 3.3) Ajout des valeurs de traits pour tt les traits pour cette liste finale espèces → filtrage pour ne garder que les traits ayant 25% de NA ou moins
-I then computed the NA% of each trait, and only kept the traits (and their units) where 25% or less of the values were NA's.
+I then computed the NA% of each trait, and only kept the traits (and their units) where 25% or less of the values were NA's. 
 #### 3.4) Vérification de l'absence de trop forte corrélation entre traits conservés → limiter doublon d'information → corrélation pearson
-In parallel, I generated pearson comparisons for each pair of selected traits to avoid having too correlated traits and thus a duplication of information. I also computed those comparisons for each pair of selected traits and non-selected traits, only for the species (\==lines) where both traits were available, so that if a high enough correlation was found and sufficient data was used for this comparison (i.e. if 75% or more of the species list were able to be compared), then information about those non
+In parallel, I generated pearson comparisons for each pair of selected traits to avoid having too correlated traits and thus a duplication of information. In our case, none of the selected traits were too correlated.
+
 #### 3.5) Vérification de l'absence / présence de corrélation entre les traits conservés et ceux avec trop de NA → comparaisons 2 par 2 pour toutes les espèces ou des valeurs existent pour ces 2 traits → si corrélation et nombre suffisant de comparaison (+de 75% de lignes comparées) alors on pourra tirer des conclusions sur ces traits là aussi.
+I also computed those comparisons for each pair of selected traits and non-selected traits, only for the species (\==lines) where both traits were available, so that if a high enough correlation was found and sufficient data was used for this comparison (i.e. if 75% or more of the species list were able to be compared), then information about those non-selected traits could be deduced. However, in our case, non of those non-selected trait were found to be correlated with selected traits, mostly because of too much missing data and data missmatch.
 ##### 3.6) Enregistrement dans un fichier de cette liste contenant : nom sp, id try de l'espèce, abondance et pba.présence pour chaque occsol, traits conservés.
+I saved the resulting  remaing species - abundance/presence - trait spreadsheet into a CSV file for later use in R/Rstudio.
 ## 4) Préparation SIG (QGIS):
 #### 4.1) Création de buffers (distances variables, nous avons choisis 3 distances autour de centroides dans les champs étudiés : 300, 750 et 1000m)
-###### 4.1.1)Création buffers de taille désirées
+In this internship we wanted to assess the importance of the spatial range considered. In order to do so, we decided to create in QGIS 3 buffers around the centroids of the fields of interest, at different scales: 300m, 750m and 1000m radius. Please note that, although initially this task had been entrusted to a consultancy firm as part of the ConservES project, due to too many delays I had to generate the GIS myself.
+###### 4.1.1)Création buffers de taille désirées + récupération des données d'occsol spatiale
+I then retrieved land-use data from 2 main sources : for the hedges, I used the BD TOPO (provider: IGN; linear vectorial layer), and for the 3 remaining land-use, i used the OSO database (provider: Théia; polygonal vectorial layer). The land-use in the OSO data was 
 ###### 4.1.2) Intersection avec occsols (bd OSO,théia, classes occsol, vectoriel)
 ###### 4.1.3) Création buffer haies (bd haies, IGN, linéaire vectoriel) de 10m de large (résolution initiale de OSO qui était raster puis vectorisé avant d'être rendu disponible sur théia), avec ajout de l'attribut "classe" (même attribut que OSO, code numérique associé à une occsol précise), et ajout de la valeur 99 pour toutes les haies.
 ###### 4.1.4) Intersection avec buffer haies
