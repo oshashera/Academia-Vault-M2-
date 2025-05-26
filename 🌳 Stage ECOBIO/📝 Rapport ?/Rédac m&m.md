@@ -23,10 +23,13 @@ Traits from the Baseflor database and requested TRY data were then compiled and 
 
 ## 3) Preparations for community selections :
 #### 3.1) Calcul des min/max, moy, sd des tailles commus pour chaque occsol → tableau occsol X min,max,moy,sd
-In order to simulate realist communities, I decided to randomly define their size (number of species within a community) following a normal law of the same mean, minimal and maximal value and standard deviation than each of the land use. I thus computed for each land-use the min/max, rounded average community size, and the standard deviation of the community size. 
+In order to simulate realist communities, I decided to randomly define their size (number of species within a community) following a normal law of the same mean, minimal and maximal value and standard deviation than each of the land use. I thus computed for each land-use in the aforementioned spreadsheets the min/max, rounded average community size, and the standard deviation of the community size. 
 #### 3.2) Constitution liste finale espèces :
 ###### 3.2.1) Split liste unique espèce en listes (1/occsol) qui ont des abondances et pba non nulles => liste intermédiaires
+From the unique species list, i created one spreadsheet per land-used, removing species not present in this land-use and removing the other land-use abundance and presence columns. 
 ###### 3.2.2) Pour chaque occsol, on filtre les espèces trop rare (pour descendre le taux de NA qu'on aura pour les traits, pour garder plus de traits) → seuil de 1 à 5% → on ne garde que les espèces qui ont plus que ces seuils en abondance moyenne ET en proba d'être présente. Valeur de 1 à 5% de sorte à avoir plus que la taille moyenne des communautés dans cet occsol (nous on a gardé pour seuil = 2%) de sorte a avoir des communautés différentes possibles.
+Then, in order to be able to keep as most traits as we could, we chose to remove the most rare species from those lists, thus reducing the potential NA percentage of our traits of interest. We set a threshold window of between 1 and 5% in term of abundance and presence probability. This window would allow some leeway so that we still kept enough plants (more than the mean community size for this land-use). In our case, the optimal threshold was set at 2%, meaning that only species having both a mean abundance and a mean presence probability of 2% or higher would be kept in those land-use spreadsheets.
+
 ###### 3.2.3) Refusion en une liste unique de toutes ces listes filtrées par seuil → liste espèce finale
 ###### 3.2.4) Recupération des infos d'abondance moy et pba présence pour cette liste (infos extraits/ issues des listes antérieures)
 #### 3.3) Ajout des valeurs de traits pour tt les traits pour cette liste finale espèces → filtrage pour ne garder que les traits ayant 25% de NA ou moins
