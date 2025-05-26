@@ -2,12 +2,15 @@
 ## 1) Species management
 #### 1.1) Récupération de relevés des sp végétales dans parcelles de la zone étudiée
 I have retrieved 3 spreadsheet files detailing vegetation surveys in the Brittany region for the following 4 land-uses: Hedges, forests, crops and grasslands. 
-The data I thus had at my disposal was : 50 forest land plots, 77 crop land plots, 122 grassland land plots and 135 hedgerows land plots.
-#### 1.2) Calcul pour chaque occsol des abondances et probabilités de présence moyennes par espèce du dataset correspondant
-#### 1.3) Filtrage des communautés pour créer liste unique espèce avec abondances et proba de présence pour chaque occsol
+The data I thus had at my disposal was : 50 forest land plots, 77 crop land plots, 122 grassland land plots and 135 hedgerows land plots. All abundances have been expressed as percentages.
 
+#### 1.2) Calcul pour chaque occsol des abondances et probabilités de présence moyennes par espèce du dataset correspondant
+For each land-use, I computed the average abundance and presence probability of each species by first calculating those for each plot (initially split in numerous quadrats), then averaging it over all of the plots of the land-use. Following this, all of the resulting Species/Mean Abundance/Mean Presence Probability were joined in a single spreadsheet.
+#### 1.3) Filtrage des communautés pour créer liste unique espèce avec abondances et proba de présence pour chaque occsol
+Then, since numerous species were present in at least 2 different land-use, I filtered this spreadsheet to only have unique species remaining. This table had 2 columns for each land-use (to have the abundance and the presence probability). When species were absent in a land-use, their values for both columns of this land-use was set to 0.
 ## 2) Trait management
 #### 2.1) Lecture articles trouvé via mots clés "need" "requirement" "preferences" "diet" "feeding" "food" "habitat" "shelter"
+This part is the both crucial and is arbitrary to an extent. The idea is to scan relevant literature for the target in-field taxa -in our case those taxa would be spiders, parasitoïds, pollinators, carabids, slugs and snails, cereal aphids and weeds- to document and assess their needs, by splitting if necessary
 #### 2.2) Extraction de citations et infos clés sur taxons d'intérêts
 #### 2.3) Traduction en possible traits végétaux ayant une influence (limitation au niveau du taxons et du niveau trophique inférieur : on peut check ce qui favorise l'abondance de ses proies, mais pas des proies de ses proies sinon on s'en sort plus
 #### 2.4) On vérifie si on trouve ces traits ou des équivalents dans les bdds (TRY majoritairement, dataflor aussi,...), ou si on peut les calculer / approximer a partir de traits de ces bdds (transpiration plante pourrait être=> transpiration/leaf area X leaf area/plant = transpiration/plant).
