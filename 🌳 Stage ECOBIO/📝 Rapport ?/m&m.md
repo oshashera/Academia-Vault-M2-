@@ -239,3 +239,10 @@ Methodology :
 		1) Heatmap (baseline à gérer ?)
 		2) Polr : détailler
 		3) Sec : détailler
+
+
+
+
+
+
+

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Rédac m&m.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rédac m&m"
+            }
+          },
+          {
+            "id": "3362248db926e275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "l'état d'avancement des travaux (rapport de mi-parcours)"
+              "title": "m&m"
             }
           }
         ]
@@ -74,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,9 +230,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/Rédac m&m.md",
+    "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Brouillons divers biodiv fx.md",
     "🏡 Home.md",
-    "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/OUTDATED Mon M&M.md",
     "Images/Pasted image 20250523150108.png",
     "Excalidraw/Drawing 2025-05-23 14.30.32.excalidraw.md",
@@ -246,7 +261,6 @@
     "Excalidraw/Drawing 2025-04-24 11.14.31.excalidraw.md",
     "Excalidraw/Drawing 2025-04-24 11.10.56.excalidraw.md",
     "Images/Pasted image 20250423092320.png",
-    "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md",
     "Images/Pasted image 20250418161109.png",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "Images/Pasted image 20250403164241.png",
