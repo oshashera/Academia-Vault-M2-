@@ -1,7 +1,7 @@
 
 ## 1) Species management
 #### 1.1) Récupération de relevés des sp végétales dans parcelles de la zone étudiée
-I have retrieved 3 spreadsheet files detailing vegetation surveys in the Brittany region for the following 4 land-uses: Hedges, forests, crops and grasslands. 
+I have retrieved 3 spreadsheet files detailing vegetation surveys in the Brittany region for the following 4 land-uses: Hedges, forests, crops and grasslands. The data was
 #### 1.2) Calcul pour chaque occsol des abondances et probabilités de présence moyennes par espèce du dataset correspondant
 #### 1.3) Filtrage des communautés pour créer liste unique espèce avec abondances et proba de présence pour chaque occsol
 
