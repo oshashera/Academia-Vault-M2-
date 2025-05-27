@@ -140,8 +140,10 @@ quali => compo => mode shannon de quanti ? plus c'est haut plus c'est varié ?
 Faire stat à partir carabes et plantes (corrélation entre paysages / indices paysages et abondance / richesse orga)
 
 
+==**AUTRES ECHELLES SPATIALES PLUS TARD PAS PRIORITÉ**==
+
 Lister ce qu'il reste de l'ideal initial comme perspective
-Perspective pour discu => PolR (mais après)
+Perspective pour discu => PolR (mais après) + CWV ?
 
 
 
