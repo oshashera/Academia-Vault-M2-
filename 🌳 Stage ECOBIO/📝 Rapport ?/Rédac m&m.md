@@ -51,15 +51,18 @@ I then created the intersect between the buffers and the OSO layer.
 ###### 4.1.3) Création buffer haies (bd haies, IGN, linéaire vectoriel) de 10m de large (résolution initiale de OSO qui était raster puis vectorisé avant d'être rendu disponible sur théia), avec ajout de l'attribut "classe" (même attribut que OSO, code numérique associé à une occsol précise), et ajout de la valeur 99 pour toutes les haies.
 Next, I created a buffer from the BD TOPO hedges layer transforming the linear hedges into 10 meter-wide entities (same resolution as the OSO layer). I also added a class ("classe") attribute in the attribute table, and assigned a value of 99 to all hedges. Thus, it could be used with the OSO nomenclature (OSO doesn't use then number 99 and doesn't have hedges as a land-use). The original OSO nomenclature can be found in ==**FIG XXX**==, and the classes of interest are detailled in ==**table XXX***==
 
-| (Land-use category of this project) | OSO class            | Code |
-| ----------------------------------- | -------------------- | ---- |
-| Crops                               | winter oilseeds      | 5    |
-| Crops                               | straw cereals        | 6    |
-| Crops                               | spring protein crops | 7    |
-| Crops                               | corn                 | 10   |
-| Grasslands                          | grasslands           | 13   |
-| Forest                              |                      |      |
-| Forest                              |                      |      |
+![[Pasted image 20250527104309.png]]
+
+| (Land-use category of this project) | OSO class            | Code                       |
+| ----------------------------------- | -------------------- | -------------------------- |
+| Crops                               | winter oilseeds      | 5                          |
+| Crops                               | straw cereals        | 6                          |
+| Crops                               | spring protein crops | 7                          |
+| Crops                               | corn                 | 10                         |
+| Grasslands                          | grasslands           | 13                         |
+| Forest                              | broad-leaved forest  | 16                         |
+| Forest                              | coniferous forest    | 17                         |
+| Hedgerows                           | no mention in OSO    | 99 (externally attributed) |
 
 ###### 4.1.4) Intersection avec buffer haies
 I then intersected both of those temporary layers with each other. 
@@ -74,9 +77,15 @@ Finally, I saved this global land-use layer into a geopackage (.gpkg) file.
 The whole process of community selection and CWM/CWV was performed in Rstudio (using R v.4.5.0 on a debian-based distribution) using the packages *data.table* (v.1.17.0), *dplyr* (v.1.1.4), *purrr* (v.1.0.4), *terra* (v.1.8-42), *tidyr* (v.1.3.1) and *truncnorm* (v.1.0-9).  
 #### 5.1)  Récupération du nombre N de communautés à simuler pour chaque occsol → chargement table d'attribut puis comptage de tt les parcelles appartenant à une occsol (n° dans "classe")
 
- After loading the attribute table of the gpkg layer into a dataframe, land-use categories of interest were defined in a vector comprising their encoding values under the OSO nomenclature. The number of plots (all buffer combined) of each land-use class of interest (==**cf fig XXXX, table XXXX**==)
+ After loading the attribute table of the gpkg layer into a dataframe, land-use categories of interest were defined in a vector comprising their encoding values under the OSO nomenclature. The number of plots (all buffer combined) of each land-use class of interest (==**cf fig XXXX, table XXXX**==) were stored as temporary variables and used to simulated only the necessary amount of communities for each land-use.
 
 #### 5.2)  2 Modes : **\[option A]** Boucle de simulation des commus : pour N, tirer (sans remise) une espèce qui a une valeur supérieure au seuil défini précedemment (1 à 5%, cf 3.2.2) pour l'occsol en question en abondance et pba de présence, car certaines espèces sont présentes dans plusieurs occsols, et bien que éliminées dans certaines occsol précédemment (par seuil), ont pu être sélectionnée pour une autre occsol et donc être dans la liste finale avec des valeurs insuffisantes dans la plupart des occsol sauf au moins une. → Cas pour prairies ||||||||||||**\[option B]** Split en 2 sets des plantes de l'occsol : cultures/adventices pour champs, arbres/autres pour haies et forêt → tirage séparé de X espèce dans chaque pool de sorte à avoir le nombre d'espèce attributé à la communauté TOUT EN ASSURANT LA PRESENCE DES 2 SUBSET (arbres ou cultures) dans l'occsol. Règles de sélections supplémentaires sur le nombre d'espèce à tirer dans les sets "cultures" (1, pas d'association, mais on pourrait), et "arbres" (pour forêt et haies, tiré aléatoirement entre 1 et 3 (essences dominantes) auquel on attribuera aléatoirement des % d'abondance de sorte à avoir **==VOIR AVEC CENDRINE==** recouvrement) ==> DANS TOUS LES CAS : stockage dans un df
+
+For community simulation, 2 processes were used. Note that since some species present in the final species list were selected for a land-use but not another, although having non-zero abundance/probability values in those other land-use, prompting me to still select the land-use pools through the previously set threshold .
+Process A, exclusive to grasslands : 
+For as many iterations as there are plots of grasslands : (1) 
+of random draws of species whose abundance and presence probability values for this land-use was superior to the set threshold (here 2%, same as before). 
+
 #### 5.3) Calcul CWM / CWV : calcul pour chaque commu du CWM (trait quanti : moyenne des valeurs de traits des espèces pondérée par l'abondance des espèces; trait quali : valeur modale (dominante) au vu de l'abondance cumulée des espèces qui présentent cet valeur précise) et CWV (quanti : **à compléter**; quali : ==A COMPLETER ET CHECK== **https://en.wikipedia.org/wiki/Qualitative_variation**) → stockage dans un df
 #### 5.4) Update de la table d'attribut du gpkg-région (3x → 3 échelles de buffer) en ajoutant les colonnes de CWM et CWV pour chaque parcelle.
 ## 6) Raster generalization avec basevalue pour color-coder (=à définir comment récup la baseline, surement valeur médiane ou moyenne pour la région pour le trait ? → calculer sur R avant, genre en 5.3.3 ?)
