@@ -88,7 +88,7 @@ Process B, exclusive to crops, forests, and hedgerows :
 Since for those land-use, some species groups presence are mandatory, like having a crop in a field, or having trees in the forests or hedgerows, we splitted the species pools of those land-use into 2 sub-pools. We then repeated the process A, splitting the community size between the two pools to form a single community comprised of species of both those sub-pools.
 The resulting communities and their trait data were stored into dataframes for the next steps.
 
-#### 5.3) Calcul CWM / CWV : calcul pour chaque commu du CWM (trait quanti : moyenne des valeurs de traits des espèces pondérée par l'abondance des espèces; trait quali : valeur modale (dominante) au vu de l'abondance cumulée des espèces qui présentent cet valeur précise) et CWV (quanti : **à compléter**; quali : ==A COMPLETER ET CHECK== **https://en.wikipedia.org/wiki/Qualitative_variation**) → stockage dans un df
+#### 5.3) Calcul CWM : calcul pour chaque commu du CWM (trait quanti : moyenne des valeurs de traits des espèces pondérée par l'abondance des espèces; trait quali : valeur modale (dominante) au vu de l'abondance cumulée des espèces qui présentent cet valeur précise) → stockage dans un df
 
 
 #### 5.4) Update de la table d'attribut du gpkg-région (3x → 3 échelles de buffer) en ajoutant les colonnes de CWM et CWV pour chaque parcelle.
@@ -124,4 +124,25 @@ data.table v.1.17.0
 
 
 check richesse en bois dans les bois et faire ca en moyenne
+
+variance de la moyenne, pas de CWV au final.
+
+Calc indices paysagers à partir de CWM 
+
+Remplacer getis Ord par des indices d'aggregation  ?
+Moy glob / surface "patch", sd aussi,
+Distance hotspot (SED)
+Tt les valeurs du 5% le plus haut dans les CWM (quali mais pas quanti)
+config => tt valeurs du jdd check les 5% = hotspots => reclassifier raster en 0 ou 1 (distance entre hotspots => euclidien, distance moyenne et var)
+quali => compo => mode shannon de quanti ? plus c'est haut plus c'est varié ? 
+
+
+Faire stat à partir carabes et plantes (corrélation entre paysages / indices paysages et abondance / richesse orga)
+
+
+Lister ce qu'il reste de l'ideal initial comme perspective
+Perspective pour discu => PolR (mais après)
+
+
+
 
