@@ -244,5 +244,18 @@ Methodology :
 
 
 
+combinaisons_trios <- combn(pool_unique$Forest.Mean.abundance, 3)
+> somme_trios <- colSums(combinaisons_trios)
+> moyenne_trios <- mean(somme_trios)
+> ecart_type_trios <- sd(somme_trios)
+> resultats <- tibble(
++ Moyenne_somme_trios = moyenne_trios,
++ SD_somme_trios = ecart_type_trios
++ )
+> > print(resultats)
+
+
+
+
 
 
