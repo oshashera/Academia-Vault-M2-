@@ -259,3 +259,4 @@ combinaisons_trios <- combn(pool_unique$Forest.Mean.abundance, 3)
 
 
 
+RED : \#d7191c ORANGE \#fdae61 YELLOW NEUTRAL \#ffffbf CYAN GREEN \#abdda4 BLUE \#2b83ba
