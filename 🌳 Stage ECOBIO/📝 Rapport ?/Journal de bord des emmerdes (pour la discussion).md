@@ -70,6 +70,7 @@ Caractérisation difficile :
 
 Aussi on a des arbres en strate arbustive pcq pas encore fini en terme d'age donc ca fausse pcq on a fuse ca en adulte on a pas les valeurs de trait intermédiaires
 
-Sp pas présente dans TRY (salix atrocinerea => fuse avec cinerea du coup)
+Sp pas présente dans TRY (salix atrocinerea => fuse avec cinerea du coup car taxo possible est "_Salix cinerea_ subsp. _atrocinerea_ ou var. atrocinerea)
+
 
 
