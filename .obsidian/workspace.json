@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Rédac m&m.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏡 Home"
+              "title": "Rédac m&m"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -216,8 +215,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "🏡 Home.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Rédac m&m.md",
     "Images/Pasted image 20250527104309.png",
     "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
