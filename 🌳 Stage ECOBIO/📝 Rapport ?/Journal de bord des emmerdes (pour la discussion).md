@@ -72,5 +72,6 @@ Aussi on a des arbres en strate arbustive pcq pas encore fini en terme d'age don
 
 Sp pas présente dans TRY (salix atrocinerea => fuse avec cinerea du coup car taxo possible est "_Salix cinerea_ subsp. _atrocinerea_ ou var. atrocinerea)
 
+fusion arbustive et arborée (strate) en "arbres" (peut être discutable)
 
 
