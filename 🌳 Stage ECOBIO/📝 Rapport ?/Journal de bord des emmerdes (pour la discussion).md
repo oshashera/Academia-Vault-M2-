@@ -68,5 +68,8 @@ Caractérisation difficile :
 - A partir de quel seuil virer des traits si trop de NA?
 - Si trop de traits virés pour assurer caractérisation habitat ET diet d'un taxon on fait quoi ? On remet des traits même si NA? mais dans ce cas on les utilise ou pas aussi pour les autres taxons à qui ca pourrait servir ? 
 
+Aussi on a des arbres en strate arbustive pcq pas encore fini en terme d'age donc ca fausse pcq on a fuse ca en adulte on a pas les valeurs de trait intermédiaires
+
+Sp pas présente dans TRY (salix atrocinerea => fuse avec cinerea du coup)
 
 
