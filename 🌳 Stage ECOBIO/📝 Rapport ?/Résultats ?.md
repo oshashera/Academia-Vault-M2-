@@ -38,4 +38,9 @@ ici NC-hete = 5 974 (7.43%) donc 7,43% des connexions sont entre pixels de class
 Si **HET ≈ HET-frag**, ça indique que la **diversité vient d’une mosaïque fine (beaucoup de bordures)** plutôt que de gros blocs
 
 
-![]
+>[!important] Problèmes ? : 
+>**96.3** vient de **données continues avec beaucoup de valeurs uniques**, pas de classes discrètes.
+>=> on rediscretise les valeurs par gqis ? fin on reclassifie ? selon combien de classes ? pis pour les quali on fait comment ? 
+>=> les rasters que créé chloe sont a giga pixels ? on garde les notres plutot nn ?
+>
+
