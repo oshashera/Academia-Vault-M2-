@@ -5,8 +5,10 @@ Valeur moyenne CWM paysage → faire lien avec carabes et plantes (abondances / 
 
 Via chloe (sur raster CWM) : 
 
-- NC valid => NC_hete
-
+- **NC valid** => NC_hete
+- **NC class** => savoir cb de classes
+- **NV_2, NV_3, NV_4**	Nombre de pixels dans les classes 2, 3, 4	
+- **NC hete** 
 
 
 
