@@ -10,9 +10,10 @@ Via chloe (sur raster CWM) :
 - **NV_2, NV_3, NV_4**	Nombre de pixels dans les classes 2, 3, 4	
 - **NC hete** 
 
-- HET
-- HET_frag
-- 
+- **HET**
+- **HET_frag**
+Faire histogramme pour comparer les 10 sites ?
+**HET ≈ HET-frag**, ça indique que la **diversité vient d’une mosaïque fine (beaucoup de bordures)**
 
 
 
