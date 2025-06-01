@@ -42,5 +42,9 @@ Si **HET ≈ HET-frag**, ça indique que la **diversité vient d’une mosaïque
 >**96.3** vient de **données continues avec beaucoup de valeurs uniques**, pas de classes discrètes.
 >=> on rediscretise les valeurs par gqis ? fin on reclassifie ? selon combien de classes ? pis pour les quali on fait comment ? 
 >=> les rasters que créé chloe sont a giga pixels ? on garde les notres plutot nn ?
+>J'ai fait la reclassification en 5 classes par ex => change pas grand chose pour le HET / SHDI etc 
+>donc on fait 1px et on garde ce qu'on récup pour ca, on fait pour les 11 buffers et on compare entre ?
+
+
 >
 
