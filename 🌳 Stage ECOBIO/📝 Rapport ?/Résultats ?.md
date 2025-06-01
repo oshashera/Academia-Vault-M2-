@@ -36,3 +36,6 @@ ici NC-hete = 5 974 (7.43%) donc 7,43% des connexions sont entre pixels de class
 ==- Ces proportions sont souvent comparées entre sites ou années pour détecter des changements de fragmentation.
 
 Si **HET ≈ HET-frag**, ça indique que la **diversité vient d’une mosaïque fine (beaucoup de bordures)** plutôt que de gros blocs
+
+
+![]
