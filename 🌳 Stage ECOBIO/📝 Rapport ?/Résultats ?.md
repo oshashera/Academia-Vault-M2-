@@ -10,6 +10,9 @@ Via chloe (sur raster CWM) :
 - **NV_2, NV_3, NV_4**	Nombre de pixels dans les classes 2, 3, 4	
 - **NC hete** 
 
+- HET
+- HET_frag
+- 
 
 
 
@@ -30,3 +33,5 @@ ici NC-hete = 5 974 (7.43%) donc 7,43% des connexions sont entre pixels de class
 ==- Si paysage très homogène (une seule classe dominante), la majorité des connexions seraient intra-classe, et **NC-hete serait proche de 0**.==
 ==- Dans un paysage très fragmenté, où les classes sont mélangées en patchs très découpés, **NC-hete serait plus élevé** (parfois 20–30% ou plus).==
 ==- Ces proportions sont souvent comparées entre sites ou années pour détecter des changements de fragmentation.
+
+Si **HET ≈ HET-frag**, ça indique que la **diversité vient d’une mosaïque fine (beaucoup de bordures)** plutôt que de gros blocs
