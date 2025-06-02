@@ -3,6 +3,28 @@ Cartos CWM
 Valeur moyenne CWM paysage → faire lien avec carabes et plantes (abondances / richesse spé)
 
 
+Distribution / densité trait **compo**
+
+Semivariogrammes : 
+→ graph (au besoin)
+→ sill / range => infos sur landscape complexity
+
+entropy
+→ map
+→ valeur \[0,1] => **degré d’incertitude ou d’hétérogénéité locale**, plus l’entropie est élevée, plus la texture est **complexe ou aléatoire**
+Valeurs absolues dépendront de la méthode et de l’échelle, mais en général :
+- Entropie basse (< 1) = texture régulière.
+- Entropie moyenne (1–3) = texture mixte.
+- Entropie haute (> 3) = texture complexe/irrégulière.
+
+
+GLCM  : valeurs fréquence d’apparition de couples de niveaux de gris à une certaine distance et orientation dans l’image
+→ map (3 bands)
+→
+
+
+
+#### inutile
 Via chloe (sur raster CWM) : 
 
 - **NC valid** => NC_hete
