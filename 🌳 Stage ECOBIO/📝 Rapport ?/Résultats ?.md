@@ -43,6 +43,10 @@ Le variogramme est un outil fondamental de la géostatistique qui décrit la str
 > **Source** :  
 >https://www.aspexit.com/variogram-and-spatial-autocorrelation/
 
+![[Pasted image 20250602152546.png|400]]
+Describes the **variance of a dataset as a function of the spatial lag between data points**, helping to **evaluate** if a given variable follows a specific **spatial pattern**. The variogram is composed of several parameters, including the nugget effect, partial sill, and range, which provide insights into the spatial structure of the data. The **nugget** represents the **small-scale spatial variations** within the fields, the **sill** is the **variance** of the dataset, and the **range** is the **distance beyond which observations are no longer spatially correlated**. 
+
+   
 ---
 
 ##### 2. Entropie locale (Shannon entropy)
