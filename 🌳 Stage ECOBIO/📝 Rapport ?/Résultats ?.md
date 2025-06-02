@@ -20,7 +20,10 @@ Valeurs absolues dépendront de la méthode et de l’échelle, mais en généra
 
 GLCM  : valeurs fréquence d’apparition de couples de niveaux de gris à une certaine distance et orientation dans l’image
 → map (3 bands)
-→
+→ contrast
+→ homogeneity
+→ correlation
+
 
 
 
