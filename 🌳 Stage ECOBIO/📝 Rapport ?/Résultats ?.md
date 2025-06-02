@@ -135,8 +135,7 @@ L’indice de Moran mesure la corrélation spatiale globale des valeurs, indiqua
 Ces indicateurs apportent chacun une information complémentaire sur la composition, la configuration, la fragmentation et la connectivité spatiale dans les données raster étudiées. Leur interprétation combinée permet une compréhension approfondie des patterns spatiaux et des processus écologiques ou environnementaux sous-jacents.
 
 ---
-
-Veux-tu que je te prépare ça en format RMarkdown, prêt à intégrer dans un rapport, avec mise en forme bibliographique automatique ?
+Certaines zones (e.g., zones 6 et 8) ont présenté une forte proportion de pixels `NA`, correspondant à des zones urbaines ou non pertinentes écologiquement. Ces absences ont affecté le calcul de certaines métriques (e.g., coût moyen, Moran's I), menant à des valeurs manquantes ou infinies. Ces cas ont été exclus des analyses finales. (ces métriques du moins)
 
 
 
