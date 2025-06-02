@@ -41,7 +41,7 @@ Le variogramme est un outil fondamental de la géostatistique qui décrit la str
 - Sill correspond à la variance totale stabilisée.
 
 > **Source** :  
-> Cressie, N. (1993). _Statistics for Spatial Data_. Wiley.
+>https://www.aspexit.com/variogram-and-spatial-autocorrelation/
 
 ---
 
