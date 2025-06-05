@@ -162,9 +162,10 @@
   ],
   "nodes": [
     {
+      "color": "4",
       "height": 1201,
       "id": "93bf11b1524230c9",
-      "label": "Untitled group",
+      "label": "Agriculture et biodiversité / usage sol",
       "type": "group",
       "width": 1354,
       "x": -420,
@@ -456,6 +457,61 @@
       "width": 328,
       "x": 245,
       "y": 1220
+    },
+    {
+      "height": 60,
+      "id": "cd5505d199b759c3",
+      "styleAttributes": {
+      },
+      "text": "Prendre échelle paysagère car encompasses biodiv ds espace et temps au delà de l'écosystème",
+      "type": "text",
+      "width": 512,
+      "x": 1080,
+      "y": 1200
+    },
+    {
+      "height": 29,
+      "id": "eb67207999420400",
+      "styleAttributes": {
+      },
+      "text": "Influence paysage sur biodiv",
+      "type": "text",
+      "width": 289,
+      "x": 1240,
+      "y": 1280
+    },
+    {
+      "height": 29,
+      "id": "da08ba4c399d5951",
+      "styleAttributes": {
+      },
+      "text": "Réserve / pool",
+      "type": "text",
+      "width": 260,
+      "x": 1316,
+      "y": 1328
+    },
+    {
+      "height": 29,
+      "id": "a0ebb3be9f0d8410",
+      "styleAttributes": {
+      },
+      "text": "Perception par orga",
+      "type": "text",
+      "width": 260,
+      "x": 1316,
+      "y": 1375
+    },
+    {
+      "height": 58,
+      "id": "30d2b1c854431631",
+      "styleAttributes": {
+      },
+      "text": "Fonctions importantes pour orga (dispersion, ressources, abris/habitat)",
+      "type": "text",
+      "width": 377,
+      "x": 1316,
+      "y": 1424
     }
   ]
 }
