@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
-                "mode": "preview",
-                "source": false
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
+                "viewState": {
+                  "x": 71.09985561588701,
+                  "y": -95.88806624012756,
+                  "zoom": -1.2217816054790802
+                }
               },
-              "icon": "lucide-file",
-              "title": "Journal de bord des emmerdes (pour la discussion)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Intro"
             }
           }
         ]
@@ -216,12 +219,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
     "🏡 Home.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro V2.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Résultats ?.md",
     "Images/Pasted image 20250602152546.png",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Rédac m&m.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "Images/Pasted image 20250527104309.png",

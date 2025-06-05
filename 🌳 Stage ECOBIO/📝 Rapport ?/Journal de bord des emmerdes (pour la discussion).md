@@ -75,3 +75,15 @@ Sp pas présente dans TRY (salix atrocinerea => fuse avec cinerea du coup car ta
 fusion arbustive et arborée (strate) en "arbres" (peut être discutable)
 
 
+
+
+
+#### Résultats 
+
+Aucun des 120 (3 var expliquée (shannon, richesse spé, abondance) x 2 modalités (haies avec/sans bandes fleuries) x 5 traits (pour carabes, LDMC, plant height et **3 traits liés aux graines (intérêt que pour les granivores, càd 5% ou moins des carabes**)) x 4 métriques (moy, var, dist, %5%top)) modèles linaires simples ne présent de résultat significatif pour la métrique évalué (dans chaque config), mais la majorité sont statistiquement valide, même si leur R2 est absolument nul
+
+On pourrait essayer si on avait plus de temps de refaire ces analyses avec les shannon/richesses/abondances des carabes grani uniquement ca pourrait être plus intéressant.
+Y aurai aussi bcp d'autres métriques à tester (PolLR/friction map, distance moyenne ou var distance entre centre buffer et pixels top 5%), etc etc etc
+
+
+
