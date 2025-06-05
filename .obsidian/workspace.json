@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Plan intro Version FINALE.canvas",
                 "viewState": {
-                  "x": 71.09985561588701,
-                  "y": -95.88806624012756,
-                  "zoom": -1.2217816054790802
+                  "x": 209.3004617261887,
+                  "y": 177.0261222313245,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Intro"
+              "title": "Plan intro Version FINALE"
             }
           }
         ]
@@ -219,6 +219,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
+    "🌳 Stage ECOBIO/📝 Rapport ?/Plan intro Version FINALE.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
     "🏡 Home.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro V2.md",
@@ -244,13 +246,11 @@
     "Thèses ?.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Procédure Raster Tile etc ?.md",
     "🌳 Stage ECOBIO/Carabes.md",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Lancement programme first steps ?.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Getis heatmap + Djikstra ? (gpt).md",
     "Séminaire Carabes (25-04-25).md",
     "Cours/🎓 Apport méthodologique/Statistiques approfondies/TP-TD/🟢 Projet statistiques.md",
     "Cours/🎓 Apport méthodologique/Statistiques approfondies/CM/🟢 Les modèles linéaires.md",
-    "Dark diversity (Réu paysabio 24-04-25).md",
     "Images/Pasted image 20250423092320.png",
     "Images/Pasted image 20250418161109.png",
     "🌳 Stage ECOBIO/méthodo.canvas",

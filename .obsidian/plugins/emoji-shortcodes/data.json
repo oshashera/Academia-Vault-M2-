@@ -4,9 +4,11 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":red_circle:",
+    ":orange_circle:",
+    ":arrow_double_down:",
     ":white_check_mark:",
     ":x:",
-    ":red_circle:",
     ":orange_square:",
     ":alarm_clock:",
     ":coffin:",

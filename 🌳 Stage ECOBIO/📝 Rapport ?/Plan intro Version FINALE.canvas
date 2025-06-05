@@ -1,0 +1,147 @@
+{
+  "edges": [
+    {
+      "fromNode": "82be1e04089349c2",
+      "fromSide": "right",
+      "id": "aaf9831c996071a0",
+      "styleAttributes": {
+      },
+      "toNode": "86298f1b555069bc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4ba67bc554b7c6c4",
+      "fromSide": "right",
+      "id": "d6115ca235845f6f",
+      "styleAttributes": {
+      },
+      "toNode": "a76fe2e94ac9d09c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a76fe2e94ac9d09c",
+      "fromSide": "bottom",
+      "id": "1a88abe436f0cf33",
+      "styleAttributes": {
+      },
+      "toNode": "7146b0ceac4ae2e1",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 259,
+      "id": "a76fe2e94ac9d09c",
+      "label": ".",
+      "type": "group",
+      "width": 591,
+      "x": 42,
+      "y": -111
+    },
+    {
+      "height": 29,
+      "id": "3e4bdd46bf4a7182",
+      "styleAttributes": {
+      },
+      "text": "Dangers planétaires et civilisationnels",
+      "type": "text",
+      "width": 387,
+      "x": -407,
+      "y": -145
+    },
+    {
+      "height": 58,
+      "id": "4ba67bc554b7c6c4",
+      "styleAttributes": {
+        "textAlign": "right"
+      },
+      "text": "Nourrir le monde en gérant :\n9 limites planétaires **dont**",
+      "type": "text",
+      "width": 307,
+      "x": -327,
+      "y": -100
+    },
+    {
+      "color": "1",
+      "height": 29,
+      "id": "82be1e04089349c2",
+      "styleAttributes": {
+      },
+      "text": "erosion Biodiv 🔴",
+      "type": "text",
+      "width": 219,
+      "x": 52,
+      "y": -91
+    },
+    {
+      "color": "1",
+      "height": 29,
+      "id": "e1e8ef8ea0e8d13b",
+      "styleAttributes": {
+      },
+      "text": "changement climatique 🔴",
+      "type": "text",
+      "width": 276,
+      "x": 52,
+      "y": -47
+    },
+    {
+      "color": "2",
+      "height": 29,
+      "id": "0dfe7e0c36718ade",
+      "styleAttributes": {
+      },
+      "text": "chgt usage sols 🟠",
+      "type": "text",
+      "width": 260,
+      "x": 52,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 29,
+      "id": "9402a588c382da9c",
+      "styleAttributes": {
+      },
+      "text": "introduction nouvelles entités ds biosphères (polluants) 🔴",
+      "type": "text",
+      "width": 551,
+      "x": 52,
+      "y": 50
+    },
+    {
+      "color": "1",
+      "height": 29,
+      "id": "218449d895ab6150",
+      "styleAttributes": {
+      },
+      "text": "perturbation cycles biogéochimiques 🔴",
+      "type": "text",
+      "width": 376,
+      "x": 52,
+      "y": 99
+    },
+    {
+      "height": 29,
+      "id": "86298f1b555069bc",
+      "styleAttributes": {
+      },
+      "text": "\\- 75% insectes en 30 ans",
+      "type": "text",
+      "width": 260,
+      "x": 328,
+      "y": -91
+    },
+    {
+      "height": 60,
+      "id": "7146b0ceac4ae2e1",
+      "styleAttributes": {
+      },
+      "text": "Agriculture joue sur TOUS ces sujets",
+      "type": "text",
+      "width": 260,
+      "x": 200,
+      "y": 240
+    }
+  ]
+}

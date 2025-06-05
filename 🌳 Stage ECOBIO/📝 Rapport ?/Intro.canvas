@@ -294,6 +294,7 @@
     }
   ],
   "metadata": {
+    "version": "1.0-1.0"
   },
   "nodes": [
     {
@@ -404,6 +405,30 @@
     },
     {
       "height": 60,
+      "id": "056c5af0b79b0911",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mosaique etc... paradigm",
+      "type": "text",
+      "width": 260,
+      "x": -445,
+      "y": -200
+    },
+    {
+      "height": 60,
+      "id": "da8ad5ef5ad23c54",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fonctionnel",
+      "type": "text",
+      "width": 260,
+      "x": -16,
+      "y": -290
+    },
+    {
+      "height": 60,
       "id": "66c400a0fd05f6fd",
       "styleAttributes": {
         "textAlign": "center"
@@ -452,18 +477,6 @@
     },
     {
       "height": 60,
-      "id": "056c5af0b79b0911",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Mosaique etc... paradigm",
-      "type": "text",
-      "width": 260,
-      "x": -445,
-      "y": -200
-    },
-    {
-      "height": 60,
       "id": "cb904f1d14784927",
       "styleAttributes": {
         "textAlign": "center"
@@ -485,18 +498,6 @@
       "width": 148,
       "x": 942,
       "y": -768
-    },
-    {
-      "height": 60,
-      "id": "b96ccbe13b3714dd",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Services (managment)",
-      "type": "text",
-      "width": 260,
-      "x": 886,
-      "y": -574
     },
     {
       "height": 66,
@@ -521,6 +522,30 @@
       "width": 260,
       "x": 492,
       "y": -454
+    },
+    {
+      "height": 60,
+      "id": "cbe1228e2f146c3d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fonctionnelle",
+      "type": "text",
+      "width": 260,
+      "x": 622,
+      "y": -63
+    },
+    {
+      "height": 60,
+      "id": "b96ccbe13b3714dd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Services (managment)",
+      "type": "text",
+      "width": 260,
+      "x": 886,
+      "y": -574
     },
     {
       "height": 787,
@@ -560,18 +585,6 @@
     },
     {
       "height": 60,
-      "id": "cbe1228e2f146c3d",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Fonctionnelle",
-      "type": "text",
-      "width": 260,
-      "x": 622,
-      "y": -63
-    },
-    {
-      "height": 60,
       "id": "1fa272c76142b709",
       "styleAttributes": {
       },
@@ -580,18 +593,6 @@
       "width": 260,
       "x": 1082,
       "y": 165
-    },
-    {
-      "height": 60,
-      "id": "da8ad5ef5ad23c54",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Fonctionnel",
-      "type": "text",
-      "width": 260,
-      "x": -16,
-      "y": -290
     }
   ]
 }
