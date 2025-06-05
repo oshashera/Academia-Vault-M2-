@@ -158,6 +158,15 @@
       },
       "toNode": "2edf19774d2089fe",
       "toSide": "top"
+    },
+    {
+      "fromNode": "e1bbc40364b637c1",
+      "fromSide": "right",
+      "id": "4471fc53746e19f1",
+      "styleAttributes": {
+      },
+      "toNode": "cc1bd9c1b753ad76",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -165,7 +174,7 @@
       "color": "4",
       "height": 1201,
       "id": "93bf11b1524230c9",
-      "label": "Agriculture et biodiversité / usage sol",
+      "label": "2] Agriculture et biodiversité / usage sol",
       "type": "group",
       "width": 1354,
       "x": -420,
@@ -175,7 +184,7 @@
       "color": "4",
       "height": 333,
       "id": "559ab245e0347bb9",
-      "label": "Accroche",
+      "label": "1] Accroche",
       "type": "group",
       "width": 1080,
       "x": -420,
@@ -185,16 +194,25 @@
       "color": "5",
       "height": 437,
       "id": "2edf19774d2089fe",
-      "label": "Agri - biodiv",
+      "label": "2.3) Agri - biodiv",
       "type": "group",
       "width": 747,
       "x": 167,
       "y": 898
     },
     {
+      "height": 312,
+      "id": "f1e58ec8e73b9c52",
+      "label": "Untitled group",
+      "type": "group",
+      "width": 801,
+      "x": 1120,
+      "y": 1540
+    },
+    {
       "height": 322,
       "id": "458cdf635186de1b",
-      "label": "Paysage et biodiv",
+      "label": "3.1) Paysage et biodiv",
       "type": "group",
       "width": 653,
       "x": 1060,
@@ -214,7 +232,7 @@
       "color": "5",
       "height": 201,
       "id": "d07d58c5c547f2de",
-      "label": "agri",
+      "label": "2.1) Agri",
       "type": "group",
       "width": 428,
       "x": 167,
@@ -224,7 +242,7 @@
       "color": "5",
       "height": 165,
       "id": "475d2234b470b414",
-      "label": "biodiv",
+      "label": "2.2) Biodiv",
       "type": "group",
       "width": 389,
       "x": 167,
@@ -523,15 +541,15 @@
       "y": 1424
     },
     {
-      "height": 60,
+      "height": 29,
       "id": "8812781f0347a792",
       "styleAttributes": {
       },
       "text": "Utiliser éco paysage pour analyser ca",
       "type": "text",
-      "width": 260,
-      "x": 1680,
-      "y": 1360
+      "width": 406,
+      "x": 1133,
+      "y": 1568
     },
     {
       "height": 29,
@@ -541,19 +559,107 @@
       "text": "Définitions importantes (het compo / config, connectivité fragmentation)",
       "type": "text",
       "width": 613,
-      "x": 1720,
-      "y": 1500
+      "x": 1281,
+      "y": 1694
     },
     {
-      "height": 60,
+      "height": 29,
       "id": "31081c44367200cf",
       "styleAttributes": {
       },
-      "text": "",
+      "text": "Dérivé aussi de méta-**communauté** (leibol et al)",
+      "type": "text",
+      "width": 453,
+      "x": 1281,
+      "y": 1753
+    },
+    {
+      "height": 29,
+      "id": "188455c737efa0ad",
+      "styleAttributes": {
+      },
+      "text": "Issu de méta-**population** (MarArthur et wilson)",
+      "type": "text",
+      "width": 448,
+      "x": 1281,
+      "y": 1811
+    },
+    {
+      "height": 29,
+      "id": "0930a1de8d7076a0",
+      "styleAttributes": {
+      },
+      "text": "Ecologie du paysage ? kézako?",
+      "type": "text",
+      "width": 352,
+      "x": 1227,
+      "y": 1637
+    },
+    {
+      "height": 29,
+      "id": "32653af8751d65af",
+      "styleAttributes": {
+      },
+      "text": "Approche classique",
+      "type": "text",
+      "width": 267,
+      "x": 1227,
+      "y": 1887
+    },
+    {
+      "height": 58,
+      "id": "e1bbc40364b637c1",
+      "styleAttributes": {
+      },
+      "text": "**Landscape mosaic** => \"tt le paysage important ds process. éco., pas juste l'habitat target\"",
+      "type": "text",
+      "width": 426,
+      "x": 1281,
+      "y": 1943
+    },
+    {
+      "height": 29,
+      "id": "cc1bd9c1b753ad76",
+      "styleAttributes": {
+      },
+      "text": "**⚠** **⚠** **≠** PMM/PCM **⚠** **⚠**",
+      "type": "text",
+      "width": 245,
+      "x": 1734,
+      "y": 1958
+    },
+    {
+      "height": 29,
+      "id": "1db6f3d33e9d2791",
+      "styleAttributes": {
+      },
+      "text": "Limites cependant :",
       "type": "text",
       "width": 260,
-      "x": 1680,
-      "y": 1540
+      "x": 1260,
+      "y": 2020
+    },
+    {
+      "height": 29,
+      "id": "b7635e99946b2f44",
+      "styleAttributes": {
+      },
+      "text": "Description mosaïque par des **land-use** = anthropocentré",
+      "type": "text",
+      "width": 534,
+      "x": 1360,
+      "y": 2100
+    },
+    {
+      "height": 102,
+      "id": "842c93b91f4f69ef",
+      "styleAttributes": {
+      },
+      "text": "**≠** perceptions par organismes : \nsensibilité à éléments paysages pouvant jouer un rôle dans des fx éco d'importance pour orga comme dispersion ,habitat ressource (cf 3.1)",
+      "type": "text",
+      "width": 606,
+      "x": 1700,
+      "y": 2180
     }
   ]
 }

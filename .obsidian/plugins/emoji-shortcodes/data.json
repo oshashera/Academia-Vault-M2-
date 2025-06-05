@@ -4,6 +4,7 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":warning:",
     ":red_circle:",
     ":orange_circle:",
     ":arrow_double_down:",
@@ -40,7 +41,6 @@
     ":microbe:",
     ":bee:",
     ":rotating_light:",
-    ":warning:",
     ":stop_sign:",
     ":potted_plant:",
     ":grenada:",
