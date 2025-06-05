@@ -191,6 +191,15 @@
       "y": -160
     },
     {
+      "height": 369,
+      "id": "d2ccabfc42acc666",
+      "label": "Approche classique",
+      "type": "group",
+      "width": 913,
+      "x": 1060,
+      "y": 1933
+    },
+    {
       "color": "5",
       "height": 437,
       "id": "2edf19774d2089fe",
@@ -203,11 +212,11 @@
     {
       "height": 312,
       "id": "f1e58ec8e73b9c52",
-      "label": "Untitled group",
+      "label": "3.2) Eco paysage : discipline et concepts",
       "type": "group",
       "width": 801,
-      "x": 1120,
-      "y": 1540
+      "x": 1060,
+      "y": 1561
     },
     {
       "height": 322,
@@ -542,25 +551,14 @@
     },
     {
       "height": 29,
-      "id": "8812781f0347a792",
-      "styleAttributes": {
-      },
-      "text": "Utiliser éco paysage pour analyser ca",
-      "type": "text",
-      "width": 406,
-      "x": 1133,
-      "y": 1568
-    },
-    {
-      "height": 29,
       "id": "eb74e63e2b1a0505",
       "styleAttributes": {
       },
       "text": "Définitions importantes (het compo / config, connectivité fragmentation)",
       "type": "text",
       "width": 613,
-      "x": 1281,
-      "y": 1694
+      "x": 1221,
+      "y": 1715
     },
     {
       "height": 29,
@@ -570,8 +568,8 @@
       "text": "Dérivé aussi de méta-**communauté** (leibol et al)",
       "type": "text",
       "width": 453,
-      "x": 1281,
-      "y": 1753
+      "x": 1221,
+      "y": 1774
     },
     {
       "height": 29,
@@ -581,8 +579,19 @@
       "text": "Issu de méta-**population** (MarArthur et wilson)",
       "type": "text",
       "width": 448,
-      "x": 1281,
-      "y": 1811
+      "x": 1221,
+      "y": 1832
+    },
+    {
+      "height": 29,
+      "id": "8812781f0347a792",
+      "styleAttributes": {
+      },
+      "text": "Utiliser éco paysage pour analyser ca",
+      "type": "text",
+      "width": 406,
+      "x": 1073,
+      "y": 1589
     },
     {
       "height": 29,
@@ -592,30 +601,8 @@
       "text": "Ecologie du paysage ? kézako?",
       "type": "text",
       "width": 352,
-      "x": 1227,
-      "y": 1637
-    },
-    {
-      "height": 29,
-      "id": "32653af8751d65af",
-      "styleAttributes": {
-      },
-      "text": "Approche classique",
-      "type": "text",
-      "width": 267,
-      "x": 1227,
-      "y": 1887
-    },
-    {
-      "height": 58,
-      "id": "e1bbc40364b637c1",
-      "styleAttributes": {
-      },
-      "text": "**Landscape mosaic** => \"tt le paysage important ds process. éco., pas juste l'habitat target\"",
-      "type": "text",
-      "width": 426,
-      "x": 1281,
-      "y": 1943
+      "x": 1167,
+      "y": 1658
     },
     {
       "height": 29,
@@ -625,8 +612,8 @@
       "text": "**⚠** **⚠** **≠** PMM/PCM **⚠** **⚠**",
       "type": "text",
       "width": 245,
-      "x": 1734,
-      "y": 1958
+      "x": 1594,
+      "y": 2031
     },
     {
       "height": 29,
@@ -636,8 +623,8 @@
       "text": "Limites cependant :",
       "type": "text",
       "width": 260,
-      "x": 1260,
-      "y": 2020
+      "x": 1141,
+      "y": 2100
     },
     {
       "height": 29,
@@ -647,19 +634,173 @@
       "text": "Description mosaïque par des **land-use** = anthropocentré",
       "type": "text",
       "width": 534,
-      "x": 1360,
-      "y": 2100
+      "x": 1220,
+      "y": 2149
     },
     {
-      "height": 102,
+      "height": 87,
       "id": "842c93b91f4f69ef",
       "styleAttributes": {
       },
       "text": "**≠** perceptions par organismes : \nsensibilité à éléments paysages pouvant jouer un rôle dans des fx éco d'importance pour orga comme dispersion ,habitat ressource (cf 3.1)",
       "type": "text",
       "width": 606,
+      "x": 1354,
+      "y": 2202
+    },
+    {
+      "height": 29,
+      "id": "32653af8751d65af",
+      "styleAttributes": {
+      },
+      "text": "Approche classique",
+      "type": "text",
+      "width": 267,
+      "x": 1087,
+      "y": 1960
+    },
+    {
+      "height": 58,
+      "id": "e1bbc40364b637c1",
+      "styleAttributes": {
+      },
+      "text": "**Landscape mosaic** => \"tt le paysage important ds process. éco., pas juste l'habitat target\"",
+      "type": "text",
+      "width": 426,
+      "x": 1141,
+      "y": 2016
+    },
+    {
+      "height": 29,
+      "id": "427edea75d4ebdbb",
+      "styleAttributes": {
+      },
+      "text": "Mieux prédire / caractériser la biodiversité ?",
+      "type": "text",
+      "width": 464,
+      "x": 1460,
+      "y": 2400
+    },
+    {
+      "height": 29,
+      "id": "450bfd312e34846a",
+      "styleAttributes": {
+      },
+      "text": "Piste : écologie fonctionnelle",
+      "type": "text",
+      "width": 361,
+      "x": 1527,
+      "y": 2505
+    },
+    {
+      "height": 60,
+      "id": "353c26a88504ee09",
+      "styleAttributes": {
+      },
+      "text": "Eco f(x) => traits f(x)",
+      "type": "text",
+      "width": 260,
+      "x": 1500,
+      "y": 2600
+    },
+    {
+      "height": 60,
+      "id": "5727cc93e73f3af3",
+      "styleAttributes": {
+      },
+      "text": "def + split traits effet vs réponse",
+      "type": "text",
+      "width": 260,
+      "x": 1560,
+      "y": 2660
+    },
+    {
+      "height": 60,
+      "id": "ca66241168936969",
+      "styleAttributes": {
+      },
+      "text": "on focus sur trait effet pour décrire effet sur ressource / habitat / abris",
+      "type": "text",
+      "width": 260,
+      "x": 1600,
+      "y": 2720
+    },
+    {
+      "height": 58,
+      "id": "a646f5237a01d350",
+      "styleAttributes": {
+      },
+      "text": "Fusion des 2 => **paysages f(x)**? Novateur, vaste liberté et possibilités d'approches",
+      "type": "text",
+      "width": 420,
+      "x": 1560,
+      "y": 2880
+    },
+    {
+      "height": 58,
+      "id": "a7e1f014ca4a025e",
+      "styleAttributes": {
+      },
+      "text": "Alignier et al => **pt de départ, ≠≠≠≠PAS blueprint de ce qu'on fait**",
+      "type": "text",
+      "width": 339,
       "x": 1700,
-      "y": 2180
+      "y": 2960
+    },
+    {
+      "height": 87,
+      "id": "acf94902d613a8d9",
+      "styleAttributes": {
+      },
+      "text": "Peut avoir un intérêt pour gestion, prévision du paysage pour la biodiv, apporter autre éclairage sur land-sparing vs land-sharing ?",
+      "type": "text",
+      "width": 496,
+      "x": 1700,
+      "y": 3120
+    },
+    {
+      "height": 60,
+      "id": "fb6de6b34197ecc4",
+      "styleAttributes": {
+      },
+      "text": "Développer méthodo pour simuler et analyser ces paysages f(x), ici **agricoles** , caractérisés apr les commus VG du paysage autour des champs.",
+      "type": "text",
+      "width": 260,
+      "x": 1720,
+      "y": 3280
+    },
+    {
+      "height": 148,
+      "id": "1882cf3b115d1c6a",
+      "styleAttributes": {
+      },
+      "text": "Etudier effet de ce paysage sur taxons intra champs → initialement méthodo développé sur 6 taxons (dans cadre projet conserves, taxons d'intérêt car....) → mais suite aux données recus et méthodo développée on se concentrera sur les carabes qui sont d'intérêt car ....",
+      "type": "text",
+      "width": 545,
+      "x": 1700,
+      "y": 3400
+    },
+    {
+      "height": 29,
+      "id": "9278dc1f45456015",
+      "styleAttributes": {
+      },
+      "text": "Autres exemples potentiels",
+      "type": "text",
+      "width": 339,
+      "x": 1700,
+      "y": 3060
+    },
+    {
+      "height": 60,
+      "id": "3a78478d5a043227",
+      "styleAttributes": {
+      },
+      "text": "On vuet apporter notre pierre à l'édifice du concept de paysage f(x)",
+      "type": "text",
+      "width": 260,
+      "x": 1500,
+      "y": 3250
     }
   ]
 }
