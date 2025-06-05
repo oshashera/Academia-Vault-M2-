@@ -19,7 +19,7 @@
       "toSide": "left"
     },
     {
-      "color": "5",
+      "color": "4",
       "fromNode": "a76fe2e94ac9d09c",
       "fromSide": "bottom",
       "id": "1a88abe436f0cf33",
@@ -82,9 +82,114 @@
       },
       "toNode": "475d2234b470b414",
       "toSide": "top"
+    },
+    {
+      "fromNode": "e8fd984d97389067",
+      "fromSide": "right",
+      "id": "1e183f7b7cea3721",
+      "styleAttributes": {
+      },
+      "toNode": "189d3478d6d76d1a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cea9cd2dab6fb5f9",
+      "fromSide": "right",
+      "id": "c5baa858e060040f",
+      "styleAttributes": {
+      },
+      "toNode": "189d3478d6d76d1a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e8fd984d97389067",
+      "fromSide": "left",
+      "id": "abc64a27876773d4",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "toNode": "12eb800ed02a6d68",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e8fd984d97389067",
+      "fromSide": "left",
+      "id": "d457de06f256d0fb",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "toNode": "70f5aba829386b75",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e8fd984d97389067",
+      "fromSide": "left",
+      "id": "157b1bc434a8fbcf",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "toNode": "8976dc15254e6bb5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "aad5a9976b9f7837",
+      "fromSide": "left",
+      "id": "ee0b817b6991735e",
+      "styleAttributes": {
+      },
+      "toNode": "e8fd984d97389067",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "aad5a9976b9f7837",
+      "fromSide": "left",
+      "id": "3b2e8492b908f998",
+      "styleAttributes": {
+      },
+      "toNode": "cea9cd2dab6fb5f9",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "475d2234b470b414",
+      "fromSide": "bottom",
+      "id": "555b33a1b2e46f6f",
+      "styleAttributes": {
+      },
+      "toNode": "2edf19774d2089fe",
+      "toSide": "top"
     }
   ],
   "nodes": [
+    {
+      "height": 1201,
+      "id": "93bf11b1524230c9",
+      "label": "Untitled group",
+      "type": "group",
+      "width": 1354,
+      "x": -420,
+      "y": 277
+    },
+    {
+      "color": "4",
+      "height": 333,
+      "id": "559ab245e0347bb9",
+      "label": "Accroche",
+      "type": "group",
+      "width": 1080,
+      "x": -420,
+      "y": -160
+    },
+    {
+      "color": "5",
+      "height": 437,
+      "id": "2edf19774d2089fe",
+      "label": "Agri - biodiv",
+      "type": "group",
+      "width": 747,
+      "x": 167,
+      "y": 898
+    },
     {
       "color": "5",
       "height": 259,
@@ -102,8 +207,8 @@
       "label": "agri",
       "type": "group",
       "width": 428,
-      "x": 180,
-      "y": 220
+      "x": 167,
+      "y": 383
     },
     {
       "color": "5",
@@ -112,8 +217,8 @@
       "label": "biodiv",
       "type": "group",
       "width": 389,
-      "x": 219,
-      "y": 483
+      "x": 167,
+      "y": 647
     },
     {
       "height": 29,
@@ -210,6 +315,17 @@
       "y": -91
     },
     {
+      "height": 60,
+      "id": "189d3478d6d76d1a",
+      "styleAttributes": {
+      },
+      "text": "gestion à l'échelle paysage ?",
+      "type": "text",
+      "width": 339,
+      "x": 1087,
+      "y": 1086
+    },
+    {
       "height": 29,
       "id": "7146b0ceac4ae2e1",
       "styleAttributes": {
@@ -217,8 +333,8 @@
       "text": "**Agriculture** joue sur TOUS ces sujets",
       "type": "text",
       "width": 388,
-      "x": 200,
-      "y": 240
+      "x": 187,
+      "y": 403
     },
     {
       "height": 29,
@@ -228,8 +344,8 @@
       "text": "Description agrosystèmes",
       "type": "text",
       "width": 272,
-      "x": 258,
-      "y": 287
+      "x": 245,
+      "y": 450
     },
     {
       "height": 58,
@@ -239,8 +355,8 @@
       "text": "Levier énorme de changement, notamment sur la **biodiv**",
       "type": "text",
       "width": 300,
-      "x": 258,
-      "y": 343
+      "x": 245,
+      "y": 506
     },
     {
       "height": 29,
@@ -250,8 +366,8 @@
       "text": "Potentiel de la biodiv en tant qu'outil",
       "type": "text",
       "width": 349,
-      "x": 233,
-      "y": 499
+      "x": 181,
+      "y": 663
     },
     {
       "height": 29,
@@ -261,8 +377,8 @@
       "text": "Services écosys",
       "type": "text",
       "width": 260,
-      "x": 322,
-      "y": 548
+      "x": 270,
+      "y": 712
     },
     {
       "height": 29,
@@ -272,8 +388,8 @@
       "text": "Valeur intrinsèque",
       "type": "text",
       "width": 260,
-      "x": 322,
-      "y": 595
+      "x": 270,
+      "y": 759
     },
     {
       "height": 29,
@@ -283,8 +399,8 @@
       "text": "Améliorer gestion biodiv dans paysages agricoles",
       "type": "text",
       "width": 452,
-      "x": 220,
-      "y": 700
+      "x": 187,
+      "y": 918
     },
     {
       "height": 29,
@@ -294,8 +410,8 @@
       "text": "**↑↑** biodiv ",
       "type": "text",
       "width": 260,
-      "x": 278,
-      "y": 760
+      "x": 245,
+      "y": 978
     },
     {
       "height": 29,
@@ -305,8 +421,8 @@
       "text": "🟰 **↑↑** SES",
       "type": "text",
       "width": 260,
-      "x": 358,
-      "y": 808
+      "x": 325,
+      "y": 1026
     },
     {
       "height": 58,
@@ -316,8 +432,8 @@
       "text": "🟰 **↑↑** cycles biogeo ? stabilisation au moins ou moins déréglés",
       "type": "text",
       "width": 387,
-      "x": 358,
-      "y": 858
+      "x": 325,
+      "y": 1076
     },
     {
       "height": 29,
@@ -327,8 +443,8 @@
       "text": "🟰 **↓↓** nouvelles entités (intrants / pesticides ?)",
       "type": "text",
       "width": 427,
-      "x": 358,
-      "y": 940
+      "x": 325,
+      "y": 1158
     },
     {
       "height": 29,
@@ -338,19 +454,8 @@
       "text": "changement usage sol ?",
       "type": "text",
       "width": 328,
-      "x": 358,
-      "y": 994
-    },
-    {
-      "height": 60,
-      "id": "189d3478d6d76d1a",
-      "styleAttributes": {
-      },
-      "text": "",
-      "type": "text",
-      "width": 339,
-      "x": 300,
-      "y": 1080
+      "x": 245,
+      "y": 1220
     }
   ]
 }
