@@ -19,6 +19,7 @@
       "toSide": "left"
     },
     {
+      "color": "5",
       "fromNode": "a76fe2e94ac9d09c",
       "fromSide": "bottom",
       "id": "1a88abe436f0cf33",
@@ -26,10 +27,66 @@
       },
       "toNode": "7146b0ceac4ae2e1",
       "toSide": "top"
+    },
+    {
+      "fromNode": "7146b0ceac4ae2e1",
+      "fromSide": "left",
+      "id": "ae66f274cdcee2d9",
+      "styleAttributes": {
+      },
+      "toNode": "698c856cba839ea3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7146b0ceac4ae2e1",
+      "fromSide": "left",
+      "id": "a4604c6a340b1c0e",
+      "styleAttributes": {
+      },
+      "toNode": "d69240cfb3183650",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3e4bdd46bf4a7182",
+      "fromSide": "left",
+      "id": "c70d1a6ea77e2e52",
+      "styleAttributes": {
+      },
+      "toNode": "4ba67bc554b7c6c4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8477fd8b7e4bfd87",
+      "fromSide": "left",
+      "id": "2b40f5ddf6beb5ea",
+      "styleAttributes": {
+      },
+      "toNode": "5e81cdf9cb49e72b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8477fd8b7e4bfd87",
+      "fromSide": "left",
+      "id": "50e2eb842b5473df",
+      "styleAttributes": {
+      },
+      "toNode": "77547cb6c5592273",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "d07d58c5c547f2de",
+      "fromSide": "bottom",
+      "id": "b1bc590839ade5b8",
+      "styleAttributes": {
+      },
+      "toNode": "475d2234b470b414",
+      "toSide": "top"
     }
   ],
   "nodes": [
     {
+      "color": "5",
       "height": 259,
       "id": "a76fe2e94ac9d09c",
       "label": ".",
@@ -39,11 +96,31 @@
       "y": -111
     },
     {
+      "color": "5",
+      "height": 201,
+      "id": "d07d58c5c547f2de",
+      "label": "agri",
+      "type": "group",
+      "width": 428,
+      "x": 180,
+      "y": 220
+    },
+    {
+      "color": "5",
+      "height": 165,
+      "id": "475d2234b470b414",
+      "label": "biodiv",
+      "type": "group",
+      "width": 389,
+      "x": 219,
+      "y": 483
+    },
+    {
       "height": 29,
       "id": "3e4bdd46bf4a7182",
       "styleAttributes": {
       },
-      "text": "Dangers planétaires et civilisationnels",
+      "text": "**Dangers** planétaires et civilisationnels",
       "type": "text",
       "width": 387,
       "x": -407,
@@ -55,7 +132,7 @@
       "styleAttributes": {
         "textAlign": "right"
       },
-      "text": "Nourrir le monde en gérant :\n9 limites planétaires **dont**",
+      "text": "Nourrir le monde en gérant :\n**9 limites planétaires** dont",
       "type": "text",
       "width": 307,
       "x": -327,
@@ -133,15 +210,147 @@
       "y": -91
     },
     {
-      "height": 60,
+      "height": 29,
       "id": "7146b0ceac4ae2e1",
       "styleAttributes": {
       },
-      "text": "Agriculture joue sur TOUS ces sujets",
+      "text": "**Agriculture** joue sur TOUS ces sujets",
       "type": "text",
-      "width": 260,
+      "width": 388,
       "x": 200,
       "y": 240
+    },
+    {
+      "height": 29,
+      "id": "698c856cba839ea3",
+      "styleAttributes": {
+      },
+      "text": "Description agrosystèmes",
+      "type": "text",
+      "width": 272,
+      "x": 258,
+      "y": 287
+    },
+    {
+      "height": 58,
+      "id": "d69240cfb3183650",
+      "styleAttributes": {
+      },
+      "text": "Levier énorme de changement, notamment sur la **biodiv**",
+      "type": "text",
+      "width": 300,
+      "x": 258,
+      "y": 343
+    },
+    {
+      "height": 29,
+      "id": "8477fd8b7e4bfd87",
+      "styleAttributes": {
+      },
+      "text": "Potentiel de la biodiv en tant qu'outil",
+      "type": "text",
+      "width": 349,
+      "x": 233,
+      "y": 499
+    },
+    {
+      "height": 29,
+      "id": "5e81cdf9cb49e72b",
+      "styleAttributes": {
+      },
+      "text": "Services écosys",
+      "type": "text",
+      "width": 260,
+      "x": 322,
+      "y": 548
+    },
+    {
+      "height": 29,
+      "id": "77547cb6c5592273",
+      "styleAttributes": {
+      },
+      "text": "Valeur intrinsèque",
+      "type": "text",
+      "width": 260,
+      "x": 322,
+      "y": 595
+    },
+    {
+      "height": 29,
+      "id": "aad5a9976b9f7837",
+      "styleAttributes": {
+      },
+      "text": "Améliorer gestion biodiv dans paysages agricoles",
+      "type": "text",
+      "width": 452,
+      "x": 220,
+      "y": 700
+    },
+    {
+      "height": 29,
+      "id": "e8fd984d97389067",
+      "styleAttributes": {
+      },
+      "text": "**↑↑** biodiv ",
+      "type": "text",
+      "width": 260,
+      "x": 278,
+      "y": 760
+    },
+    {
+      "height": 29,
+      "id": "12eb800ed02a6d68",
+      "styleAttributes": {
+      },
+      "text": "🟰 **↑↑** SES",
+      "type": "text",
+      "width": 260,
+      "x": 358,
+      "y": 808
+    },
+    {
+      "height": 58,
+      "id": "70f5aba829386b75",
+      "styleAttributes": {
+      },
+      "text": "🟰 **↑↑** cycles biogeo ? stabilisation au moins ou moins déréglés",
+      "type": "text",
+      "width": 387,
+      "x": 358,
+      "y": 858
+    },
+    {
+      "height": 29,
+      "id": "8976dc15254e6bb5",
+      "styleAttributes": {
+      },
+      "text": "🟰 **↓↓** nouvelles entités (intrants / pesticides ?)",
+      "type": "text",
+      "width": 427,
+      "x": 358,
+      "y": 940
+    },
+    {
+      "height": 29,
+      "id": "cea9cd2dab6fb5f9",
+      "styleAttributes": {
+      },
+      "text": "changement usage sol ?",
+      "type": "text",
+      "width": 328,
+      "x": 358,
+      "y": 994
+    },
+    {
+      "height": 60,
+      "id": "189d3478d6d76d1a",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 339,
+      "x": 300,
+      "y": 1080
     }
   ]
 }
