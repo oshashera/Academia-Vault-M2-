@@ -19,7 +19,7 @@
       "toSide": "left"
     },
     {
-      "color": "4",
+      "color": "1",
       "fromNode": "a76fe2e94ac9d09c",
       "fromSide": "bottom",
       "id": "1a88abe436f0cf33",
@@ -74,7 +74,7 @@
       "toSide": "left"
     },
     {
-      "color": "5",
+      "color": "6",
       "fromNode": "d07d58c5c547f2de",
       "fromSide": "bottom",
       "id": "b1bc590839ade5b8",
@@ -84,6 +84,7 @@
       "toSide": "top"
     },
     {
+      "color": "1",
       "fromNode": "e8fd984d97389067",
       "fromSide": "right",
       "id": "1e183f7b7cea3721",
@@ -93,6 +94,7 @@
       "toSide": "left"
     },
     {
+      "color": "1",
       "fromNode": "cea9cd2dab6fb5f9",
       "fromSide": "right",
       "id": "c5baa858e060040f",
@@ -150,7 +152,7 @@
       "toSide": "left"
     },
     {
-      "color": "5",
+      "color": "6",
       "fromNode": "475d2234b470b414",
       "fromSide": "bottom",
       "id": "555b33a1b2e46f6f",
@@ -167,18 +169,223 @@
       },
       "toNode": "cc1bd9c1b753ad76",
       "toSide": "left"
+    },
+    {
+      "fromNode": "fb6de6b34197ecc4",
+      "fromSide": "right",
+      "id": "6bd69f91c9b10787",
+      "styleAttributes": {
+      },
+      "toNode": "b4f875e0fe79833e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3a78478d5a043227",
+      "fromSide": "right",
+      "id": "23634738c47d6996",
+      "styleAttributes": {
+      },
+      "toNode": "c74f0d5c65669d68",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromNode": "2c352d4fccdbead8",
+      "fromSide": "left",
+      "id": "28cc2d5557ecb3fb",
+      "styleAttributes": {
+      },
+      "toNode": "d436a9b1ed5b7365",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3a78478d5a043227",
+      "fromSide": "bottom",
+      "id": "176979a62c9649c7",
+      "styleAttributes": {
+      },
+      "toNode": "fb6de6b34197ecc4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fb6de6b34197ecc4",
+      "fromSide": "bottom",
+      "id": "18bd22714c8abd1f",
+      "styleAttributes": {
+      },
+      "toNode": "1882cf3b115d1c6a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a646f5237a01d350",
+      "fromSide": "left",
+      "id": "22c3b16a26223534",
+      "styleAttributes": {
+      },
+      "toNode": "a7e1f014ca4a025e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a646f5237a01d350",
+      "fromSide": "left",
+      "id": "8514d0abbdff0f12",
+      "styleAttributes": {
+      },
+      "toNode": "9278dc1f45456015",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a646f5237a01d350",
+      "fromSide": "left",
+      "id": "c9044f6b52f407cc",
+      "styleAttributes": {
+      },
+      "toNode": "acf94902d613a8d9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "450bfd312e34846a",
+      "fromSide": "left",
+      "id": "71b2753419b54a25",
+      "styleAttributes": {
+      },
+      "toNode": "353c26a88504ee09",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "353c26a88504ee09",
+      "fromSide": "left",
+      "id": "967baabebd56211d",
+      "styleAttributes": {
+      },
+      "toNode": "5727cc93e73f3af3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "353c26a88504ee09",
+      "fromSide": "left",
+      "id": "8d15cf424a900194",
+      "styleAttributes": {
+      },
+      "toNode": "ca66241168936969",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "427edea75d4ebdbb",
+      "fromSide": "left",
+      "id": "24dd070b4552cf7a",
+      "styleAttributes": {
+      },
+      "toNode": "450bfd312e34846a",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "d2ccabfc42acc666",
+      "fromSide": "bottom",
+      "id": "6c10c0c011eea81e",
+      "styleAttributes": {
+      },
+      "toNode": "d3bd9d8120e6cc2b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "32653af8751d65af",
+      "fromSide": "left",
+      "id": "64ce60ab09c0e3b4",
+      "styleAttributes": {
+      },
+      "toNode": "e1bbc40364b637c1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e1bbc40364b637c1",
+      "fromSide": "left",
+      "id": "aa1d9e49c6f4a6d6",
+      "styleAttributes": {
+      },
+      "toNode": "1db6f3d33e9d2791",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1db6f3d33e9d2791",
+      "fromSide": "left",
+      "id": "1aec9742bc8fc756",
+      "styleAttributes": {
+      },
+      "toNode": "b7635e99946b2f44",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b7635e99946b2f44",
+      "fromSide": "left",
+      "id": "6af37bf4ee334133",
+      "styleAttributes": {
+      },
+      "toNode": "842c93b91f4f69ef",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "f1e58ec8e73b9c52",
+      "fromSide": "bottom",
+      "id": "ca7a00e3b157bbb9",
+      "styleAttributes": {
+      },
+      "toNode": "d2ccabfc42acc666",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "458cdf635186de1b",
+      "fromSide": "bottom",
+      "id": "4b03ecda635f0001",
+      "styleAttributes": {
+      },
+      "toNode": "f1e58ec8e73b9c52",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "d3bd9d8120e6cc2b",
+      "fromSide": "bottom",
+      "id": "fe5c27ee7d8f22ab",
+      "styleAttributes": {
+      },
+      "toNode": "2c352d4fccdbead8",
+      "toSide": "top"
     }
   ],
   "nodes": [
+    {
+      "color": "4",
+      "height": 2168,
+      "id": "f2e935f61671bda1",
+      "label": "3] Ecologie du paysage, écologie fonctionnelle, paysages fonctionnels",
+      "type": "group",
+      "width": 1080,
+      "x": 963,
+      "y": -160
+    },
     {
       "color": "4",
       "height": 1201,
       "id": "93bf11b1524230c9",
       "label": "2] Agriculture et biodiversité / usage sol",
       "type": "group",
-      "width": 1354,
+      "width": 1160,
       "x": -420,
       "y": 277
+    },
+    {
+      "color": "4",
+      "height": 361,
+      "id": "d436a9b1ed5b7365",
+      "label": "4] Fin entonnoir",
+      "type": "group",
+      "width": 1147,
+      "x": -407,
+      "y": 1647
     },
     {
       "color": "4",
@@ -186,18 +393,19 @@
       "id": "559ab245e0347bb9",
       "label": "1] Accroche",
       "type": "group",
-      "width": 1080,
+      "width": 1160,
       "x": -420,
       "y": -160
     },
     {
+      "color": "5",
       "height": 369,
       "id": "d2ccabfc42acc666",
-      "label": "Approche classique",
+      "label": "3.3) Approche classique",
       "type": "group",
       "width": 913,
-      "x": 1060,
-      "y": 1933
+      "x": 1048,
+      "y": 761
     },
     {
       "color": "5",
@@ -205,27 +413,49 @@
       "id": "2edf19774d2089fe",
       "label": "2.3) Agri - biodiv",
       "type": "group",
-      "width": 747,
-      "x": 167,
-      "y": 898
+      "width": 628,
+      "x": 42,
+      "y": 904
     },
     {
+      "color": "5",
+      "height": 420,
+      "id": "458cdf635186de1b",
+      "label": "3.1) Paysage et biodiv",
+      "type": "group",
+      "width": 653,
+      "x": 1048,
+      "y": -90
+    },
+    {
+      "color": "5",
       "height": 312,
       "id": "f1e58ec8e73b9c52",
       "label": "3.2) Eco paysage : discipline et concepts",
       "type": "group",
       "width": 801,
-      "x": 1060,
-      "y": 1561
+      "x": 1048,
+      "y": 389
     },
     {
-      "height": 322,
-      "id": "458cdf635186de1b",
-      "label": "3.1) Paysage et biodiv",
+      "color": "5",
+      "height": 367,
+      "id": "2c352d4fccdbead8",
+      "label": "3.5) Paysages fonctionnels",
       "type": "group",
-      "width": 653,
-      "x": 1060,
-      "y": 1180
+      "width": 616,
+      "x": 1048,
+      "y": 1623
+    },
+    {
+      "color": "5",
+      "height": 331,
+      "id": "d3bd9d8120e6cc2b",
+      "label": "3.4) Ecologie fonctionnelle",
+      "type": "group",
+      "width": 575,
+      "x": 1048,
+      "y": 1207
     },
     {
       "color": "5",
@@ -244,8 +474,8 @@
       "label": "2.1) Agri",
       "type": "group",
       "width": 428,
-      "x": 167,
-      "y": 383
+      "x": 42,
+      "y": 389
     },
     {
       "color": "5",
@@ -254,8 +484,8 @@
       "label": "2.2) Biodiv",
       "type": "group",
       "width": 389,
-      "x": 167,
-      "y": 647
+      "x": 42,
+      "y": 653
     },
     {
       "height": 29,
@@ -352,28 +582,6 @@
       "y": -91
     },
     {
-      "height": 60,
-      "id": "189d3478d6d76d1a",
-      "styleAttributes": {
-      },
-      "text": "gestion à l'échelle paysage ?",
-      "type": "text",
-      "width": 339,
-      "x": 1087,
-      "y": 1086
-    },
-    {
-      "height": 29,
-      "id": "7146b0ceac4ae2e1",
-      "styleAttributes": {
-      },
-      "text": "**Agriculture** joue sur TOUS ces sujets",
-      "type": "text",
-      "width": 388,
-      "x": 187,
-      "y": 403
-    },
-    {
       "height": 29,
       "id": "698c856cba839ea3",
       "styleAttributes": {
@@ -381,8 +589,8 @@
       "text": "Description agrosystèmes",
       "type": "text",
       "width": 272,
-      "x": 245,
-      "y": 450
+      "x": 120,
+      "y": 456
     },
     {
       "height": 58,
@@ -392,19 +600,8 @@
       "text": "Levier énorme de changement, notamment sur la **biodiv**",
       "type": "text",
       "width": 300,
-      "x": 245,
-      "y": 506
-    },
-    {
-      "height": 29,
-      "id": "8477fd8b7e4bfd87",
-      "styleAttributes": {
-      },
-      "text": "Potentiel de la biodiv en tant qu'outil",
-      "type": "text",
-      "width": 349,
-      "x": 181,
-      "y": 663
+      "x": 120,
+      "y": 512
     },
     {
       "height": 29,
@@ -414,8 +611,8 @@
       "text": "Services écosys",
       "type": "text",
       "width": 260,
-      "x": 270,
-      "y": 712
+      "x": 145,
+      "y": 718
     },
     {
       "height": 29,
@@ -425,8 +622,8 @@
       "text": "Valeur intrinsèque",
       "type": "text",
       "width": 260,
-      "x": 270,
-      "y": 759
+      "x": 145,
+      "y": 765
     },
     {
       "height": 29,
@@ -436,8 +633,8 @@
       "text": "Améliorer gestion biodiv dans paysages agricoles",
       "type": "text",
       "width": 452,
-      "x": 187,
-      "y": 918
+      "x": 62,
+      "y": 924
     },
     {
       "height": 29,
@@ -447,8 +644,8 @@
       "text": "**↑↑** biodiv ",
       "type": "text",
       "width": 260,
-      "x": 245,
-      "y": 978
+      "x": 120,
+      "y": 984
     },
     {
       "height": 29,
@@ -458,8 +655,8 @@
       "text": "🟰 **↑↑** SES",
       "type": "text",
       "width": 260,
-      "x": 325,
-      "y": 1026
+      "x": 200,
+      "y": 1032
     },
     {
       "height": 58,
@@ -469,8 +666,30 @@
       "text": "🟰 **↑↑** cycles biogeo ? stabilisation au moins ou moins déréglés",
       "type": "text",
       "width": 387,
-      "x": 325,
-      "y": 1076
+      "x": 200,
+      "y": 1082
+    },
+    {
+      "height": 29,
+      "id": "7146b0ceac4ae2e1",
+      "styleAttributes": {
+      },
+      "text": "**Agriculture** joue sur TOUS ces sujets",
+      "type": "text",
+      "width": 388,
+      "x": 62,
+      "y": 409
+    },
+    {
+      "height": 29,
+      "id": "8477fd8b7e4bfd87",
+      "styleAttributes": {
+      },
+      "text": "Potentiel de la biodiv en tant qu'outil",
+      "type": "text",
+      "width": 349,
+      "x": 56,
+      "y": 669
     },
     {
       "height": 29,
@@ -480,8 +699,8 @@
       "text": "🟰 **↓↓** nouvelles entités (intrants / pesticides ?)",
       "type": "text",
       "width": 427,
-      "x": 325,
-      "y": 1158
+      "x": 200,
+      "y": 1164
     },
     {
       "height": 29,
@@ -491,8 +710,19 @@
       "text": "changement usage sol ?",
       "type": "text",
       "width": 328,
-      "x": 245,
-      "y": 1220
+      "x": 120,
+      "y": 1226
+    },
+    {
+      "height": 60,
+      "id": "189d3478d6d76d1a",
+      "styleAttributes": {
+      },
+      "text": "gestion à l'échelle paysage ?",
+      "type": "text",
+      "width": 339,
+      "x": 1068,
+      "y": -62
     },
     {
       "height": 60,
@@ -502,85 +732,8 @@
       "text": "Prendre échelle paysagère car encompasses biodiv ds espace et temps au delà de l'écosystème",
       "type": "text",
       "width": 512,
-      "x": 1080,
-      "y": 1200
-    },
-    {
-      "height": 29,
-      "id": "eb67207999420400",
-      "styleAttributes": {
-      },
-      "text": "Influence paysage sur biodiv",
-      "type": "text",
-      "width": 289,
-      "x": 1240,
-      "y": 1280
-    },
-    {
-      "height": 29,
-      "id": "da08ba4c399d5951",
-      "styleAttributes": {
-      },
-      "text": "Réserve / pool",
-      "type": "text",
-      "width": 260,
-      "x": 1316,
-      "y": 1328
-    },
-    {
-      "height": 29,
-      "id": "a0ebb3be9f0d8410",
-      "styleAttributes": {
-      },
-      "text": "Perception par orga",
-      "type": "text",
-      "width": 260,
-      "x": 1316,
-      "y": 1375
-    },
-    {
-      "height": 58,
-      "id": "30d2b1c854431631",
-      "styleAttributes": {
-      },
-      "text": "Fonctions importantes pour orga (dispersion, ressources, abris/habitat)",
-      "type": "text",
-      "width": 377,
-      "x": 1316,
-      "y": 1424
-    },
-    {
-      "height": 29,
-      "id": "eb74e63e2b1a0505",
-      "styleAttributes": {
-      },
-      "text": "Définitions importantes (het compo / config, connectivité fragmentation)",
-      "type": "text",
-      "width": 613,
-      "x": 1221,
-      "y": 1715
-    },
-    {
-      "height": 29,
-      "id": "31081c44367200cf",
-      "styleAttributes": {
-      },
-      "text": "Dérivé aussi de méta-**communauté** (leibol et al)",
-      "type": "text",
-      "width": 453,
-      "x": 1221,
-      "y": 1774
-    },
-    {
-      "height": 29,
-      "id": "188455c737efa0ad",
-      "styleAttributes": {
-      },
-      "text": "Issu de méta-**population** (MarArthur et wilson)",
-      "type": "text",
-      "width": 448,
-      "x": 1221,
-      "y": 1832
+      "x": 1068,
+      "y": 28
     },
     {
       "height": 29,
@@ -590,8 +743,52 @@
       "text": "Utiliser éco paysage pour analyser ca",
       "type": "text",
       "width": 406,
-      "x": 1073,
-      "y": 1589
+      "x": 1061,
+      "y": 417
+    },
+    {
+      "height": 29,
+      "id": "eb67207999420400",
+      "styleAttributes": {
+      },
+      "text": "Influence paysage sur biodiv",
+      "type": "text",
+      "width": 289,
+      "x": 1228,
+      "y": 108
+    },
+    {
+      "height": 29,
+      "id": "da08ba4c399d5951",
+      "styleAttributes": {
+      },
+      "text": "Réserve / pool",
+      "type": "text",
+      "width": 260,
+      "x": 1304,
+      "y": 156
+    },
+    {
+      "height": 29,
+      "id": "a0ebb3be9f0d8410",
+      "styleAttributes": {
+      },
+      "text": "Perception par orga",
+      "type": "text",
+      "width": 260,
+      "x": 1304,
+      "y": 203
+    },
+    {
+      "height": 58,
+      "id": "30d2b1c854431631",
+      "styleAttributes": {
+      },
+      "text": "Fonctions importantes pour orga (dispersion, ressources, abris/habitat)",
+      "type": "text",
+      "width": 377,
+      "x": 1304,
+      "y": 252
     },
     {
       "height": 29,
@@ -601,52 +798,41 @@
       "text": "Ecologie du paysage ? kézako?",
       "type": "text",
       "width": 352,
-      "x": 1167,
-      "y": 1658
+      "x": 1155,
+      "y": 486
     },
     {
       "height": 29,
-      "id": "cc1bd9c1b753ad76",
+      "id": "eb74e63e2b1a0505",
       "styleAttributes": {
       },
-      "text": "**⚠** **⚠** **≠** PMM/PCM **⚠** **⚠**",
+      "text": "Définitions importantes (het compo / config, connectivité fragmentation)",
       "type": "text",
-      "width": 245,
-      "x": 1594,
-      "y": 2031
+      "width": 613,
+      "x": 1209,
+      "y": 543
     },
     {
       "height": 29,
-      "id": "1db6f3d33e9d2791",
+      "id": "31081c44367200cf",
       "styleAttributes": {
       },
-      "text": "Limites cependant :",
+      "text": "Dérivé aussi de méta-**communauté** (leibol et al)",
       "type": "text",
-      "width": 260,
-      "x": 1141,
-      "y": 2100
+      "width": 453,
+      "x": 1209,
+      "y": 602
     },
     {
       "height": 29,
-      "id": "b7635e99946b2f44",
+      "id": "188455c737efa0ad",
       "styleAttributes": {
       },
-      "text": "Description mosaïque par des **land-use** = anthropocentré",
+      "text": "Issu de méta-**population** (MarArthur et wilson)",
       "type": "text",
-      "width": 534,
-      "x": 1220,
-      "y": 2149
-    },
-    {
-      "height": 87,
-      "id": "842c93b91f4f69ef",
-      "styleAttributes": {
-      },
-      "text": "**≠** perceptions par organismes : \nsensibilité à éléments paysages pouvant jouer un rôle dans des fx éco d'importance pour orga comme dispersion ,habitat ressource (cf 3.1)",
-      "type": "text",
-      "width": 606,
-      "x": 1354,
-      "y": 2202
+      "width": 448,
+      "x": 1209,
+      "y": 660
     },
     {
       "height": 29,
@@ -656,8 +842,8 @@
       "text": "Approche classique",
       "type": "text",
       "width": 267,
-      "x": 1087,
-      "y": 1960
+      "x": 1075,
+      "y": 788
     },
     {
       "height": 58,
@@ -667,8 +853,52 @@
       "text": "**Landscape mosaic** => \"tt le paysage important ds process. éco., pas juste l'habitat target\"",
       "type": "text",
       "width": 426,
-      "x": 1141,
-      "y": 2016
+      "x": 1129,
+      "y": 844
+    },
+    {
+      "height": 29,
+      "id": "cc1bd9c1b753ad76",
+      "styleAttributes": {
+      },
+      "text": "**⚠** **⚠** **≠** PMM/PCM **⚠** **⚠**",
+      "type": "text",
+      "width": 245,
+      "x": 1582,
+      "y": 859
+    },
+    {
+      "height": 29,
+      "id": "1db6f3d33e9d2791",
+      "styleAttributes": {
+      },
+      "text": "Limites cependant :",
+      "type": "text",
+      "width": 260,
+      "x": 1129,
+      "y": 928
+    },
+    {
+      "height": 29,
+      "id": "b7635e99946b2f44",
+      "styleAttributes": {
+      },
+      "text": "Description mosaïque par des **land-use** = anthropocentré",
+      "type": "text",
+      "width": 534,
+      "x": 1208,
+      "y": 977
+    },
+    {
+      "height": 87,
+      "id": "842c93b91f4f69ef",
+      "styleAttributes": {
+      },
+      "text": "**≠** perceptions par organismes : \nsensibilité à éléments paysages pouvant jouer un rôle dans des fx éco d'importance pour orga comme dispersion ,habitat ressource (cf 3.1)",
+      "type": "text",
+      "width": 606,
+      "x": 1342,
+      "y": 1030
     },
     {
       "height": 29,
@@ -678,8 +908,8 @@
       "text": "Mieux prédire / caractériser la biodiversité ?",
       "type": "text",
       "width": 464,
-      "x": 1460,
-      "y": 2400
+      "x": 1070,
+      "y": 1232
     },
     {
       "height": 29,
@@ -689,41 +919,41 @@
       "text": "Piste : écologie fonctionnelle",
       "type": "text",
       "width": 361,
-      "x": 1527,
-      "y": 2505
+      "x": 1173,
+      "y": 1295
     },
     {
-      "height": 60,
+      "height": 29,
       "id": "353c26a88504ee09",
       "styleAttributes": {
       },
       "text": "Eco f(x) => traits f(x)",
       "type": "text",
       "width": 260,
-      "x": 1500,
-      "y": 2600
+      "x": 1224,
+      "y": 1348
     },
     {
-      "height": 60,
+      "height": 29,
       "id": "5727cc93e73f3af3",
       "styleAttributes": {
       },
       "text": "def + split traits effet vs réponse",
       "type": "text",
-      "width": 260,
-      "x": 1560,
-      "y": 2660
+      "width": 331,
+      "x": 1274,
+      "y": 1404
     },
     {
-      "height": 60,
+      "height": 58,
       "id": "ca66241168936969",
       "styleAttributes": {
       },
       "text": "on focus sur trait effet pour décrire effet sur ressource / habitat / abris",
       "type": "text",
-      "width": 260,
-      "x": 1600,
-      "y": 2720
+      "width": 331,
+      "x": 1274,
+      "y": 1465
     },
     {
       "height": 58,
@@ -733,8 +963,8 @@
       "text": "Fusion des 2 => **paysages f(x)**? Novateur, vaste liberté et possibilités d'approches",
       "type": "text",
       "width": 420,
-      "x": 1560,
-      "y": 2880
+      "x": 1068,
+      "y": 1643
     },
     {
       "height": 58,
@@ -744,41 +974,8 @@
       "text": "Alignier et al => **pt de départ, ≠≠≠≠PAS blueprint de ce qu'on fait**",
       "type": "text",
       "width": 339,
-      "x": 1700,
-      "y": 2960
-    },
-    {
-      "height": 87,
-      "id": "acf94902d613a8d9",
-      "styleAttributes": {
-      },
-      "text": "Peut avoir un intérêt pour gestion, prévision du paysage pour la biodiv, apporter autre éclairage sur land-sparing vs land-sharing ?",
-      "type": "text",
-      "width": 496,
-      "x": 1700,
-      "y": 3120
-    },
-    {
-      "height": 60,
-      "id": "fb6de6b34197ecc4",
-      "styleAttributes": {
-      },
-      "text": "Développer méthodo pour simuler et analyser ces paysages f(x), ici **agricoles** , caractérisés apr les commus VG du paysage autour des champs.",
-      "type": "text",
-      "width": 260,
-      "x": 1720,
-      "y": 3280
-    },
-    {
-      "height": 148,
-      "id": "1882cf3b115d1c6a",
-      "styleAttributes": {
-      },
-      "text": "Etudier effet de ce paysage sur taxons intra champs → initialement méthodo développé sur 6 taxons (dans cadre projet conserves, taxons d'intérêt car....) → mais suite aux données recus et méthodo développée on se concentrera sur les carabes qui sont d'intérêt car ....",
-      "type": "text",
-      "width": 545,
-      "x": 1700,
-      "y": 3400
+      "x": 1208,
+      "y": 1723
     },
     {
       "height": 29,
@@ -788,19 +985,74 @@
       "text": "Autres exemples potentiels",
       "type": "text",
       "width": 339,
-      "x": 1700,
-      "y": 3060
+      "x": 1208,
+      "y": 1823
     },
     {
-      "height": 60,
+      "height": 87,
+      "id": "acf94902d613a8d9",
+      "styleAttributes": {
+      },
+      "text": "Peut avoir un intérêt pour gestion, prévision du paysage pour la biodiv, apporter autre éclairage sur land-sparing vs land-sharing ?",
+      "type": "text",
+      "width": 436,
+      "x": 1208,
+      "y": 1883
+    },
+    {
+      "height": 29,
       "id": "3a78478d5a043227",
       "styleAttributes": {
       },
-      "text": "On vuet apporter notre pierre à l'édifice du concept de paysage f(x)",
+      "text": "On veut apporter notre pierre à l'édifice du concept de paysage f(x)",
+      "type": "text",
+      "width": 588,
+      "x": -226,
+      "y": 1669
+    },
+    {
+      "height": 88,
+      "id": "fb6de6b34197ecc4",
+      "styleAttributes": {
+      },
+      "text": "Développer méthodo pour simuler et analyser ces paysages f(x), ici **agricoles** , caractérisés par les commus VG du paysage autour des champs.",
+      "type": "text",
+      "width": 588,
+      "x": -226,
+      "y": 1726
+    },
+    {
+      "height": 29,
+      "id": "c74f0d5c65669d68",
+      "styleAttributes": {
+      },
+      "text": "🟰 Pbmatique",
       "type": "text",
       "width": 260,
-      "x": 1500,
-      "y": 3250
+      "x": 447,
+      "y": 1669
+    },
+    {
+      "height": 29,
+      "id": "b4f875e0fe79833e",
+      "styleAttributes": {
+      },
+      "text": "🟰 Question de recherche",
+      "type": "text",
+      "width": 281,
+      "x": 447,
+      "y": 1756
+    },
+    {
+      "height": 148,
+      "id": "1882cf3b115d1c6a",
+      "styleAttributes": {
+      },
+      "text": "Etudier effet de ce paysage sur taxons intra champs → initialement méthodo développé sur 6 taxons (dans cadre projet conserves, taxons d'intérêt car....) → mais suite aux données recus et méthodo développée on se concentrera sur les carabes qui sont d'intérêt car ....",
+      "type": "text",
+      "width": 588,
+      "x": -226,
+      "y": 1842
     }
   ]
 }
