@@ -28,11 +28,7 @@ On the other hand, agriculture also represents a powerful lever for ecological t
 
 Biodiversity can be considered both as a resource to be preserved and as a tool to be mobilized because of the ecosystem functions it provides, from which we derive ecosystem services (**MEA, 2005**) of interest. Since biodiversity loss restrains ecosystem processes (**Correi & Lopes, 2023**), increasing biodiversity in agricultural landscapes would improve ecosystem services provision (**Altieri, 1999**) . Restoring and increasing biodiversity in agricultural landscapes might also allow to reduce -or at least prevent its increase- the use of pesticides, through biological pest control. For instance, the abundance and diversity of crop pests' natural enemies are both positively affected by an increase in landscape complexity (i.e. land-use management; **Chaplin-Kramer et al.,2011**). 
 
-Thus, agroecosystems are at the intersection between productive functions (for human consumption) and ecological issues. These anthropized systems must not only ensure food security, but also play a role in ecological regulation, by supporting biodiversity. But to ensure worldwide food safety, an "ecological modernization" of cropping systems and their spatial integration is in order. While implementing more "biodiversity-based" systems (Duru et al., 2015a,b) is a step in the good direction, there is a joint need of ecosystem services (ES) provision maximization through biodiversity increase, thus benefiting from the use of landscape ecology. From this issue stems the need to develop approaches that enable improved management of these areas, reconciling farmers' economic requirements with sustained ecological functions.
-
-Fortunately, there already are (potential) conservation levers suited for agrosystems : At the local scale, the aforementioned implementation of floral strips and hedgerows constitutes a simple solution. However, the landscape scale, although less studied, has the potential to be more efficient on the long term.
-
-
+Thus, agroecosystems are at the intersection between productive functions (for human consumption) and ecological issues. These anthropized systems must not only ensure food security, but also play a role in ecological regulation, by supporting biodiversity. But to ensure worldwide food safety, an "ecological modernization" of cropping systems and their spatial integration is in order. While implementing more "biodiversity-based" systems (**Duru et al., 2015a,b**) is a step in the good direction, there is a joint need of ecosystem services (ES) provision maximization through biodiversity increase. From this issue stems the need to develop approaches that enable improved management of biodiversity in agricultural areas, reconciling farmers' economic requirements with sustained ecological functions.Fortunately, there already are (potential) conservation levers suited for agrosystems : At the local scale, the aforementioned implementation of floral strips and hedgerows constitutes a simple solution. However, the landscape scale, although less studied, has the potential to be more efficient on the long term.
 
 
 
@@ -45,3 +41,4 @@ Fortunately, there already are (potential) conservation levers suited for agrosy
 
 ### Landscape (,) ecology
 
+The landscape scale
