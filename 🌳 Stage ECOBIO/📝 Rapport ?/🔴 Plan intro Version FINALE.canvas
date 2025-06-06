@@ -623,6 +623,7 @@
       "height": 58,
       "id": "70f5aba829386b75",
       "styleAttributes": {
+        "border": "dotted"
       },
       "text": "🟰 **↑↑** cycles biogeo ? stabilisation au moins ou moins déréglés",
       "type": "text",
