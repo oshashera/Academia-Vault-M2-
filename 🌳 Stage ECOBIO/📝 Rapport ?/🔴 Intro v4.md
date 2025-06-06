@@ -17,12 +17,12 @@ Métapopulation = ensemble de sous pop interconnectées par individus qui se dis
 
 # Introduction
 
-Since a few decades, Earth's biosphere has been steadily degrading, mostly due to anthropic activities. In 2023, was published an updated estimation of Earth's boundaries, that stated that 6 out of the 9 critical boundaries were already transgressed, thus "suggesting that Earth is now well outside of the safe operating space for humanity" (Richardson et al., 2023). Those 9 boundaries and their respective states can be found in **figure 1**.
+Since a few decades, Earth's biosphere has been steadily degrading, mostly due to anthropic activities. In 2023, was published an updated estimation of Earth's boundaries, that stated that 6 out of the 9 critical boundaries were already transgressed, thus "suggesting that Earth is now well outside of the safe operating space for humanity" **(Richardson et al., 2023)**. This amount of disruption threatens humanity's ability to sustain itself (food security) and Earth's biosphere as a whole. Those boundaries and their respective states can be found in **figure 1** : climate change, novel entities introduced (chemicals) in the environment, biogeochemical flows disruptions
 
 
 
 
 
 ![[Pasted image 20250606150958.png]]
-Figure 1 : 2023 estimates of all nine planetary boundaries (from Richardson et al., 2023)
-The safe zone is delimited by the dotted circle and is displayed in green. Increase in risk is displayed in a yellow to red gradient depending on 
+Figure 1 : 2023 estimates of all nine planetary boundaries **(from Richardson et al., 2023)**
+Six of the nine boundaries are transgressed. In addition, ocean acidification is approaching its planetary boundary. The green zone is the safe operating space (below the boundary). Yellow to red represents the zone of increasing risk. Purple indicates the high-risk zone where interglacial Earth system conditions are transgressed with high confidence. Values for control variables are normalized so that the origin represents mean Holocene conditions and the planetary boundary (lower end of zone of increasing risk, dotted circle) lies at the same radius for all boundaries (except for the wedges representing green and blue water, see main text). Wedge lengths are scaled logarithmically. The upper edges of the wedges for the novel entities and the genetic diversity component of the biosphere integrity boundaries are blurred either because the upper end of the zone of increasing risk has not yet been quantitatively defined (novel entities) or because the current value is known only with great uncertainty (loss of genetic diversity). Both, however, are well outside of the safe operating space. Transgression of these boundaries reflects unprecedented human disruption of Earth system but is associated with large scientific uncertainties
