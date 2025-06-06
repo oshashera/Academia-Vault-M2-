@@ -20,6 +20,23 @@
               "icon": "lucide-file",
               "title": "🔴 Intro v4"
             }
+          },
+          {
+            "id": "9476641f636ad1f2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
+                "viewState": {
+                  "x": 1515.305060508687,
+                  "y": 569.0396443965516,
+                  "zoom": 0.09776004866106269
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "🔴 Plan intro Version FINALE"
+            }
           }
         ]
       }
@@ -78,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -215,10 +233,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/📝 Rapport ?/Intro V2.md",
-    "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
-    "🏡 Home.md",
+    "Images/Pasted image 20250606145158.png",
+    "Images/Pasted image 20250606144939.png",
+    "Images/Pasted image 20250606144852.png",
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
+    "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/Intro V2.md",
+    "🏡 Home.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
@@ -247,15 +268,12 @@
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Getis heatmap + Djikstra ? (gpt).md",
     "Séminaire Carabes (25-04-25).md",
     "Cours/🎓 Apport méthodologique/Statistiques approfondies/TP-TD/🟢 Projet statistiques.md",
-    "Cours/🎓 Apport méthodologique/Statistiques approfondies/CM/🟢 Les modèles linéaires.md",
     "Images/Pasted image 20250423092320.png",
     "Images/Pasted image 20250418161109.png",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "Images/Pasted image 20250403164241.png",
     "Images/Pasted image 20250403164211.png",
     "Images/Pasted image 20250403155051.png",
-    "Images/Pasted image 20250331145534.png",
-    "Images/Pasted image 20250331144950.png",
     "Autre/A explorer pour le workflow.canvas",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?",
     "🌐📔-🌳 Écopédia",
