@@ -390,6 +390,51 @@
       },
       "toNode": "188455c737efa0ad",
       "toSide": "left"
+    },
+    {
+      "fromNode": "189d3478d6d76d1a",
+      "fromSide": "left",
+      "id": "17e686e38a92c4e9",
+      "styleAttributes": {
+      },
+      "toNode": "cd5505d199b759c3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cd5505d199b759c3",
+      "fromSide": "left",
+      "id": "12bb6c633b41a5c1",
+      "styleAttributes": {
+      },
+      "toNode": "eb67207999420400",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eb67207999420400",
+      "fromSide": "left",
+      "id": "85dbbdd5c66475b8",
+      "styleAttributes": {
+      },
+      "toNode": "da08ba4c399d5951",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eb67207999420400",
+      "fromSide": "left",
+      "id": "cb0bacd16bc20bb3",
+      "styleAttributes": {
+      },
+      "toNode": "a0ebb3be9f0d8410",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eb67207999420400",
+      "fromSide": "left",
+      "id": "fe74deaa5536c7bd",
+      "styleAttributes": {
+      },
+      "toNode": "30d2b1c854431631",
+      "toSide": "left"
     }
   ],
   "metadata": {
@@ -1037,8 +1082,8 @@
       },
       "text": "Prendre échelle paysagère car encompasses biodiv ds espace et temps au delà de l'écosystème",
       "type": "text",
-      "width": 512,
-      "x": 1068,
+      "width": 492,
+      "x": 1088,
       "y": 28
     },
     {
