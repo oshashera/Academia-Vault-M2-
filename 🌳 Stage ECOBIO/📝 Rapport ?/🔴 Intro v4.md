@@ -23,14 +23,9 @@ Since a few decades, Earth's biosphere has been steadily degrading, mostly due t
 
 ### Agriculture's role and perspective
 Agriculture as a whole is both a hindrance and a lever for an ecological transition. Indeed, the dominant agricultural model is influencing all of the five previously mentioned boundaries : its expansion and spatial simplification ("agricultural reparcelling" in France and most notably in Brittany) in the last century has been a major driver of land-use change, its mechanization and intensification (fertilizers and pesticides) are increasing greenhouse-gas emissions -thus fueling climate change-, and coupled with its homogenisation (monoculture) it introduces a lot of novel entities in the environment, whose effect are spatially decorrelated from its initial application (e.g. fertilizer excess transported to estuaries by water runoff causing "green tides" of algae in Brittany). Biogeochemical cycles are disrupted by agricultural activities such as : the carbon cycle (tillage practices, crop residues buring and mechanization), the nitrogen and the phosphorus cycles (fertilizers leaching), or the water cycle through water runoffs due soil compaction. Finally, the dominant agricultural model has adverse impacts on biodiversity : land-use change can reduce semi-natural habitat amounts and suitability, disruption of biogeochemical cycles changes the distribution and quality of nutrients and other ressources, and the use of pesticides has negative impacts on the surrounding biodiversity (e.g. Soil fauna, **Beaumelle et al., 2023**)
- 
+On the other hand, agriculture also represents a powerful lever for ecological transition : By rethinking farming practices (local scale) and the management of agricultural landscapes (landscape scale), it is possible to reconcile food production and biodiversity conservation, notably by integrating favorable structures such as hedges, flower strips and environmental fallows.
 
-
-
-to biodiversity through land artificialization, intensive usage of chemicals (pesticides and fertilizers), and landscape simplification (e.g. the “reparcelling” in France and most notably in Brittany). These practices have contributed to the rapid erosion of many plant and animal populations, especially in the vicinity of agricultural lands (ref ?), although those issues can also be noticeable further aways from farms (e.g. the “green tides” on the shores of Brittany) . On the other hand, agriculture also represents a powerful lever for ecological transition : By rethinking farming practices (local scale) and the management of agricultural landscapes (landscape scale), it is possible to reconcile food production and biodiversity conservation, notably by integrating favorable structures such as hedges, flower strips and environmental fallows.
-
-
-
+Biodiversity can be considered both as a resource to be preserved and as a tool to be mobilised because of the ecosystem functions it provides, from which we derive ecosystem services (of interest.
 
 
 ![[Pasted image 20250606150958.png]]
