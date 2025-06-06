@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Plan intro Version FINALE.canvas",
-                "viewState": {
-                  "x": 1546.515189440934,
-                  "y": 840.5443243176392,
-                  "zoom": -2.4000000000000004
-                }
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Plan intro Version FINALE"
+              "icon": "lucide-file",
+              "title": "🔴 Intro v4"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -219,11 +215,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Plan intro Version FINALE.canvas",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
-    "🏡 Home.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro V2.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
+    "🏡 Home.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
+    "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
+    "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Résultats ?.md",
     "Images/Pasted image 20250602152546.png",
@@ -268,7 +265,6 @@
     "🌳 Stage ECOBIO/Overview.canvas",
     "🌳 Stage ECOBIO",
     "🌳 Stage ECOBIO/Besoins ? Facteurs ?.canvas",
-    "🌳 Stage ECOBIO/Organisation et boulot.canvas",
     "synthèse biblio",
     "Cours/🎓 Conception de systèmes/Untitled",
     "Cours/🎓 Conception de systèmes",

@@ -356,6 +356,11 @@
       "toSide": "top"
     }
   ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
   "nodes": [
     {
       "color": "4",
@@ -489,38 +494,102 @@
     },
     {
       "height": 29,
-      "id": "3e4bdd46bf4a7182",
+      "id": "698c856cba839ea3",
       "styleAttributes": {
       },
-      "text": "**Dangers** planétaires et civilisationnels",
+      "text": "Description agrosystèmes",
       "type": "text",
-      "width": 387,
-      "x": -407,
-      "y": -145
+      "width": 272,
+      "x": 120,
+      "y": 456
     },
     {
       "height": 58,
-      "id": "4ba67bc554b7c6c4",
+      "id": "d69240cfb3183650",
       "styleAttributes": {
-        "textAlign": "right"
       },
-      "text": "Nourrir le monde en gérant :\n**9 limites planétaires** dont",
+      "text": "Levier énorme de changement, notamment sur la **biodiv**",
       "type": "text",
-      "width": 307,
-      "x": -327,
-      "y": -100
+      "width": 300,
+      "x": 120,
+      "y": 512
     },
     {
-      "color": "1",
       "height": 29,
-      "id": "82be1e04089349c2",
+      "id": "5e81cdf9cb49e72b",
       "styleAttributes": {
       },
-      "text": "erosion Biodiv 🔴",
+      "text": "Services écosys",
       "type": "text",
-      "width": 219,
-      "x": 52,
-      "y": -91
+      "width": 260,
+      "x": 145,
+      "y": 718
+    },
+    {
+      "height": 29,
+      "id": "77547cb6c5592273",
+      "styleAttributes": {
+      },
+      "text": "Valeur intrinsèque",
+      "type": "text",
+      "width": 260,
+      "x": 145,
+      "y": 765
+    },
+    {
+      "height": 29,
+      "id": "3a78478d5a043227",
+      "styleAttributes": {
+      },
+      "text": "On veut apporter notre pierre à l'édifice du concept de paysage f(x)",
+      "type": "text",
+      "width": 588,
+      "x": -226,
+      "y": 1669
+    },
+    {
+      "height": 88,
+      "id": "fb6de6b34197ecc4",
+      "styleAttributes": {
+      },
+      "text": "Développer méthodo pour simuler et analyser ces paysages f(x), ici **agricoles** , caractérisés par les commus VG du paysage autour des champs.",
+      "type": "text",
+      "width": 588,
+      "x": -226,
+      "y": 1726
+    },
+    {
+      "height": 29,
+      "id": "c74f0d5c65669d68",
+      "styleAttributes": {
+      },
+      "text": "🟰 Pbmatique",
+      "type": "text",
+      "width": 260,
+      "x": 447,
+      "y": 1669
+    },
+    {
+      "height": 29,
+      "id": "b4f875e0fe79833e",
+      "styleAttributes": {
+      },
+      "text": "🟰 Question de recherche",
+      "type": "text",
+      "width": 281,
+      "x": 447,
+      "y": 1756
+    },
+    {
+      "height": 148,
+      "id": "1882cf3b115d1c6a",
+      "styleAttributes": {
+      },
+      "text": "Etudier effet de ce paysage sur taxons intra champs → initialement méthodo développé sur 6 taxons (dans cadre projet conserves, taxons d'intérêt car....) → mais suite aux données recus et méthodo développée on se concentrera sur les carabes qui sont d'intérêt car ....",
+      "type": "text",
+      "width": 588,
+      "x": -226,
+      "y": 1842
     },
     {
       "color": "1",
@@ -572,61 +641,6 @@
     },
     {
       "height": 29,
-      "id": "86298f1b555069bc",
-      "styleAttributes": {
-      },
-      "text": "\\- 75% insectes en 30 ans",
-      "type": "text",
-      "width": 260,
-      "x": 328,
-      "y": -91
-    },
-    {
-      "height": 29,
-      "id": "698c856cba839ea3",
-      "styleAttributes": {
-      },
-      "text": "Description agrosystèmes",
-      "type": "text",
-      "width": 272,
-      "x": 120,
-      "y": 456
-    },
-    {
-      "height": 58,
-      "id": "d69240cfb3183650",
-      "styleAttributes": {
-      },
-      "text": "Levier énorme de changement, notamment sur la **biodiv**",
-      "type": "text",
-      "width": 300,
-      "x": 120,
-      "y": 512
-    },
-    {
-      "height": 29,
-      "id": "5e81cdf9cb49e72b",
-      "styleAttributes": {
-      },
-      "text": "Services écosys",
-      "type": "text",
-      "width": 260,
-      "x": 145,
-      "y": 718
-    },
-    {
-      "height": 29,
-      "id": "77547cb6c5592273",
-      "styleAttributes": {
-      },
-      "text": "Valeur intrinsèque",
-      "type": "text",
-      "width": 260,
-      "x": 145,
-      "y": 765
-    },
-    {
-      "height": 29,
       "id": "aad5a9976b9f7837",
       "styleAttributes": {
       },
@@ -660,6 +674,40 @@
     },
     {
       "height": 29,
+      "id": "cea9cd2dab6fb5f9",
+      "styleAttributes": {
+      },
+      "text": "changement usage sol ?",
+      "type": "text",
+      "width": 328,
+      "x": 120,
+      "y": 1226
+    },
+    {
+      "height": 29,
+      "id": "3e4bdd46bf4a7182",
+      "styleAttributes": {
+      },
+      "text": "**Dangers** planétaires et civilisationnels",
+      "type": "text",
+      "width": 387,
+      "x": -407,
+      "y": -145
+    },
+    {
+      "height": 58,
+      "id": "4ba67bc554b7c6c4",
+      "styleAttributes": {
+        "textAlign": "right"
+      },
+      "text": "Nourrir le monde en gérant :\n**9 limites planétaires** dont",
+      "type": "text",
+      "width": 307,
+      "x": -327,
+      "y": -100
+    },
+    {
+      "height": 29,
       "id": "8477fd8b7e4bfd87",
       "styleAttributes": {
       },
@@ -671,80 +719,136 @@
     },
     {
       "height": 29,
-      "id": "cea9cd2dab6fb5f9",
+      "id": "12eb800ed02a6d68",
       "styleAttributes": {
       },
-      "text": "changement usage sol ?",
+      "text": "🟰 **↑↑** SES",
       "type": "text",
-      "width": 328,
-      "x": 120,
-      "y": 1226
+      "width": 260,
+      "x": 275,
+      "y": 1038
     },
     {
-      "height": 60,
-      "id": "189d3478d6d76d1a",
+      "height": 58,
+      "id": "70f5aba829386b75",
       "styleAttributes": {
       },
-      "text": "gestion à l'échelle paysage ?",
+      "text": "🟰 **↑↑** cycles biogeo ? stabilisation au moins ou moins déréglés",
+      "type": "text",
+      "width": 387,
+      "x": 275,
+      "y": 1088
+    },
+    {
+      "height": 29,
+      "id": "8976dc15254e6bb5",
+      "styleAttributes": {
+      },
+      "text": "🟰 **↓↓** nouvelles entités (intrants / pesticides ?)",
+      "type": "text",
+      "width": 427,
+      "x": 275,
+      "y": 1170
+    },
+    {
+      "color": "1",
+      "height": 29,
+      "id": "82be1e04089349c2",
+      "styleAttributes": {
+      },
+      "text": "erosion Biodiv 🔴",
+      "type": "text",
+      "width": 219,
+      "x": 52,
+      "y": -91
+    },
+    {
+      "height": 29,
+      "id": "86298f1b555069bc",
+      "styleAttributes": {
+      },
+      "text": "\\- 75% insectes en 30 ans",
+      "type": "text",
+      "width": 260,
+      "x": 328,
+      "y": -91
+    },
+    {
+      "height": 29,
+      "id": "353c26a88504ee09",
+      "styleAttributes": {
+      },
+      "text": "Eco f(x) => traits f(x)",
+      "type": "text",
+      "width": 260,
+      "x": 1224,
+      "y": 1348
+    },
+    {
+      "height": 29,
+      "id": "5727cc93e73f3af3",
+      "styleAttributes": {
+      },
+      "text": "def + split traits effet vs réponse",
+      "type": "text",
+      "width": 331,
+      "x": 1274,
+      "y": 1404
+    },
+    {
+      "height": 58,
+      "id": "ca66241168936969",
+      "styleAttributes": {
+      },
+      "text": "on focus sur trait effet pour décrire effet sur ressource / habitat / abris",
+      "type": "text",
+      "width": 331,
+      "x": 1274,
+      "y": 1465
+    },
+    {
+      "height": 58,
+      "id": "a646f5237a01d350",
+      "styleAttributes": {
+      },
+      "text": "Fusion des 2 => **paysages f(x)**? Novateur, vaste liberté et possibilités d'approches",
+      "type": "text",
+      "width": 420,
+      "x": 1068,
+      "y": 1643
+    },
+    {
+      "height": 58,
+      "id": "a7e1f014ca4a025e",
+      "styleAttributes": {
+      },
+      "text": "Alignier et al => **pt de départ, ≠≠≠≠PAS blueprint de ce qu'on fait**",
       "type": "text",
       "width": 339,
-      "x": 1068,
-      "y": -62
-    },
-    {
-      "height": 60,
-      "id": "cd5505d199b759c3",
-      "styleAttributes": {
-      },
-      "text": "Prendre échelle paysagère car encompasses biodiv ds espace et temps au delà de l'écosystème",
-      "type": "text",
-      "width": 512,
-      "x": 1068,
-      "y": 28
+      "x": 1208,
+      "y": 1723
     },
     {
       "height": 29,
-      "id": "8812781f0347a792",
+      "id": "9278dc1f45456015",
       "styleAttributes": {
       },
-      "text": "Utiliser éco paysage pour analyser ca",
+      "text": "Autres exemples potentiels",
       "type": "text",
-      "width": 406,
-      "x": 1061,
-      "y": 417
+      "width": 339,
+      "x": 1208,
+      "y": 1823
     },
     {
-      "height": 29,
-      "id": "eb67207999420400",
+      "height": 87,
+      "id": "acf94902d613a8d9",
       "styleAttributes": {
       },
-      "text": "Influence paysage sur biodiv",
+      "text": "Peut avoir un intérêt pour gestion, prévision du paysage pour la biodiv, apporter autre éclairage sur land-sparing vs land-sharing ?",
       "type": "text",
-      "width": 289,
-      "x": 1228,
-      "y": 108
-    },
-    {
-      "height": 29,
-      "id": "da08ba4c399d5951",
-      "styleAttributes": {
-      },
-      "text": "Réserve / pool",
-      "type": "text",
-      "width": 260,
-      "x": 1304,
-      "y": 156
-    },
-    {
-      "height": 29,
-      "id": "a0ebb3be9f0d8410",
-      "styleAttributes": {
-      },
-      "text": "Perception par orga",
-      "type": "text",
-      "width": 260,
-      "x": 1304,
-      "y": 203
+      "width": 436,
+      "x": 1208,
+      "y": 1883
     },
     {
       "height": 58,
@@ -836,28 +940,6 @@
     },
     {
       "height": 29,
-      "id": "b7635e99946b2f44",
-      "styleAttributes": {
-      },
-      "text": "Description mosaïque par des **land-use** = anthropocentré",
-      "type": "text",
-      "width": 534,
-      "x": 1208,
-      "y": 977
-    },
-    {
-      "height": 87,
-      "id": "842c93b91f4f69ef",
-      "styleAttributes": {
-      },
-      "text": "**≠** perceptions par organismes : \nsensibilité à éléments paysages pouvant jouer un rôle dans des fx éco d'importance pour orga comme dispersion ,habitat ressource (cf 3.1)",
-      "type": "text",
-      "width": 606,
-      "x": 1342,
-      "y": 1030
-    },
-    {
-      "height": 29,
       "id": "427edea75d4ebdbb",
       "styleAttributes": {
       },
@@ -879,169 +961,92 @@
       "y": 1295
     },
     {
-      "height": 29,
-      "id": "353c26a88504ee09",
+      "height": 60,
+      "id": "189d3478d6d76d1a",
       "styleAttributes": {
       },
-      "text": "Eco f(x) => traits f(x)",
+      "text": "gestion à l'échelle paysage ?",
+      "type": "text",
+      "width": 339,
+      "x": 1068,
+      "y": -62
+    },
+    {
+      "height": 60,
+      "id": "cd5505d199b759c3",
+      "styleAttributes": {
+      },
+      "text": "Prendre échelle paysagère car encompasses biodiv ds espace et temps au delà de l'écosystème",
+      "type": "text",
+      "width": 512,
+      "x": 1068,
+      "y": 28
+    },
+    {
+      "height": 29,
+      "id": "8812781f0347a792",
+      "styleAttributes": {
+      },
+      "text": "Utiliser éco paysage pour analyser ca",
+      "type": "text",
+      "width": 406,
+      "x": 1061,
+      "y": 417
+    },
+    {
+      "height": 29,
+      "id": "eb67207999420400",
+      "styleAttributes": {
+      },
+      "text": "Influence paysage sur biodiv",
+      "type": "text",
+      "width": 289,
+      "x": 1228,
+      "y": 108
+    },
+    {
+      "height": 29,
+      "id": "da08ba4c399d5951",
+      "styleAttributes": {
+      },
+      "text": "Réserve / pool",
       "type": "text",
       "width": 260,
-      "x": 1224,
-      "y": 1348
+      "x": 1304,
+      "y": 156
     },
     {
       "height": 29,
-      "id": "5727cc93e73f3af3",
+      "id": "a0ebb3be9f0d8410",
       "styleAttributes": {
       },
-      "text": "def + split traits effet vs réponse",
+      "text": "Perception par orga",
       "type": "text",
-      "width": 331,
-      "x": 1274,
-      "y": 1404
-    },
-    {
-      "height": 58,
-      "id": "ca66241168936969",
-      "styleAttributes": {
-      },
-      "text": "on focus sur trait effet pour décrire effet sur ressource / habitat / abris",
-      "type": "text",
-      "width": 331,
-      "x": 1274,
-      "y": 1465
-    },
-    {
-      "height": 58,
-      "id": "a646f5237a01d350",
-      "styleAttributes": {
-      },
-      "text": "Fusion des 2 => **paysages f(x)**? Novateur, vaste liberté et possibilités d'approches",
-      "type": "text",
-      "width": 420,
-      "x": 1068,
-      "y": 1643
-    },
-    {
-      "height": 58,
-      "id": "a7e1f014ca4a025e",
-      "styleAttributes": {
-      },
-      "text": "Alignier et al => **pt de départ, ≠≠≠≠PAS blueprint de ce qu'on fait**",
-      "type": "text",
-      "width": 339,
-      "x": 1208,
-      "y": 1723
+      "width": 260,
+      "x": 1304,
+      "y": 203
     },
     {
       "height": 29,
-      "id": "9278dc1f45456015",
+      "id": "b7635e99946b2f44",
       "styleAttributes": {
       },
-      "text": "Autres exemples potentiels",
+      "text": "Description mosaïque par des **land-use** = anthropocentré",
       "type": "text",
-      "width": 339,
+      "width": 534,
       "x": 1208,
-      "y": 1823
+      "y": 977
     },
     {
       "height": 87,
-      "id": "acf94902d613a8d9",
+      "id": "842c93b91f4f69ef",
       "styleAttributes": {
       },
-      "text": "Peut avoir un intérêt pour gestion, prévision du paysage pour la biodiv, apporter autre éclairage sur land-sparing vs land-sharing ?",
+      "text": "**≠** perceptions par organismes : \nsensibilité à éléments paysages pouvant jouer un rôle dans des fx éco d'importance pour orga comme dispersion ,habitat ressource (cf 3.1)",
       "type": "text",
-      "width": 436,
-      "x": 1208,
-      "y": 1883
-    },
-    {
-      "height": 29,
-      "id": "3a78478d5a043227",
-      "styleAttributes": {
-      },
-      "text": "On veut apporter notre pierre à l'édifice du concept de paysage f(x)",
-      "type": "text",
-      "width": 588,
-      "x": -226,
-      "y": 1669
-    },
-    {
-      "height": 88,
-      "id": "fb6de6b34197ecc4",
-      "styleAttributes": {
-      },
-      "text": "Développer méthodo pour simuler et analyser ces paysages f(x), ici **agricoles** , caractérisés par les commus VG du paysage autour des champs.",
-      "type": "text",
-      "width": 588,
-      "x": -226,
-      "y": 1726
-    },
-    {
-      "height": 29,
-      "id": "c74f0d5c65669d68",
-      "styleAttributes": {
-      },
-      "text": "🟰 Pbmatique",
-      "type": "text",
-      "width": 260,
-      "x": 447,
-      "y": 1669
-    },
-    {
-      "height": 29,
-      "id": "b4f875e0fe79833e",
-      "styleAttributes": {
-      },
-      "text": "🟰 Question de recherche",
-      "type": "text",
-      "width": 281,
-      "x": 447,
-      "y": 1756
-    },
-    {
-      "height": 148,
-      "id": "1882cf3b115d1c6a",
-      "styleAttributes": {
-      },
-      "text": "Etudier effet de ce paysage sur taxons intra champs → initialement méthodo développé sur 6 taxons (dans cadre projet conserves, taxons d'intérêt car....) → mais suite aux données recus et méthodo développée on se concentrera sur les carabes qui sont d'intérêt car ....",
-      "type": "text",
-      "width": 588,
-      "x": -226,
-      "y": 1842
-    },
-    {
-      "height": 29,
-      "id": "12eb800ed02a6d68",
-      "styleAttributes": {
-      },
-      "text": "🟰 **↑↑** SES",
-      "type": "text",
-      "width": 260,
-      "x": 275,
-      "y": 1038
-    },
-    {
-      "height": 58,
-      "id": "70f5aba829386b75",
-      "styleAttributes": {
-      },
-      "text": "🟰 **↑↑** cycles biogeo ? stabilisation au moins ou moins déréglés",
-      "type": "text",
-      "width": 387,
-      "x": 275,
-      "y": 1088
-    },
-    {
-      "height": 29,
-      "id": "8976dc15254e6bb5",
-      "styleAttributes": {
-      },
-      "text": "🟰 **↓↓** nouvelles entités (intrants / pesticides ?)",
-      "type": "text",
-      "width": 427,
-      "x": 275,
-      "y": 1170
+      "width": 606,
+      "x": 1342,
+      "y": 1030
     },
     {
       "height": 29,
