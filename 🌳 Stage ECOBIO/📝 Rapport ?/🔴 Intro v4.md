@@ -17,4 +17,12 @@ Métapopulation = ensemble de sous pop interconnectées par individus qui se dis
 
 # Introduction
 
-Since a few decades, Earth's biosphere has been steadily degrading, mostly due to anthro
+Since a few decades, Earth's biosphere has been steadily degrading, mostly due to anthropic activities. In 2023, was published an updated estimation of Earth's boundaries, that stated that 6 out of the 9 critical boundaries were already transgressed, thus "suggesting that Earth is now well outside of the safe operating space for humanity" (Richardson et al., 2023). Those 9 boundaries and their respective states can be found in **figure 1**.
+
+
+
+
+
+![[Pasted image 20250606150958.png]]
+Figure 1 : 2023 estimates of all nine planetary boundaries (from Richardson et al., 2023)
+The safe zone is delimited by the dotted circle and is displayed in green. Increase in risk is displayed in a yellow to red gradient depending on 
