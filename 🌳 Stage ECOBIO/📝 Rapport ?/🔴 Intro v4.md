@@ -41,4 +41,5 @@ Thus, agroecosystems are at the intersection between productive functions (for h
 
 ### Landscape (,) ecology
 
-The landscape scale
+Landscape-scale research approach on biodiversity appears to be a promising approach because of its ability to take account of spatial variations in resources and  species pool for more precise and impactful management of biodiversity. Indeed, landscape greatly impacts biodiversity by constraining dispersion of organism or by its provision capacity in terms of resources (food) and habitat (shelter).
+
