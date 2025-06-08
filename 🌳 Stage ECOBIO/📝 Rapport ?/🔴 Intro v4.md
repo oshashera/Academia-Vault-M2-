@@ -47,4 +47,5 @@ In order to study this, we made use of landscape ecology, an ecology discipline 
 
 Although at first the two disciplines evolved independently, landscape ecology is related to the metacommunity theory (**Leibold et al., 2004**), itself derived from the metapopulation theory (**Hanski, 1991**) which appeared from the island biogeography theory (**MacArthur & Wilson, 1967**). A metacommunity can be defined as “a set of local communities that are linked by dispersal of multiple potentially interacting species” : In the metacommunity theory, under the species-sorting paradigm, patch quality and spatial repartition are acknowledged to affect species dispersal, which is a key process in  biodiversity structuring at landscape level (**Leibold et al., 2004**).
 
-Landscape ecology can function under a lot of different paradigm, although the classical one is the "landscape mosaïc" paradigm. This paradigm perceives the landscape
+Landscape ecology can function under a lot of different paradigm, although the classical one is the "landscape mosaic" paradigm (**Foreman, 1995**). This paradigm perceives the landscape as a set of habitats of different types. It also states that the entirety of the mosaic is relevant in ecological processes, and thus that the target habitat should not be considered alone. While this paradigm is
+
