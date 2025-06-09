@@ -62,3 +62,23 @@ Violle C, Jiang L (2009) Towards a trait-based quantification of species niche. 
 - "habitat models describe—by definition—the realized niches of species, these realized niches are treated as if they were fundamental niches when future species distribution scenarios are projected under environmental changes."
 - "A large part of the ‘trait’ literature is related to the identification of functional response traits to predict the effects of climate change, disturbance and land use change on vegetation"
 
+
+Dennis 2003 → Perspective of what constitutes and how to define an habitat heavily impacts conservation efforts; Using only habitat patch view and metapop modelling would oversimplify reality and not allow to justify increasing landscape complexity to the stakeholders as not accounting for resources would make to much of an emphasis on biodiversity "reserves".
+
+Dennis 2006 → call for resource-based approach of butterfly habitat and creation of database of species resource requirements.
+
+Vanreusel 2007 → resource-based approach to butterfly habitat
+
+Fahrig 2011 → set of patches that offer the same resources (considering the needs of all exemplar species) is then a functional cover type w/ types (dangerous, neutral, beneficial) 
+"Cover type classification and mapping is based on species requirements, such as feeding and nesting, resulting in measures of '̂functional landscape heterogeneity'."
+"We therefore make an important distinction between 'structural landscape heterogeneity', where different cover types are identified by their physical characteristics, without reference to a particular species or species group (e.g. using classified satellite imagery), and 'functional landscape heterogeneity' "
+"concept behind functional landscape heterogeneity is that the description and measurement of heterogeneity should be based on the expected functions (e.g. provision of food, nesting sites, dispersal routes) provided by that heterogeneity to the species or species group(s) of interest."
+"The simplest measure of compositional heterogeneity is the number of different cover types (cover type richness; Fig. 3). Then, given two landscapes with the same cover type richness, if a small number of cover types dominate the first landscape, while the cover types are of similar proportions in the second, the second landscape is more heterogeneous than the first (cover type evenness)." → can be combined into a shannon
+
+"We suggest that the time is ripe for development of a landscapescale understanding of the relationship between landscape heterogeneity and biodiversity" 
+"Developing these functional land cover maps will be an important challenge in conducting the proposed research." 
+"However, more detailed landscape descriptions may not always yield more accurate predictions. To test this assumption, future studies should conduct replicate studies in different agricultural regions with different species pools"
+
+Eckerter 2020 → "Wild bumblebees are key pollinators of crops and wild plants that rely on the continuous availability of floral resources. A better understanding of the spatio-temporal availability and use of floral food resources may help to promote bumblebees and their pollination services in agricultural landscapes." 
+"Classical habitat maps predicted the colony development of B. terrestris better than detailed landscape-scale floral resource maps based on pollen use. This indicates that high amounts of attractive pollen food resources in the landscape alone are not sufficient to ensure a high fitness of bumblebee colonies. Still, the floral resource maps and diet analyses provided information that was not accessible only through classical habitat maps, e.g., that hedgerows play an overriding role in pollen availability to bumblebees in our study region despite their very small cover."
+"Combining different mapping approaches might help to further disentangle complex relationships"

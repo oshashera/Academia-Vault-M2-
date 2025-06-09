@@ -574,6 +574,95 @@
       "y": 653
     },
     {
+      "height": 29,
+      "id": "aad5a9976b9f7837",
+      "styleAttributes": {
+      },
+      "text": "Améliorer gestion biodiv dans paysages agricoles",
+      "type": "text",
+      "width": 452,
+      "x": 62,
+      "y": 924
+    },
+    {
+      "height": 29,
+      "id": "e8fd984d97389067",
+      "styleAttributes": {
+      },
+      "text": "**↑↑** biodiv ",
+      "type": "text",
+      "width": 260,
+      "x": 120,
+      "y": 984
+    },
+    {
+      "height": 29,
+      "id": "cea9cd2dab6fb5f9",
+      "styleAttributes": {
+      },
+      "text": "changement usage sol ?",
+      "type": "text",
+      "width": 328,
+      "x": 120,
+      "y": 1226
+    },
+    {
+      "height": 29,
+      "id": "12eb800ed02a6d68",
+      "styleAttributes": {
+      },
+      "text": "🟰 **↑↑** SES",
+      "type": "text",
+      "width": 260,
+      "x": 275,
+      "y": 1038
+    },
+    {
+      "height": 58,
+      "id": "70f5aba829386b75",
+      "styleAttributes": {
+        "border": "dotted"
+      },
+      "text": "🟰 **↑↑** cycles biogeo ? stabilisation au moins ou moins déréglés",
+      "type": "text",
+      "width": 387,
+      "x": 275,
+      "y": 1088
+    },
+    {
+      "height": 58,
+      "id": "d69240cfb3183650",
+      "styleAttributes": {
+      },
+      "text": "Levier énorme de changement, notamment sur la **biodiv**",
+      "type": "text",
+      "width": 300,
+      "x": 120,
+      "y": 512
+    },
+    {
+      "height": 29,
+      "id": "5e81cdf9cb49e72b",
+      "styleAttributes": {
+      },
+      "text": "Services écosys",
+      "type": "text",
+      "width": 260,
+      "x": 145,
+      "y": 718
+    },
+    {
+      "height": 29,
+      "id": "8976dc15254e6bb5",
+      "styleAttributes": {
+      },
+      "text": "🟰 **↓↓** nouvelles entités (intrants / pesticides ?)",
+      "type": "text",
+      "width": 427,
+      "x": 275,
+      "y": 1170
+    },
+    {
       "color": "2",
       "height": 29,
       "id": "0dfe7e0c36718ade",
@@ -611,28 +700,6 @@
     },
     {
       "height": 29,
-      "id": "aad5a9976b9f7837",
-      "styleAttributes": {
-      },
-      "text": "Améliorer gestion biodiv dans paysages agricoles",
-      "type": "text",
-      "width": 452,
-      "x": 62,
-      "y": 924
-    },
-    {
-      "height": 29,
-      "id": "e8fd984d97389067",
-      "styleAttributes": {
-      },
-      "text": "**↑↑** biodiv ",
-      "type": "text",
-      "width": 260,
-      "x": 120,
-      "y": 984
-    },
-    {
-      "height": 29,
       "id": "7146b0ceac4ae2e1",
       "styleAttributes": {
       },
@@ -644,40 +711,6 @@
     },
     {
       "height": 29,
-      "id": "cea9cd2dab6fb5f9",
-      "styleAttributes": {
-      },
-      "text": "changement usage sol ?",
-      "type": "text",
-      "width": 328,
-      "x": 120,
-      "y": 1226
-    },
-    {
-      "height": 29,
-      "id": "12eb800ed02a6d68",
-      "styleAttributes": {
-      },
-      "text": "🟰 **↑↑** SES",
-      "type": "text",
-      "width": 260,
-      "x": 275,
-      "y": 1038
-    },
-    {
-      "height": 58,
-      "id": "70f5aba829386b75",
-      "styleAttributes": {
-        "border": "dotted"
-      },
-      "text": "🟰 **↑↑** cycles biogeo ? stabilisation au moins ou moins déréglés",
-      "type": "text",
-      "width": 387,
-      "x": 275,
-      "y": 1088
-    },
-    {
-      "height": 29,
       "id": "698c856cba839ea3",
       "styleAttributes": {
       },
@@ -686,28 +719,6 @@
       "width": 272,
       "x": 120,
       "y": 456
-    },
-    {
-      "height": 58,
-      "id": "d69240cfb3183650",
-      "styleAttributes": {
-      },
-      "text": "Levier énorme de changement, notamment sur la **biodiv**",
-      "type": "text",
-      "width": 300,
-      "x": 120,
-      "y": 512
-    },
-    {
-      "height": 29,
-      "id": "5e81cdf9cb49e72b",
-      "styleAttributes": {
-      },
-      "text": "Services écosys",
-      "type": "text",
-      "width": 260,
-      "x": 145,
-      "y": 718
     },
     {
       "height": 29,
@@ -733,17 +744,6 @@
     },
     {
       "height": 29,
-      "id": "c74f0d5c65669d68",
-      "styleAttributes": {
-      },
-      "text": "🟰 Pbmatique",
-      "type": "text",
-      "width": 260,
-      "x": 447,
-      "y": 1669
-    },
-    {
-      "height": 29,
       "id": "8477fd8b7e4bfd87",
       "styleAttributes": {
       },
@@ -755,14 +755,14 @@
     },
     {
       "height": 29,
-      "id": "8976dc15254e6bb5",
+      "id": "c74f0d5c65669d68",
       "styleAttributes": {
       },
-      "text": "🟰 **↓↓** nouvelles entités (intrants / pesticides ?)",
+      "text": "🟰 Pbmatique",
       "type": "text",
-      "width": 427,
-      "x": 275,
-      "y": 1170
+      "width": 260,
+      "x": 447,
+      "y": 1669
     },
     {
       "height": 88,
@@ -867,6 +867,83 @@
       "y": 543
     },
     {
+      "height": 58,
+      "id": "30d2b1c854431631",
+      "styleAttributes": {
+      },
+      "text": "Fonctions importantes pour orga (dispersion, ressources, abris/habitat)",
+      "type": "text",
+      "width": 377,
+      "x": 1304,
+      "y": 252
+    },
+    {
+      "height": 29,
+      "id": "0930a1de8d7076a0",
+      "styleAttributes": {
+      },
+      "text": "Ecologie du paysage ? kézako?",
+      "type": "text",
+      "width": 352,
+      "x": 1155,
+      "y": 486
+    },
+    {
+      "height": 29,
+      "id": "31081c44367200cf",
+      "styleAttributes": {
+      },
+      "text": "Dérivé aussi de méta-**communauté** (leibol et al)",
+      "type": "text",
+      "width": 453,
+      "x": 1209,
+      "y": 602
+    },
+    {
+      "height": 29,
+      "id": "8812781f0347a792",
+      "styleAttributes": {
+      },
+      "text": "Utiliser éco paysage pour analyser ca",
+      "type": "text",
+      "width": 406,
+      "x": 1061,
+      "y": 417
+    },
+    {
+      "height": 29,
+      "id": "da08ba4c399d5951",
+      "styleAttributes": {
+      },
+      "text": "Réserve / pool",
+      "type": "text",
+      "width": 260,
+      "x": 1304,
+      "y": 156
+    },
+    {
+      "height": 29,
+      "id": "a0ebb3be9f0d8410",
+      "styleAttributes": {
+      },
+      "text": "Perception par orga",
+      "type": "text",
+      "width": 260,
+      "x": 1304,
+      "y": 203
+    },
+    {
+      "height": 29,
+      "id": "188455c737efa0ad",
+      "styleAttributes": {
+      },
+      "text": "Issu de méta-**population** (MarArthur et wilson)",
+      "type": "text",
+      "width": 448,
+      "x": 1283,
+      "y": 657
+    },
+    {
       "height": 29,
       "id": "427edea75d4ebdbb",
       "styleAttributes": {
@@ -887,39 +964,6 @@
       "width": 361,
       "x": 1173,
       "y": 1295
-    },
-    {
-      "height": 29,
-      "id": "b7635e99946b2f44",
-      "styleAttributes": {
-      },
-      "text": "Description mosaïque par des **land-use** = anthropocentré",
-      "type": "text",
-      "width": 534,
-      "x": 1208,
-      "y": 977
-    },
-    {
-      "height": 87,
-      "id": "842c93b91f4f69ef",
-      "styleAttributes": {
-      },
-      "text": "**≠** perceptions par organismes : \nsensibilité à éléments paysages pouvant jouer un rôle dans des fx éco d'importance pour orga comme dispersion ,habitat ressource (cf 3.1)",
-      "type": "text",
-      "width": 606,
-      "x": 1342,
-      "y": 1030
-    },
-    {
-      "height": 29,
-      "id": "cc1bd9c1b753ad76",
-      "styleAttributes": {
-      },
-      "text": "**⚠** **⚠** **≠** PMM/PCM **⚠** **⚠**",
-      "type": "text",
-      "width": 245,
-      "x": 1660,
-      "y": 859
     },
     {
       "height": 29,
@@ -956,36 +1000,69 @@
     },
     {
       "height": 58,
-      "id": "30d2b1c854431631",
+      "id": "a7e1f014ca4a025e",
       "styleAttributes": {
       },
-      "text": "Fonctions importantes pour orga (dispersion, ressources, abris/habitat)",
+      "text": "Alignier et al => **pt de départ, ≠≠≠≠PAS blueprint de ce qu'on fait**",
       "type": "text",
-      "width": 377,
-      "x": 1304,
-      "y": 252
+      "width": 339,
+      "x": 1208,
+      "y": 1723
     },
     {
       "height": 29,
-      "id": "0930a1de8d7076a0",
+      "id": "9278dc1f45456015",
       "styleAttributes": {
       },
-      "text": "Ecologie du paysage ? kézako?",
+      "text": "Autres exemples potentiels",
       "type": "text",
-      "width": 352,
-      "x": 1155,
-      "y": 486
+      "width": 339,
+      "x": 1208,
+      "y": 1823
+    },
+    {
+      "height": 87,
+      "id": "acf94902d613a8d9",
+      "styleAttributes": {
+      },
+      "text": "Peut avoir un intérêt pour gestion, prévision du paysage pour la biodiv, apporter autre éclairage sur land-sparing vs land-sharing ?",
+      "type": "text",
+      "width": 436,
+      "x": 1208,
+      "y": 1883
     },
     {
       "height": 29,
-      "id": "31081c44367200cf",
+      "id": "b7635e99946b2f44",
       "styleAttributes": {
       },
-      "text": "Dérivé aussi de méta-**communauté** (leibol et al)",
+      "text": "Description mosaïque par des **land-use** = anthropocentré",
       "type": "text",
-      "width": 453,
-      "x": 1209,
-      "y": 602
+      "width": 534,
+      "x": 1208,
+      "y": 977
+    },
+    {
+      "height": 87,
+      "id": "842c93b91f4f69ef",
+      "styleAttributes": {
+      },
+      "text": "**≠** perceptions par organismes : \nsensibilité à éléments paysages pouvant jouer un rôle dans des fx éco d'importance pour orga comme dispersion ,habitat ressource (cf 3.1)",
+      "type": "text",
+      "width": 606,
+      "x": 1342,
+      "y": 1030
+    },
+    {
+      "height": 29,
+      "id": "cc1bd9c1b753ad76",
+      "styleAttributes": {
+      },
+      "text": "**⚠** **⚠** **≠** PMM/PCM **⚠** **⚠**",
+      "type": "text",
+      "width": 245,
+      "x": 1660,
+      "y": 859
     },
     {
       "height": 29,
@@ -1032,39 +1109,6 @@
       "y": 1465
     },
     {
-      "height": 58,
-      "id": "a7e1f014ca4a025e",
-      "styleAttributes": {
-      },
-      "text": "Alignier et al => **pt de départ, ≠≠≠≠PAS blueprint de ce qu'on fait**",
-      "type": "text",
-      "width": 339,
-      "x": 1208,
-      "y": 1723
-    },
-    {
-      "height": 29,
-      "id": "9278dc1f45456015",
-      "styleAttributes": {
-      },
-      "text": "Autres exemples potentiels",
-      "type": "text",
-      "width": 339,
-      "x": 1208,
-      "y": 1823
-    },
-    {
-      "height": 87,
-      "id": "acf94902d613a8d9",
-      "styleAttributes": {
-      },
-      "text": "Peut avoir un intérêt pour gestion, prévision du paysage pour la biodiv, apporter autre éclairage sur land-sparing vs land-sharing ?",
-      "type": "text",
-      "width": 436,
-      "x": 1208,
-      "y": 1883
-    },
-    {
       "height": 60,
       "id": "189d3478d6d76d1a",
       "styleAttributes": {
@@ -1088,17 +1132,6 @@
     },
     {
       "height": 29,
-      "id": "8812781f0347a792",
-      "styleAttributes": {
-      },
-      "text": "Utiliser éco paysage pour analyser ca",
-      "type": "text",
-      "width": 406,
-      "x": 1061,
-      "y": 417
-    },
-    {
-      "height": 29,
       "id": "eb67207999420400",
       "styleAttributes": {
       },
@@ -1107,39 +1140,6 @@
       "width": 289,
       "x": 1228,
       "y": 108
-    },
-    {
-      "height": 29,
-      "id": "da08ba4c399d5951",
-      "styleAttributes": {
-      },
-      "text": "Réserve / pool",
-      "type": "text",
-      "width": 260,
-      "x": 1304,
-      "y": 156
-    },
-    {
-      "height": 29,
-      "id": "a0ebb3be9f0d8410",
-      "styleAttributes": {
-      },
-      "text": "Perception par orga",
-      "type": "text",
-      "width": 260,
-      "x": 1304,
-      "y": 203
-    },
-    {
-      "height": 29,
-      "id": "188455c737efa0ad",
-      "styleAttributes": {
-      },
-      "text": "Issu de méta-**population** (MarArthur et wilson)",
-      "type": "text",
-      "width": 448,
-      "x": 1283,
-      "y": 657
     }
   ]
 }
