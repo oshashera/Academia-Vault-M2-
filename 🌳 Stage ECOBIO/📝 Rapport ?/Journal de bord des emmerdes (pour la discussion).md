@@ -87,3 +87,10 @@ Y aurai aussi bcp d'autres métriques à tester (PolLR/friction map, distance mo
 
 
 
+Fahrig 2011 "Given the scale of analysis needed – probably c. 40–60 landscapes, each up to c. 4 km in diameter (e.g. Thies et al. 2003) – collecting data on land use at the level of detail needed will be an intensive but feasible undertaking" → que 10 landscape ? chaud 
+
+et aussi "Deriving the functional cover types also depends on the availability of sufficient knowledge of the ecology of the species and species groups of interest" Fahrig 2011 → on manque encore de data
+
+"However, more detailed landscape descriptions may not always yield more accurate predictions. To test this assumption, future studies should conduct replicate studies in different agricultural regions with different species pools" Fahrig 2011
+
+Fahrig 2011 also says applying the same target for heterogeneity to all landscapes within a region may not maximize biodiversity at a regional scale, potentially leading to second-order homogeneity
