@@ -68,3 +68,6 @@ Starting from plant census and SIG data we developed -through literature analysi
 
 
 Wiens JA (1995) Landscape mosaics and ecological theory. In: Mosaic landscapes and ecological processes. Springer, pp 1–26
+
+
+Duru a = designing agroecological transitions
