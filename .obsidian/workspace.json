@@ -15,7 +15,7 @@
               "state": {
                 "file": "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
                 "viewState": {
-                  "x": 1228.9306235926556,
+                  "x": 252.10924427586497,
                   "y": 1871.4279704288886,
                   "zoom": 0.040167252222696945
                 }
@@ -23,33 +23,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "🔴 Plan intro Version FINALE"
             }
-          },
-          {
-            "id": "66223f0da6fb61d3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/zbeul description partie m&m potentiellement outdated.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "zbeul description partie m&m potentiellement outdated"
-            }
-          },
-          {
-            "id": "e1f11c6690ec68e6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Figure modif alignier 2023.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Figure modif alignier 2023"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,18 +256,19 @@
       }
     ]
   },
-  "active": "e1f11c6690ec68e6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
-    "Images/Pasted image 20250609135002.png",
+    "🌳 Stage ECOBIO/📝 Rapport ?/zbeul description partie m&m potentiellement outdated.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Figure modif alignier 2023.md",
+    "Images/Pasted image 20250609135505.png",
+    "Images/Pasted image 20250609135002.png",
     "Images/Pasted Image 20250609134038_569.png",
     "Images/Pasted Image 20250609134004_086.png",
     "Images/Pasted Image 20250609133913_967.png",
     "Images/Pasted Image 20250609133841_215.png",
     "🏡 Home.md",
-    "🌳 Stage ECOBIO/📝 Rapport ?/zbeul description partie m&m potentiellement outdated.md",
-    "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/Brouillons divers biodiv fx.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
     "Images/Pasted image 20250606150958.png",
@@ -303,7 +279,6 @@
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Résultats ?.md",
-    "Images/Pasted image 20250602152546.png",
     "🌳 Stage ECOBIO/📝 Rapport ?/Rédac m&m.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
