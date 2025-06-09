@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "🔴 Intro v4"
             }
           }
         ]
@@ -212,8 +216,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
+    "🏡 Home.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
     "Images/Pasted image 20250606150958.png",
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/zbeul description partie m&m potentiellement outdated.md",
@@ -224,7 +229,6 @@
     "Images/Pasted Image 20250609134004_086.png",
     "Images/Pasted Image 20250609133913_967.png",
     "Images/Pasted Image 20250609133841_215.png",
-    "🏡 Home.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Brouillons divers biodiv fx.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
     "Images/Pasted image 20250606145158.png",

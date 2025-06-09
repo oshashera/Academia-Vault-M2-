@@ -66,8 +66,11 @@ The overarching issue addressed by this internship is the advancement of the con
 Starting from plant census and SIG data we developed -through literature analysis and R/SIG manipulation- a methodology that produces landscapes’ functional maps and key indicators to quantify and analyse them, and perhaps be a great indicator of intra-field taxa diversity or abundance by using the functional trait composition and configuration of the surrounding landscape. As this internship is part of the ConservEs european project that aims to identify whether floral strips and hedgerows (alone or combined) have positive effects on biodiversity, we also aimed to compare the effect of a simple hedge versus a flower strip adjacent to a hedge.  While this approach was initially made to be tested on 6 taxa (carabids, weeds, snails & slugs, parasitoids, pollinators, aphids), after careful selection of data (detailled in the next sections) we settled to test this new approach on a focal taxa - carabid beetles, a highly diverse group, including both (i) species that act as natural enemies of crop pests due to their generalist and opportunistic feeding habits, and (2) some granivorous species (particularly within the genera _Amara_, _Harpalus_, and _Zabrus_) which may have negative impacts on crops. 
 
 
+## VERSION UPDATE SUR LE GDOC MAIS NOTES DE SOURCES ICI ↓↓↓↓↓
 
 Wiens JA (1995) Landscape mosaics and ecological theory. In: Mosaic landscapes and ecological processes. Springer, pp 1–26
 
 
 Duru a = designing agroecological transitions
+
+Fao 2024 https://www.fao.org/statistics/highlights-archive/highlights-detail/greenhouse-gas-emissions-from-agrifood-systems.-global--regional-and-country-trends--2000-2022/en?utm_source=chatgpt.com 
