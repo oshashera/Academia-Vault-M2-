@@ -23,8 +23,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "🔴 Plan intro Version FINALE"
             }
+          },
+          {
+            "id": "b971af1171ebbcd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Besoins ? Facteurs  ?"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,8 +273,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
+    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/zbeul description partie m&m potentiellement outdated.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Figure modif alignier 2023.md",
     "Images/Pasted image 20250609135505.png",
@@ -289,7 +305,6 @@
     "synthèse biblio/V2 Synthèse.canvas",
     "synthèse biblio/Synthèse biblio.canvas",
     "synthèse biblio/⚠🚨 Synthèse biblio.md",
-    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "Cours/🎓 Conception de systèmes/🟢 Quels sont les défis à relever pour une méthanisation agroécologique ?.md",
     "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
     "Thèses ?.md",
