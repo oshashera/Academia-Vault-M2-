@@ -23,8 +23,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "🔴 Plan intro Version FINALE"
             }
+          },
+          {
+            "id": "66223f0da6fb61d3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/zbeul description partie m&m potentiellement outdated.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "zbeul description partie m&m potentiellement outdated"
+            }
+          },
+          {
+            "id": "e1f11c6690ec68e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Figure modif alignier 2023.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Figure modif alignier 2023"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,8 +281,15 @@
       }
     ]
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e1f11c6690ec68e6",
   "lastOpenFiles": [
+    "Images/Pasted Image 20250609134038_569.png",
+    "Images/Pasted Image 20250609134004_086.png",
+    "Images/Pasted Image 20250609133913_967.png",
+    "Images/Pasted Image 20250609133841_215.png",
+    "🏡 Home.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/Figure modif alignier 2023.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/zbeul description partie m&m potentiellement outdated.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Brouillons divers biodiv fx.md",
@@ -267,7 +299,6 @@
     "Images/Pasted image 20250606144939.png",
     "Images/Pasted image 20250606144852.png",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro V2.md",
-    "🏡 Home.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Résultats ?.md",
@@ -292,12 +323,7 @@
     "🌳 Stage ECOBIO/Carabes.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Lancement programme first steps ?.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/Getis heatmap + Djikstra ? (gpt).md",
-    "Séminaire Carabes (25-04-25).md",
-    "Cours/🎓 Apport méthodologique/Statistiques approfondies/TP-TD/🟢 Projet statistiques.md",
-    "Images/Pasted image 20250423092320.png",
-    "Images/Pasted image 20250418161109.png",
     "🌳 Stage ECOBIO/méthodo.canvas",
-    "Images/Pasted image 20250403164241.png",
     "Autre/A explorer pour le workflow.canvas",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?",
     "🌐📔-🌳 Écopédia",
