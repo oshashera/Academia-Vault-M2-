@@ -1,5 +1,5 @@
-Disclaimer : This part is both the Materials and Methods of this internship as well as being a result in itself, since the proposed methodology developped here is a result and could be employed and derived for other contexts
-## 1) Species management
+Disclaimer : This part is both the Materials and Methods of this internship as well as being a result in itself, since the proposed methodology developped here is a result and could be employed and derived for other contexts 
+## 1) Plant list creation 
 #### 1.1) Récupération de relevés des sp végétales dans parcelles de la zone étudiée
 I have retrieved 3 spreadsheet files detailing vegetation surveys in the Brittany region in 2023 for the following 4 land-uses: Hedges, forests, crops and grasslands. 
 The data I thus had at my disposal was : 50 forest land plots, 77 crop land plots, 122 grassland land plots and 135 hedgerows land plots. All abundances have been expressed as percentages.
@@ -8,7 +8,7 @@ The data I thus had at my disposal was : 50 forest land plots, 77 crop land plot
 For each land-use, I computed the average abundance and presence probability of each species by first calculating those for each plot (initially split in numerous quadrats), then averaging it over all of the plots of the land-use. Following this, all of the resulting Species/Mean Abundance/Mean Presence Probability were joined in a single spreadsheet.
 #### 1.3) Filtrage des communautés pour créer liste unique espèce avec abondances et proba de présence pour chaque occsol
 Then, since numerous species were present in at least 2 different land-use, I filtered this spreadsheet to only have unique species remaining (Using the TRY database species list to harmonize the nomenclature and to associate each unique species with its TRY Species ID). This table had 2 columns for each land-use (to have the abundance and the presence probability). When species were absent in a land-use, their values for both columns of this land-use was set to 0.
-## 2) Trait management
+## 2) Functional trait identification and management
 This part is both crucial and is arbitrary to an extent. The idea is to scan relevant literature for the target in-field taxa -in our case those taxa would be spiders, parasitoïds, pollinators, carabids, slugs and snails, cereal aphids and weeds- to document and assess their needs, by splitting those taxa into subgroups of varying requirements if needed, then to translate those needs into plant functional traits of the neighboring plant communities. Early in the internship my supervisors and I decided to split the needs of animal taxa into two categories -"Habitats/shelter" and "Diet"- and to focus on the "dispersion" for the weeds.
 #### 2.1) Lecture articles trouvé via mots clés "need" "requirement" "preferences" "diet" "feeding" "food" "habitat" "shelter"
 The first step was to search for relevant literature for our target taxa. Since we split the requirements as stated before, I used search equation based on the following structure : "taxa name (multiple synonyms possible)" + "need" (or "requirements" or "preferences") + "feeding" (or "food" or "diet" or "habitat" or "shelter"). I then downloaded the most relevant papers and books. I tried to pace myself so that I would characterize the requirement of a taxa in one or two weeks at most.
@@ -21,7 +21,7 @@ With the existing traits remaining, I then created a trait/target organism table
 #### 2.5) Requêtes / récupération / compilation de ces traits par espèces de la liste unique des espèces (du 1.3)
 Traits from the Baseflor database and requested TRY data were then compiled (using the Rtry package (v.1.1.0, on R v.4.5.0) on Rand joined to the previously mentioned unique species plant list / abundance-probability list. Missing flowering date data from the Baseflor database was completed with data from the Tela-Botanica site and the site of the Conservatoire de Botanique du Bassin Parisien.
 
-## 3) Preparations for community selections :
+## 3) Community preparation and selections 
 #### 3.1) Calcul des min/max, moy, sd des tailles commus pour chaque occsol → tableau occsol X min,max,moy,sd
 In order to simulate realist communities, I decided to randomly define their size (number of species within a community) following a normal law of the same mean, minimal and maximal value and standard deviation than each of the land use. I thus computed for each land-use in the aforementioned spreadsheets the min/max, rounded average community size, and the standard deviation of the community size. 
 #### 3.2) Constitution liste finale espèces :
