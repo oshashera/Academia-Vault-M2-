@@ -148,3 +148,4 @@ Perspective pour discu => PolR (mais après) + CWV ?
 
 
 
+colo ramp rouge to bleu #d70d10 #fd9129 #ffff84 #5ecb57 #235eb0
