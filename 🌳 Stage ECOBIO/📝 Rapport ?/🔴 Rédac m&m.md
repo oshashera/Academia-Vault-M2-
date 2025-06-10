@@ -145,7 +145,3 @@ Faire stat à partir carabes et plantes (corrélation entre paysages / indices p
 Lister ce qu'il reste de l'ideal initial comme perspective
 Perspective pour discu => PolR (mais après) + CWV ?
 
-
-
-
-colo ramp rouge to bleu #d70d10 #fd9129 #ffff84 #5ecb57 #235eb0
