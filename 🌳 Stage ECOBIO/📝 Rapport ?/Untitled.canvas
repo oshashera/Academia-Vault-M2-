@@ -1,0 +1,178 @@
+{
+  "edges": [
+    {
+      "fromNode": "9447cff08a0c4776",
+      "fromSide": "left",
+      "id": "de82ef0b519e2f64",
+      "styleAttributes": {
+      },
+      "toNode": "1ad2aec9406dd480",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9447cff08a0c4776",
+      "fromSide": "left",
+      "id": "1777f59090cc703b",
+      "styleAttributes": {
+      },
+      "toNode": "bea1ef3e77d3723e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9447cff08a0c4776",
+      "fromSide": "left",
+      "id": "7d35cdb8b4a1810f",
+      "styleAttributes": {
+      },
+      "toNode": "2402f90f3609ffe4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1ad2aec9406dd480",
+      "fromSide": "right",
+      "id": "0b79f53dbaa912fe",
+      "styleAttributes": {
+      },
+      "toNode": "b1f0298c1e8099cc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bea1ef3e77d3723e",
+      "fromSide": "bottom",
+      "id": "16c7043b08f9133e",
+      "styleAttributes": {
+      },
+      "toNode": "2402f90f3609ffe4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2402f90f3609ffe4",
+      "fromSide": "right",
+      "id": "dcc6f0d218c82eea",
+      "styleAttributes": {
+      },
+      "toNode": "b1f0298c1e8099cc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a08c31cbececa1b6",
+      "fromSide": "left",
+      "id": "eb751376a85395a5",
+      "styleAttributes": {
+      },
+      "toNode": "f999f7b1ddb6c7d5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a08c31cbececa1b6",
+      "fromSide": "left",
+      "id": "045cdd459a676912",
+      "styleAttributes": {
+      },
+      "toNode": "68cb94e53d893985",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "1",
+      "height": 60,
+      "id": "9447cff08a0c4776",
+      "styleAttributes": {
+      },
+      "text": "Caractérisation taxon difficile",
+      "type": "text",
+      "width": 260,
+      "x": -300,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "1ad2aec9406dd480",
+      "styleAttributes": {
+      },
+      "text": "Littérature parfois assez agée (fiabilité ?)",
+      "type": "text",
+      "width": 325,
+      "x": -242,
+      "y": -141
+    },
+    {
+      "height": 74,
+      "id": "bea1ef3e77d3723e",
+      "styleAttributes": {
+      },
+      "text": "Manque de caractérisation des besoins chez taxons, et en particulier chez les carabes. Discussion pavel",
+      "type": "text",
+      "width": 362,
+      "x": -242,
+      "y": -59
+    },
+    {
+      "height": 60,
+      "id": "b1f0298c1e8099cc",
+      "styleAttributes": {
+      },
+      "text": "Faudrait une db de quel orga aime quoi ",
+      "type": "text",
+      "width": 260,
+      "x": 237,
+      "y": -45
+    },
+    {
+      "height": 159,
+      "id": "2402f90f3609ffe4",
+      "styleAttributes": {
+      },
+      "text": "Littérature très spécialisée et éparpillé, difficile parfois de trouver des reviews ou mise a jour de l'écologie ou des besoins d'un orga, qui plus est pas un papier qui focus sur une espèce",
+      "type": "text",
+      "width": 304,
+      "x": -112,
+      "y": 66
+    },
+    {
+      "height": 60,
+      "id": "a08c31cbececa1b6",
+      "styleAttributes": {
+      },
+      "text": "Méthodo traits fx traduction",
+      "type": "text",
+      "width": 360,
+      "x": -400,
+      "y": 320
+    },
+    {
+      "height": 126,
+      "id": "f999f7b1ddb6c7d5",
+      "styleAttributes": {
+      },
+      "text": "Il faudrait un moyen plus objectif (mais à ce niveau ca serait limite une full litterature review / meta-analyse pour chaque taxon) de choisir les traits végétaux à partir de besoins souvent assez généraux et vagues des orga",
+      "type": "text",
+      "width": 607,
+      "x": -240,
+      "y": 400
+    },
+    {
+      "height": 122,
+      "id": "68cb94e53d893985",
+      "styleAttributes": {
+      },
+      "text": "Trouver un moyen de prendre en compte quand ils ont besoin de plusieurs habitats différents selon les stades de vie ou périodes (météo)",
+      "type": "text",
+      "width": 470,
+      "x": -240,
+      "y": 562
+    },
+    {
+      "height": 60,
+      "id": "2d86eb23c7fe7836",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": -280,
+      "y": 740
+    }
+  ]
+}
