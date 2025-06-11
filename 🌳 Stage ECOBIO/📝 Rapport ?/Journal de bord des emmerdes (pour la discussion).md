@@ -94,3 +94,23 @@ et aussi "Deriving the functional cover types also depends on the availability o
 "However, more detailed landscape descriptions may not always yield more accurate predictions. To test this assumption, future studies should conduct replicate studies in different agricultural regions with different species pools" Fahrig 2011
 
 Fahrig 2011 also says applying the same target for heterogeneity to all landscapes within a region may not maximize biodiversity at a regional scale, potentially leading to second-order homogeneity
+
+
+
+
+
+
+## Ordre idée 
+
+CARTOGRAPHIE : 
+
+Interpréter carto 
+        +
+Quel intérêt / limite ca aurait, quelles infos on pourrait supposer en récup (paysage) en modifiant ca
+        +
+Ca peut avoir un intérêt pour d'autres organismes pour peu qu'on ai suffisamment de données (suffisamment de paysages, de sessions, et de data try)
+
+Grosse limitation sur ce qu'on a pu tester en énorme partie du fait du pb de complétion de try et autres db. Ca fausse aussi probablement (quel ordre de grandeur par contre ?) les calculs de traits / cwm pour les commus même pour les traits ou on a 75%+ de complétion car si c'est un truc super abondant (ou modérément abondant mais avec des valeurs EXTREMES qui justifieraient un impact même avec abondance modérée) qui a pas la valeur de trait ca fausse le résultat.
+Pour autant, on a pas assez de répétition de paysage pour que les modèles linéaires soient bon je pense
+        +
+Il faudrait 
