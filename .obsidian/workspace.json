@@ -22,29 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0dc604bc066fecef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7d3b78fdb73d11f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Untitled.canvas",
-                "viewState": {
-                  "x": 69.838103151075,
-                  "y": 559.2486987037233,
-                  "zoom": -0.9116219679514567
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
