@@ -114,3 +114,146 @@ Grosse limitation sur ce qu'on a pu tester en énorme partie du fait du pb de co
 Pour autant, on a pas assez de répétition de paysage pour que les modèles linéaires soient bon je pense
         +
 Il faudrait 
+
+
+
+
+
+
+
+
+
+
+
+
+# Test
+
+## 1. **Discussion Méthodologique**
+
+### 📚 Caractérisation des besoins / traits fonctionnels
+
+- Littérature parfois très ancienne, spécialisée, peu de synthèses à jour.
+    
+- Gros manque de données sur les besoins écologiques (carabes notamment). → "on manque de gens prêts à faire de la caractérisation de taxons et de traits fonctionnels / histoire de vie" (Pavel Saska).
+    
+- Extrapolations : peu ou pas de données stats → biais possibles.
+    
+- Problèmes d’expressions vagues dans la littérature ("ils aiment globalement XX habitats"), difficilement traduisibles en variables quantitatives → utilisation du **CWV plutôt que CWM** pour mieux représenter ces cas.
+    
+- Diète : difficulté à obtenir infos précises, surtout pour consommateurs secondaires → fort degré d’interprétation/extrapolation.
+    
+- Tentative de contournement : sélection des proies les plus "proéminentes" et prises en compte de leurs besoins en habitats (pas de leur nutrition).
+    
+- Prédation non prise en compte, faute de données et de temps.
+    
+- Difficulté à créer des sous-groupes par taxons, manque de données.
+    
+
+### 📄 Données espèces / traits / filtrage
+
+- **Listes espèces :**
+    
+    - Arbres et strate arbustive : biais dû au fait que seuls les jeunes individus sont comptés.
+        
+    - Relevés adventices uniquement en blé, pas en colza/maïs → forte incertitude sur la représentativité.
+        
+    - Cultures pas prises en compte comme telles dans les traits, alors qu'elles couvrent une grande surface → biais possible, mais prendre moyenne par espèce (blé/maïs/colza) semble "moins pire".
+        
+    - Problèmes d’homogénéisation de la nomenclature (Try, Baseflor, relevés internes) → perte de temps considérable.
+        
+    - Infos floraison incomplètes sur Baseflor → recours à Tela Botanica mais également limité.
+        
+    - Infos sur chorie souvent absentes ou dispersées.
+        
+- **Trait databases :**
+    
+    - Try : beaucoup de valeurs manquantes (NA), peu de documentation sur les catégories qualitatives.
+        
+    - Refus de fourniture de données (deux fois) par des labos privés.
+        
+- **Filtrage / Tirage / Manipulation données :**
+    
+    - Seuils d’abondance >3% et de présence >5% permettent d’optimiser la couverture en traits mais réduisent drastiquement le nombre d’espèces :
+        
+        - 393 → 46 espèces retenues (dont 1 seule en adventices, 16 en haies...).
+            
+    - Moyenne par occsol basée sur quadrats → problème si regroupement par parcelle mal identifié.
+        
+    - **Tirage des communautés :**
+        
+        - Option 1 : tirage de quadrats existants (mais parfois pas assez représentatif).
+            
+        - Option 2 : simulation randomisée selon pba de présence/abondance → risque de créer des assemblages peu réalistes.
+            
+        - Solution envisagée : tirer X quadrats **d’une même parcelle**.
+            
+        - Tirage modulé selon la taille des parcelles.
+            
+
+### 🧮 Comparaison méthodes classiques vs fonctionnelles continues
+
+- Difficile de comparer :
+    
+    - Indice classique (présence/abondance) vs. distances fonctionnelles (euclidienne ou PoLR).
+        
+    - PoLR difficilement normalisable → quelle distance maximale prendre comme référence ?
+        
+- Comment normaliser entre 0 et 1 sans distance théorique max définie ?
+    
+
+### ❓ Questions méthodo ouvertes
+
+- Seuils d’acceptabilité de NA pour un trait ?
+    
+- Que faire si on doit exclure des traits clés faute de données ? Les garder (mais inutilisables pour d’autres taxons) ou pas ?
+    
+- Cas spécifiques :
+    
+    - Arbres encore jeunes → valeurs de traits adultes biaisées.
+        
+    - _Salix atrocinerea_ absent de TRY → fusionné avec _S. cinerea_ subsp. atrocinerea.
+        
+    - Fusion strate arbustive / arborée sous "arbres" → discutable.
+        
+
+---
+
+## 📉 2. **Résultats (spécifiquement carabes)**
+
+- **120 modèles linéaires simples testés** (3 variables expliquant biodiversité x 2 modalités x 5 traits x 4 métriques) → aucun résultat significatif.
+    
+- Les modèles restent globalement valides (pas aberrants), mais les **R² sont très faibles**.
+    
+- Analyse menée sur tous les carabes confondus, **sans distinction granivores** :
+    
+    - Hypothèse : refaire les analyses sur **les granivores uniquement** (≈5% des carabes) pourrait donner des signaux plus clairs, notamment pour les traits liés aux graines.
+        
+- Très forte dépendance aux données disponibles :
+    
+    - Même des traits avec 75% de complétion peuvent être biaisés si espèces très abondantes / aux valeurs extrêmes sont sans données.
+        
+- Limitation majeure : **pas assez de répétitions de paysages** pour avoir une puissance statistique suffisante → modèles sans robustesse.
+    
+
+---
+
+## 🔭 3. **Perspectives / Conclusion**
+
+### 📌 Perspectives fonctionnelles / carto
+
+- **Cartographie fonctionnelle** : à valoriser si nombre suffisant de paysages et données d’espèces/traits adéquates.
+    
+- Peut être utile à d’autres groupes d’organismes (si info disponible et effort de collecte conséquent).
+    
+- Grosse **limitation structurelle** : **complétion inégale dans TRY et autres DB**.
+    
+    - Fausse les calculs de CWM même à complétion >75% si les manques concernent des espèces dominantes ou "clés".
+        
+
+### ⚠ Limitations structurelles majeures
+
+- Nombre de paysages très insuffisant (Fahrig 2011 : recommande 40–60 paysages, vs. 10 ici).
+    
+- Problème généralisé de **connaissance écologique des espèces** → impacte toute l’analyse (Fahrig 2011 le souligne aussi).
+    
+- Uniformiser les cibles fonctionnelles entre paysages ≠ ne maximise pas nécessairement la biodiversité → **limite des approches trop généralisées**.
