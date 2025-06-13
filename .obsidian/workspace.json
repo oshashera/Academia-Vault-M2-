@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "🌳 Stage ECOBIO/Landscape metrics, continuous or not.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
