@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "bon dieu se concentrer"
             }
-          },
-          {
-            "id": "2ac766d34cdc18b7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/Drawing 2025-06-14 15.54.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-14 15.54.11.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,14 +229,14 @@
       "widgets:Add widget": false
     }
   },
-  "active": "2ac766d34cdc18b7",
+  "active": "74f273bd0eb22819",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md",
+    "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/bon dieu se concentrer.md",
     "Images/Pasted Image 20250614162943_583.png",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Drawing 2025-06-14 15.54.11.excalidraw.md",
     "Images/Pasted Image 20250614161825_309.png",
     "Images/Pasted Image 20250614161756_977.png",
     "🏡 Home.md",
-    "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/bon dieu se concentrer.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Journal de bord des emmerdes (pour la discussion).md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Discussion zbeul.md",
