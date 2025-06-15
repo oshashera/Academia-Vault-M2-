@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏡 Home"
+              "title": "Besoins ? Facteurs  ?"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gradient",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,8 +217,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md",
     "🏡 Home.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/bon dieu se concentrer.md",
     "Images/Pasted Image 20250614162943_583.png",
     "Images/Pasted Image 20250614161825_309.png",
