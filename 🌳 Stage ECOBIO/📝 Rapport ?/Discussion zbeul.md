@@ -7,3 +7,4 @@ Land-use typologies are inherently anthropocentric, as their discrete categories
 
 by estimating the amount of selecter ressource for the target organism for each vegetation unit ()
 each vegetation unit, we estimated the amount of the selected resources
+One of the risks we run here is that the land-use typology used may homogenize plant communities too much (i.e. coniferous or deciduous forests are very different, if only in terms of leaf traits, yet the final species list merges these two land-uses into a single one called “forest” and contains no conifers species).
