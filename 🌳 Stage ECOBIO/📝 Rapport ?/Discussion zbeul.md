@@ -9,15 +9,12 @@ Directly mapping ecosystem-service provisioning across a landscape using Communi
 
 # Doc a fournir : 
 
-- [ ] _Annexe I – Récapitulatif des instructions décrites dans le guide : Version IA_
-- [ ] _**Annexe II – Page de couverture d’un mémoire : Version APVV**_
-- [ ] _Annexe III – Fiche de confidentialité et de diffusion du mémoire : Version IA
-- [ ] **Annexe V – Fiche résumé = quatrième de couverture : Version APVV
-- [ ] Annexe VI bis – Fiche d’appréciation du stagiaire en anglais : Version APVV
-- [ ] Annexe VII – Attestation de conformité de la version numérique du mémoire vis-à-vis de l’original papier : Version IA**_
-- [ ] _Annexe VIII – Contrat de diffusion numérique du mémoire : Version IA_
-- [ ] _**Annexe IX – Engagement de non plagiat : Version IA**_
 
+- [ ] _**Annexe II – Page de couverture d’un mémoire : Version APVV**_
+- [x] _Annexe III – Fiche de confidentialité et de diffusion du mémoire : Version IA ✅ 2025-06-16
+- [ ] **Annexe V – Fiche résumé = quatrième de couverture : Version APVV
+- [x] Annexe VI bis – Fiche d’appréciation du stagiaire en anglais : Version APVV**_ ✅ 2025-06-16
+(faut envoyer Vbis à part du rapport)
 
 ### Déclaration IA
 
