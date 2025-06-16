@@ -1,11 +1,3 @@
-Y a aussi la notion de trait en tant que tel et de fonction targettée par les traits. Je me demande du coup si tu ne devrais pas refaire un nouveau sous-paragraphe pour regrouper les deux idées qui sont toutes les deux centrées sur les traits  
->Les fonctions targettées et donc les traits à trouver  
->L'utilisation du CWM plutot que d'autres indices fonctionnels de structure des communautés (par ex on aurait pu prendre la FD, ou la CWV)
-
-
-
-Directly mapping ecosystem-service provisioning across a landscape using Community Weighted Mean (CWM) trait values (which capture the functional identity of dominant species), alongside Community Weighted Variance (CWV) or other functional diversity (FD) indices which quantify trait variability and complementarity would provides a powerful framework for land-use planning aimed at ensuring resilience of critical services (e.g. water regulation, agricultural productivity, pest control). CWM effectively reflects that trait values of dominant species greatly influence primary production and related services (Mokany et al. 2008; Díaz & Cabido 2001), while CWV/FD elucidates the absorption capacity and adaptive potential of ecosystems under variable conditions. For instance, Chillo et al. (2018) found that land-use intensity influenced hydrological services indirectly through changes in functional diversity, with CWV predicting water regulation dynamics more accurately than CWM under moderate and heavy rainfall. Similarly, Lavorel et al. (2011) showed that models incorporating both CWM and FD significantly improved prediction of ecosystem properties (such as biomass orsoil carbon) compared to land-use–only models. By producing CWM/CWV/FD maps, planners could potentially identify zones where dominant trait composition ensures strong service provisioning, and areas where functional diversity enhances system resilience. Those informations would be helpful to direct targeted interventions such as riparian restoration, agroecological buffering, or habitat diversification to maintain or increase current biodiversity and  ecosystem functions provision.
-
 
 # Doc a fournir : 
 
