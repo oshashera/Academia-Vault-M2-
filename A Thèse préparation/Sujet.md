@@ -42,4 +42,26 @@ décorrélaté linéaire haies; habité, het compo, het config (pas 100% décorr
 mésoclimat température tt les heures
 
 
-relevés bota de 2019 et 2025 (prairies et haies) dispo,
+relevés bota de 2019 et 2024 (prairies et haies) dispo,
+carabes et oiseaux 
+oiseaux on a y a 2/3 ans
+carabes des cultures, et à l'interface prairies / hiaes partiels  (20aine)
+
+
+on va avoir la carto du paysage à différente dates puis dynamique récente depuis 2010
+
+proposer des idées,
+
+
+
+remettre lien avec ma capacité cursus trait f pour partie 2
+partie 3 fait partie conserve, comme mon stage M2
+
+
+PRésenter sujet test, hypothèse que je veux tester, pistes d'analyses possibles (on a pas les réusltat anyway), montrer qu'on se projette et qu'on est force de proposition
+montrer mon enthousiaste
+
+
+
+
+
