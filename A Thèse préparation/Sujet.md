@@ -27,4 +27,12 @@ Sujet indique que :
 
 Inventaire de ce qu'on a / démarche
 - Zaar → 3 fenetre de paysage gradient hétérogénéité et qtité habitat semi nat (prairies + haies)
-- Mesoclimat caractérisé pour les habitats semi 
+- Mesoclimat caractérisé pour les habitats semi nat (ou alors fenetre ?)
+- Axe 3 in situ → effet bande fleuries sur biodiv des champs ?
+- => gradient climatique européen, l'axe 3 reproduit
+
+
+Etapes 
+1) Dynamique paysagère / climatique → effet du paysage ou du climat (ou interaction des 2) sur diversité des commu (plant, carabes, oiseaux) 
+Donc on aurait nos relevés mésoclimat depuis 5 ans, avec des relevés de biodiv associé déjà fait je présume ?
+
