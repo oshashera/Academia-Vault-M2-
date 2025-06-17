@@ -15,6 +15,16 @@
 >3. La simulation à base de scénarios paysagers réalistes et co construits avec les agriculteurs de l’ajout de bandes fleuries dans les paysages et l’analyse de leur influence par rapport à la préservation de différents groupes taxonomiques (5 groupes étudiés)
 
 
+Sujet indique que :
+- Patron paysager modif humain → ↑↓ commu (vg + ani) car affectent
+	- Process lié à **dispersion**, **établissement**, ou **persistance des espèces** (*fonctions écologiques comme ds le rapport → diet, shelter, migration/dispersion, reproduction,...*)
+	- Potentiellement les conditions climatiques → **cycle** **vie** et **phénologie**
+- ==> Structure peut atténuer ou intensifier effet du chgt clim sur biodiv, mais **interactions peu connues**
+- Controversé pcq =/= réponse des patrons de biodiv observés au sein des groupes taxo + variation délai réponse aux changements (*diversité fx + diversité taxo*)
+- ==> traits fx pourrait mieux comprendre ca, en identifiant quels **processus clés** sont influencés, en checkant le turn-over des espèces observées in situ (*donc on fait des relevés d'sp et on regarde qui se remplace bien qui se remplace mal, et on en déduit les grandes fx qui sont liées aux espèces absentes ou présentes ? on fait ca par taxo normale ou fx ?*)
+- !!!! **plasticité intraspecifique**, adaptative ou phénotypique rarmeent pris en compte ds étude interactions paysage x climat.
+- Effet des leviers agroécologique mis en place surtout à la parcelle, sur l'échelle paysagère ?
 
-
-
+Inventaire de ce qu'on a / démarche
+- Zaar → 3 fenetre de paysage gradient hétérogénéité et qtité habitat semi nat (prairies + haies)
+- Mesoclimat caractérisé pour les habitats semi 
