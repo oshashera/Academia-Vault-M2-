@@ -36,3 +36,10 @@ Etapes
 1) Dynamique paysagère / climatique → effet du paysage ou du climat (ou interaction des 2) sur diversité des commu (plant, carabes, oiseaux) 
 Donc on aurait nos relevés mésoclimat depuis 5 ans, avec des relevés de biodiv associé déjà fait je présume ?
 
+
+couesnon représente bien les variété paysages
+décorrélaté linéaire haies; habité, het compo, het config (pas 100% décorrelés) 
+mésoclimat température tt les heures
+
+
+relevés bota de 2019 et 2025 (prairies et haies) dispo,
