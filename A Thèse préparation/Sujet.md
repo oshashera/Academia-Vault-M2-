@@ -12,7 +12,7 @@
 >
 >2.  L’analyse du rôle de la plasticité (adaptative ou phénotypique) des traits dans la persistance des espèces face à ces dynamiques (focus sur deux à trois espèces cibles de plante, de carabes ou d’oiseaux)
 >
->3. La simulation à base de scénarios paysagers réalistes et co construits avec les agriculteurs de l’ajout de bandes fleuries dans les paysages et l’analyse de leur influence par rapport à la préservation de différents groupes taxonomiques (5 groupes étudiés)
+>3. La simulation à base de scénarios paysagers réalistes et co construits avec les agriculteurs de l’ajout de bandes fleuries dans les paysages et l’analyse de leur influence par rapport à la préservation de différents groupes taxonomiques (5 groupes étudiés dans ConservES)
 
 
 Sujet indique que :
@@ -58,8 +58,30 @@ remettre lien avec ma capacité cursus trait f pour partie 2
 partie 3 fait partie conserve, comme mon stage M2
 
 
-PRésenter sujet test, hypothèse que je veux tester, pistes d'analyses possibles (on a pas les réusltat anyway), montrer qu'on se projette et qu'on est force de proposition
-montrer mon enthousiaste
+PRésenter sujet test, hypothèse que je veux tester, pistes d'analyses possibles (on a pas les résultat anyway), montrer qu'on se projette et qu'on est force de proposition
+montrer mon enthousiaste 
+à la fin parler de mon projet professionnel (enseignant chercheur public en écologie + etc etc)
+
+
+bilan lien compétences - sujet 
+
+
+
+
+partie question (aucun pro d'éco paysage, c'est des écologues mais quand, mais montrer la rigueur de ce qu'on fait)
+→ jugent pas le sujet en tant que tel, mais faut qu'il comprennent ce qu'on veut faire.
+
+question très générales, sur dispositif, sur concept d'éco du paysage, 
+le but est pas de nous casser, peut désarconner.
+
+
+revoir plasticité
+revoir éco du paysage + éco fx
+
+on peut choisir mais essayer de garder le max de taxon pour la partie 3
+financement européen conserves donc pas totalement libre.
+
+
 
 
 
