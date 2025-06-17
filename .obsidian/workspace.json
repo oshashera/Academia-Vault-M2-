@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Thèse préparation/Sujet.md",
+                "file": "A Thèse préparation/Jury.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sujet"
+              "title": "Jury"
             }
           }
         ]
@@ -234,10 +234,11 @@
       "widgets:Add widget": false
     }
   },
-  "active": "f40f38d91137a527",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🏡 Home.md",
     "A Thèse préparation/Sujet.md",
+    "A Thèse préparation/Jury.md",
+    "🏡 Home.md",
     "A Thèse préparation",
     "🌳 Stage ECOBIO/Untitled",
     "🌳 Stage ECOBIO/📝 Rapport ?/Discussion zbeul.md",
@@ -278,7 +279,6 @@
     "🌳 Stage ECOBIO/Biodiv zbeul note.md",
     "synthèse biblio/V2 Synthèse.canvas",
     "synthèse biblio/Synthèse biblio.canvas",
-    "synthèse biblio/⚠🚨 Synthèse biblio.md",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "Autre/A explorer pour le workflow.canvas",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?",
