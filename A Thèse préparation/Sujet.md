@@ -92,16 +92,16 @@ ___
 ![[Pasted image 20250618170740.png]]
 
 → Mettre focus sur **aptitudes et compétences disciplinaires** + motivation
-Ecologie fonctionnelle M
-Ecologie communautés L
-Agroécologie M
-Ecologie paysage M
-Cartographie L M
-Statistiques (simples, avancées) L M
-Initiation Python, 
-Initiation SQL
-Introduction aux méthodes méta-analyse et litterature review
-Synthèses biblio réalisées.
+Ecologie fonctionnelle M ✅
+Ecologie communautés L ✅
+Agroécologie / agronomie M ✅
+Ecologie paysage M ✅
+Cartographie L M ✅ ✅
+Statistiques (simples, avancées) L M ✅ ✅
+Initiation Python, L ✅
+Initiation SQL M ✅
+Introduction aux méthodes méta-analyse et litterature review M ✅
+Synthèses biblio réalisées. L M ✅ ✅
 
 
 → Mettre focus sur **compréhension et démarche thèse**
