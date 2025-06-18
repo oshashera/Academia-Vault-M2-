@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md"
+                "file": "🏡 Home.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "schéma m&m"
+              "icon": "lucide-file",
+              "title": "🏡 Home"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -213,8 +216,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🏡 Home.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md",
+    "🏡 Home.md",
     "A Thèse préparation/Sujet.md",
     "A Thèse préparation/Jury.md",
     "A Thèse préparation",
