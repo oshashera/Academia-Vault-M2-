@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e579d958ab956f62",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f40f38d91137a527",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "A Thèse préparation/Sujet.md",
-                "mode": "preview",
-                "source": false
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md"
               },
-              "icon": "lucide-file",
-              "title": "Sujet"
+              "icon": "excalidraw-icon",
+              "title": "schéma m&m"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -214,18 +211,18 @@
       "widgets:Add widget": false
     }
   },
-  "active": "f40f38d91137a527",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "A Thèse préparation/Jury.md",
-    "A Thèse préparation/Sujet.md",
     "🏡 Home.md",
+    "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md",
+    "A Thèse préparation/Sujet.md",
+    "A Thèse préparation/Jury.md",
     "A Thèse préparation",
     "🌳 Stage ECOBIO/Untitled",
     "🌳 Stage ECOBIO/📝 Rapport ?/Discussion zbeul.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/zbeul description partie m&m potentiellement outdated.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
-    "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/bon dieu se concentrer.md",
     "Images/Pasted Image 20250614162943_583.png",
     "Images/Pasted Image 20250614161825_309.png",
