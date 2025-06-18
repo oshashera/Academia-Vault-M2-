@@ -82,8 +82,25 @@ on peut choisir mais essayer de garder le max de taxon pour la partie 3
 financement européen conserves donc pas totalement libre.
 
 
+___
+# QUEL FOCUS AVOIR
 
+# Note /10 lié à la motivation (coef 1)
+# Note /10 liée à l'adéquation au sujet (coeff 2)
 
+# Critères : 
+![[Pasted image 20250618170740.png]]
 
+→ Mettre focus sur **aptitudes et compétences disciplinaires** + motivation
+Ecologie fonctionnelle
+Ecologie communautés
+Ecologie paysage et cartographie
+Statistiques 
+
+→ Mettre focus sur **compréhension et démarche thèse**
+→ Adéquation sujet et justification choix
+
+→ Clarté oral
+→ Projet pro (cohérence)
 
 
