@@ -92,15 +92,29 @@ ___
 ![[Pasted image 20250618170740.png]]
 
 → Mettre focus sur **aptitudes et compétences disciplinaires** + motivation
-Ecologie fonctionnelle
-Ecologie communautés
-Ecologie paysage et cartographie
-Statistiques 
+Ecologie fonctionnelle M
+Ecologie communautés L
+Agroécologie M
+Ecologie paysage M
+Cartographie L M
+Statistiques (simples, avancées) L M
+Initiation Python, 
+Initiation SQL
+Introduction aux méthodes méta-analyse et litterature review
+Synthèses biblio réalisées.
+
 
 → Mettre focus sur **compréhension et démarche thèse**
 → Adéquation sujet et justification choix
 
 → Clarté oral
 → Projet pro (cohérence)
+
+
+
+
+### Plasticité 
+https://hal.science/hal-02269780/document **Phenotypic plasticity, global change, and the speed of adaptive evolution**
+
 
 
