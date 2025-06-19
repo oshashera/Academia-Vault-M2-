@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Sujet"
             }
+          },
+          {
+            "id": "dcb82b98c97bc957",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "A Thèse préparation/Drawing 2025-06-20 01.15.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-20 01.15.40.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -214,9 +226,11 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dcb82b98c97bc957",
   "lastOpenFiles": [
+    "Images/Pasted Image 20250620011544_860.png",
     "🏡 Home.md",
+    "A Thèse préparation/Drawing 2025-06-20 01.15.40.excalidraw.md",
     "A Thèse préparation/Sujet.md",
     "A Thèse préparation/Propositions.md",
     "A Thèse préparation/Jury.md",
@@ -255,8 +269,6 @@
     "🌳 Stage ECOBIO/📝 Rapport ?/m&m.md",
     "🌳 Stage ECOBIO/l'état d'avancement des travaux (rapport de mi-parcours).md",
     "🌳 Stage ECOBIO/📝 Rapport ?/OUTDATED Mon M&M.md",
-    "Excalidraw/Drawing 2025-05-23 14.30.32.excalidraw.md",
-    "Untitled.md",
     "synthèse biblio/V2 Synthèse.canvas",
     "synthèse biblio/Synthèse biblio.canvas",
     "🌳 Stage ECOBIO/méthodo.canvas",
