@@ -112,6 +112,19 @@ Synthèses biblio réalisées. L M ✅ ✅
 
 
 
+ConservES → préserver biodiv dans paysages agricoles intensifs → seul projet biodiversa dans zone agricole → argumentaire "biodiv gd déclin mais surtout dans zones agricoles intensives, qui représente les plus gde surface, donc tt ce qu'on pourrait faire serait bénef"
+Mesure existantes en europe mais agri reluctant.
+Frein car serv écosy ne bénéficie pas directement à l'agri, n'est pa complètement évalué.
+Différence entre acteurs qui font le travail, bénéfices pour la société
+Approche living Lab
+
+
+
+(boite living lab clef à check (perso))
+
+
+(Tanentzap 2017 Plos biology)
+
 
 ### Plasticité 
 https://hal.science/hal-02269780/document **Phenotypic plasticity, global change, and the speed of adaptive evolution**
