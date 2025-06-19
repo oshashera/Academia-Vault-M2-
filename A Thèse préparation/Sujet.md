@@ -130,4 +130,10 @@ Approche living Lab
 https://hal.science/hal-02269780/document **Phenotypic plasticity, global change, and the speed of adaptive evolution**
 
 
+##### **Active and adaptive plasticity in a  changing climate** (Brooker et al, 2022)
 
+"**Adaptive plasticity:** changes in  phenotype in response to changes in environmental conditions *in a manner that enhances fitness, including stabilising fitness across environments and limiting fitness declines*."
+
+"**Phenotypic** plasticity: changes to phenotype in response to changes in environmental conditions."
+
+identified six papers (Table I), all of which use static environmental gradients to compare plasticity (a point we discuss in the section ‘Measuring active adaptive plasticity’ in the main text)
