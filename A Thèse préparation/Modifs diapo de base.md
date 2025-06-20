@@ -39,6 +39,8 @@ Mettre hypothèse : traits fonctionnels sont plus proches de la réalité donc p
 Objectif : comprendre impact des paysages sur biodiv, via approche paysage fx 
 garder le double point (dev methode / analyse)
 
+Mettre logo conservES
+
 #### Méthodo /résultat carto:
 
 ![[méthodo récap|700]]
@@ -106,4 +108,13 @@ Proposition :
 On étudie le paysage comme un filtre → plasticité au sein d'un gradient paysager, on veut avoir des variations de trait exprimée soit par différence de géno, soit plasticité phénotypique
 Différence de trait est-elle du à diversité géno ou plasticité ? → maintenue transfert = géno, change transfert = phéno adapt
 
-Risque associé à la manip ?
+Risque associé à la manip → mauvaise année qui ruine la manip, mauvaise pousse / pas assez de répet qui poussent, ou encore DÉLAI DE REPONSE TROP LONG de l'organisme
+
+
+### Axe 3
+
+Mettre logo conservES 
+Dire que j'ai déjà bossé / été intégré dans l'équipe du wp3 / collab internationale
+
+Vérifier si on dit entretien directif/semi-directif ou structuré/semi-structuré → précisé que ils sont déjà réalisé par Clémence
+Que je me b
