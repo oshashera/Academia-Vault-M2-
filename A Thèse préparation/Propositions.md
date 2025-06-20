@@ -23,3 +23,20 @@ A partir de ca
 
 ___
 
+# Notes diapos 
+
+## Pdg
+
+Préciser (logo) 
+- [ ] École doctorale (EGAAL)
+- [ ] Labo (ecobio)
+- [ ] Université (Univ rennes)
+
+## Virer diapo plan
+
+## Cursus 
+
+**Frise chronologique** 
+
+L3 ------------→M1----------→M2
+Compétenc
