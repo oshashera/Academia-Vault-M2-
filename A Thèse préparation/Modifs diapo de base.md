@@ -1,29 +1,5 @@
-
-## Axe 1 : L’évaluation des impacts des dynamiques paysagères et climatiques sur la diversité spatio-temporelle des communautés de différents groupes taxonomiques (plantes, carabes et oiseaux)
-
-
-Diversité des communautés de groupes taxo
-Temporelle (et spatiale = paysage ?)
-
-Relevés taxo sur plusieurs années min (+ éventuellement 1 an en plus sur 1/2 taxon si on estime ca réalisable pendant la thèse) => série temporelle
-=> richesse spé, shannon, piélou éventuellement ?
-
-Paysage => indices de het compo, het config (tout est quanti, mais pas 100% décorrelé), et habitat (shannon ?)
-
-(Méso)climat → depuis 2019 2 stations météo / paysage qui capte les températures tt les heures)
-
-
-A partir de ca
-
-## Axe 2 : L’analyse du rôle de la plasticité (adaptative ou phénotypique) des traits dans la persistance des espèces face à ces dynamiques (focus sur deux à trois espèces cibles de plante, de carabes ou d’oiseaux)
-
-
-
-
-
-___
-
-# Notes diapos 
+## Général : 
+mettre bandeau coloré partie 1 / partie 2 pour bien différentier ? (en plus de la transition) ?
 
 ## Pdg
 
@@ -88,4 +64,8 @@ Mettre en valeur échelle internationale / travail collectif-collab
 
 ## TRANSITION
 
-Diapo pour marquer la transition
+Diapo pour marquer la transition, avec dedans le lien que je fais entre M2 / thèse → lien thématique + récap parcours / axe 
+
+## Thèse
+
+### Contexte 
