@@ -27,6 +27,7 @@ ___
 
 ## Pdg
 
+Titre : Concours école doctorale 
 Préciser (logo) 
 - [ ] École doctorale (EGAAL)
 - [ ] Labo (ecobio)
@@ -49,15 +50,31 @@ L3 ------------→M1 ----------→M2       **METTRE LES LABO DE RECHERCHE + mett
 Compétenc1         1                        1
 2                           2                         2
 3                            3                       3
+Dont collab internationnale pour stage M2
 
 ## Stage M2 FOCUS
 
 #### Intro
 Intro / postulat → intérêt paysage fonctionnel (on part du paysage, fig audrey land-use to buffer nous).
-Mettre focus sur "bien que parcours centré sur végétal, ici approche multitaxon (7), biblio réalisée
+Mettre focus sur "bien que parcours centré sur végétal, ici approche multitaxon (7), biblio réalisée" → ajouter logos orga testés ?
 
+Mettre hypothèse : traits fonctionnels sont plus proches de la réalité donc pourraient permettre de caractériser l'offre des paysages pour des taxons
 Objectif : comprendre impact des paysages sur biodiv, via approche paysage fx 
 garder le double point (dev methode / analyse)
 
-#### Méthodo :
+#### Méthodo /résultat carto:
+
+![[méthodo récap|700]]
+comme ca avec, pour étapes pertinentes, mini schéma issu du m&m schéma ou clip-art (logos/symboles)
+
+Mettre pour étape simulation par ex logo ordi + logo R
+pour carto SIG + logo qgis
+
+#### Résultats
+
+LM 
+→ rappeler hypothèses, NE PAS COMPARER AU CLASSIQUE, juste dire que fx plus réaliste (cf avant)
+→ rappeler attentes métriques et biodiv
+→ rappeler que sur carabes uniquement, et sur modalités
+mettre qu'UN GRAPH → moyenne
 
