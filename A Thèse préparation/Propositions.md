@@ -38,5 +38,14 @@ Préciser (logo)
 
 **Frise chronologique** 
 
-L3 ------------→M1----------→M2
-Compétenc
+L3 (2ème) ------------→M1 (major)----------→M2 (major)
+Compétenc1         1                        1
+2                           2                         2
+3                            3                       3
+
+## Stages 
+**Frise chronologique**
+L3 ------------→M1 ----------→M2       **METTRE LES LABO DE RECHERCHE**
+Compétenc1         1                        1
+2                           2                         2
+3                            3                       3
