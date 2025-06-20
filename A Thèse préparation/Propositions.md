@@ -45,7 +45,18 @@ Compétenc1         1                        1
 
 ## Stages 
 **Frise chronologique**
-L3 ------------→M1 ----------→M2       **METTRE LES LABO DE RECHERCHE**
+L3 ------------→M1 ----------→M2       **METTRE LES LABO DE RECHERCHE + mettre éventuel AXE associé (L3 axe 3, M1 axe 1/2, M2 axe 1/2/3 + ENCADREMENT**
 Compétenc1         1                        1
 2                           2                         2
 3                            3                       3
+
+## Stage M2 FOCUS
+
+#### Intro
+Intro / postulat → intérêt paysage fonctionnel (on part du paysage, fig audrey land-use to buffer nous).
+Mettre focus sur "bien que parcours centré sur végétal, ici approche multitaxon (7), biblio réalisée
+
+Objectif : comprendre impact des paysages sur biodiv, via approche paysage fx 
+garder le double point (dev methode / analyse)
+
+#### Métoho
