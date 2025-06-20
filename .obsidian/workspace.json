@@ -22,18 +22,31 @@
             }
           },
           {
-            "id": "dcb82b98c97bc957",
+            "id": "42674d025bd8eaac",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "A Thèse préparation/Drawing 2025-06-20 01.15.40.excalidraw.md"
+                "file": "A Thèse préparation/méthodo récap.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-20 01.15.40.excalidraw"
+              "title": "méthodo récap"
+            }
+          },
+          {
+            "id": "2ba5f886e77f17c5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "schéma m&m"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,16 +239,17 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "42674d025bd8eaac",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md",
+    "A Thèse préparation/méthodo récap.md",
+    "🏡 Home.md",
+    "A Thèse préparation/Propositions.md",
     "A Thèse préparation/Sujet.md",
     "A Thèse préparation/Drawing 2025-06-20 01.15.40.excalidraw.md",
     "Images/Pasted Image 20250620011544_860.png",
-    "🏡 Home.md",
-    "A Thèse préparation/Propositions.md",
     "A Thèse préparation/Jury.md",
     "Images/Pasted image 20250618170740.png",
-    "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md",
     "A Thèse préparation",
     "🌳 Stage ECOBIO/Untitled",
     "🌳 Stage ECOBIO/📝 Rapport ?/Discussion zbeul.md",
