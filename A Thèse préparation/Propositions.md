@@ -75,6 +75,17 @@ pour carto SIG + logo qgis
 LM 
 → rappeler hypothèses, NE PAS COMPARER AU CLASSIQUE, juste dire que fx plus réaliste (cf avant)
 → rappeler attentes métriques et biodiv
-→ rappeler que sur carabes uniquement, et sur modalités
-mettre qu'UN GRAPH → moyenne
+→ rappeler que sur carabes uniquement, et sur 2 modalités d'aménagement de parcelles agricoles
+mettre qu'UN GRAPH → moyenne + dire autres pas signif nn plus
 
+**Ajouter partie "discussion" plutôt que lacunes**
+→ H0 pas validées
+→→→→ interprétations *écologique* → pas effet sur carabes paysage (potentiellement que la plasticité,variabilité des traits joue pas mal (cf exemple bouffe cécile, adaptation))
+→→→→ pt méthodo : autres métriques à tester et lacunes à gérer
+
+Mettre en valeur échelle internationale / travail collectif-collab
+
+
+## TRANSITION
+
+Diapo pour marquer la transition
