@@ -68,4 +68,11 @@ Diapo pour marquer la transition, avec dedans le lien que je fais entre M2 / th�
 
 ## Thèse
 
-### Contexte 
+### Contexte / intro
+
+Rôle du paysage
+Rôle du climat 
+
+
+
+Fin intro dire échelles des axe
