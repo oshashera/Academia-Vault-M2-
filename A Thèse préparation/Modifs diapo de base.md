@@ -98,8 +98,8 @@ Proposition :
 1) Check mesure au niveau gradient paysage → mesure/prélèvements pour voir plasticité
 2) Pour les espèces et paysages ou on aurait observé des différences, on prends les plus grands extrêmes et on transplante entre paysages :
 		→ on implante un génotype fixé à chaque fois (logique, fin fixé gnere il peut pas évoluer durant sa vie) :
-			→ si pas de variation, plasticité due au génotype
+			→ si pas de variation, diversité due au génotype
 			→ si variation, plasticité phénotypique
 	==prévoir de répondre vàv de ca sur les questions==
 
-### 
+On étudie le paysage comme un filtre → plasticité au sein d'un gradient paysager, on veut avoir des variations de trait exprimée soit par différence de géno, soit plasticité phénotypique
