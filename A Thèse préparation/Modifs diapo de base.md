@@ -116,5 +116,20 @@ Risque associé à la manip → mauvaise année qui ruine la manip, mauvaise pou
 Mettre logo conservES 
 Dire que j'ai déjà bossé / été intégré dans l'équipe du wp3 / collab internationale
 
-Vérifier si on dit entretien directif/semi-directif ou structuré/semi-structuré → précisé que ils sont déjà réalisé par Clémence
-Que je me b
+Vérifier si on dit entretien directif/semi-directif ou structuré/semi-structuré 
+Préciser contraintes associées (et varié pcq gradient climatique → multipays → situations différentes) → contraintes réglementaires, financières, de perception,...
+Préciser que ils sont déjà réalisé par Clémence
+Que je me baserai sur ce qu'elle a fait, en reprenant leur entretien, déclinerai ca en variable (==penser à variables à extraire==), et dire que **mon parcours en agro** peut être un atout pour comprendre les agriculteurs
+
+Concernant les relevés dans champs avec bandes fleuries c'est dans ces données que j'ai pioché pour mon M2 → déjà un peufamilier avec les données, les gens qui les ont produites, le dispositif
+
+Objectif : simuler l'évolution des paysages avec integration des bandes fleuries
+Faire lien paysage-climat → gradient européen climatique (et gradients hétérogénéité intra et extra pays)
+
+## Diapo "fin"
+
+réorganiser 
+![[Drawing 2025-06-20 01.15.40.excalidraw]]
+avec format 
+![[Drawing 2025-06-20 15.25.50.excalidraw]]
+
