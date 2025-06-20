@@ -79,7 +79,7 @@ Fin intro dire :
 Axe 1 (échelle commu) / Axe 2 (échelle pop°) = Compréhension lien biodiv/condition paysage et climat
 Axe 3 = application des connaissances
 
-**POUR CHAQUE AXE : METTRE HYPOTHESE SOUS-JACENTE**
+**POUR CHAQUE AXE : METTRE HYPOTHESE SOUS-JACENTE ET INDIQUER QUELLE(s) ANNEE(s) DE LA THESE SONT CONCERNEES PAR CET AXE**
 
 ### Axe 1 :
 
@@ -90,3 +90,16 @@ Dire qu'on a **déjà** les relevés de biodiv sur ces zones (a fait l'objet de 
 
 ### Axe 2 : 
 
+Dire que, notamment du à des analyses en agro, on a du recul sur la plasticité à l'échelle de la parcelle ==à creuser ce WE==
+EN REVANCHE on a pas ces infos à l'échelle paysagère et en plus avec le climat.
+
+
+Proposition : 
+1) Check mesure au niveau gradient paysage → mesure/prélèvements pour voir plasticité
+2) Pour les espèces et paysages ou on aurait observé des différences, on prends les plus grands extrêmes et on transplante entre paysages :
+		→ on implante un génotype fixé à chaque fois (logique, fin fixé gnere il peut pas évoluer durant sa vie) :
+			→ si pas de variation, plasticité due au génotype
+			→ si variation, plasticité phénotypique
+	==prévoir de répondre vàv de ca sur les questions==
+
+### 
