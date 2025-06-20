@@ -75,4 +75,18 @@ Rôle du climat
 
 
 
-Fin intro dire échelles des axe
+Fin intro dire :
+Axe 1 (échelle commu) / Axe 2 (échelle pop°) = Compréhension lien biodiv/condition paysage et climat
+Axe 3 = application des connaissances
+
+**POUR CHAQUE AXE : METTRE HYPOTHESE SOUS-JACENTE**
+
+### Axe 1 :
+
+Mettre logo plante/carabe/oiseaux → focus du texte sur approche multi-taxon
+Mettre plan échantillonage ? → ***dépends de si on nous fourni le SIG Cendrine/Aude*** EN TOUT CAS **PARLER DES 30 fenetres paysagères**
+
+Dire qu'on a **déjà** les relevés de biodiv sur ces zones (a fait l'objet de plusieurs thèses / projets), et les données météo (journalier T° pour chaque fenetre paysage)
+
+### Axe 2 : 
+
