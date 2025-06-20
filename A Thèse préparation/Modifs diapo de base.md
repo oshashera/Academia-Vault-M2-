@@ -1,5 +1,6 @@
 ## Général : 
 mettre bandeau coloré partie 1 / partie 2 pour bien différentier ? (en plus de la transition) ?
+TOUJOURS PENSER AUX QUESTIONS QUI POURRAIT ÊTRE POSÉES SUR CHAQUE ELEMENT + AVOIR CONSCIENCE DES RISQUES DE CHAQUE MANIP / TEST ETC
 
 ## Pdg
 
@@ -103,3 +104,6 @@ Proposition :
 	==prévoir de répondre vàv de ca sur les questions==
 
 On étudie le paysage comme un filtre → plasticité au sein d'un gradient paysager, on veut avoir des variations de trait exprimée soit par différence de géno, soit plasticité phénotypique
+Différence de trait est-elle du à diversité géno ou plasticité ? → maintenue transfert = géno, change transfert = phéno adapt
+
+Risque associé à la manip ?
