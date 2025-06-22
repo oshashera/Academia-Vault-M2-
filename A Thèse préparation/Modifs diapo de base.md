@@ -167,17 +167,27 @@ Pour les données d'occupation du sol ce sont des données issues des bdds gratu
 
 Alignier A, Lenestour N, Jeavons E, et al (2023) Floral resource maps: a tool to explain flower-visiting insect abundance at multiple spatial scales. Landsc Ecol 38:1511–1525. [https://doi.org/10.1007/s10980-023-01643-9](https://doi.org/10.1007/s10980-023-01643-9)
 Aviron S, Burel F, Baudry J, Schermann N (2005) Carabid assemblages in agricultural landscapes: impacts of habitat features, landscape context at different spatial scales and farming intensity. Agriculture, Ecosystems & Environment 108:205–217. [https://doi.org/10.1016/j.agee.2005.02.004](https://doi.org/10.1016/j.agee.2005.02.004)
-
-
+Bottero I, Dominik C, Schweiger O, et al (2023) Impact of landscape configuration and composition on pollinator communities across different European biogeographic regions. Front Ecol Evol 11:. [https://doi.org/10.3389/fevo.2023.1128228](https://doi.org/10.3389/fevo.2023.1128228)
+Buenafe KCV, Dunn DC, Everett JD, et al (2023) A metric-based framework for climate-smart conservation planning. Ecological Applications 33:e2852. [https://doi.org/10.1002/eap.2852](https://doi.org/10.1002/eap.2852)
+Buhk C, Oppermann R, Schanowski A, et al (2018) Flower strip networks offer promising long term effects on pollinator species richness in intensively cultivated agricultural areas. BMC Ecology 18:55. [https://doi.org/10.1186/s12898-018-0210-z](https://doi.org/10.1186/s12898-018-0210-z)
+Burel F, Baudry J (2004) Landscape ecology: concepts, methods and applications, Repr. Science Publishers, Enfield, N.H.
+Di Bernardino A, Casadio S, Iannarelli AM, Siani AM (2024) Temperature Trends and Influence of the Base Period Selection on Climate Indices in the Mediterranean Region Over the Period 1961–2020. International Journal of Climatology 44:5969–5985. [https://doi.org/10.1002/joc.8678](https://doi.org/10.1002/joc.8678)
+Estrada-Carmona N, Sánchez AC, Remans R, Jones SK (2022) Complex agricultural landscapes host more biodiversity than simple ones: A global meta-analysis. Proc Natl Acad Sci USA 119:e2203385119. [https://doi.org/10.1073/pnas.2203385119](https://doi.org/10.1073/pnas.2203385119)
 Fahrig L, Baudry J, Brotons L, et al (2011) Functional landscape heterogeneity and animal biodiversity in agricultural landscapes. Ecology Letters 14:101–112. [https://doi.org/10.1111/j.1461-0248.2010.01559.x](https://doi.org/10.1111/j.1461-0248.2010.01559.x)
+Frazier AE, Kedron P (2017) Landscape Metrics: Past Progress and Future Directions. Curr Landscape Ecol Rep 2:63–72. [https://doi.org/10.1007/s40823-017-0026-0](https://doi.org/10.1007/s40823-017-0026-0)
 Hallmann CA, Sorg M, Jongejans E, et al (2017) More than 75 percent decline over 27 years in total flying insect biomass in protected areas. PLoS ONE 12. [https://doi.org/10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
 Holland JM, Bianchi FJ, Entling MH, et al (2016) Structure, function and management of semi‐natural habitats for conservation biological control: a review of European studies. Pest Management Science 72:1638–1651. [https://doi.org/10.1002/ps.4318](https://doi.org/10.1002/ps.4318)
 Kemppinen J, Lembrechts JJ, Van Meerbeek K, et al (2024) Microclimate, an important part of ecology and biogeography. Global Ecology and Biogeography 33:e13834. [https://doi.org/10.1111/geb.13834](https://doi.org/10.1111/geb.13834)
+Marrec R, Le Roux V, Martin L, et al (2021) Multiscale drivers of carabid beetle (Coleoptera: Carabidae) assemblages in small European woodlands. Global Ecology and Biogeography 30:165–182. [https://doi.org/10.1111/geb.13208](https://doi.org/10.1111/geb.13208)
+Matesanz S, Ramírez‐Valiente JA (2019) A review and meta‐analysis of intraspecific differences in phenotypic plasticity: Implications to forecast plant responses to climate change. Global Ecol Biogeogr 28:1682–1694. [https://doi.org/10.1111/geb.12972](https://doi.org/10.1111/geb.12972)
 Millennium Ecosystem Assessment (ed) (2005) Ecosystems and human well-being: synthesis. Island Press, Washington, DC
 Nunez S, Arets E, Alkemade R, et al (2019) Assessing the impacts of climate change on biodiversity: is below 2 °C enough? Climatic Change 154:351–365. [https://doi.org/10.1007/s10584-019-02420-x](https://doi.org/10.1007/s10584-019-02420-x)
 Rusch A, Binet D, Delbac L, Thiéry D (2016) Local and landscape effects of agricultural intensification on Carabid community structure and weed seed predation in a perennial cropping system. Landscape Ecol 31:2163–2174. [https://doi.org/10.1007/s10980-016-0390-x](https://doi.org/10.1007/s10980-016-0390-x)
 Sato H, Mizoi J, Shinozaki K, Yamaguchi-Shinozaki K (2024) Complex plant responses to drought and heat stress under climate change. Plant J 117:1873–1892. [https://doi.org/10.1111/tpj.16612](https://doi.org/10.1111/tpj.16612)
 Stuble KL, Bennion LD, Kuebbing SE (2021) Plant phenological responses to experimental warming—A synthesis. Global Change Biology 27:4110–4124. [https://doi.org/10.1111/gcb.15685](https://doi.org/10.1111/gcb.15685)
+Wan N-F, Fu L, Dainese M, et al (2025) Pesticides have negative effects on non-target organisms. Nat Commun 16:1360. [https://doi.org/10.1038/s41467-025-56732-x](https://doi.org/10.1038/s41467-025-56732-x)
+Winkler K, Fuchs R, Rounsevell M, Herold M (2021) Global land use changes are four times greater than previously estimated. Nat Commun 12:2501. [https://doi.org/10.1038/s41467-021-22702-2](https://doi.org/10.1038/s41467-021-22702-2)
+Zhang P, Ren G, Xu Y, et al (2019) Observed Changes in Extreme Temperature over the Global Land Based on a Newly Developed Station Daily Dataset. Journal of Climate 32:8489–8509. [https://doi.org/10.1175/JCLI-D-18-0733.1](https://doi.org/10.1175/JCLI-D-18-0733.1)
 
 
 Métrique **T°**
