@@ -41,7 +41,7 @@ garder le double point (dev methode / analyse)
 
 Mettre logo conservES
 
-#### Méthodo /résultat carto:
+#### Méthodo /résultat carto: ✅
 
 ![[méthodo récap|700]]
 comme ca avec, pour étapes pertinentes, mini schéma issu du m&m schéma ou clip-art (logos/symboles)
@@ -49,13 +49,13 @@ comme ca avec, pour étapes pertinentes, mini schéma issu du m&m schéma ou cli
 Mettre pour étape simulation par ex logo ordi + logo R
 pour carto SIG + logo qgis
 
-#### Résultats
+#### Résultats 🚨
 
 LM 
 → rappeler hypothèses, NE PAS COMPARER AU CLASSIQUE, juste dire que fx plus réaliste (cf avant)
 → rappeler attentes métriques et biodiv
-→ rappeler que sur carabes uniquement, et sur 2 modalités d'aménagement de parcelles agricoles
-mettre qu'UN GRAPH → moyenne + dire autres pas signif nn plus
+→ rappeler que sur carabes uniquement, et sur 2 modalités d'aménagement de parcelles agricoles 🚨
+mettre qu'UN GRAPH → moyenne + dire autres pas signif nn plus 🚨
 
 **Ajouter partie "discussion" plutôt que lacunes**
 → H0 pas validées
