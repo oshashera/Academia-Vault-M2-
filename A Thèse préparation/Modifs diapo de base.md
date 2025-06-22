@@ -21,15 +21,15 @@ Compétenc1         1                        1
 2                           2                         2
 3                            3                       3
 
-## Stages 
+## Stages ✅🚨
 **Frise chronologique**
 L3 ------------→M1 ----------→M2       **METTRE LES LABO DE RECHERCHE + mettre éventuel AXE associé (L3 axe 3, M1 axe 1/2, M2 axe 1/2/3 + ENCADREMENT**
 Compétenc1         1                        1
 2                           2                         2
 3                            3                       3
-Dont collab internationnale pour stage M2
+Dont collab internationnale pour stage M2 🚨
 
-## Stage M2 FOCUS
+## Stage M2 FOCUS 
 
 #### Intro
 Intro / postulat → intérêt paysage fonctionnel (on part du paysage, fig audrey land-use to buffer nous).
