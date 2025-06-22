@@ -13,48 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Thèse préparation/Modifs diapo de base.md",
-                "mode": "source",
+                "file": "🏡 Home.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modifs diapo de base"
-            }
-          },
-          {
-            "id": "f129d6b46eeed71d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "A Thèse préparation/Drawing 2025-06-20 01.15.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-20 01.15.40.excalidraw"
-            }
-          },
-          {
-            "id": "42674d025bd8eaac",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "A Thèse préparation/méthodo récap.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "méthodo récap"
-            }
-          },
-          {
-            "id": "2ba5f886e77f17c5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "schéma m&m"
+              "title": "🏡 Home"
             }
           }
         ]
@@ -252,8 +216,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "A Thèse préparation/Drawing 2025-06-20 01.15.40.excalidraw.md",
     "A Thèse préparation/Modifs diapo de base.md",
+    "A Thèse préparation/Drawing 2025-06-20 01.15.40.excalidraw.md",
     "A Thèse préparation/méthodo récap.md",
     "A Thèse préparation/Drawing 2025-06-20 15.25.50.excalidraw.md",
     "🏡 Home.md",
