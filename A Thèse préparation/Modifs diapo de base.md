@@ -144,3 +144,16 @@ contains less than 2% urbanized areas, with a minimum of 5% grasslands and 1% he
 plant inventories were carried out in grassland,
 hedgerow and cropland habitats, ground beetles were surveyed at hedge-grassland interfaces and in
 croplands, and birds were systematically recorded
+
+
+
+
+
+Métrique **T°**
+Zhang et al, 2019; Di Bernardino et al, 2024 → percentage based or fixed threshold
+Buenafe et al, 2023 → (same + relative exposure metrics
+
+
+Calcul biodiv et méthodo lien
+Marrec et al, 2021 → carabids α/β/γ, landscape, macroclimate, GLMM
+Bottero et al, 2023 → pollinators abundance, landscape, mesoclimate, GLMM
