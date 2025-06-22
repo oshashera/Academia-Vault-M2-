@@ -165,7 +165,11 @@ Les tinitags pr la météo sont installés depuis 2019 et acquièrent des donné
 Pour les données d'occupation du sol ce sont des données issues des bdds gratuites et réajustées par rapport au territoire d'étude et c'est tous les ans depuis 2017 sauf pour les haies (on a une couche datant de 2015 je crois aude doit mieux savoir ce qu'il est possible d'avoir autrement. On a des donnees gratuites aussi et le bureau d'études est entrain de digitaliser les haies sur d'autres dates)
 
 
-
+Alignier A, Lenestour N, Jeavons E, et al (2023) Floral resource maps: a tool to explain flower-visiting insect abundance at multiple spatial scales. Landsc Ecol 38:1511–1525. [https://doi.org/10.1007/s10980-023-01643-9](https://doi.org/10.1007/s10980-023-01643-9)
+Aviron S, Burel F, Baudry J, Schermann N (2005) Carabid assemblages in agricultural landscapes: impacts of habitat features, landscape context at different spatial scales and farming intensity. Agriculture, Ecosystems & Environment 108:205–217. [https://doi.org/10.1016/j.agee.2005.02.004](https://doi.org/10.1016/j.agee.2005.02.004)
+Rusch A, Binet D, Delbac L, Thiéry D (2016) Local and landscape effects of agricultural intensification on Carabid community structure and weed seed predation in a perennial cropping system. Landscape Ecol 31:2163–2174. [https://doi.org/10.1007/s10980-016-0390-x](https://doi.org/10.1007/s10980-016-0390-x)
+Hallmann CA, Sorg M, Jongejans E, et al (2017) More than 75 percent decline over 27 years in total flying insect biomass in protected areas. PLoS ONE . [https://doi.org/10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
+Fahrig L, Baudry J, Brotons L, et al (2011) Functional landscape heterogeneity and animal biodiversity in agricultural landscapes. Ecology Letters 14:101–112. [https://doi.org/10.1111/j.1461-0248.2010.01559.x](https://doi.org/10.1111/j.1461-0248.2010.01559.x)
 
 Métrique **T°**
 Zhang et al, 2019; Di Bernardino et al, 2024 → percentage based or fixed threshold
