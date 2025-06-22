@@ -127,7 +127,7 @@ Concernant les relevés dans champs avec bandes fleuries c'est dans ces données
 Objectif : simuler l'évolution des paysages avec integration des bandes fleuries
 Faire lien paysage-climat → gradient européen climatique (et gradients hétérogénéité intra et extra pays)
 
-## Diapo "fin"
+## Diapo "fin" ✅
 
 réorganiser 
 ![[Drawing 2025-06-20 01.15.40.excalidraw]]

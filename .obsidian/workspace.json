@@ -20,33 +20,8 @@
               "icon": "lucide-file",
               "title": "Modifs diapo de base"
             }
-          },
-          {
-            "id": "7cf410980da22611",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "A Thèse préparation/Drawing 2025-06-20 01.15.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-20 01.15.40.excalidraw"
-            }
-          },
-          {
-            "id": "d36c93a01033977d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "A Thèse préparation/Drawing 2025-06-22 16.04.35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-22 16.04.35.excalidraw"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,7 +214,7 @@
       "widgets:Add widget": false
     }
   },
-  "active": "d36c93a01033977d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "A Thèse préparation/Drawing 2025-06-20 01.15.40.excalidraw.md",
     "A Thèse préparation/Drawing 2025-06-22 16.04.35.excalidraw.md",
