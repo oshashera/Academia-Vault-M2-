@@ -31,7 +31,7 @@ Dont collab internationnale pour stage M2 🚨
 
 ## Stage M2 FOCUS 
 
-#### Intro
+#### Intro ✅
 Intro / postulat → intérêt paysage fonctionnel (on part du paysage, fig audrey land-use to buffer nous).
 Mettre focus sur "bien que parcours centré sur végétal, ici approche multitaxon (7), biblio réalisée" → ajouter logos orga testés ?
 
