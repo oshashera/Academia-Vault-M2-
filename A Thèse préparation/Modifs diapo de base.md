@@ -49,7 +49,7 @@ comme ca avec, pour étapes pertinentes, mini schéma issu du m&m schéma ou cli
 Mettre pour étape simulation par ex logo ordi + logo R
 pour carto SIG + logo qgis
 
-#### Résultats 🚨
+#### Résultats ✅🚨
 
 LM 
 → rappeler hypothèses, NE PAS COMPARER AU CLASSIQUE, juste dire que fx plus réaliste (cf avant)
@@ -62,10 +62,10 @@ mettre qu'UN GRAPH → moyenne + dire autres pas signif nn plus 🚨
 →→→→ interprétations *écologique* → pas effet sur carabes paysage (potentiellement que la plasticité,variabilité des traits joue pas mal (cf exemple bouffe cécile, adaptation))
 →→→→ pt méthodo : autres métriques à tester et lacunes à gérer
 
-Mettre en valeur échelle internationale / travail collectif-collab
+Mettre en valeur échelle internationale / travail collectif-collab 🚨
 
 
-## TRANSITION
+## TRANSITION ✅
 
 Diapo pour marquer la transition, avec dedans le lien que je fais entre M2 / thèse → lien thématique + récap parcours / axe 
 
