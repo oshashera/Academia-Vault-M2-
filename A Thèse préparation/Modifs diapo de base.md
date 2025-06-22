@@ -134,3 +134,13 @@ réorganiser
 avec format 
 ![[Drawing 2025-06-20 15.25.50.excalidraw]]
 
+infos à avoir 
+
+ithin the Couesnon watershed, a long-term experimental setup consisting of 30 landscape
+windows (1 km by 1 km) was established in 2019 (Lecoq et al., 2021, Figure 1).: two gradients of semi-natural habitat quantity (percentage of
+grasslands and hedge length) and two gradients of heterogeneity (composition heterogeneity and
+configuration heterogeneity) (Figure 1, Figure 5). To exclude atypical landscapes, each window
+contains less than 2% urbanized areas, with a minimum of 5% grasslands and 1% hedges
+plant inventories were carried out in grassland,
+hedgerow and cropland habitats, ground beetles were surveyed at hedge-grassland interfaces and in
+croplands, and birds were systematically recorded
