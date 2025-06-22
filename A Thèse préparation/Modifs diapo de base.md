@@ -149,6 +149,24 @@ croplands, and birds were systematically recorded
 
 
 
+Plantes : 2018 (haies, prairies), 2023 (cultures) → 1 seule année de relevés (_/occsol_)  
+Carabes : 2022 (interface haies-prairies), 2023 (cultures) →1 seule année de relevés (_/occsol_)
+
+Oiseaux : 2022 →1 seule année de relevés  
+  
+En revanche, on a les infos d'hétérogénéité (compo/config), de la quantité d'habitat et de climat (T°) pour chaque année depuis 2019 si j'ai bien compris ce qu'Aude m'avait expliqué ?  
+  
+
+Je ne voudrai pas m'embrouiller si le jury me pose des questions sur quelle donnée a été échantillonnée à combien d'occasions/occurences.
+Pour la flore des haies et prairie une seconde campagne est en cours cette année (stage mailis et gabrielle), ce qui permettra d'analyser l'évolution en 6 ans.
+
+Les tinitags pr la météo sont installés depuis 2019 et acquièrent des données en continu toutes les heures depuis leur installation.
+
+Pour les données d'occupation du sol ce sont des données issues des bdds gratuites et réajustées par rapport au territoire d'étude et c'est tous les ans depuis 2017 sauf pour les haies (on a une couche datant de 2015 je crois aude doit mieux savoir ce qu'il est possible d'avoir autrement. On a des donnees gratuites aussi et le bureau d'études est entrain de digitaliser les haies sur d'autres dates)
+
+
+
+
 Métrique **T°**
 Zhang et al, 2019; Di Bernardino et al, 2024 → percentage based or fixed threshold
 Buenafe et al, 2023 → (same + relative exposure metrics
