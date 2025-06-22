@@ -71,7 +71,7 @@ Diapo pour marquer la transition, avec dedans le lien que je fais entre M2 / th�
 
 ## Thèse
 
-### Contexte / intro
+### Contexte / intro ✅ 🚨
 
 Rôle du paysage
 Rôle du climat 
@@ -79,10 +79,11 @@ Rôle du climat
 
 
 Fin intro dire :
-Axe 1 (échelle commu) / Axe 2 (échelle pop°) = Compréhension lien biodiv/condition paysage et climat
-Axe 3 = application des connaissances
+Axe 1 (échelle commu) / Axe 2 (échelle pop°) = Compréhension lien biodiv/condition paysage et climat 🚨
+Axe 3 = application des connaissances 🚨
 
-**POUR CHAQUE AXE : METTRE HYPOTHESE SOUS-JACENTE ET INDIQUER QUELLE(s) ANNEE(s) DE LA THESE SONT CONCERNEES PAR CET AXE**
+
+### **POUR CHAQUE AXE : METTRE HYPOTHESE SOUS-JACENTE ET INDIQUER QUELLE(s) ANNEE(s) DE LA THESE SONT CONCERNEES PAR CET AXE** 🚨
 
 ### Axe 1 :
 
