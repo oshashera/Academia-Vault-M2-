@@ -79,7 +79,7 @@ Rôle du climat
 
 
 Fin intro dire :
-Axe 1 (échelle commu) / Axe 2 (échelle pop°) = Compréhension lien biodiv/condition paysage et climat 🚨
+Axe 1 (échelle commu) / Axe 2 (échelle pop°) = Compréhension lien biodiv/condition paysage et climat :rot
 Axe 3 = application des connaissances 🚨
 
 
