@@ -1,18 +1,18 @@
 ## Général : 
 mettre bandeau coloré partie 1 / partie 2 pour bien différentier ? (en plus de la transition) ?
-TOUJOURS PENSER AUX QUESTIONS QUI POURRAIT ÊTRE POSÉES SUR CHAQUE ELEMENT + AVOIR CONSCIENCE DES RISQUES DE CHAQUE MANIP / TEST ETC
+TOUJOURS PENSER AUX QUESTIONS QUI POURRAIT ÊTRE POSÉES SUR CHAQUE ELEMENT + AVOIR CONSCIENCE DES RISQUES DE CHAQUE MANIP / TEST ETC 
 
-## Pdg
+## Pdg ✅
 
 Titre : Concours école doctorale 
 Préciser (logo) 
-- [ ] École doctorale (EGAAL)
-- [ ] Labo (ecobio)
-- [ ] Université (Univ rennes)
+- [x] École doctorale (EGAAL) ✅ 2025-06-22
+- [x] Labo (ecobio) ✅ 2025-06-22
+- [x] Université (Univ rennes) ✅ 2025-06-22
 
-## Virer diapo plan
-
-## Cursus 
+## Virer diapo plan ✅
+ 
+## Cursus ✅
 
 **Frise chronologique** 
 
