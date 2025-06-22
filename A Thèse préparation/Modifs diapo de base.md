@@ -167,9 +167,18 @@ Pour les données d'occupation du sol ce sont des données issues des bdds gratu
 
 Alignier A, Lenestour N, Jeavons E, et al (2023) Floral resource maps: a tool to explain flower-visiting insect abundance at multiple spatial scales. Landsc Ecol 38:1511–1525. [https://doi.org/10.1007/s10980-023-01643-9](https://doi.org/10.1007/s10980-023-01643-9)
 Aviron S, Burel F, Baudry J, Schermann N (2005) Carabid assemblages in agricultural landscapes: impacts of habitat features, landscape context at different spatial scales and farming intensity. Agriculture, Ecosystems & Environment 108:205–217. [https://doi.org/10.1016/j.agee.2005.02.004](https://doi.org/10.1016/j.agee.2005.02.004)
-Rusch A, Binet D, Delbac L, Thiéry D (2016) Local and landscape effects of agricultural intensification on Carabid community structure and weed seed predation in a perennial cropping system. Landscape Ecol 31:2163–2174. [https://doi.org/10.1007/s10980-016-0390-x](https://doi.org/10.1007/s10980-016-0390-x)
-Hallmann CA, Sorg M, Jongejans E, et al (2017) More than 75 percent decline over 27 years in total flying insect biomass in protected areas. PLoS ONE . [https://doi.org/10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
+
+
 Fahrig L, Baudry J, Brotons L, et al (2011) Functional landscape heterogeneity and animal biodiversity in agricultural landscapes. Ecology Letters 14:101–112. [https://doi.org/10.1111/j.1461-0248.2010.01559.x](https://doi.org/10.1111/j.1461-0248.2010.01559.x)
+Hallmann CA, Sorg M, Jongejans E, et al (2017) More than 75 percent decline over 27 years in total flying insect biomass in protected areas. PLoS ONE 12. [https://doi.org/10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
+Holland JM, Bianchi FJ, Entling MH, et al (2016) Structure, function and management of semi‐natural habitats for conservation biological control: a review of European studies. Pest Management Science 72:1638–1651. [https://doi.org/10.1002/ps.4318](https://doi.org/10.1002/ps.4318)
+Kemppinen J, Lembrechts JJ, Van Meerbeek K, et al (2024) Microclimate, an important part of ecology and biogeography. Global Ecology and Biogeography 33:e13834. [https://doi.org/10.1111/geb.13834](https://doi.org/10.1111/geb.13834)
+Millennium Ecosystem Assessment (ed) (2005) Ecosystems and human well-being: synthesis. Island Press, Washington, DC
+Nunez S, Arets E, Alkemade R, et al (2019) Assessing the impacts of climate change on biodiversity: is below 2 °C enough? Climatic Change 154:351–365. [https://doi.org/10.1007/s10584-019-02420-x](https://doi.org/10.1007/s10584-019-02420-x)
+Rusch A, Binet D, Delbac L, Thiéry D (2016) Local and landscape effects of agricultural intensification on Carabid community structure and weed seed predation in a perennial cropping system. Landscape Ecol 31:2163–2174. [https://doi.org/10.1007/s10980-016-0390-x](https://doi.org/10.1007/s10980-016-0390-x)
+Sato H, Mizoi J, Shinozaki K, Yamaguchi-Shinozaki K (2024) Complex plant responses to drought and heat stress under climate change. Plant J 117:1873–1892. [https://doi.org/10.1111/tpj.16612](https://doi.org/10.1111/tpj.16612)
+Stuble KL, Bennion LD, Kuebbing SE (2021) Plant phenological responses to experimental warming—A synthesis. Global Change Biology 27:4110–4124. [https://doi.org/10.1111/gcb.15685](https://doi.org/10.1111/gcb.15685)
+
 
 Métrique **T°**
 Zhang et al, 2019; Di Bernardino et al, 2024 → percentage based or fixed threshold
