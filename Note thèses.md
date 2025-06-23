@@ -107,13 +107,13 @@ paysage  (ca fait continuité pour le stage m2) ✅
 avant le climat,
 puis climat ✅
 
-parler *interactions potentielles entre les deux sur biodiv**
+parler *interactions potentielles entre les deux sur biodiv** ✅
 
-Joue sur échelle commu (axe 1), et des espèces (axe 2), et qu'on pourrait jouer sur ca avec des aménagmeents du paysage (et intéraction avec climat) (axe 3)
+Joue sur échelle commu (axe 1), et des espèces (axe 2), et qu'on pourrait jouer sur ca avec des aménagmeents du paysage (et intéraction avec climat) (axe 3) ✅
 
-paysage facteur primaire, climat secondaire et modulé par paysage.
+paysage facteur primaire, climat secondaire et modulé par paysage. ✅
 
-Structurer en boite ???? (et mettre biblio dans boites)
+Structurer en boite ???? (et mettre biblio dans boites) ✅
 
 
 
