@@ -102,10 +102,10 @@ autre métriques prends un S ✅
 ## Intro contexte thèse
 
 biodiv importante mais menacée, notamment par pratiques agricoles, joue sur échelle locale et paysage, joue sur fx écosyst → important de mieux comprendre les patrons de biodiversité. (biodiv et agro ensemble)
-
-paysage  (ca fait continuité pour le stage m2)
+ ✅
+paysage  (ca fait continuité pour le stage m2) ✅
 avant le climat,
-puis climat 
+puis climat ✅
 
 parler *interactions potentielles entre les deux sur biodiv**
 
