@@ -83,20 +83,20 @@ remplacer p-value par "pas d'effet observée"  ✅
 
 ### discussion
 
-mettre croix sur prédiction de biodiv
+mettre croix sur prédiction de biodiv ✅
 
-remplacer "buffer des carabes" par "échelle de réponse aux paysage des carabes"
-remplacer disputer par "discutée / controversée"
+remplacer "buffer des carabes" par "échelle de réponse aux paysage des carabes" ✅
+remplacer disputer par "discutée / controversée" ✅
 
-nombres insuffisant "remplacer buffer évaluées par sites échantillonés" et mettre 10 paysage contre 30-40
-enlever parenthèse fahrig et al
+nombres insuffisant "remplacer buffer évaluées par sites échantillonés" et mettre 10 paysage contre 30-40 ✅
+enlever parenthèse fahrig et al ✅
 
-autre métriques prends un S
+autre métriques prends un S ✅
 
 
 ### transition
 
-→ enlever "au sein du projet conserves" → on le dit plus tard anyway ou on peut le mentionner à l'oral, mais on le vire à l'écrit
+→ enlever "au sein du projet conserves" → on le dit plus tard anyway ou on peut le mentionner à l'oral, mais on le vire à l'écrit ✅
 
 
 ## Intro contexte thèse
@@ -178,7 +178,7 @@ Modélisation  = outil mais pas objectif de l'axe
 
 Changer titre L3 stage "Analyse de la variabilité intraspécifique du blé et de l'orge pour des traits d'intérêt agronomique" →amène le trait avant l'agro, car c'est le plus important 
 
-
+transition : au sein du projet conserves" → on le dit plus tard anyway ou on peut le mentionner à l'oral, mais on le vire à l'écrit
 ## Questions
 
 question :
