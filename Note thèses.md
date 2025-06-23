@@ -22,13 +22,13 @@ enlever "(R)" pour statistiques ✅
 
 
 
-## stages
+## stages ✅
 
-faire apparaitre compétences après
+faire apparaitre compétences après ✅
 Enlever différence de mise en forme (enlever petite étoile) pour saska ✅
 Mettre son université entre parenthèses ✅**j'ai mis le logo**
 
-Changer titre L3 stage "Analyse de la variabilité intraspécifique du blé et de l'orge pour des traits d'intérêt agronomique" →amène le trait avant l'agro, car c'est le plus important 
+
 
 Mettre en premier mesure trait fx ✅
 Enlever "simple" pour trait fonctionnels ✅
@@ -36,11 +36,11 @@ Enlever "simple" pour trait fonctionnels ✅
 Mettre en compétence M2 : éco communautés ✅
 
 
-Réduire taille logo
-Mettre titre des stages??? pas si ca fait moche → **a voir**
+Réduire taille logo ✅
+Mettre titre des stages??? pas si ca fait moche → **a voir** ❌
 
 
-### Stage M2
+## Stage M2
 
 
 
@@ -91,39 +91,6 @@ nombres insuffisant "remplacer buffer évaluées par sites échantillonés" et m
 enlever parenthèse fahrig et al
 
 autre métriques prends un S
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### transition
@@ -205,6 +172,10 @@ Modélisation  = outil mais pas objectif de l'axe
 1. Co-création des scénarios 
 2. Simuler les paysages selon les scénarios → consiste à les modéliser en SIG (via plusieurs approches, virer type fx fahrir, proposer classique vs mon stage M2)
 
+
+### A dire à l'oral 
+
+Changer titre L3 stage "Analyse de la variabilité intraspécifique du blé et de l'orge pour des traits d'intérêt agronomique" →amène le trait avant l'agro, car c'est le plus important 
 
 
 ## Questions
