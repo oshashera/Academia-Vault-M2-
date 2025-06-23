@@ -201,6 +201,7 @@ Changer hypothèse → faire ressortir paysage et climat → est-ce que leur rô
 Pour tester ca on construit des scénarios (trade off etc) réalistes avec agriculteurs et ensuite on les modélise 
 Modélisation  = outil mais pas objectif de l'axe
 
+**Sites d'étude :** Mettre à l'écrit un truc de 5 zones le long d'un gradient paysager (4 pays). fin le mentionner → contexte international et gradient climatique + dire qu'on reprends les données de mon m2 pour releves de biodiv
 1. Co-création des scénarios 
 2. Simuler les paysages selon les scénarios → consiste à les modéliser en SIG (via plusieurs approches, virer type fx fahrir, proposer classique vs mon stage M2)
 
@@ -227,7 +228,10 @@ Plantes = 2018, 2023 pour cultures et mtn en cours 2025 (sur haies et prairies �
 
 dynamique → dire qu'on évalue le coté spatiale d'une dynamique (contrairement au sous entendu temporel) mais qu'on a les données temporelles pour évaluer ca.
 
-Mettre à l'écrit un truc de 5 zones le long d'un gradient paysager (4 pays). fin le mentionner → contexte international et gradient climatique
+
+Quoi se former ? 
+→ je connais xxx en stat, mais j'suis pas trop à l'aise
+→ 
 
 
 
