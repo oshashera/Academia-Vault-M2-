@@ -229,9 +229,12 @@ Plantes = 2018, 2023 pour cultures et mtn en cours 2025 (sur haies et prairies �
 dynamique → dire qu'on évalue le coté spatiale d'une dynamique (contrairement au sous entendu temporel) mais qu'on a les données temporelles pour évaluer ca.
 
 
+Pq le bassin du couesnon ?
+grande zone, gradient dissociés 
+check y a 2 grandes zones pédologiques, elles sont déjà caractérisées a priori
+
 Quoi se former ? 
-→ je connais xxx en stat, mais j'suis pas trop à l'aise
-→ 
+→ je connais xxx en stat, mais j'apprécierai grandement d'apprendre plus sur les méthodes.
 
-
+carabes : dormance hivernale = climat, type ailes = dispersion
 
