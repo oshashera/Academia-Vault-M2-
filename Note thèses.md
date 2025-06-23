@@ -172,15 +172,26 @@ puis dire méthodo (mais sans le détailler à l'oral par contre)
 
 ## AXE 2
 
+les traits varie, pas la plasticité.
+Hypothèse : garder celle là, mais faire petite cloche et grosses cloche sur gradient CxP pour montrer variation amplitudes
+
+
+
+changer "sur un gradient" par "le long d'un gradient"
+enlever "(fonction)"
 S à forte et à variabilité
 présentée sans e
+forte avec S
+au climat sans X
+enlever "moyen" pour nb graines rajouter S
+**toujours mettre paysage avant, et climat après**
+enlever "(fonction)"
+préciser "adaptation" par "adaptation au stress"
+pareil paysage puis climat ds exemples
 
 
 
-
-
-
-
+### Axe 3
 
 
 ## Questions
