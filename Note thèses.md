@@ -17,23 +17,23 @@ Mettre ensemble le pool de tout (pas préciser quelle année quoi) → ✅
 Compétences → Disciplines, outils (genre stats), logiciels ✅
 Enlever "avancées" pour stats. ✅
 
-remplacer "carto" par "SIG"
-enlever "(R)" pour statistiques
+remplacer "carto" par "SIG" ✅
+enlever "(R)" pour statistiques ✅
 
 
 
 ## stages
 
 faire apparaitre compétences après
-Enlever différence de mise en forme (enlever petite étoile) pour saska
-Mettre son université entre parenthèses
+Enlever différence de mise en forme (enlever petite étoile) pour saska ✅
+Mettre son université entre parenthèses ✅**j'ai mis le logo**
 
 Changer titre L3 stage "Analyse de la variabilité intraspécifique du blé et de l'orge pour des traits d'intérêt agronomique" →amène le trait avant l'agro, car c'est le plus important 
 
-Mettre en premier mesure trait fx
-Enlever "simple" pour trait fonctionnels 
+Mettre en premier mesure trait fx ✅
+Enlever "simple" pour trait fonctionnels ✅
 
-Mettre en compétence M2 : éco communautés
+Mettre en compétence M2 : éco communautés ✅
 
 
 Réduire taille logo
