@@ -71,14 +71,14 @@ mettre dans première boite que on a fait les 7 taxons → préciser ca ✅
 
 → changer sens flèche jaune ✅
 
-Dire que dans cadre de stage on s'est uniquement ciblé sur carabes pour l'application concrète "ne pas dire malheureusement"
+Dire que dans cadre de stage on s'est uniquement ciblé sur carabes pour l'application concrète "ne pas dire malheureusement" ✅
 
-dire fourniture en terme de ressource et habitat pour les taxons visés 
+dire fourniture en terme de ressource et habitat pour les taxons visés ✅
 
-faire schéma modalités aménagement → haies et haies bande fleuries(fera lien avec 3)
-mettre icone carabe a coté de "données disponibles : carabes"
+faire schéma modalités aménagement → haies et haies bande fleuries(fera lien avec 3) ✅
+mettre icone carabe a coté de "données disponibles : carabes" ✅
 
-remplacer p-value par "pas d'effet observée" 
+remplacer p-value par "pas d'effet observée"  ✅
 
 
 ### discussion
