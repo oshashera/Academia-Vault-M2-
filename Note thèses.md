@@ -139,9 +139,28 @@ question sur "quelles autres métriques ?"
 
 ## 
 
-biodiv importante mais menacée, notamment par pratiques agricoles,
+biodiv importante mais menacée, notamment par pratiques agricoles, joue sur échelle locale et paysage, joue sur fx écosyst → important de mieux comprendre les patrons de biodiversité. (biodiv et agro ensemble)
 
-paysage  (ca fait continuité pour le )
+paysage  (ca fait continuité pour le stage m2)
+avant le climat,
+puis climat 
 
-puis climat
+parler *interactions potentielles entre les deux sur biodiv**
+
+Joue sur échelle commu (axe 1), et des espèces (axe 2), et qu'on pourrait jouer sur ca avec des aménagmeents du paysage (et intéraction avec climat) (axe 3)
+
+paysage facteur primaire, climat secondaire et modulé par paysage.
+
+Structurer en boite ???? (et mettre biblio dans boites)
+
+
+
+### AXE 1
+
+mettre paysage en premier 
+faire interaction (flèche en plus ? croix ?) avec climat
+
+enlever "diverses" à métriques climatiques
+enlever "classiques" p
+
 
