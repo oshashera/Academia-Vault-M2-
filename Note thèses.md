@@ -12,10 +12,10 @@ enlever puce titres ✅
 
 
 Ecrire les noms de parcours Licence / svg / apvv ✅
-Faire apparaitre compétence (titre après) → 
-Mettre ensemble le pool de tout (pas préciser quelle année quoi) →
-Compétences → Disciplines, outils (genre stats), logiciels
-Enlever "avancées" pour stats.
+Faire apparaitre compétence (titre après) →  :
+Mettre ensemble le pool de tout (pas préciser quelle année quoi) → ✅
+Compétences → Disciplines, outils (genre stats), logiciels ✅
+Enlever "avancées" pour stats. ✅
 
 remplacer "carto" par "SIG"
 enlever "(R)" pour statistiques
