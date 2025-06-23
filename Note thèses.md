@@ -3,15 +3,15 @@
 mettre des bandeaux en haut pour chaque partie 
 
 
-Concours DE l'école  (pas d'école doctorale)
-Mettre noms encadrantes sur diapo pdg
-Rajouter "classement" a gauche de L3
+Concours DE l'école  (pas d'école doctorale) ✅
+Mettre noms encadrantes sur diapo pdg ✅
+Rajouter "classement" a gauche de L3 ✅
 
-Trait titre diapo
-enlever puce titres
+Trait titre diapo ✅
+enlever puce titres ✅
 
 
-Ecrire les noms de parcours Licence / svg / apvv
+Ecrire les noms de parcours Licence / svg / apvv ✅
 Faire apparaitre compétence (titre après) → 
 Mettre ensemble le pool de tout (pas préciser quelle année quoi) →
 Compétences → Disciplines, outils (genre stats), logiciels
