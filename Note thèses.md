@@ -162,14 +162,14 @@ mettre en gras ou autre le "séparer xxxx" en tt cas pas que ca ai l'air de fair
 ### Axe 3
 
 Changer titre → mettre lien paysage-climat, modifier "analyse d'un levier agroécologique pour atténuer les conséquences des changements climatiques sur la biodiversité dans différents contextes paysagers" dire à l'oral ": le cas des bandes fleuries"
-faire ressortir → aménagement, faire le lien avec le climat
+faire ressortir → aménagement, faire le lien avec le climat ✅
 
 
-Changer hypothèse → faire ressortir paysage et climat → est-ce que leur rôle varie selon les contextes climatiques
+Changer hypothèse → faire ressortir paysage et climat → est-ce que leur rôle varie selon les contextes climatiques ✅
 Pour tester ca on construit des scénarios (trade off etc) réalistes avec agriculteurs et ensuite on les modélise 
 Modélisation  = outil mais pas objectif de l'axe
 
-**Sites d'étude :** Mettre à l'écrit un truc de 5 zones le long d'un gradient paysager (4 pays). fin le mentionner → contexte international et gradient climatique + dire qu'on reprends les données de mon m2 pour releves de biodiv
+**Sites d'étude :** Mettre à l'écrit un truc de 5 zones le long d'un gradient paysager (4 pays). fin le mentionner → contexte international et gradient climatique + dire qu'on reprends les données de mon m2 pour releves de biodiv ✅
 1. Co-création des scénarios 
 2. Simuler les paysages selon les scénarios → consiste à les modéliser en SIG (via plusieurs approches, virer type fx fahrir, proposer classique vs mon stage M2)
 
@@ -179,6 +179,8 @@ Modélisation  = outil mais pas objectif de l'axe
 Changer titre L3 stage "Analyse de la variabilité intraspécifique du blé et de l'orge pour des traits d'intérêt agronomique" →amène le trait avant l'agro, car c'est le plus important 
 
 transition : au sein du projet conserves" → on le dit plus tard anyway ou on peut le mentionner à l'oral, mais on le vire à l'écrit
+
+axe 3 → "analyse d'un levier agroécologique pour atténuer les conséquences des changements climatiques sur la biodiversité dans différents contextes paysagers" dire à l'oral ": le cas des bandes fleuries"
 ## Questions
 
 question :
