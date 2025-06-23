@@ -189,9 +189,21 @@ enlever "(fonction)"
 préciser "adaptation" par "adaptation au stress"
 pareil paysage puis climat ds exemples
 
-
+mettre en gras ou autre le "séparer xxxx" en tt cas pas que ca ai l'air de faire partie du 1)
 
 ### Axe 3
+
+Changer titre → mettre lien paysage-climat, modifier "analyse d'un levier agroécologique pour atténuer les conséquences des changements climatiques sur la biodiversité dans différents contextes paysagers" dire à l'oral ": le cas des bandes fleuries"
+faire ressortir → aménagement, faire le lien avec le climat
+
+
+Changer hypothèse → faire ressortir paysage et climat → est-ce que leur rôle varie selon les contextes climatiques
+Pour tester ca on construit des scénarios (trade off etc) réalistes avec agriculteurs et ensuite on les modélise 
+Modélisation  = outil mais pas objectif de l'axe
+
+1. Co-création des scénarios 
+2. Simuler les paysages selon les scénarios → consiste à les modéliser en SIG (via plusieurs approches, virer type fx fahrir, proposer classique vs mon stage M2)
+
 
 
 ## Questions
@@ -214,6 +226,8 @@ Se faire fiche plan échantillonages au cas ou pour les 3 organismes
 Plantes = 2018, 2023 pour cultures et mtn en cours 2025 (sur haies et prairies → données actuelles)
 
 dynamique → dire qu'on évalue le coté spatiale d'une dynamique (contrairement au sous entendu temporel) mais qu'on a les données temporelles pour évaluer ca.
+
+Mettre à l'écrit un truc de 5 zones le long d'un gradient paysager (4 pays). fin le mentionner → contexte international et gradient climatique
 
 
 
