@@ -124,20 +124,14 @@ autre métriques prends un S
 
 
 
-question :
 
-effet attendus pour d'autres carabes
-peut être compliqué pour certains groupes du fait de la diversité de réponse et sous groupe écologique
-
-question sur "quelles autres métriques ?"
-→ connectivité par ex (et détailler intérêt)
 
 ### transition
 
 → enlever "au sein du projet conserves" → on le dit plus tard anyway ou on peut le mentionner à l'oral, mais on le vire à l'écrit
 
 
-## 
+## Intro contexte thèse
 
 biodiv importante mais menacée, notamment par pratiques agricoles, joue sur échelle locale et paysage, joue sur fx écosyst → important de mieux comprendre les patrons de biodiversité. (biodiv et agro ensemble)
 
@@ -158,9 +152,52 @@ Structurer en boite ???? (et mettre biblio dans boites)
 ### AXE 1
 
 mettre paysage en premier 
-faire interaction (flèche en plus ? croix ?) avec climat
+mettre "30 fenetres" au milieux des icones, mais faire apparaitre au moment ou je parle du paysage (donc au début)
+dire données habitat depuis 2019
+faire interaction (flèche en plus ? croix ?) avec climat 
+pour climat mettre avec le bloc climat les relevés depuis 2019
 
 enlever "diverses" à métriques climatiques
-enlever "classiques" p
+enlever "classiques" pour paysage
 
+
+Arrive sur biodiversité **mettre que biodiv, pas effet**
+
+mettre échantillonage biodiv (pas mettre années, mais habitats / occsol échantillonées)
+
+
+puis dire méthodo (mais sans le détailler à l'oral par contre)
+
+
+## AXE 2
+
+
+
+
+
+
+
+
+
+
+
+
+## Questions
+
+question :
+
+effet attendus pour d'autres carabes
+peut être compliqué pour certains groupes du fait de la diversité de réponse et sous groupe écologique
+
+question sur "quelles autres métriques ?"
+→ connectivité par ex (et détailler intérêt)
+
+
+compo → % occsol, shannon d'occsol
+config → agencement pixel aka compter pixels adjacents de même nature
+
+source : OSO et bdtopo pour haies (2019/2023) 
+
+Se faire fiche plan échantillonages au cas ou pour les 3 organismes
+Plantes = 2018, 2023 pour cultures et mtn en cours 2025 (sur haies et prairies → données actuelles)
 
