@@ -1,3 +1,4 @@
+==**dire THESE**==
 
 mettre des bandeaux en haut pour chaque partie 
 
@@ -79,4 +80,68 @@ mettre icone carabe a coté de "données disponibles : carabes"
 remplacer p-value par "pas d'effet observée" 
 
 
-### 
+### discussion
+
+mettre croix sur prédiction de biodiv
+
+remplacer "buffer des carabes" par "échelle de réponse aux paysage des carabes"
+remplacer disputer par "discutée / controversée"
+
+nombres insuffisant "remplacer buffer évaluées par sites échantillonés" et mettre 10 paysage contre 30-40
+enlever parenthèse fahrig et al
+
+autre métriques prends un S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+question :
+
+effet attendus pour d'autres carabes
+peut être compliqué pour certains groupes du fait de la diversité de réponse et sous groupe écologique
+
+question sur "quelles autres métriques ?"
+→ connectivité par ex (et détailler intérêt)
+
+### transition
+
+→ enlever "au sein du projet conserves" → on le dit plus tard anyway ou on peut le mentionner à l'oral, mais on le vire à l'écrit
+
+
+## 
+
+biodiv importante mais menacée, notamment par pratiques agricoles,
+
+paysage  (ca fait continuité pour le )
+
+puis climat
+
