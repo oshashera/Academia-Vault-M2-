@@ -151,6 +151,7 @@ Structurer en boite ???? (et mettre biblio dans boites)
 
 ### AXE 1
 
+
 mettre paysage en premier 
 mettre "30 fenetres" au milieux des icones, mais faire apparaitre au moment ou je parle du paysage (donc au début)
 dire données habitat depuis 2019
@@ -164,15 +165,15 @@ enlever "classiques" pour paysage
 Arrive sur biodiversité **mettre que biodiv, pas effet**
 
 mettre échantillonage biodiv (pas mettre années, mais habitats / occsol échantillonées)
-
+mais dire qu'on a bien tout de déjà échantillonnés
 
 puis dire méthodo (mais sans le détailler à l'oral par contre)
 
 
 ## AXE 2
 
-
-
+S à forte et à variabilité
+présentée sans e
 
 
 
@@ -200,4 +201,8 @@ source : OSO et bdtopo pour haies (2019/2023)
 
 Se faire fiche plan échantillonages au cas ou pour les 3 organismes
 Plantes = 2018, 2023 pour cultures et mtn en cours 2025 (sur haies et prairies → données actuelles)
+
+dynamique → dire qu'on évalue le coté spatiale d'une dynamique (contrairement au sous entendu temporel) mais qu'on a les données temporelles pour évaluer ca.
+
+
 
