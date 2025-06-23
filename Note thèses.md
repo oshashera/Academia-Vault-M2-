@@ -130,34 +130,34 @@ enlever "diverses" à métriques climatiques ✅
 enlever "classiques" pour paysage ✅
 
 
-Arrive sur biodiversité **mettre que biodiv, pas effet**
+Arrive sur biodiversité **mettre que biodiv, pas effet** ✅
 
-mettre échantillonage biodiv (pas mettre années, mais habitats / occsol échantillonées)
-mais dire qu'on a bien tout de déjà échantillonnés
+mettre échantillonage biodiv (pas mettre années, mais habitats / occsol échantillonées) ✅
+mais dire qu'on a bien tout de déjà échantillonnés ✅
 
-puis dire méthodo (mais sans le détailler à l'oral par contre)
+puis dire méthodo (mais sans le détailler à l'oral par contre) ✅
 
 
 ## AXE 2
 
 les traits varie, pas la plasticité.
-Hypothèse : garder celle là, mais faire petite cloche et grosses cloche sur gradient CxP pour montrer variation amplitudes
+Hypothèse : garder celle là, mais faire petite cloche et grosses cloche sur gradient CxP pour montrer variation amplitudes ✅
 
 
 
-changer "sur un gradient" par "le long d'un gradient"
-enlever "(fonction)"
-S à forte et à variabilité
-présentée sans e
-forte avec S
-au climat sans X
-enlever "moyen" pour nb graines rajouter S
-**toujours mettre paysage avant, et climat après**
-enlever "(fonction)"
-préciser "adaptation" par "adaptation au stress"
-pareil paysage puis climat ds exemples
+changer "sur un gradient" par "le long d'un gradient" ✅
+enlever "(fonction)"✅
+S à forte et à variabilité✅
+présentée sans e✅
+forte avec S✅
+au climat sans X ✅
+enlever "moyen" pour nb graines rajouter S ✅
+**toujours mettre paysage avant, et climat après** ✅
+enlever "(fonction)"✅
+préciser "adaptation" par "adaptation au stress" ✅
+pareil paysage puis climat ds exemples✅
 
-mettre en gras ou autre le "séparer xxxx" en tt cas pas que ca ai l'air de faire partie du 1)
+mettre en gras ou autre le "séparer xxxx" en tt cas pas que ca ai l'air de faire partie du 1) ✅
 
 ### Axe 3
 
