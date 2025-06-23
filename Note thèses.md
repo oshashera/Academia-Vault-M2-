@@ -47,15 +47,16 @@ Mettre titre des stages??? pas si ca fait moche → **a voir** ❌
 En écologie du paysage on veut voir l'impact du paysage sur biodiv, 
 traditionnellement décrit comme → structural landscape → limites (anthropo et categoriel) → on s'est dit qu'on pourrait dev approche trait fx pour mieux caractériser fonctions (abris ressources)
 Ainsi on veut dev → paysage fx
+ ✅
+ 
+Objectif : comprendre blablabla ✅
 
-Objectif : comprendre blablabla
+Hypothèse : ..... paysage fx devrait avoir un impact fort sur biodiv avec notion ressource et habitat ✅
 
-Hypothèse : ..... paysage fx devrait avoir un impact fort sur biodiv avec notion ressource et habitat
+Pour tester cette hypothèse, on a testé ca dans un projet européen (gradient climatique 4 pays) étudié 7 taxons : 4 positifs, 3 négatifs ✅
+Préciser que c'est la biodiv en champ cultivé ✅
 
-Pour tester cette hypothèse, on a testé ca dans un projet européen (gradient climatique 4 pays) étudié 7 taxons : 4 positifs, 3 négatifs
-Préciser que c'est la biodiv en champ cultivé
-
-**remettre en francais si possible** 
+**remettre en francais si possible** ✅
 
 
 ## méthodologie
@@ -65,10 +66,10 @@ Laisser titre/bandeau en haut
 
 
 
-mettre dans première boite que on a fait les 7 taxons → préciser ca
+mettre dans première boite que on a fait les 7 taxons → préciser ca ✅
 
 
-→ changer sens flèche jaune
+→ changer sens flèche jaune ✅
 
 Dire que dans cadre de stage on s'est uniquement ciblé sur carabes pour l'application concrète "ne pas dire malheureusement"
 
