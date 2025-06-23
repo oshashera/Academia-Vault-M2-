@@ -120,14 +120,14 @@ Structurer en boite ???? (et mettre biblio dans boites) ✅
 ### AXE 1
 
 
-mettre paysage en premier 
-mettre "30 fenetres" au milieux des icones, mais faire apparaitre au moment ou je parle du paysage (donc au début)
-dire données habitat depuis 2019
-faire interaction (flèche en plus ? croix ?) avec climat 
-pour climat mettre avec le bloc climat les relevés depuis 2019
+mettre paysage en premier ✅
+mettre "30 fenetres" au milieux des icones, mais faire apparaitre au moment ou je parle du paysage (donc au début) ✅
+dire données habitat depuis 2019 ✅
+faire interaction (flèche en plus ? croix ?) avec climat ✅
+pour climat mettre avec le bloc climat les relevés depuis 2019 ✅
 
-enlever "diverses" à métriques climatiques
-enlever "classiques" pour paysage
+enlever "diverses" à métriques climatiques ✅
+enlever "classiques" pour paysage ✅
 
 
 Arrive sur biodiversité **mettre que biodiv, pas effet**
