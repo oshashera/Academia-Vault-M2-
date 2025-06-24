@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "A Thèse préparation/Note thèses.md",
                 "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🏡 Home"
-            }
-          },
-          {
-            "id": "56d3a453a2355182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note thèses.md",
-                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Note thèses"
             }
-          },
-          {
-            "id": "72e54b9324e5ad64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Thèse préparation/Sujet.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sujet"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,11 +225,11 @@
       "widgets:Add widget": false
     }
   },
-  "active": "56d3a453a2355182",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "A Thèse préparation/Sujet.md",
-    "Note thèses.md",
     "🏡 Home.md",
+    "A Thèse préparation/Note thèses.md",
+    "A Thèse préparation/Sujet.md",
     "A Thèse préparation/Jury.md",
     "A Thèse préparation/Écologie récap viteuf.md",
     "A Thèse préparation/Modifs diapo de base.md",
