@@ -216,3 +216,43 @@ check y a 2 grandes zones pédologiques, elles sont déjà caractérisées a pri
 Plantes : SLA, surface foliaire par unité de masse sèche 
 carabes : dormance hivernale = **climat**, type ailes = **dispersion**
 Oiseaux : ↓taille (loi de bergmann ?) = ↑**climat**,  traits d'aile → opti distance/effort = **dispersion** ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**effet attendus pour d'autres groupes ?**
+
+**question sur "quelles autres métriques ?"**
+
+**Indices disponibles pour hétérogénéité de paysage**
+
+**Source données occsol ?**
+
+**Vous parlez de dynamique ?**
+
+**plan échantillonage données / dates**
+
+**Pq le bassin du couesnon ?**
+
+**Quoi se former ?** 
+
+**Trait adaptation plante ok, mais carabes par ex ?**
