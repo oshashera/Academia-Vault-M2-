@@ -185,30 +185,34 @@ axe 3 → "analyse d'un levier agroécologique pour atténuer les conséquences 
 
 question :
 
-effet attendus pour d'autres carabes
+**effet attendus pour d'autres groupes ?**
 peut être compliqué pour certains groupes du fait de la diversité de réponse et sous groupe écologique
 
-question sur "quelles autres métriques ?"
+**question sur "quelles autres métriques ?"**
 → connectivité par ex (et détailler intérêt)
 
-
+**Indices disponibles pour hétérogénéité de paysage**
 compo → % occsol, shannon d'occsol
 config → agencement pixel aka compter pixels adjacents de même nature
 
+**Source données occsol ?**
 source : OSO et bdtopo pour haies (2019/2023) 
 
 Se faire fiche plan échantillonages au cas ou pour les 3 organismes
 Plantes = 2018, 2023 pour cultures et mtn en cours 2025 (sur haies et prairies → données actuelles)
 
+**Vous parlez de dynamique ?**
 dynamique → dire qu'on évalue le coté spatiale d'une dynamique (contrairement au sous entendu temporel) mais qu'on a les données temporelles pour évaluer ca.
 
 
-Pq le bassin du couesnon ?
+**Pq le bassin du couesnon ?**
 grande zone, gradient dissociés 
 check y a 2 grandes zones pédologiques, elles sont déjà caractérisées a priori
 
-Quoi se former ? 
+**Quoi se former ?** 
 → je connais xxx en stat, mais j'apprécierai grandement d'apprendre plus sur les méthodes.
 
-carabes : dormance hivernale = climat, type ailes = dispersion
-
+**Trait adaptation plante ok, mais carabes par ex ?**
+Plantes : SLA, surface foliaire par unité de masse sèche 
+carabes : dormance hivernale = **climat**, type ailes = **dispersion**
+Oiseaux : ↓taille (loi de bergmann ?) = ↑**climat**,  traits d'aile → opti distance/effort = **dispersion** ?
