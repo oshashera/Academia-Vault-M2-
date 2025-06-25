@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",
-                "viewState": {
-                  "x": -155.30339294540852,
-                  "y": 1.8688244013618647,
-                  "zoom": 0
-                }
+                "file": "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Idées.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canva des idées ?"
+              "icon": "lucide-file",
+              "title": "Idées"
             }
           },
           {
@@ -38,8 +35,7 @@
               "title": "Besoins ? Facteurs  ?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,12 +239,12 @@
       "widgets:Add widget": false
     }
   },
-  "active": "16a1254fde046e6d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "A Thèse préparation/Jury.md",
-    "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Idées.md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
+    "A Thèse préparation/Jury.md",
+    "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Idées.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/bon dieu se concentrer.md",
     "A Thèse préparation/Note thèses.md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn",
