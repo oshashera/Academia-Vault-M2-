@@ -60,24 +60,51 @@ Faut aussi dire que, même dans les paysages classiques, selon les organismes, y
 ### Objectif : évaluer la capacité d'un paysage à supporter la biodiv
 
 ### Pourquoi supporter la biodiv ? dans quel contexte ?
+**(1)**
 → en déclin ?
 → donne services écosys ?
 → dans contexte de territoires agricoles → agroécosystèmes → distinction de 2 composants de la biodiv
 
 ### Quelle biodiversité ? 
+**(2)**
 → les 2 composantes, et les organismes que nous on a étudié dans l'étude et avec ces fonctions
 
 ### Comment la supporter → fourniture ressources et abris par approche paysagère
 
+**(3)**
 → rôle paysage → fourniture en ressources et abris par exemple.
 → concept important d'éco du paysage  → hétéro compo / config 
 
 
 ### Comment concevoir l'impact du paysage sur la biodiversité
 
+**(4)**
 → conception classique de l'habitat / ressource par occupation des sols
 → ca a des limites claires → perception paysage par organisme + catégorisation (cf kendron machin là)
 
 
-→on pourrait utiliser les traits fonctionnels des couverts végétaux pour estimer la fourniture d'un paysage
+**(5)**
+→ Comment passer outre cet anthropocentrisme ? → traits fonctionnels, décorrêlés de notre perception
+→ utilisation de typologie fonctionnelles (fahrig 2011) → "To map a landscape of functional cover types, we consider the resource needs of each of a representative set of different animal species. Next, we identify the patches that contain these resources. A set of patches that offer the same resources (considering the needs of all exemplar species) is then a functional cover type" → reste typo assez catégorielle tho
 
+**(6)**
+→ utilisation d'échelle continue ?
+→on pourrait utiliser les traits fonctionnels des couverts végétaux pour estimer la fourniture d'un paysage en réalisant les CWM dessus ?
+→existe déjà des test pour certains taxons, notamment l'article qui nous a inspiré (alignier et al, 2023) → présenter sa carto et sa méthode → MAIS ON RECATEGORISE A LA FIN
+
+→ on espérait pouvoir faire une méthodo qui prenne, de manière continue (pas catégo) l'intérêt du paysage pour un orga, on va vous présenter ca.
+
+## Méthodologie développée 
+
+**(7)**
+Estimation des besoins des orga et traduction en trait fx → donner 2/3 exemples
+Parler de la génération des paysages classiques → comment, via quoi, pourquoi (table attribut pour lier aux commu simulées)
+
+**(8)** **(9)**
+Simulation des commus → comment, quel méthode
+
+**(10)**
+Simulation des paysages fx : calcul cwm / commu, jonction avec le buffer, rasterisation → **point à questionner ca le raster pcq ca revient à commu végétale fin pq on fait ca ????**
+
+**(11)**
+Présent
