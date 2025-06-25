@@ -8,10 +8,65 @@
       },
       "toNode": "087475f71dd378a3",
       "toSide": "top"
+    },
+    {
+      "fromNode": "f3fb0bfb86029ce3",
+      "fromSide": "bottom",
+      "id": "f7ce72959ac1f662",
+      "styleAttributes": {
+      },
+      "toNode": "7e076f85cab03348",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "087475f71dd378a3",
+      "fromSide": "bottom",
+      "id": "e1ddb5b3c1076cca",
+      "styleAttributes": {
+      },
+      "toNode": "44c0745ab0132a57",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "087475f71dd378a3",
+      "fromSide": "bottom",
+      "id": "20ac010590e680b7",
+      "styleAttributes": {
+      },
+      "toNode": "b088d7d86e5f3d3a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "087475f71dd378a3",
+      "fromSide": "bottom",
+      "id": "b12d4163c94df591",
+      "styleAttributes": {
+      },
+      "toNode": "bcdf8a1874f5f6ce",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7e076f85cab03348",
+      "fromSide": "bottom",
+      "id": "fcc2febace9954d2",
+      "styleAttributes": {
+      },
+      "toNode": "66824ef39ff2c0df",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4983da81d8b93df1",
+      "fromSide": "top",
+      "id": "51ef5597fd6fcd50",
+      "styleAttributes": {
+      },
+      "toNode": "b088d7d86e5f3d3a",
+      "toSide": "bottom"
     }
   ],
   "nodes": [
     {
+      "color": "3",
       "height": 60,
       "id": "f3fb0bfb86029ce3",
       "styleAttributes": {
@@ -23,15 +78,108 @@
       "y": -245
     },
     {
+      "color": "3",
       "height": 60,
       "id": "087475f71dd378a3",
       "styleAttributes": {
       },
-      "text": "",
+      "text": "SES de régulation",
       "type": "text",
       "width": 260,
       "x": -400,
       "y": -80
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "7e076f85cab03348",
+      "styleAttributes": {
+      },
+      "text": "SES pollinisation",
+      "type": "text",
+      "width": 260,
+      "x": 200,
+      "y": -80
+    },
+    {
+      "height": 60,
+      "id": "9e811f56d3068029",
+      "styleAttributes": {
+      },
+      "text": "Carabes",
+      "type": "text",
+      "width": 140,
+      "x": -565,
+      "y": 369
+    },
+    {
+      "height": 60,
+      "id": "66824ef39ff2c0df",
+      "styleAttributes": {
+      },
+      "text": "pollinisateurs",
+      "type": "text",
+      "width": 180,
+      "x": 280,
+      "y": 40
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "44c0745ab0132a57",
+      "styleAttributes": {
+      },
+      "text": "Adventices",
+      "type": "text",
+      "width": 159,
+      "x": -611,
+      "y": 40
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "bcdf8a1874f5f6ce",
+      "styleAttributes": {
+      },
+      "text": "Limaces",
+      "type": "text",
+      "width": 176,
+      "x": -125,
+      "y": 40
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "b088d7d86e5f3d3a",
+      "styleAttributes": {
+      },
+      "text": "Puçerons",
+      "type": "text",
+      "width": 140,
+      "x": -350,
+      "y": 70
+    },
+    {
+      "height": 60,
+      "id": "4983da81d8b93df1",
+      "styleAttributes": {
+      },
+      "text": "Araignées",
+      "type": "text",
+      "width": 142,
+      "x": -196,
+      "y": 274
+    },
+    {
+      "height": 60,
+      "id": "a5de9d074823152a",
+      "styleAttributes": {
+      },
+      "text": "Parasitoïdes",
+      "type": "text",
+      "width": 160,
+      "x": 18,
+      "y": 214
     }
   ]
 }
