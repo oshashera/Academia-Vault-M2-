@@ -50,3 +50,7 @@ On a aucun qui est significatif, donc ca marche pas.... on arrive pas à prédir
 Pas mal de choses à améliorer / adapter + autres taxons à tester 
 pour autant ca peut être prometteur et pas nécessairement inutile pour gestion paysage.
 Faut aussi dire que, même dans les paysages classiques, selon les organismes, y a pas de réponse linéaire claire marquée à des aménagement et surtout ca se répercute pas nécessairement en terme de services (fin c'est pas automatique et encore étudié)
+
+
+
+
