@@ -60,15 +60,24 @@ Faut aussi dire que, même dans les paysages classiques, selon les organismes, y
 ### Objectif : évaluer la capacité d'un paysage à supporter la biodiv
 
 ### Pourquoi supporter la biodiv ? dans quel contexte ?
+→ en déclin ?
 → donne services écosys ?
 → dans contexte de territoires agricoles → agroécosystèmes → distinction de 2 composants de la biodiv
 
 ### Quelle biodiversité ? 
 → les 2 composantes, et les organismes que nous on a étudié dans l'étude et avec ces fonctions
 
-#### Comment la supporter → fourniture ressources et abris par approche paysagère
+### Comment la supporter → fourniture ressources et abris par approche paysagère
 
-→ définition paysage
-→ rôle paysage
+→ rôle paysage → fourniture en ressources et abris par exemple.
+→ concept important d'éco du paysage  → hétéro compo / config 
 
+
+### Comment concevoir l'impact du paysage sur la biodiversité
+
+→ conception classique de l'habitat / ressource par occupation des sols
+→ ca a des limites claires → perception paysage par organisme + catégorisation (cf kendron machin là)
+
+
+→on pourrait utiliser les traits fonctionnels des couverts végétaux pour estimer la fourniture d'un paysage
 
