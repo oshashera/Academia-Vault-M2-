@@ -1,0 +1,37 @@
+{
+  "edges": [
+    {
+      "fromNode": "f3fb0bfb86029ce3",
+      "fromSide": "bottom",
+      "id": "2d657ab456eb6f0f",
+      "styleAttributes": {
+      },
+      "toNode": "087475f71dd378a3",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "f3fb0bfb86029ce3",
+      "styleAttributes": {
+      },
+      "text": "Lien sujet avec agro",
+      "type": "text",
+      "width": 260,
+      "x": -62,
+      "y": -245
+    },
+    {
+      "height": 60,
+      "id": "087475f71dd378a3",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": -400,
+      "y": -80
+    }
+  ]
+}

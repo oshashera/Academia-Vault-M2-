@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "A Thèse préparation/Note thèses.md",
-                "mode": "source",
-                "source": false
+                "file": "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",
+                "viewState": {
+                  "x": 36.22579934251346,
+                  "y": 129.0401026778053,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Note thèses"
+              "icon": "lucide-layout-dashboard",
+              "title": "Canva des idées ?"
             }
           }
         ]
@@ -227,8 +230,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "🏡 Home.md",
+    "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Idées.md",
+    "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",
+    "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/bon dieu se concentrer.md",
     "A Thèse préparation/Note thèses.md",
+    "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn",
+    "🏡 Home.md",
     "A Thèse préparation/Sujet.md",
     "A Thèse préparation/Jury.md",
     "A Thèse préparation/Écologie récap viteuf.md",
@@ -242,12 +249,10 @@
     "Images/Pasted Image 20250620011544_860.png",
     "Images/Pasted image 20250618170740.png",
     "A Thèse préparation",
-    "🌳 Stage ECOBIO/Untitled",
     "🌳 Stage ECOBIO/📝 Rapport ?/Discussion zbeul.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/zbeul description partie m&m potentiellement outdated.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Intro v4.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
-    "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/bon dieu se concentrer.md",
     "Images/Pasted Image 20250614162943_583.png",
     "Images/Pasted Image 20250614161825_309.png",
     "Images/Pasted Image 20250614161756_977.png",
@@ -261,12 +266,10 @@
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Rédac m&m.md",
     "Images/Pasted image 20250606150958.png",
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Figure modif alignier 2023.md",
     "Images/Pasted image 20250609135505.png",
     "Images/Pasted image 20250609135002.png",
     "Images/Pasted Image 20250609134038_569.png",
     "Images/Pasted Image 20250609134004_086.png",
-    "🌳 Stage ECOBIO/📝 Rapport ?/Intro V2.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
     "synthèse biblio/V2 Synthèse.canvas",
     "synthèse biblio/Synthèse biblio.canvas",
@@ -277,7 +280,6 @@
     "🌳 Stage ECOBIO/Taxons.canvas",
     "🌳 Stage ECOBIO/RÉCAP DONNÉES BRETAGNE pCloud.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?",
-    "🌳 Stage ECOBIO/Overview.canvas",
     "🌳 Stage ECOBIO",
     "synthèse biblio",
     "Cours/🎓 Conception de systèmes/Untitled",
