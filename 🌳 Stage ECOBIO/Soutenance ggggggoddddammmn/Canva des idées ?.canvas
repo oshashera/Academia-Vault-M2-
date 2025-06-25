@@ -46,15 +46,6 @@
       "toSide": "top"
     },
     {
-      "fromNode": "7e076f85cab03348",
-      "fromSide": "bottom",
-      "id": "fcc2febace9954d2",
-      "styleAttributes": {
-      },
-      "toNode": "66824ef39ff2c0df",
-      "toSide": "top"
-    },
-    {
       "fromNode": "4983da81d8b93df1",
       "fromSide": "top",
       "id": "51ef5597fd6fcd50",
@@ -62,33 +53,63 @@
       },
       "toNode": "b088d7d86e5f3d3a",
       "toSide": "bottom"
+    },
+    {
+      "fromNode": "9e811f56d3068029",
+      "fromSide": "top",
+      "id": "5b3d7929ac199e7f",
+      "styleAttributes": {
+      },
+      "toNode": "44c0745ab0132a57",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "9e811f56d3068029",
+      "fromSide": "right",
+      "id": "1ce30cee94a81931",
+      "styleAttributes": {
+      },
+      "toNode": "b088d7d86e5f3d3a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "9e811f56d3068029",
+      "fromSide": "right",
+      "id": "d5f0c37c9eddfbc0",
+      "styleAttributes": {
+      },
+      "toNode": "bcdf8a1874f5f6ce",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "a5de9d074823152a",
+      "fromSide": "left",
+      "id": "8135507193db99ed",
+      "styleAttributes": {
+      },
+      "toNode": "b088d7d86e5f3d3a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "a5de9d074823152a",
+      "fromSide": "right",
+      "id": "795e14b3c332a5e1",
+      "styleAttributes": {
+      },
+      "toNode": "7e076f85cab03348",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "66824ef39ff2c0df",
+      "fromSide": "top",
+      "id": "0d2f7cc06f7a3fa8",
+      "styleAttributes": {
+      },
+      "toNode": "7e076f85cab03348",
+      "toSide": "bottom"
     }
   ],
   "nodes": [
-    {
-      "color": "3",
-      "height": 60,
-      "id": "f3fb0bfb86029ce3",
-      "styleAttributes": {
-      },
-      "text": "Lien sujet avec agro",
-      "type": "text",
-      "width": 260,
-      "x": -62,
-      "y": -245
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "087475f71dd378a3",
-      "styleAttributes": {
-      },
-      "text": "SES de régulation",
-      "type": "text",
-      "width": 260,
-      "x": -400,
-      "y": -80
-    },
     {
       "color": "3",
       "height": 60,
@@ -100,28 +121,6 @@
       "width": 260,
       "x": 200,
       "y": -80
-    },
-    {
-      "height": 60,
-      "id": "9e811f56d3068029",
-      "styleAttributes": {
-      },
-      "text": "Carabes",
-      "type": "text",
-      "width": 140,
-      "x": -565,
-      "y": 369
-    },
-    {
-      "height": 60,
-      "id": "66824ef39ff2c0df",
-      "styleAttributes": {
-      },
-      "text": "pollinisateurs",
-      "type": "text",
-      "width": 180,
-      "x": 280,
-      "y": 40
     },
     {
       "color": "2",
@@ -148,6 +147,54 @@
       "y": 40
     },
     {
+      "color": "3",
+      "height": 60,
+      "id": "f3fb0bfb86029ce3",
+      "styleAttributes": {
+      },
+      "text": "Lien sujet avec agro",
+      "type": "text",
+      "width": 260,
+      "x": -90,
+      "y": -267
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "087475f71dd378a3",
+      "styleAttributes": {
+      },
+      "text": "SES de régulation",
+      "type": "text",
+      "width": 260,
+      "x": -430,
+      "y": -80
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "66824ef39ff2c0df",
+      "styleAttributes": {
+      },
+      "text": "pollinisateurs",
+      "type": "text",
+      "width": 180,
+      "x": 354,
+      "y": 70
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a5de9d074823152a",
+      "styleAttributes": {
+      },
+      "text": "Parasitoïdes",
+      "type": "text",
+      "width": 160,
+      "x": 51,
+      "y": 130
+    },
+    {
       "color": "2",
       "height": 60,
       "id": "b088d7d86e5f3d3a",
@@ -156,10 +203,23 @@
       "text": "Puçerons",
       "type": "text",
       "width": 140,
-      "x": -350,
-      "y": 70
+      "x": -370,
+      "y": 40
     },
     {
+      "color": "4",
+      "height": 60,
+      "id": "9e811f56d3068029",
+      "styleAttributes": {
+      },
+      "text": "Carabes",
+      "type": "text",
+      "width": 140,
+      "x": -601,
+      "y": 160
+    },
+    {
+      "color": "4",
       "height": 60,
       "id": "4983da81d8b93df1",
       "styleAttributes": {
@@ -167,19 +227,8 @@
       "text": "Araignées",
       "type": "text",
       "width": 142,
-      "x": -196,
-      "y": 274
-    },
-    {
-      "height": 60,
-      "id": "a5de9d074823152a",
-      "styleAttributes": {
-      },
-      "text": "Parasitoïdes",
-      "type": "text",
-      "width": 160,
-      "x": 18,
-      "y": 214
+      "x": -372,
+      "y": 253
     }
   ]
 }
