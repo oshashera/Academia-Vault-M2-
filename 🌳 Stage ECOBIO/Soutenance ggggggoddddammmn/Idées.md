@@ -57,5 +57,18 @@ Faut aussi dire que, même dans les paysages classiques, selon les organismes, y
 
 ## Intro
 
-### 
+### Objectif : évaluer la capacité d'un paysage à supporter la biodiv
+
+### Pourquoi supporter la biodiv ? dans quel contexte ?
+→ donne services écosys ?
+→ dans contexte de territoires agricoles → agroécosystèmes → distinction de 2 composants de la biodiv
+
+### Quelle biodiversité ? 
+→ les 2 composantes, et les organismes que nous on a étudié dans l'étude et avec ces fonctions
+
+#### Comment la supporter → fourniture ressources et abris par approche paysagère
+
+→ définition paysage
+→ rôle paysage
+
 
