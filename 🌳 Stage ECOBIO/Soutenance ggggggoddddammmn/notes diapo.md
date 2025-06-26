@@ -103,8 +103,17 @@ mettre "de la méthodologie" pour "point d'amélioration"
 mettre éléments méthodo sur combien de trait on a récup (dans partie méthodo), parler aussi du nombre d'espèce avant / après filtrage
 
 
+avant pt amélioration, faire discussion pour les carabes → parler de l'échelle de perception paysagère, parler des autres groupes qu'on a pas pu tester et dire que ca pourrait aussi marcher pour ces groupes là
+
+pt amélioration
+
 mettre ordre → traduction, jouer sur les graphs déjà montré (genre barrer le 2% et mettre autre chose) 
 
 en fait revenir sur les étapes méthodo (reprendre les trucs) → montrer limites et améliorations comme ca point par point
 
 enlever "diluer" mais juste dire que ca dépends opportunisme et échelle de réponse 
+
+truc centré à droite → faire diapo à part et dire intérêt agro avec schéma biodiv services écosyst, dire que dnas planif quel genre d'outils (mettre haies, assolement, etc etc) sur quoi travailler, 
+
+
+préciser au début que j'étais co-encadré par des scientifiques tchèques.
