@@ -72,14 +72,13 @@ TRAIT QUANTITATIF → valeur moyenne calculée (par CWM) ✅
 enlever le "jointure du tableau des communautés blablabla" on verra ca après une ✅
 
 
-
 changer "quelles métriques pour des valeurs" → changer raster par "paysage" ✅
 
-mais garder on a choisi ca-ca-ca → mettre refs pour moy et var (classique), mais on a ajouter des métriques perso → proportion et distance → expliquer (et dire de quoi on s'inspire)
+mais garder on a choisi ca-ca-ca → mettre refs pour moy et var (classique), mais on a ajouter des métriques perso → proportion et distance → expliquer (et dire de quoi on s'inspire) ✅
 
 
 
-mettre références biblio pour ce qui existe en option dans la littérature glcm / getis ord moran etc et le déplacer dans la discussion
+mettre références biblio pour ce qui existe en option dans la littérature glcm / getis ord moran etc et le déplacer dans la discussion 
 
 
 diapo entre m&m et résult pour parler du fait qu'on a fait que carabes, et parler de leur intérêt agro auxiliaires groupe très représenté dans agroécosys bretons, égulation adventices (conso graines), mangent ravageurs, etc belles photos →poecillus cupreus
@@ -126,10 +125,13 @@ en fait revenir sur les étapes méthodo (reprendre les trucs) → montrer limit
 
 enlever "diluer" mais juste dire que ca dépends opportunisme et échelle de réponse 
 
-truc centré à droite → faire diapo à part et dire intérêt agro avec schéma biodiv services écosyst, dire que dnas planif quel genre d'outils (mettre haies, assolement, etc etc) sur quoi travailler, 
+truc centré à droite → faire diapo à part et dire intérêt agro avec schéma biodiv services écosyst, dire que dans planif quel genre d'outils (mettre haies, assolement, etc etc) sur quoi travailler, 
 
 
 préciser au début que j'étais co-encadré par des scientifiques tchèques.
 
 
 intérêt notre méthode → effet sur diversité → info sur effet service ? dans l'idée ca pourrait servir a prédire/ expliquer pas que les div et abondance mais aussi des services (après amélioration et + de données) à prédire des fonctions d'intérêt → carte de prédiction de régulation ou autre → on peut essayer de prédire 🚨
+
+dire si questionné que comparer catégoriel et continu c'est compliqué pour comparer les modèles, on peut pas comparer simplement et directement mais ce serait utile 🚨
+
