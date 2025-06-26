@@ -83,11 +83,11 @@ Faut aussi dire que, même dans les paysages classiques, selon les organismes, y
 → ca a des limites claires → perception paysage par organisme + catégorisation (cf kendron machin là)
 
 
-**(5)**
+**(5)** ✅
 → Comment passer outre cet anthropocentrisme ? → traits fonctionnels, décorrêlés de notre perception
 → utilisation de typologie fonctionnelles (fahrig 2011) → "To map a landscape of functional cover types, we consider the resource needs of each of a representative set of different animal species. Next, we identify the patches that contain these resources. A set of patches that offer the same resources (considering the needs of all exemplar species) is then a functional cover type" → reste typo assez catégorielle tho
 
-**(6)**
+**(6)** ✅
 → utilisation d'échelle continue ?
 →on pourrait utiliser les traits fonctionnels des couverts végétaux pour estimer la fourniture d'un paysage en réalisant les CWM dessus ?
 →existe déjà des test pour certains taxons, notamment l'article qui nous a inspiré (alignier et al, 2023) → présenter sa carto et sa méthode → MAIS ON RECATEGORISE A LA FIN
