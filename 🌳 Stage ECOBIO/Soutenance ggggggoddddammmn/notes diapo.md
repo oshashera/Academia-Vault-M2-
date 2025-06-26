@@ -92,13 +92,13 @@ mettre légende carte occsol  ✅
 
 
 
-"j'vais pas vous présenter tt les graphiques, mais y a toujours une association trait-métrique pour chaque modèle" + mettre légende + indiquer quoi compo quoi config, remettre traits en grand + modalité red/blue
-dire quel trait correspond à quoi pour interpréter (les traits) → expliquer choix et interprétation traits
+"j'vais pas vous présenter tt les graphiques, mais y a toujours une association trait-métrique pour chaque modèle" + mettre légende + indiquer quoi compo quoi config, remettre traits en grand + modalité red/blue ✅
+ ✅
 
 manque un mot "**de** résultats probants"
-dire que on a cherché à faire le lien mais y en a pas (on a quand même mis le trait pour visualiser)
+dire que on a cherché à faire le lien mais y en a pas (on a quand même mis le trait pour visualiser) 🚨
 
-puis "c'est pas significatif"
+puis "c'est pas significatif" 🚨
 
 
 comment expliquer cette absence de résultats probants → virer les autres questions 
