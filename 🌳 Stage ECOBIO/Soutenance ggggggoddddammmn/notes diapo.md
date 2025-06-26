@@ -86,10 +86,11 @@ diapo entre m&m et résult pour parler du fait qu'on a fait que carabes, et parl
 
 résultats 
 
-mettre S à des paysages
-proches mais non identiqueS
+mettre S à des paysages ✅
+proches mais non identiqueS ✅
 mettre légende carte occsol  ✅
 
+dire quel trait correspond à quoi pour interpréter (les traits) → expliquer choix et interprétation traits 🚨
 
 
 "j'vais pas vous présenter tt les graphiques, mais y a toujours une association trait-métrique pour chaque modèle" + mettre légende + indiquer quoi compo quoi config, remettre traits en grand + modalité red/blue ✅
@@ -101,7 +102,7 @@ dire que on a cherché à faire le lien mais y en a pas (on a quand même mis le
 puis "c'est pas significatif" 🚨
 
 
-comment expliquer cette absence de résultats probants → virer les autres questions 
+comment expliquer cette absence de résultats probants → virer les autres questions ✅
 
 
 mettre "de la méthodologie" pour "point d'amélioration"
