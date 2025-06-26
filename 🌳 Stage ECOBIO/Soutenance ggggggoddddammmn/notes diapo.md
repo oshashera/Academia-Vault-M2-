@@ -81,7 +81,7 @@ mais garder on a choisi ca-ca-ca → mettre refs pour moy et var (classique), ma
 mettre références biblio pour ce qui existe en option dans la littérature glcm / getis ord moran etc et le déplacer dans la discussion 
 
 
-diapo entre m&m et résult pour parler du fait qu'on a fait que carabes, et parler de leur intérêt agro auxiliaires groupe très représenté dans agroécosys bretons, égulation adventices (conso graines), mangent ravageurs, etc belles photos →poecillus cupreus
+diapo entre m&m et résult pour parler du fait qu'on a fait que carabes, et parler de leur intérêt agro auxiliaires groupe très représenté dans agroécosys bretons, égulation adventices (conso graines), mangent ravageurs, etc belles photos →*poecillus cupreus* ✅
 
 
 résultats 
