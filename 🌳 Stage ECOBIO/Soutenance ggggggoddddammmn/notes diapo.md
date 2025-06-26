@@ -90,9 +90,7 @@ mettre S à des paysages
 proches mais non identiqueS
 mettre légende carte occsol  ✅
 
-i
 
-modèles
 
 "j'vais pas vous présenter tt les graphiques, mais y a toujours une association trait-métrique pour chaque modèle" + mettre légende + indiquer quoi compo quoi config, remettre traits en grand + modalité red/blue
 dire quel trait correspond à quoi pour interpréter (les traits) → expliquer choix et interprétation traits
