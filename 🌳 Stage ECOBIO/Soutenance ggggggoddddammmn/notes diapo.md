@@ -88,13 +88,9 @@ résultats
 
 mettre S à des paysages
 proches mais non identiqueS
-mettre légende carte occsol 
+mettre légende carte occsol  ✅
 
 i
-parler du seed lenght correspondance mettre flèche
-prendre exemple plus continu aussi
-
-
 
 modèles
 
@@ -131,7 +127,13 @@ truc centré à droite → faire diapo à part et dire intérêt agro avec sché
 préciser au début que j'étais co-encadré par des scientifiques tchèques.
 
 
+parler du seed lenght (patterns de certaines occsol giga visible notamment mais qui stand out) et comparer à hauteur plante ou c'est bcp moins marqué sur les occsol cultures et prairies → on voit surtout les forêts et HAIES 🚨
+
 intérêt notre méthode → effet sur diversité → info sur effet service ? dans l'idée ca pourrait servir a prédire/ expliquer pas que les div et abondance mais aussi des services (après amélioration et + de données) à prédire des fonctions d'intérêt → carte de prédiction de régulation ou autre → on peut essayer de prédire 🚨
+
+
+
+
 
 dire si questionné que comparer catégoriel et continu c'est compliqué pour comparer les modèles, on peut pas comparer simplement et directement mais ce serait utile 🚨
 
