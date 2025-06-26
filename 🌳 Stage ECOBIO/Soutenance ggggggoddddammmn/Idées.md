@@ -71,7 +71,7 @@ Faut aussi dire que, même dans les paysages classiques, selon les organismes, y
 
 ### Comment la supporter → fourniture ressources et abris par approche paysagère
 
-**(3)** 
+**(3)**  ✅
 → rôle paysage → fourniture en ressources et abris par exemple.
 → concept important d'éco du paysage  → hétéro compo / config 
 
