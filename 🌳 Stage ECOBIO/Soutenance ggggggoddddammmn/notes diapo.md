@@ -56,28 +56,24 @@ donner le nombre de relevés → articles d'ou ils sont tirés Uroy 2021 pour cu
 
 
 sélection de communauté → tiré aléatoirement des commu, on définit aléatoirement une richesse aléatoire mais qui suit la distribution 
-remplacer "taille commu" par "richesse" → tirage aléatoire selon une loi normale
+remplacer "taille commu" par "richesse" → tirage aléatoire selon une loi normale ✅
 
 
 
-faire bloc richesse
-faire bloc compositon qui dépends de cette richesse
+faire bloc richesse ✅
+faire bloc compositon qui dépends de cette richesse ✅
 
-ENSUITE jointure des tables → faire 2 faux tableaux pour faire schéma jointure (pas dire jointure, faire schéma directement)
+ENSUITE jointure des tables → faire 2 faux tableaux pour faire schéma jointure (pas dire jointure, faire schéma directement) ✅
 
 puis ensuite faire 
-TRAIT QUALITATIF (en gros) → valeur modale dominante  (détailler à l'oral) → définir "mode"
-TRAIT QUANTITATIF → valeur moyenne calculée (par CWM)
+TRAIT QUALITATIF (en gros) → valeur modale dominante  (détailler à l'oral) → définir "mode" ✅
+TRAIT QUANTITATIF → valeur moyenne calculée (par CWM) ✅
 
-enlever le "jointure du tableau des communautés blablabla" on verra ca après une 
-
-
-dire si quesitonné que comparer catégoriel et continu c'est compliqué pour comparer les modèles, on peut pas comparer simplement et directement mais ce serait utile
-
-intérêt notre méthode → effet sur diversité → info sur effet service ? dans l'idée ca pourrait servir a prédire/ expliquer pas que les div et abondance mais aussi des services (après amélioration et + de données) à prédire des fonctions d'intérêt → carte de prédiction de régulation ou autre → on peut essayer de prédire 
+enlever le "jointure du tableau des communautés blablabla" on verra ca après une ✅
 
 
-changer "quelles métriques pour des valeuirs" → changer raster par "paysage"
+
+changer "quelles métriques pour des valeurs" → changer raster par "paysage" ✅
 
 mais garder on a choisi ca-ca-ca → mettre refs pour moy et var (classique), mais on a ajouter des métriques perso → proportion et distance → expliquer (et dire de quoi on s'inspire)
 
@@ -134,3 +130,6 @@ truc centré à droite → faire diapo à part et dire intérêt agro avec sché
 
 
 préciser au début que j'étais co-encadré par des scientifiques tchèques.
+
+
+intérêt notre méthode → effet sur diversité → info sur effet service ? dans l'idée ca pourrait servir a prédire/ expliquer pas que les div et abondance mais aussi des services (après amélioration et + de données) à prédire des fonctions d'intérêt → carte de prédiction de régulation ou autre → on peut essayer de prédire 🚨
