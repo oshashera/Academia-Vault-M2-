@@ -78,7 +78,7 @@ Faut aussi dire que, même dans les paysages classiques, selon les organismes, y
 
 ### Comment concevoir l'impact du paysage sur la biodiversité
 
-**(4)**
+**(4)** ✅
 → conception classique de l'habitat / ressource par occupation des sols
 → ca a des limites claires → perception paysage par organisme + catégorisation (cf kendron machin là)
 
