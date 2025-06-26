@@ -1,20 +1,23 @@
 
 
-: dans titre après biodiv
+: dans titre après biodiv ✅
 
-changer noms encadrement → ordre alphabétique
-enlever cédille pucerons
+changer noms encadrement → ordre alphabétique ✅
+enlever cédille pucerons ✅
 
-pas nécessaire faire fragmentation et connectivité
-mais biiiiien expliquer compo config et faire lien entre ces composantes et les processus réels
+pas nécessaire faire fragmentation et connectivité ✅
+mais biiiiien expliquer compo config et faire lien entre ces composantes et les processus réels 🚨
 
+| Processus/Fonction         | Rôle de la composition                                                                                 | Rôle de la configuration                                                                   |
+| -------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| **Productivité primaire**  | + Diversité d’espèces → meilleure couverture / utilisation des ressources (niches) > rendement global¹ | + Connectivité → échanges de semences et nutriments ; – fragmentation réduit productivité² |
+| **Cyclage des nutriments** | + Mélange de milieux → variabilité des débouchés (minéralisation vs immobilisation)                    | + Proximité des patchs favorise flux de nutriments (eaux de ruissellement, faune)          |
+| **Régulation du climat**   | + Couvertures diversifiées stockent plus de carbone                                                    |                                                                                            |
+| **Contrôle biologique**    | + Habitats de plusieurs prédateurs/regulateurs → régulation des ravageurs                              | + Patchs connectés permettent déplacements des auxiliaires³                                |
 
 bien expliquer à l'oral → remplacer CWM dans diapo 5 par "trait moyen par communauté"
 
-
 fin intro fx alignier → premier étude qui commence à vraiment intégrer les traits fx directement dans le paysage en utilisant des traits moyen, mais sur la base d'occupation du sol (enlever "recatégorisé"), mais sur cette base construite, il serait intéressant d'essayer de se baser sur du continu.
-
-
 
 fin intro : moins mettre les modalités agroéco (les mettre en M&M) mais par contre mettre des schéma de paysage → faire schéma lien biodiv intra champ et biodiv extér → schéma de prédiction à partir des commu autours de plantes
 
@@ -36,6 +39,12 @@ mettre ordre des 3 étapes m&m AVANT DE DETAILLER LES ETAPES (on peut le garder 
 
 communautés simulation → dire que relevés correspondent à des relevés de la Zaar → mettre éléments concrets (noms a coté carrés couleurs)
 donner le nombre de relevés → articles d'ou ils sont tirés Uroy 2021 pour cultures, Lucie lecoq 2021 praires et haies, Uroy et al 2023 forêt → trouver ref exacte
+
+*Uroy, L., Ernoult, A., Alignier, A., & Mony, C. (2023). Unveiling the ghosts of landscapes past: Changes in landscape connectivity over the last decades are still shaping current woodland plant assemblages. Journal of Ecology, 111(5), 1063-1078.*
+
+*Lecoq, L., Mony, C., Saiz, H., Marsot, M., & Ernoult, A. (2022). Investigating the effect of habitat amount and landscape heterogeneity on the gamma functional diversity of grassland and hedgerow plants. Journal of Ecology, 110(8), 1871-1882.*
+
+*Uroy, L., Mony, C., & Ernoult, A. (2019). Additive effects of connectivity provided by different habitat types drive plant assembly. Scientific reports, 9(1), 13952.*
 
 
 sélection de communauté → tiré aléatoirement des commu, on définit aléatoirement une richesse aléatoire mais qui suit la distribution 
