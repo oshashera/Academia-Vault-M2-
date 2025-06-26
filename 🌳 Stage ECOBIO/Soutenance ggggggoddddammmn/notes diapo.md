@@ -86,7 +86,25 @@ prendre exemple plus continu aussi
 
 modèles
 
-"j'vais pas vous présenter tt les graphiques, mais y a toujours une association trait-métrique pour chaque modèle" + mettre légende + indiquer quoi compo quoi config, remettre traits en grand
+"j'vais pas vous présenter tt les graphiques, mais y a toujours une association trait-métrique pour chaque modèle" + mettre légende + indiquer quoi compo quoi config, remettre traits en grand + modalité red/blue
 dire quel trait correspond à quoi pour interpréter (les traits) → expliquer choix et interprétation traits
 
-manque un mot ""
+manque un mot "**de** résultats probants"
+dire que on a cherché à faire le lien mais y en a pas (on a quand même mis le trait pour visualiser)
+
+puis "c'est pas significatif"
+
+
+comment expliquer cette absence de résultats probants → virer les autres questions 
+
+
+mettre "de la méthodologie" pour "point d'amélioration"
+
+mettre éléments méthodo sur combien de trait on a récup (dans partie méthodo), parler aussi du nombre d'espèce avant / après filtrage
+
+
+mettre ordre → traduction, jouer sur les graphs déjà montré (genre barrer le 2% et mettre autre chose) 
+
+en fait revenir sur les étapes méthodo (reprendre les trucs) → montrer limites et améliorations comme ca point par point
+
+enlever "diluer" mais juste dire que ca dépends opportunisme et échelle de réponse 
