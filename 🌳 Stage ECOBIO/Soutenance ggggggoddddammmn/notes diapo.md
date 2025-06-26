@@ -42,13 +42,13 @@ et les haies fleches bdtopo ✅
 
 
 donnéEs ✅
-mettre ordre des 3 étapes m&m AVANT DE DETAILLER LES ETAPES (on peut le garder après pour aller vite si on veut) 
+mettre ordre des 3 étapes m&m AVANT DE DETAILLER LES ETAPES (on peut le garder après pour aller vite si on veut) ✅
 
 
 communautés simulation → dire que relevés correspondent à des relevés de la Zaar → mettre éléments concrets (noms a coté carrés couleurs)
 donner le nombre de relevés → articles d'ou ils sont tirés Uroy 2021 pour cultures, Lucie lecoq 2021 praires et haies, Uroy et al 2023 forêt → trouver ref exacte
 
-*Uroy, L., Ernoult, A., Alignier, A., & Mony, C. (2023). Unveiling the ghosts of landscapes past: Changes in landscape connectivity over the last decades are still shaping current woodland plant assemblages. Journal of Ecology, 111(5), 1063-1078.*
+*Uroy, L., Ernoult, A., Alignier, A., & Mony, C. (2023). Unveiling the ghosts of landscapes past: Changes in landscape connectivity over the last decades are still shaping current woodland plant assemblages. Journal of Ecology, 111(5), 1063-1078.* ✅
 
 *Lecoq, L., Mony, C., Saiz, H., Marsot, M., & Ernoult, A. (2022). Investigating the effect of habitat amount and landscape heterogeneity on the gamma functional diversity of grassland and hedgerow plants. Journal of Ecology, 110(8), 1871-1882.*
 
