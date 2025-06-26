@@ -12,6 +12,10 @@ mais biiiiien expliquer compo config et faire lien entre ces composantes et les 
 bien expliquer à l'oral → remplacer CWM dans diapo 5 par "trait moyen par communauté"
 
 
+fin intro fx alignier → premier étude qui commence à vraiment intégrer les traits fx directement dans le paysage en utilisant des traits moyen, mais sur la base d'occupation du sol (enlever "recatégorisé"), mais sur cette base construite, il serait intéressant d'essayer de se baser sur du continu.
+
+
+
 fin intro : moins mettre les modalités agroéco (les mettre en M&M) mais par contre mettre des schéma de paysage → faire schéma lien biodiv intra champ et biodiv extér → schéma de prédiction à partir des commu autours de plantes
 
 
@@ -34,4 +38,18 @@ communautés simulation → dire que relevés correspondent à des relevés de l
 donner le nombre de relevés → articles d'ou ils sont tirés Uroy 2021 pour cultures, Lucie lecoq 2021 praires et haies, Uroy et al 2023 forêt → trouver ref exacte
 
 
-sélection de la taille de communauté → richesse aléatoire mais qui suit le
+sélection de communauté → tiré aléatoirement des commu, on définit aléatoirement une richesse aléatoire mais qui suit la distribution 
+remplacer "taille commu" par "richesse" → tirage aléatoire selon une loi normale
+
+
+
+faire bloc richesse
+faire bloc compositon qui dépends de cette richesse
+
+ENSUITE jointure des tables → faire 2 faux tableaux pour faire schéma jointure (pas dire jointure, faire schéma directement)
+
+puis ensuite faire 
+TRAIT QUALITATIF (en gros) → valeur modale dominante  (détailler à l'oral) → définir "mode"
+TRAIT QUANTITATIF → valeur moyenne calculée (par CWM)
+
+enlever le "jointure du tableau des communautés blablabla" on verra ca après une 
