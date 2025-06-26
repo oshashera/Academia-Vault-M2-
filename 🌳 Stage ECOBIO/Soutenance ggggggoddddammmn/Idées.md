@@ -94,17 +94,39 @@ Faut aussi dire que, même dans les paysages classiques, selon les organismes, y
 
 → on espérait pouvoir faire une méthodo qui prenne, de manière continue (pas catégo) l'intérêt du paysage pour un orga, on va vous présenter ca.
 
+**(7)**
+quel projet ca prends part, son objectif et tt
 ## Méthodologie développée 
 
-**(7)**
+**(8)**
 Estimation des besoins des orga et traduction en trait fx → donner 2/3 exemples
 Parler de la génération des paysages classiques → comment, via quoi, pourquoi (table attribut pour lier aux commu simulées)
 
-**(8)** **(9)**
+**(9)** **(10)**
 Simulation des commus → comment, quel méthode
 
-**(10)**
+**(11)**
 Simulation des paysages fx : calcul cwm / commu, jonction avec le buffer, rasterisation → **point à questionner ca le raster pcq ca revient à commu végétale fin pq on fait ca ????**
 
-**(11)**
-Présent
+**(12)**
+Présentation de carto réalisées, parler du fait d'utiliser de nouvelles métriques, mettre métriques développées
+
+**(13)**
+Lier paysages simulés et biodiv récup → modèles réalisés,
+
+## Résultats
+**(14) (15)**
+On a fait carabes pcq xx → data
+Résultats pour les carabes, carto (analyse ???) et stats
+
+#### Discussion carabes
+**(16)**
+Discussion des résultats
+
+**(17)(18)**
+limites et améliorations possibles
+
+**(19)** = Applications potentielles une fois améliorées
+Land-sparing/vs land-sharing → évaluer a quel pt un paysage a des effets intéressants pour un orga selon qu'on change sa compo/config ?
+gestion des aménagements agroéco, pour trouver compromis entre limites agris et vision écologues
+
