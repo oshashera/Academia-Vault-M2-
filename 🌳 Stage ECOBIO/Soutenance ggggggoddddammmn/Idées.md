@@ -130,3 +130,16 @@ limites et améliorations possibles
 Land-sparing/vs land-sharing → évaluer a quel pt un paysage a des effets intéressants pour un orga selon qu'on change sa compo/config ?
 gestion des aménagements agroéco, pour trouver compromis entre limites agris et vision écologues
 
+
+
+IUCN stat
+Hallman 2017
+Altieri MA 1999
+Burel et baudry 2003
+Fahrig et al 2011
+Dennis et al 2003
+Alignier et al 2023
+Violle et al 2007
+Holland et al 2016
+Vattala 2006
+Diehl 2013
