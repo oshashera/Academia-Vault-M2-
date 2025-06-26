@@ -62,5 +62,31 @@ intérêt notre méthode → effet sur diversité → info sur effet service ? d
 
 changer "quelles métriques pour des valeuirs" → changer raster par "paysage"
 
+mais garder on a choisi ca-ca-ca → mettre refs pour moy et var (classique), mais on a ajouter des métriques perso → proportion et distance → expliquer (et dire de quoi on s'inspire)
 
-mettre références biblio pour ce qui existe en option dans la littérature glcm / getis ord moran etc
+
+
+mettre références biblio pour ce qui existe en option dans la littérature glcm / getis ord moran etc et le déplacer dans la discussion
+
+
+diapo entre m&m et résult pour parler du fait qu'on a fait que carabes, et parler de leur intérêt agro auxiliaires groupe très représenté dans agroécosys bretons, égulation adventices (conso graines), mangent ravageurs, etc belles photos →poecillus cupreus
+
+
+résultats 
+
+mettre S à des paysages
+proches mais non identiqueS
+mettre légende carte occsol 
+
+i
+parler du seed lenght correspondance mettre flèche
+prendre exemple plus continu aussi
+
+
+
+modèles
+
+"j'vais pas vous présenter tt les graphiques, mais y a toujours une association trait-métrique pour chaque modèle" + mettre légende + indiquer quoi compo quoi config, remettre traits en grand
+dire quel trait correspond à quoi pour interpréter (les traits) → expliquer choix et interprétation traits
+
+manque un mot ""
