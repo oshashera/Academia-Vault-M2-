@@ -35,10 +35,10 @@ exemple plus simple pour araignée → pas un trait précis, mais une gamme de t
 *diapo supplémentaire entre intro et m&m → montrer que ca vient de données de la ZaAr, 10 paysages, mesures dans cultures de céréales*
 *→ cultures de céréales à coté de → mettre les 4 modalités : on est sur des paysages à dominantes agricoles, avec majoritairement ces occsols* ✅
 
-diapo génération mettre en plus grand la typologie OSO
+diapo génération mettre en plus grand la typologie OSO ✅
 
-mettre flèche de oso théia vers quel occsol (les 3)
-et les haies fleches bdtopo
+mettre flèche de oso théia vers quel occsol (les 3) ✅
+et les haies fleches bdtopo ✅
 
 
 donnéEs
