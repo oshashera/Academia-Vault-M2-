@@ -22,7 +22,7 @@ mais biiiiien expliquer compo config et faire lien entre ces composantes et les 
 
 
 
-
+06 23 93 10 47 léo
 bien expliquer à l'oral → remplacer CWM dans diapo 5 par "trait moyen par communauté" ✅
 
 fin intro fx alignier → premier étude qui commence à vraiment intégrer les traits fx directement dans le paysage en utilisant des traits moyen, mais sur la base d'occupation du sol (enlever "recatégorisé"), mais sur cette base construite, il serait intéressant d'essayer de se baser sur du continu. 🚨🚨🚨🚨🚨🚨🚨🚨
