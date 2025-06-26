@@ -6,7 +6,7 @@ changer noms encadrement → ordre alphabétique ✅
 enlever cédille pucerons ✅
 
 pas nécessaire faire fragmentation et connectivité ✅
-mais biiiiien expliquer compo config et faire lien entre ces composantes et les processus réels 🚨
+mais biiiiien expliquer compo config et faire lien entre ces composantes et les processus réels 🚨🚨🚨🚨🚨🚨🚨🚨🚨
 
 | Processus/Fonction         | Rôle de la composition                                                                                 | Rôle de la configuration                                                                   |
 | -------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
@@ -15,9 +15,17 @@ mais biiiiien expliquer compo config et faire lien entre ces composantes et les 
 | **Régulation du climat**   | + Couvertures diversifiées stockent plus de carbone                                                    |                                                                                            |
 | **Contrôle biologique**    | + Habitats de plusieurs prédateurs/regulateurs → régulation des ravageurs                              | + Patchs connectés permettent déplacements des auxiliaires³                                |
 
-bien expliquer à l'oral → remplacer CWM dans diapo 5 par "trait moyen par communauté"
+| **Effet de bord**  <br>– Zones de transition richement productives où se côtoient espèces de milieux différents.                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Complémentarité**<br>– Espèces ou habitats aux traits complémentaires optimisant un processus (ex. légumineuses et graminées pour le cycle de l’azote). |
+| **Effet d’échelle**  <br>– Phénomènes locaux (micro-habitats) vs. régionaux (grands corridors) : besoin d’échelles d’analyse multiples                    |
 
-fin intro fx alignier → premier étude qui commence à vraiment intégrer les traits fx directement dans le paysage en utilisant des traits moyen, mais sur la base d'occupation du sol (enlever "recatégorisé"), mais sur cette base construite, il serait intéressant d'essayer de se baser sur du continu.
+
+
+
+bien expliquer à l'oral → remplacer CWM dans diapo 5 par "trait moyen par communauté" ✅
+
+fin intro fx alignier → premier étude qui commence à vraiment intégrer les traits fx directement dans le paysage en utilisant des traits moyen, mais sur la base d'occupation du sol (enlever "recatégorisé"), mais sur cette base construite, il serait intéressant d'essayer de se baser sur du continu. 🚨🚨🚨🚨🚨🚨🚨🚨
 
 fin intro : moins mettre les modalités agroéco (les mettre en M&M) mais par contre mettre des schéma de paysage → faire schéma lien biodiv intra champ et biodiv extér → schéma de prédiction à partir des commu autours de plantes
 
