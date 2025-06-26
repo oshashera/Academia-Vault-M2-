@@ -105,16 +105,16 @@ puis "c'est pas significatif" 🚨
 comment expliquer cette absence de résultats probants → virer les autres questions ✅
 
 
-mettre "de la méthodologie" pour "point d'amélioration"
+mettre "de la méthodologie" pour "point d'amélioration" ✅
 
-mettre éléments méthodo sur combien de trait on a récup (dans partie méthodo), parler aussi du nombre d'espèce avant / après filtrage
+mettre éléments méthodo sur combien de trait on a récup (dans partie méthodo), parler aussi du nombre d'espèce avant / après filtrage ✅
 
 
-avant pt amélioration, faire discussion pour les carabes → parler de l'échelle de perception paysagère, parler des autres groupes qu'on a pas pu tester et dire que ca pourrait aussi marcher pour ces groupes là
+avant pt amélioration, faire discussion pour les carabes → parler de l'échelle de perception paysagère, parler des autres groupes qu'on a pas pu tester et dire que ca pourrait aussi marcher pour ces groupes là 🚨
 
-pt amélioration
+pt amélioration 
 
-mettre ordre → traduction, jouer sur les graphs déjà montré (genre barrer le 2% et mettre autre chose) 
+mettre ordre → traduction, jouer sur les graphs déjà montré (genre barrer le 2% et mettre autre chose) ✅
 
 en fait revenir sur les étapes méthodo (reprendre les trucs) → montrer limites et améliorations comme ca point par point
 
