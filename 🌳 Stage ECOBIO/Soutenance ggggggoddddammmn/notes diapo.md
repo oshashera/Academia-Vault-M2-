@@ -53,3 +53,14 @@ TRAIT QUALITATIF (en gros) → valeur modale dominante  (détailler à l'oral) �
 TRAIT QUANTITATIF → valeur moyenne calculée (par CWM)
 
 enlever le "jointure du tableau des communautés blablabla" on verra ca après une 
+
+
+dire si quesitonné que comparer catégoriel et continu c'est compliqué pour comparer les modèles, on peut pas comparer simplement et directement mais ce serait utile
+
+intérêt notre méthode → effet sur diversité → info sur effet service ? dans l'idée ca pourrait servir a prédire/ expliquer pas que les div et abondance mais aussi des services (après amélioration et + de données) à prédire des fonctions d'intérêt → carte de prédiction de régulation ou autre → on peut essayer de prédire 
+
+
+changer "quelles métriques pour des valeuirs" → changer raster par "paysage"
+
+
+mettre références biblio pour ce qui existe en option dans la littérature glcm / getis ord moran etc
