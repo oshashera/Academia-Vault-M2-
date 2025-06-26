@@ -116,14 +116,16 @@ pt amélioration
 
 mettre ordre → traduction, jouer sur les graphs déjà montré (genre barrer le 2% et mettre autre chose) ✅
 
-en fait revenir sur les étapes méthodo (reprendre les trucs) → montrer limites et améliorations comme ca point par point
+en fait revenir sur les étapes méthodo (reprendre les trucs) → montrer limites et améliorations comme ca point par point ✅
 
-enlever "diluer" mais juste dire que ca dépends opportunisme et échelle de réponse 
-
-truc centré à droite → faire diapo à part et dire intérêt agro avec schéma biodiv services écosyst, dire que dans planif quel genre d'outils (mettre haies, assolement, etc etc) sur quoi travailler, 
+enlever "diluer" mais juste dire que ca dépends opportunisme et échelle de réponse ✅
 
 
-préciser au début que j'étais co-encadré par des scientifiques tchèques.
+
+
+préciser au début que j'étais co-encadré par des scientifiques tchèques. 
+
+truc centré à droite → faire diapo à part et dire intérêt agro avec schéma biodiv services écosyst, dire que dans planif quel genre d'outils (mettre haies, assolement, etc etc) sur quoi travailler, 🟠✅
 
 
 parler du seed lenght (patterns de certaines occsol giga visible notamment mais qui stand out) et comparer à hauteur plante ou c'est bcp moins marqué sur les occsol cultures et prairies → on voit surtout les forêts et HAIES 🚨
