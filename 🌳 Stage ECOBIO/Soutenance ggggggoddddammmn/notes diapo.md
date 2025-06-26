@@ -27,7 +27,7 @@ bien expliquer à l'oral → remplacer CWM dans diapo 5 par "trait moyen par com
 
 fin intro fx alignier → premier étude qui commence à vraiment intégrer les traits fx directement dans le paysage en utilisant des traits moyen, mais sur la base d'occupation du sol (enlever "recatégorisé"), mais sur cette base construite, il serait intéressant d'essayer de se baser sur du continu. 🚨🚨🚨🚨🚨🚨🚨🚨
 
-fin intro : moins mettre les modalités agroéco (les mettre en M&M) mais par contre mettre des schéma de paysage → faire schéma lien biodiv intra champ et biodiv extér → schéma de prédiction à partir des commu autours de plantes
+fin intro : moins mettre les modalités agroéco (les mettre en M&M) mais par contre mettre des schéma de paysage → faire schéma lien biodiv intra champ et biodiv extér → schéma de prédiction à partir des commu autours de plantes ✅
 
 
 exemple plus simple pour araignée → pas un trait précis, mais une gamme de traits visés, pas une mais plusieurs valeurs à prendre en compte par fois
