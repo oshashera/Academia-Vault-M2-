@@ -35,8 +35,7 @@
               "title": "Besoins ? Facteurs  ?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -240,13 +240,13 @@
       "widgets:Add widget": false
     }
   },
-  "active": "94539e2afb21aac4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/notes diapo.md",
     "🏡 Home.md",
     "Thèses ?.md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Idées.md",
-    "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",
     "A Thèse préparation/Jury.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/bon dieu se concentrer.md",
