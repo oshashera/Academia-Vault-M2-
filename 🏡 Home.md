@@ -4,48 +4,19 @@ cssclasses:
 banner: "![[1632213678884.jpg]]"
 banner_y: 0.5
 ---
-Pour le ==16 JUIN== - Envoi d’un exemplaire papier et d’une version numérique (format pdf) du rapport à chaque membre du jury **au plus tard le lund 16 juin 2025**,
 
-A faire MERCREDI 14/05: 
-- [ ] 🔼 Finir intro (trouver article paysage fx en + de alignier)
-- [ ] ⏫ Export mes buffers (maison ?)
-- [ ] ⏫ Faire mon script selection communauté (cf [[Zbeul notes réunions au fil du temps#Réu cendrine 13-05-25|Réu cendrine Mer 13/5/25]])
+A faire : 
+- [ ] Inscription thèse (attendre réponse ED EGAAL sur gmail)
+- [ ] Rapport updaté (corrigé green tide ✅) + corrigé faute (❌❌❌❌)
+- [ ] Scripts commenté stage ❌
+- [ ] Tableurs commenté (page méta données) ❌ + scripts associés ❌ + nettoyage ❌
+- [ ] 5P résumé mais mise en page comme on veut ❌
+- [ ] https://dumas.ccsd.cnrs.fr/MEM-INSTITUT-AGRO-RENNES-ANGERS/dumas-04870583v1 exemple de truc validé
 
-A faire Jeudi 15/05 :
-- [ ] 🔼  Finir intro
-- [ ] 🔽 Reprendre le M&M 
-
-| Mois  | Semaine                                                                                      | Tâche(s)                                                        |
-| ----- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Mars  | 3-7                                                                                          | Intro ✅+ Edla ❌+ pucerons                                       |
-|       | 10-14                                                                                        | Intro 🟧+ Edla ❌+ pucerons                                      |
-|       | 17-21  intro/edla plan + puçerons✅ + demande TRY 1 ?⏰🟧 + **début rapport mi parcours** rs** |                                                                 |
-|       | 24-29                                                                                        | M&M + rédiger intro+ plantes + **rapport mi parco               |
-| Avril | 31-4                                                                                         | m&m (+remodeler intro ?) v3/bien avancée + demande TRY 2? + Rst |
-|       | 7-11                                                                                         | M&M                                                             |
-|       | 14-18                                                                                        | Rstudio                                                         |
-|       | 21-25                                                                                        | Rstudio                                                         |
-| Mai   | 28-2                                                                                         | Rstudio (complet)                                               |
-|       | 5-9                                                                                          | Rstudio (complet)                                               |
-|       | 12-16                                                                                        | Résultat R ana                                                  |
-|       | 19-23                                                                                        | Résultat R an                                                   |
-|       | 26-30                                                                                        | Résultat R analyse + rédactio                                   |
-| Juin  | 2-6                                                                                          | Discussion + CCL + R                                            |
-|       | 9-13                                                                                         | Discussion + CCL +                                              |
-|       | 16-21                                                                                        |                                                                 |
-|       |                                                                                              |                                                                 |
-
-
-| Matin     | Après-midi              | Jour     |
-| --------- | ----------------------- | -------- |
-| ...       | Pollinisateurs habitats | Lundi    |
-| M&M       |                         | Mardi    |
-| M&M       | M&M                     | Mercredi |
-| M&M       | M&M + rst               | Jeudi    |
-| M&M + rst | M&M + rst               | Vendredi |
-|           |                         | Samedi   |
-|           |                         | Dimanche |
-
+| Mois | Semaine | Tâche(s) |
+| ---- | ------- | -------- |
+|      |         |          |
+|      |         |          |
 ```widgets
 type: clock 
 ```
