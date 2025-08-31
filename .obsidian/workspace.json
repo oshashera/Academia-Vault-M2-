@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐📔-🌳 Écopédia/🔴 Hybrid ecosystem (Hobbs et al.,2009).md",
+                "file": "🏡 Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🏡 Home"
+            }
+          },
+          {
+            "id": "e8c226b3fd00bfc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idée foireuse jeu steam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔴 Hybrid ecosystem (Hobbs et al.,2009)"
+              "title": "Idée foireuse jeu steam"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,14 +240,16 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e8c226b3fd00bfc5",
   "lastOpenFiles": [
+    "🏡 Home.md",
+    "Idée foireuse jeu steam.md",
+    "🌐📔-🌳 Écopédia/🔴 Hybrid ecosystem (Hobbs et al.,2009).md",
     "🌐📔-🌳 Écopédia/🟢 Biodiversité CRYPTIQUE.md",
     "🌐📔-🌳 Écopédia/🔴 Théorie des niches écologiques.md",
     "🌐📔-🌳 Écopédia/🟠 Liste théories et théorèmes à check.md",
     "🌐📔-🌳 Écopédia/🟠 Resources to scrape.md",
     "Note scientifique STICS - Haag Thomas.md",
-    "🏡 Home.md",
     "Towards reproducible environments ?.md",
     "Trucs divers utiles.md",
     "How to reduce the carbon footprint of your research computing (conf inserm).md",
@@ -253,8 +270,6 @@
     "A Thèse préparation/Drawing 2025-06-22 16.04.35.excalidraw.md",
     "A Thèse préparation/Drawing 2025-06-20 15.25.50.excalidraw.md",
     "🌳 Stage ECOBIO/📝 Rapport ?/schéma m&m.md",
-    "A Thèse préparation/méthodo récap.md",
-    "A Thèse préparation/Drawing 2025-06-20 15.25.17.excalidraw.md",
     "Images/Pasted Image 20250620011544_860.png",
     "Images/Pasted image 20250618170740.png",
     "A Thèse préparation",
