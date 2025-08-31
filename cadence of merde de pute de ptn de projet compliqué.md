@@ -13,4 +13,5 @@ Pitch :
 - pour notes à jouer, a modif peut être mais pour l'instant, 4 bouton = 4 lignes de la "partition", à la guitar hero, et les "vraies" notes sont mises dans ces différentes catégories.
 
 - toute action peut être faite dans le rythme du spell actuel, mais peut être un spell, un deplacement, etc
+- changer signature = break the spell qui peut nécessiter plusieurs mesures avant d'être lancé
 - 
