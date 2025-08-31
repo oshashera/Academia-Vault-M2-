@@ -8,5 +8,9 @@ Noita x rainworld x hollow knight (fin y a des bugzzzz quoi)
 - plein de vie du sol de bugsss et autre bestiolasses
 
 - systèmes armes notamment ennemis qui peuvent avoir des trucs simili craftés par l'environnement
-- idem pour nous du coup ?
-- carte aléatoire (et rox ose se plaindre de rajouter des trucs qui vont rajouter du temps de dev ahalalalal quelle audaceé)
+- idem pour nous du coup ? → similaire à hollow knight et blasphemous 
+- carte aléatoire (et rox ose se plaindre de rajouter des trucs qui vont rajouter du temps de dev ahalalala quelle audace)
+
+
+- objectif → immediat = survie
+- 
