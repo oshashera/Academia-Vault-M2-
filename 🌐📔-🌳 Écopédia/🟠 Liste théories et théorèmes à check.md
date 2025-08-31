@@ -1,5 +1,4 @@
 
-🔴
 ### **Théories liées aux habitats et aux niches**
 
 - **Habitat Templet Theory** (Southwood, 1977) : Les traits des espèces sont façonnés par les caractéristiques de leur habitat, qui agit comme un "modèle" pour leur évolution.
