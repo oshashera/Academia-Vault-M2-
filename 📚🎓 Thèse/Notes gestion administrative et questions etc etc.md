@@ -45,6 +45,10 @@ envoyer photo de moi à mail bertrand
 
 mission et bon de commandes à voir avec valérie brian
 
-code vélo = 
+code vélo = A3825 
 
-pour les missions d'enseigne
+
+pour les missions d'enseignement, adressé a j pétillon et bertrand mais avant faut avoir vu avec aude et cendrine qui doivent renseigner avis directrice de thèse
+On barre tout ce qu'on veut pas dans le doc
+
+
