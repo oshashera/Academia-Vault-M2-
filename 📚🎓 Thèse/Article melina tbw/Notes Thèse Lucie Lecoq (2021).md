@@ -13,4 +13,6 @@
 
 >[!important] Evaluation lien structure paysage - biodiv fx 
 >>[!quote] Trente fenêtres paysagères (1km2) ont été sélectionnées pour tester l’effet de la structure du paysage sur la diversité fonctionnelle des plantes des prairies permanentes et des haies à l’échelle gamma. Nos hypothèses étaient que (i) la quantité d'habitat et l'hétérogénéité du paysage augmentaient la diversité fonctionnelle gamma des assemblages de prairies et de haies et que (ii) la quantité d'habitat et l'hétérogénéité du paysage influençaient la contribution relative des traits fonctionnels à la diversité fonctionnelle de ces deux types de végétation.
+>
+>>[!warning] Ne se focus que sur les plantes (donc pour carabes et oiseaux on a que melina (qui a aussi fait des plantes))
 

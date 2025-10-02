@@ -13,8 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/Notes Thèse Lucie Lecoq (2021).md",
+                "file": "📚🎓 Thèse/Article melina tbw/Objectifs, plans etc.md",
                 "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objectifs, plans etc"
+            }
+          },
+          {
+            "id": "8c2e12d982c25b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚🎓 Thèse/Article melina tbw/Notes Thèse Lucie Lecoq (2021).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -228,9 +242,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📚🎓 Thèse/Article melina tbw/Notes Thèse Lucie Lecoq (2021).md",
+    "📚🎓 Thèse/Article melina tbw/Objectifs, plans etc.md",
+    "📚🎓 Thèse/Administratif",
+    "📚🎓 Thèse/Article melina tbw",
     "🏡 Home.md",
-    "📚🎓 Thèse/Notes gestion administrative et questions etc etc.md",
-    "📚🎓 Thèse/Notes Thèse Lucie Lecoq (2021).md",
+    "📚🎓 Thèse/Administratif/Notes gestion administrative et questions etc etc.md",
     "Images/Pasted image 20251001113645.png",
     "Images/Pasted image 20251001113550.png",
     "Idée foireuse jeu steam.md",
@@ -252,17 +269,15 @@
     "Thèses ?.md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Idées.md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",
-    "A Thèse préparation/Jury.md",
+    "Thèse préparation/Jury.md",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?/bon dieu se concentrer.md",
-    "A Thèse préparation/Note thèses.md",
+    "Thèse préparation/Note thèses.md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn",
-    "A Thèse préparation/Sujet.md",
-    "A Thèse préparation/Écologie récap viteuf.md",
-    "A Thèse préparation/Modifs diapo de base.md",
-    "A Thèse préparation/Drawing 2025-06-20 01.15.40.excalidraw.md",
+    "Thèse préparation/Sujet.md",
+    "Thèse préparation/Écologie récap viteuf.md",
     "Images/Pasted Image 20250620011544_860.png",
     "Images/Pasted image 20250618170740.png",
-    "A Thèse préparation",
+    "Thèse préparation",
     "Images/Pasted Image 20250614162943_583.png",
     "Images/Pasted Image 20250614161825_309.png",
     "Images/Pasted Image 20250614161756_977.png",
@@ -281,8 +296,6 @@
     "🌳 Stage ECOBIO/Taxons.canvas",
     "🌳 Stage ECOBIO/RÉCAP DONNÉES BRETAGNE pCloud.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?",
-    "🌳 Stage ECOBIO",
-    "synthèse biblio",
-    "Cours/🎓 Conception de systèmes/Untitled"
+    "🌳 Stage ECOBIO"
   ]
 }
