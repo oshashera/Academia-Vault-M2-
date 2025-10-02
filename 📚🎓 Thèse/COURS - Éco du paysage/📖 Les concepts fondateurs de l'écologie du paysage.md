@@ -37,4 +37,10 @@ Mais : jusque dans les 70s, écologues d'intéressaient essentiellement aux syst
 >
 >==> **On ne travaille pas sur des espaces clos (écosystèmes) mais on prend en compte les assemblages d’écosystèmes**
 
+L'écologie du paysage s’intéresse aux **changements spatio-temporels** des composantes biologiques, physiques et sociétales **des paysages** culturels et naturels (IALE Suède).
+
+L'écologie du paysage met l'**accent sur les grandes échelles spatiales et les effets écologiques de la configuration spatiale des écosystèmes**. (Turner 1989).
+
+L'écologie du paysage[...] met l'accent sur (1) les **relations spatiales entre les éléments du paysage**, ou écosystèmes, (2) les **flux d'énergie, les**
+**nutriments minéraux et les espèces** entre les éléments, et (3) la **dynamique écologique de la mosaïque du paysage** à travers le temps. (Forman 1983).
 
