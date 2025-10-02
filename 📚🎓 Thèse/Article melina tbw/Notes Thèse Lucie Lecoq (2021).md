@@ -16,3 +16,7 @@
 >
 >>[!warning] Ne se focus que sur les plantes (donc pour carabes et oiseaux on a que melina (qui a aussi fait des plantes))
 
+
+
+
+données bota → refaire avec 2025 plutôt que 2018 (refaire ce que mélina a fait avec les nouvelles data pour check si c'est cohérent)
