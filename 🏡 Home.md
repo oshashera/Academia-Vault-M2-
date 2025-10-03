@@ -16,20 +16,8 @@ author: Noam Chomsky
 
 
 
-A faire : 
-- [ ] Inscription thèse (attendre réponse ED EGAAL sur gmail)
-- [ ] Rapport updaté (corrigé green tide ✅) + corrigé faute (❌❌❌❌)
-- [ ] Scripts commenté stage ❌
 - [ ] Tableurs commenté (page méta données) ❌ + scripts associés ❌ + nettoyage ❌
-- [ ] 5P résumé mais mise en page comme on veut ❌
-- [ ] https://dumas.ccsd.cnrs.fr/MEM-INSTITUT-AGRO-RENNES-ANGERS/dumas-04870583v1 exemple de truc validé
-
-| Mois | Semaine | Tâche(s) |
-| ---- | ------- | -------- |
-|      |         |          |
-|      |         |          |
-|      |         |          |
-
+- [ ] **==Comprendre jdd bruts ←→ propre==**
 
 
 
