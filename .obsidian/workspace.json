@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fonctionnement script 🇷"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -229,13 +224,13 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "🏡 Home.md",
+    "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
     "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
     "Images/Pasted image 20251002171736.png",
     "Cours/🎓 \"Yield gap\" les GxE/🟢 Interactions Génotype x Environnement.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Soil quality and Ecosystem Services.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Bioavailability of nutrients.md",
     "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 An international soil perspective.md",
-    "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
     "📚🎓 Thèse/COURS - Éco du paysage",
     "Images/complete_script_melina.r",
     "📚🎓 Thèse/Article melina tbw/Notes Thèse Lucie Lecoq (2021).md",
