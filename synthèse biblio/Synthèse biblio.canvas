@@ -1,46 +1,53 @@
 {
-	"nodes":[
-		{
-			"id":"33d0d816b207654f",
-			"type":"text",
-			"text":"Baudry Livre",
-			"styleAttributes":{},
-			"x":-700,
-			"y":-1520,
-			"width":160,
-			"height":60
-		},
-		{
-			"id":"cec01f99418adb35",
-			"type":"text",
-			"text":"Chaplin-Kramer 2011",
-			"styleAttributes":{},
-			"x":-700,
-			"y":-1460,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ff682784e10ba481",
-			"type":"text",
-			"text":"Duarte 2018",
-			"styleAttributes":{},
-			"x":-700,
-			"y":-1400,
-			"width":160,
-			"height":60
-		},
-		{
-			"id":"65c7f0e11eebe52e",
-			"type":"text",
-			"text":"Martin 2019",
-			"styleAttributes":{},
-			"x":-700,
-			"y":-1340,
-			"width":170,
-			"height":60
-		}
-	],
-	"edges":[],
-	"metadata":{}
+  "edges": [
+  ],
+  "metadata": {
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "height": 60,
+      "id": "33d0d816b207654f",
+      "styleAttributes": {
+      },
+      "text": "Baudry Livre",
+      "type": "text",
+      "width": 160,
+      "x": -700,
+      "y": -1520
+    },
+    {
+      "height": 60,
+      "id": "cec01f99418adb35",
+      "styleAttributes": {
+      },
+      "text": "Chaplin-Kramer 2011",
+      "type": "text",
+      "width": 260,
+      "x": -700,
+      "y": -1460
+    },
+    {
+      "height": 60,
+      "id": "ff682784e10ba481",
+      "styleAttributes": {
+      },
+      "text": "Duarte 2018",
+      "type": "text",
+      "width": 160,
+      "x": -700,
+      "y": -1400
+    },
+    {
+      "height": 60,
+      "id": "65c7f0e11eebe52e",
+      "styleAttributes": {
+      },
+      "text": "Martin 2019",
+      "type": "text",
+      "width": 170,
+      "x": -700,
+      "y": -1340
+    }
+  ]
 }

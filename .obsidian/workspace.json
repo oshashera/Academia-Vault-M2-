@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "synthèse biblio/⚠🚨 Synthèse biblio.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "⚠🚨 Synthèse biblio"
             }
           }
         ]
@@ -223,6 +227,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "synthèse biblio/Untitled.md",
+    "synthèse biblio/⚠🚨 Synthèse biblio.md",
+    "synthèse biblio/Untitled",
+    "synthèse biblio/V2 Synthèse.canvas",
+    "synthèse biblio/Synthèse biblio.canvas",
     "🏡 Home.md",
     "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
     "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
@@ -256,7 +265,6 @@
     "Séminaire Carabes (25-04-25).md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/notes diapo.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
-    "Thèses ?.md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn",
     "Images/Pasted Image 20250620011544_860.png",
@@ -270,12 +278,9 @@
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
     "Images/Pasted image 20250609135505.png",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
-    "synthèse biblio/V2 Synthèse.canvas",
-    "synthèse biblio/Synthèse biblio.canvas",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "Autre/A explorer pour le workflow.canvas",
     "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?",
-    "🌐📔-🌳 Écopédia",
     "🌳 Stage ECOBIO/Taxons.canvas",
     "🌳 Stage ECOBIO/RÉCAP DONNÉES BRETAGNE pCloud.canvas"
   ]
