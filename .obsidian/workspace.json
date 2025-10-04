@@ -149,38 +149,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e4ff3ec67143dcf1",
-            "type": "leaf",
-            "state": {
-              "type": "annotations-outline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3d0ca28f5612aac0",
-            "type": "leaf",
-            "state": {
-              "type": "annotations-outline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6cdd05b03d42049d",
-            "type": "leaf",
-            "state": {
-              "type": "annotations-outline",
-              "state": {},
-              "icon": "message-square",
-              "title": "Enhanced Annotations"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -189,12 +159,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
