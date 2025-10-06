@@ -34,3 +34,5 @@ récup les infos de windows et point (même si idc_point prends pt et windows al
 >[!question] QUESTIONLAND AAAAAH
 >
 ??? testdispersion() utilisé pour tester overdispersion mais y a jamais d'alternative indiquée donc ca test en "two.sided" aka over/underdispersion donc jsp si c'est le bon test? je présume qu'on veut pas d'under nn plus mais le script mentionne que le over
+
+
