@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Thèse préparation/Sujet.md",
+                "file": "synthèse biblio/⚠🚨 Synthèse biblio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sujet"
+              "title": "Backlinks for ⚠🚨 Synthèse biblio"
             }
           },
           {
@@ -113,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "synthèse biblio/⚠🚨 Synthèse biblio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from ⚠🚨 Synthèse biblio"
             }
           },
           {
@@ -127,7 +129,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -138,9 +142,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "synthèse biblio/⚠🚨 Synthèse biblio.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ⚠🚨 Synthèse biblio"
             }
           },
           {
@@ -159,17 +168,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 268,
-    "collapsed": true
+    "width": 268
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +203,7 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0325c82c4f507a32",
   "lastOpenFiles": [
     "synthèse biblio/Untitled.md",
     "synthèse biblio/⚠🚨 Synthèse biblio.md",
