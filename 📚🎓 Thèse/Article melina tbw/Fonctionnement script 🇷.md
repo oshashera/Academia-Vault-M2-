@@ -27,7 +27,9 @@ récup les infos de windows et point (même si idc_point prends pt et windows al
 > le reste de la fx → alpha(s) simple ✅
 > beta → pour chaque window unique (windows), subset de data général (genre hedgerows) par window, création d'une matrice de 
 
-
+>[!important] Important
+> testdispersion() → si pas précisé "alternative=" ca fait two sided aka test over et underdispersion
+> => si dispersion sup à 1et que signif → over disp (qui peut poser pb de faux positif en augmentant les pvalues), si signif et disp inf à 1 → underdisp
 
 >[!question] QUESTIONLAND AAAAAH
 >
