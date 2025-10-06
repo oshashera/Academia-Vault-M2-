@@ -10,6 +10,8 @@
 
 indices climatiques → déjà fait / sélec ds article uroy (cascading effects...) → harmoniser périodes prises entre taxons tho ?
 
-## Script  R
+## 💻 Script  R 
 
+
+Data loading + libraries ✅
 
