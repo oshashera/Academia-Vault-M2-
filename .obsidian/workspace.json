@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synthèse biblio/⚠🚨 Synthèse biblio.md",
-                "mode": "preview",
+                "file": "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⚠🚨 Synthèse biblio"
+              "title": "Fonctionnement script 🇷"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "synthèse biblio/⚠🚨 Synthèse biblio.md",
+                "file": "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ⚠🚨 Synthèse biblio"
+              "title": "Backlinks for Fonctionnement script 🇷"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "synthèse biblio/⚠🚨 Synthèse biblio.md",
+                "file": "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ⚠🚨 Synthèse biblio"
+              "title": "Outgoing links from Fonctionnement script 🇷"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "synthèse biblio/⚠🚨 Synthèse biblio.md",
+                "file": "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ⚠🚨 Synthèse biblio"
+              "title": "Outline of Fonctionnement script 🇷"
             }
           },
           {
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 268,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +204,10 @@
       "widgets:Add widget": false
     }
   },
-  "active": "0325c82c4f507a32",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "synthèse biblio/Untitled.md",
     "synthèse biblio/⚠🚨 Synthèse biblio.md",
+    "synthèse biblio/Untitled.md",
     "synthèse biblio/Untitled",
     "synthèse biblio/V2 Synthèse.canvas",
     "synthèse biblio/Synthèse biblio.canvas",
