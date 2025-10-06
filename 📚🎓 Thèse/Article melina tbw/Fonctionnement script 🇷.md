@@ -15,3 +15,10 @@ indices climatiques → déjà fait / sélec ds article uroy (cascading effects.
 
 Data loading + libraries ✅
 
+> [!info] Fonction ==indice_calc==
+>prends "data" en source (tableau donné taxon, genre plants_hedgerows)
+>``` r
+>data_idc_Point=data[, c(1,2), drop = FALSE]
+>Windows = unique(data[,1])
+>data_idc_Window=data.frame(Window=Windows)```
+> récup les infos de windows et point (même si idc_point prends pt et windows alors que windows prends que windows (uniques))
