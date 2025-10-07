@@ -67,3 +67,12 @@ L’écologie du paysage se base sur un corpus théorique sur lequel sont basés
 >
 
 >[!info] Théorie biogéographique des îles (McArthur & Wilson 1967)
+>![[Drawing 2025-10-07 12.24.55.excalidraw|center|800]]
+
+>[!info] Théorie des métapopulations (Levins 1969)
+>![[Pasted image 20251007123940.png|center|700]]
+>
+>>[!tldr] Définition de la métapopulation
+>>Elle se définit comme un ensemble de populations d'une même espèce, en équilibre dynamique, réparties dans l'espace et connectées les unes aux autres par des échanges plus ou moins réguliers et importants d'individus.
+>
+>
