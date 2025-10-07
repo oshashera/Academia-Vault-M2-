@@ -44,3 +44,7 @@ L'écologie du paysage met l'**accent sur les grandes échelles spatiales et les
 L'écologie du paysage[...] met l'accent sur (1) les **relations spatiales entre les éléments du paysage**, ou écosystèmes, (2) les **flux d'énergie, les**
 **nutriments minéraux et les espèces** entre les éléments, et (3) la **dynamique écologique de la mosaïque du paysage** à travers le temps. (Forman 1983).
 
+C'est une science **globale, dynamique et intégrative** autour de la compréhension des interactions entre les structures paysagères <span style="background:#ff4d4f">(pattern)</span> et les processus écologiques <span style="background:#ff4d4f">(process)</span> à différentes échelles. (Farina, 2006; Naveh et Lieberman, 2013; Wu, 2013)
+
+### 2] Les modèles théoriques fondateurs de l'écologie du paysage
+
