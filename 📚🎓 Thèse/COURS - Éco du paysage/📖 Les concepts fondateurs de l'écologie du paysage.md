@@ -59,4 +59,8 @@ L’écologie du paysage se base sur un corpus théorique sur lequel sont basés
 
 >[!info] Relation aire-espèce
 >Mise en évidence d'un lien entre le nombre d'espèces observées (richesse spécifique) et la surface totale échantillonnée (Preston 1962)
->
+>![[Drawing 2025-10-07 11.57.20.excalidraw|400|center]]
+
+>[!info] Théorie de la hiérarchie
+>Cadre conceptuel pour traiter des différentes échelles spatiales et temporelles auxquelles se produisent les interactions entre les structures spatiales et les processus écologiques.
+
