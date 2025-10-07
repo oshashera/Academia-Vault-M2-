@@ -75,4 +75,9 @@ L’écologie du paysage se base sur un corpus théorique sur lequel sont basés
 >>[!tldr] Définition de la métapopulation
 >>Elle se définit comme un ensemble de populations d'une même espèce, en équilibre dynamique, réparties dans l'espace et connectées les unes aux autres par des échanges plus ou moins réguliers et importants d'individus.
 >
+>![[Drawing 2025-10-07 12.41.27.excalidraw|center|500]]
+
+### 3] Les concepts clés
+
+>[!info] Paysage et biodiversité
 >
