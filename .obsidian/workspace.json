@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "📖 Les concepts fondateurs de l'écologie du paysage"
             }
+          },
+          {
+            "id": "091ac1870259b6f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-07 12.14.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-07 12.14.45.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,10 +217,12 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "091ac1870259b6f8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-07 11.57.20.excalidraw.md",
     "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
+    "Excalidraw/Drawing 2025-10-07 12.14.45.excalidraw.md",
+    "🏡 Home.md",
+    "Excalidraw/Drawing 2025-10-07 11.57.20.excalidraw.md",
     "Excalidraw/Drawing 2024-12-21 16.58.06.excalidraw.md",
     "Excalidraw/Drawing 2024-12-21 16.41.21.excalidraw.md",
     "Excalidraw/Drawing 2024-10-24 12.03.46.excalidraw.md",
@@ -224,14 +239,12 @@
     "Excalidraw/Echelles spatiales et temporelles (eco du paysage).md",
     "Excalidraw/Drawing 2024-12-21 20.19.34.excalidraw.md",
     "Excalidraw/figure community selection.md",
-    "🏡 Home.md",
     "Excalidraw/Théorie des traits fonctionnels.md",
     "Excalidraw/Drawing 2025-04-18 13.30.29.excalidraw.md",
     "Excalidraw/Drawing 2025-04-18 13.40.05.excalidraw.md",
     "Excalidraw/Drawing 2025-04-24 11.10.56.excalidraw.md",
     "Excalidraw/Drawing 2025-04-24 11.14.31.excalidraw.md",
     "Excalidraw/Drawing 2025-05-23 14.30.32.excalidraw.md",
-    "📚🎓 Thèse/Réunions/2025-7-10 Réunion.md",
     "📚🎓 Thèse/Réunions",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "synthèse biblio/Untitled",
