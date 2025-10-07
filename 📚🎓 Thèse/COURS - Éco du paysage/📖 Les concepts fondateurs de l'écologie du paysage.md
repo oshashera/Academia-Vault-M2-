@@ -80,4 +80,11 @@ L’écologie du paysage se base sur un corpus théorique sur lequel sont basés
 ### 3] Les concepts clés
 
 >[!info] Paysage et biodiversité
+>![[Pasted image 20251007135438.png|center]]
 >
+
+>[!info] Plusieurs approches possibles
+>![[Pasted image 20251007135620.png|center]]
+>Matrice uniforme et hostile                     vs                                                                                                            prise en compte de la matrice paysagère
+>
+>==**Connectivité du paysage**==
