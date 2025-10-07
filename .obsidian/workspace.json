@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-11-12 Réunion.md",
+                "file": "2025-11-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-12 Réunion"
+              "title": "2025-11-12"
+            }
+          },
+          {
+            "id": "ec7f90ca5b205792",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           },
           {
@@ -33,7 +43,8 @@
               "title": "Drawing 2025-10-07 12.41.27.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -126,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-11-12 Réunion.md",
+                "file": "2025-11-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-11-12 Réunion"
+              "title": "Outgoing links from 2025-11-12"
             }
           },
           {
@@ -155,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-11-12 Réunion.md",
+                "file": "2025-11-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-12 Réunion"
+              "title": "Outline of 2025-11-12"
             }
           },
           {
@@ -195,6 +205,7 @@
     "hiddenItems": {
       "bases:Create new base": false,
       "graph:Open graph view": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
@@ -215,10 +226,12 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ec7f90ca5b205792",
   "lastOpenFiles": [
-    "2025-10-22 Réunion.md",
-    "2025-11-12 Réunion.md",
+    "Calendar",
+    "2025-11-28.md",
+    "2025-10-22.md",
+    "2025-11-12.md",
     "2025-11-10.md",
     "📚🎓 Thèse/Réunions/2025-7-10 Réunion.md",
     "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
@@ -247,8 +260,6 @@
     "Excalidraw/idée aap2.excalidraw.md",
     "Excalidraw/début aap idée.excalidraw.md",
     "Excalidraw/Echelles spatiales et temporelles (eco du paysage).md",
-    "Excalidraw/Drawing 2024-12-21 20.19.34.excalidraw.md",
-    "Excalidraw/figure community selection.md",
     "📚🎓 Thèse/Réunions",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "synthèse biblio/Untitled",
