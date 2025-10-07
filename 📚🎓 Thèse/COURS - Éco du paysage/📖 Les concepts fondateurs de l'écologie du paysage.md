@@ -48,3 +48,15 @@ C'est une science **globale, dynamique et intégrative** autour de la compréhen
 
 ### 2] Les modèles théoriques fondateurs de l'écologie du paysage
 
+> [!tldr] 3 principes fondamentaux à la croisée de l'écologie, de la géographie et de l'aménagement
+><u><font color="#548dd4">Principe 1 :</font></u> la reconnaissance du rôle de l’hétérogénéité paysagère dans les processus écologiques.
+>
+><u><font color="#548dd4">Principe 2 :</font></u> la reconnaissance du paysage comme un niveau hiérarchique supérieur permettant d’analyser les changements d’occupation du sol et leurs conséquences sur les processus écologiques et l’organisation des écosystèmes.
+>
+><u><font color="#548dd4">Principe 3 :</font></u> la prise en compte explicite de l’anthropisation des territoires, les facteurs humains influençant fortement l’organisation du paysage et son hétérogénéité à diverses échelles.
+
+L’écologie du paysage se base sur un corpus théorique sur lequel sont basés les concepts pour analyser les relations entre les structures paysagères et les processus écologiques.
+
+>[!info] Relation aire-espèce
+>Mise en évidence d'un lien entre le nombre d'espèces observées (richesse spécifique) et la surface totale échantillonnée (Preston 1962)
+>
