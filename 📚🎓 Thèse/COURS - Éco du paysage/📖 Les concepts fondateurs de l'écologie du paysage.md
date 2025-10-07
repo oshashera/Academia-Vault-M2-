@@ -63,4 +63,7 @@ L’écologie du paysage se base sur un corpus théorique sur lequel sont basés
 
 >[!info] Théorie de la hiérarchie
 >Cadre conceptuel pour traiter des différentes échelles spatiales et temporelles auxquelles se produisent les interactions entre les structures spatiales et les processus écologiques.
+>![[Drawing 2025-10-07 12.14.45.excalidraw|850|center]]
+>
 
+>[!info] Théorie biogéographique des îles (McArthur & Wilson 1967)
