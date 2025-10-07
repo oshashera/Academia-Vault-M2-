@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
-                "mode": "preview",
+                "file": "📚🎓 Thèse/Réunions/2025-7-10 Réunion.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏡 Home"
+              "title": "2025-7-10 Réunion"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -207,6 +206,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "🏡 Home.md",
+    "📚🎓 Thèse/Réunions/2025-7-10 Réunion.md",
+    "📚🎓 Thèse/Réunions",
     "📚🎓 Thèse/Administratif/Notes gestion administrative et questions etc etc.md",
     "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
     "🌳 Stage ECOBIO/Zbeul notes réunions au fil du temps.md",
@@ -244,7 +245,6 @@
     "📚🎓 Thèse",
     "cadence of merde de pute de ptn de projet compliqué.md",
     "🌐📔-🌳 Écopédia/🔴 Hybrid ecosystem (Hobbs et al.,2009).md",
-    "🌐📔-🌳 Écopédia/🟢 Biodiversité CRYPTIQUE.md",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn",
     "Images/Pasted Image 20250620011544_860.png",
@@ -259,7 +259,6 @@
     "Images/Pasted image 20250609135505.png",
     "🌳 Stage ECOBIO/📝 Rapport ?/Intro.canvas",
     "Autre/A explorer pour le workflow.canvas",
-    "🌳 Stage ECOBIO/💻 🇷 Rstudio modelling ?",
     "🌳 Stage ECOBIO/Taxons.canvas",
     "🌳 Stage ECOBIO/RÉCAP DONNÉES BRETAGNE pCloud.canvas"
   ]
