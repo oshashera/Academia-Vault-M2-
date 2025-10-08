@@ -1,6 +1,10 @@
 ---
 participant_1: Cendrine Mony
 participant_2: Aude Ernoult
+évènement: réunion
+année: "2025"
+mois: octobre
+jour: "7"
 ---
 
 
