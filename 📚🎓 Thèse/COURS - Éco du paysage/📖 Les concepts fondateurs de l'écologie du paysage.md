@@ -101,11 +101,47 @@ L’écologie du paysage se base sur un corpus théorique sur lequel sont basés
 >2 visions dont l'origine du processus varie : 
 >![[Pasted image 20251009095353.png|center|800]] 
 >
->![[Pasted image 20251009095437.png]]
-
-
-
-
+>![[Pasted image 20251009095437.png|left|700]] **La fragmentation induit :**
+>- Une réduction de la quantité totale d’habitat
+>- Une augmentation du nombre de tache
+>- Une diminution de la taille des taches
+>- Une augmentation de l’isolement des taches
+>=> ces processus sont confondus
+>
+><br>
+><br>
+><br>
+><br>
+><br>
+><br>
+><br>
+><br>
+><br>
+><br>
+><br>
+><br>
+>
+>![[Pasted image 20251009095843.png|right|490]]
+> **=> Absence de consensus sur la définition de la fragmentation**
+> - La fragmentation regroupe deux processus distincts mais interreliés : la réduction de la quantité totale d'habitat dans le paysage et le morcellement de l'habitat en petits fragments (Laurance, 2008).
+>  <br>
+>- La fragmentation renvoie uniquement au morcellement de l’habitat (Ewers et Didham, 2006) <br>
+> => Actuellement, isolement des processus afin de comprendre les effets de chacun sur la biodiversité
+>
+>![[Pasted image 20251009100138.png|left|600]] 
+><br>
+><br>
+><br>
+><br>
+>Terme ambigu car fait référence soit à un processus soit à un patron
+><br>
+><br>
+>
+>![[Pasted image 20251009100338.png|right|500]] 
+>**Conséquences de la fragmentation des habitats sur les espèces**
+>- Nombreux travaux et pourtant encore de nombreux débats
+=> Il est communément admis que la fragmentation a un effet négatif sur la biodiversité
+Cependant les études récentes laissent supposer des effets plus contrastés qui dépendent du processus étudié (perte habitat ou fragmentation *per se*) mais aussi de l’échelle d’analyse
 
 
 
