@@ -147,9 +147,11 @@ Cependant les études récentes laissent supposer des effets plus contrastés qu
 >![[Pasted image 20251009100541.png|center]]
 >
 >
+
+
+>[!info] La fragmentation : EFFETS SUR LES POPULATIONS
 >![[Pasted image 20251009102338.png|right|500]]
->**Effet sur les populations** <br>
->**\\=>** Vulnérabilité des populations de PETITE taille <br>
+>**\=> Vulnérabilité des populations de PETITE taille**
 >Le hasard a un fort impact sur le maintien des populations à faible effectif
 ><br>
 >\+ sensibles aux fluctuations environnementales (précipitations, températures...)
@@ -161,21 +163,24 @@ Cependant les études récentes laissent supposer des effets plus contrastés qu
 >\+ sensibles aux variations génétiques : diminution de la diversité génétique : pop moins adaptable
 ><br>
 ><br>
->Effets sur les populations
- Vulnérabilité des populations ISOLEES
-Effets démographiques
-Dans les paysages fragmentés, l’isolement diminue :
--> l’effet de sauvetage (rescue effect) : l’arrivée d’individus en provenance de
-populations en surproduction permet le sauvetage démographique de
-populations en déclin
--> la recolonisation d’habitats vacants (après une extinction locale par
-exemple)
- Importance de la dispersion
+>
+>**\=> Vulnérabilité des populations ISOLÉES**
+>
+><u><b>Effets démographiques</b></u>
+Dans les paysages fragmentés, l’isolement diminue : <br>
+-> <u>l’effet de sauvetage (rescue effect) :</u> l’arrivée d’individus en provenance de populations en surproduction permet le sauvetage démographique de populations en déclin<br>
+-> <u>la recolonisation</u> d’habitats vacants (après une extinction locale par exemple)<br>
+>
+>**\=> Importance de la dispersion**
 >  
->  
-
-
-
+><u><b>Effets génétiques :</b></u>
+>L’isolement génétique augmente le niveau moyen de consanguinité entre les individus
+>-> individus consanguins ont une fitness moindre (survie/fécondité diminuées) <br>
+>*\\*=> Importance de la dispersion
+>>->flux de gènes assurés par les mouvements d’individus entrepopulations vont à l’encontre de la dérive et limitent la consanguinité
+>
+>=> Vulnérabilité des populations à grands domaines vitaux et des populations d'intérieur
+>![[Pasted image 20251009104519.png|center|400]]
 
 
 
