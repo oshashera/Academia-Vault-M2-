@@ -68,6 +68,74 @@ Ou voir ces infos ?
 → sur le site de clarivate le journal citation report → moteur de recherche 
 
 Autre métriques → rang de la revue dans la discipline par ex
-Dans agriculture multidsciplinaire → agriculure system et env = 6/94 contre 14/200 en écologie
+Dans agriculture multidsciplinaire → agriculture system et env = 6/94 contre 14/200 en écologie
 
-JIF quartile = info interessant ? prérequis pour concours ? genre cnrs et inrae → faut faire les rangs et quartiles de tes papiers (enfer) dans l'année de ta candidature ? 
+JIF quartile = info interessant ? prérequis pour concours ? genre cnrs et inrae → faut faire les rangs et quartiles de tes papiers (enfer) dans l'année de ta candidature mais pas de l'année publiée ? (redemander pour être sûr)
+
+
+plein de catégories dispo,
+par ex dans ecology → rangs de tt les journaux dans la categorie
+donne aussi info de % de open access paper published dans le journal
+
+
+Indicateur de fame, pas de qualité, mais quand même pcq review process compliqué.
+
+
+L'impact factor n'est pas un indicateur de la qualité de la revie, mais de sa notoriété 
+Il peut néanmoins aider un peu à choisir la revue, seuil de difficulté, mais a prendre avec pincettes
+
+
+
+
+Les prédateurs 
+
+Les cas des étiteurs "prédateurs"
+Du bon grain... de l'ivraie
+Certains plus ou moins positif
+
+
+MDPI par ex → certains avec des tres bon IF
+Frontiers → plein de journaux dont des bon aussi
+
+
+**Positifs :** 
+Très bons existants
+le processus de revue est rapide
+utile pour "avoir sa publi" pour une thèse
+ouvert pour les publiants du Sud
+facilité de faire des special issues
+
+**Négatifs :**
+Assez régulièrement de très très mauvais articles
+Le processus de revue est trop rapide voir expédié
+génère du volume plus que de la qualité
+très cher
+démarche marketing agressive → manipulation de l'IF ?
+
+
+
+Pourquoi ?
+CAr la publication scientifique c'est rentable
+→ danielroelfs.com/posts/the-money-in-scientific-publishing/
+
+→ elsevie et springer sont dans les entreprises avec le plus de profit margin au monde
+
+open access fees sont élevées de fou pour les grand journaux (jusqu'à 10k dollar)
+
+
+
+
+
+
+
+
+Les solutions
+
+choisir un journal ?
+
+database gratuite → DAFNEE (liste tt pas prédatory dans écologie et évolution)
+Peer community journal aussi
+
+
+
+Une fois la publie terminée d'écrire → pa
