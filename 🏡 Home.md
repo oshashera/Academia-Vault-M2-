@@ -14,7 +14,9 @@ quote: Optimism is a strategy for making a better future. Because unless you bel
 author: Noam Chomsky
 ```
 
+![[Objectifs 6 premiers mois thèse.excalidraw|center|1500]]
 
+## A faire
 
 - [ ] Tableurs commenté (page méta données) ❌ + scripts associés ❌ + nettoyage ❌
 - [ ] **==Comprendre jdd bruts ←→ propre==**

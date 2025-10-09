@@ -88,3 +88,30 @@ L’écologie du paysage se base sur un corpus théorique sur lequel sont basés
 >Matrice uniforme et hostile                     vs                                                                                                            prise en compte de la matrice paysagère
 >
 >==**Connectivité du paysage**==
+
+>[!info] La fragmentation
+>
+>**Définition de l'habitat :**
+>Ensemble des taches qu'un organisme peut utiliser.
+>→ étudier la répartition spatiale de l'habitat au sein des paysages : prise de conscience de la fragmentation
+>
+>**Définition *"initiale"* de la fragmentation**
+>Diminution de surface de l’habitat disponible et une augmentation de l’isolement des taches d’habitats (Wilcove et al., 1986)
+>
+>2 visions dont l'origine du processus varie : 
+>![[Pasted image 20251009095353.png|center|800]] 
+>
+>![[Pasted image 20251009095437.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+

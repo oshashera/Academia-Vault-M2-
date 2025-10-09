@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
-                "mode": "preview",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏡 Home"
-            }
-          },
-          {
-            "id": "13827899dd8e673c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Objectifs 6 premiers mois thèse.excalidraw"
+              "title": "📖 Les concepts fondateurs de l'écologie du paysage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,12 +195,14 @@
       "widgets:Add widget": false
     }
   },
-  "active": "13827899dd8e673c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Images/Pasted image 20251009095437.png",
+    "Images/Pasted image 20251009095353.png",
     "🏡 Home.md",
+    "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md",
     "📚🎓 Thèse/Administratif/Ordres de mission/OM terrain données climat novembre.md",
     "Images/Pasted image 20251008152256.png",
-    "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md",
     "📚🎓 Thèse/Réunions/Première réu thèse.md",
     "📚🎓 Thèse/Administratif/Notes gestion administrative et questions etc etc.md",
     "Images/Pasted image 20251008152326.png",
@@ -256,7 +245,6 @@
     "Images/complete_script_melina.r",
     "📚🎓 Thèse/Administratif",
     "📚🎓 Thèse/Article melina tbw",
-    "Images/Pasted image 20251001113645.png",
     "📚🎓 Thèse/Untitled.base",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/Untitled.canvas",
