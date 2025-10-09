@@ -180,8 +180,23 @@ Dans les paysages fragmentés, l’isolement diminue : <br>
 >>->flux de gènes assurés par les mouvements d’individus entrepopulations vont à l’encontre de la dérive et limitent la consanguinité
 >
 >=> Vulnérabilité des populations à grands domaines vitaux et des populations d'intérieur
->![[Pasted image 20251009104519.png|center|400]]
+>![[Pasted image 20251009104519.png|left|350]] ![[Pasted image 20251009104754.png|right|900]]
 
+>[!info] La fragmentation : les limites ?
+>Réponses étudiées à l'échelle du paysage
+>![[Pasted image 20251009105020.png|left|200]] <br>Encore actuellement, fragmentation souvent limitée à l’étude de la ***quantité habitat***
+><br>
+><br>
+>
+>![[Pasted image 20251009105241.png|left|200]]
+>Perte de la quantité totale d'habitat :
+>\- diminution globale des ressources
+>\- diminution globale des capacités d'accueil, <br>
+>**=> effets généralement négatifs sur la biodiversité** <br>
+>
+>> [!donc] Exemple 1 : Méta-analyses sur les facteurs structurant la biodiversité urbaine
+>Differents groupes taxonomiques, 75 villes
+>
 
 
 
