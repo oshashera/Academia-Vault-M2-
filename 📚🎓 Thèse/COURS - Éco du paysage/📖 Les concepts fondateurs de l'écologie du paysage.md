@@ -185,18 +185,24 @@ Dans les paysages fragmentés, l’isolement diminue : <br>
 >[!info] La fragmentation : les limites ?
 >Réponses étudiées à l'échelle du paysage
 >![[Pasted image 20251009105020.png|left|200]] <br>Encore actuellement, fragmentation souvent limitée à l’étude de la ***quantité habitat***
-><br>
-><br>
 >
 >![[Pasted image 20251009105241.png|left|200]]
 >Perte de la quantité totale d'habitat :
 >\- diminution globale des ressources
 >\- diminution globale des capacités d'accueil, <br>
 >**=> effets généralement négatifs sur la biodiversité** <br>
+><br>
+><br>
 >
 >> [!donc] Exemple 1 : Méta-analyses sur les facteurs structurant la biodiversité urbaine
->Differents groupes taxonomiques, 75 villes
+>Différents groupes taxonomiques, 75 villes
+>![[Pasted image 20251009105553.png]] *Beninde et al 2015*
+>**=>** Échelle de la tache (échelle locale) : surface du patch : effet positif le plus important sur la richesse
+>![[Pasted image 20251009105912.png]] *Beninde et al 2015*
 >
+>>[!donc] Exemple 2 : Impact de la parte d'habitat sur la biodiversité des mammifères dans les agrosystèmes
+>>Étude réalisée au Brésil, 55 paysages échantillonés
+
 
 
 
