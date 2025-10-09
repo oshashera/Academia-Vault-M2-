@@ -142,7 +142,11 @@ L’écologie du paysage se base sur un corpus théorique sur lequel sont basés
 >- Nombreux travaux et pourtant encore de nombreux débats
 => Il est communément admis que la fragmentation a un effet négatif sur la biodiversité
 Cependant les études récentes laissent supposer des effets plus contrastés qui dépendent du processus étudié (perte habitat ou fragmentation *per se*) mais aussi de l’échelle d’analyse
-
+><br>
+>
+>![[Pasted image 20251009100541.png|center]]
+>
+>
 
 
 

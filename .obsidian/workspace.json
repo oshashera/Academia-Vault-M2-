@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "📖 Les concepts fondateurs de l'écologie du paysage"
             }
+          },
+          {
+            "id": "b5b82de9887088fb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-09 10.06.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-09 10.06.12.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,14 +208,17 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b5b82de9887088fb",
   "lastOpenFiles": [
+    "🏡 Home.md",
+    "Excalidraw/Drawing 2025-10-09 10.06.12.excalidraw.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
+    "Images/Pasted image 20251009100541.png",
     "Images/Pasted image 20251009100338.png",
     "Images/Pasted image 20251009100138.png",
     "Images/Pasted image 20251009095843.png",
     "Images/Pasted image 20251009095437.png",
     "Images/Pasted image 20251009095353.png",
-    "🏡 Home.md",
     "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md",
     "📚🎓 Thèse/Administratif/Ordres de mission/OM terrain données climat novembre.md",
     "Images/Pasted image 20251008152256.png",
@@ -226,11 +242,8 @@
     "2025-10-22.md",
     "Calendar",
     "2025-11-10.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
     "Images/Pasted image 20251007135620.png",
     "Images/Pasted image 20251007135547.png",
-    "Images/Pasted image 20251007135438.png",
-    "Images/Pasted Image 20251007124134_645.png",
     "Excalidraw/Drawing 2025-10-07 12.24.55.excalidraw.md",
     "Excalidraw/Drawing 2025-10-07 12.14.45.excalidraw.md",
     "Excalidraw/Drawing 2025-10-07 11.57.20.excalidraw.md",
