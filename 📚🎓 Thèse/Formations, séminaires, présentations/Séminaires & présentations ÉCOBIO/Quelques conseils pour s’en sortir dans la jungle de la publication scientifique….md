@@ -138,4 +138,36 @@ Peer community journal aussi
 
 
 
-Une fois la publie terminée d'écrire → pa
+Une fois la publie terminée d'écrire → parfois le vietnam en attendant la publi
+
+
+
+Peer review process
+
+submit
+assesed par chief editor → reject or send it to associated editor
+same with asso ed → reject or send to reviewers (independent peers)
+reviewers send back review to editor
+editor → rejects or allow for revision
+→loop
+→until accepted or rejected
+
+rejection is the rule (most paper are rejected)
+
+
+
+
+H-index ?
+
+Profil chercheur
+
+Citations
+H index
+indice i10
+
+H-index mesure productivité et impact d'un auteur
+
+h-index = h si publié h articles chacun ayant recus au moins h citations
+donc 5 si 5 ou + articles ayant eu 5 citations ou plus
+
+I index → seulement le nb de papier quoted a minima 10 fois
