@@ -35,16 +35,16 @@
 | 🪲   | Croplands 🌽     | Part of balanced changes  |                                  | 0,46      |                      |
 |      |                  |                           |                                  |           |                      |
 | 🐦   | Ø                | Species richness          | $\textcolor{red}{\large\alpha}$  | 13        |                      |
-| 🐦   | Ø                | Pielou's evennness        | $\textcolor{red}{\large\alpha}$  | 16        |                      |
-| 🐦   | Ø                | Species richness          | $\textcolor{blue}{\large\gamma}$ | 0,10      |                      |
+| 🐦   | Ø                | Pielou's evennness        | $\textcolor{red}{\large\alpha}$  | 0,10      |                      |
+| 🐦   | Ø                | Species richness          | $\textcolor{blue}{\large\gamma}$ | 16        |                      |
 | 🐦   | Ø                | Pielou's evennness        | $\textcolor{blue}{\large\gamma}$ | 0,02      |                      |
 | 🐦   | Ø                | Bray-Curtis dissimilarity | $\textcolor{green}{\large\beta}$ | 0,17      |                      |
 | 🐦   | Ø                | Part of balanced changes  |                                  | 0,23      |                      |
 Gamma plus stable on average que alpha et beta
 | 35        |
-| --------- |
 | 47        |
 | 25        |
 | 28        |
 | --------- |
 | 21        |
+16
