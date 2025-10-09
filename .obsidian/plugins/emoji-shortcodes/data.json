@@ -4,6 +4,9 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":herb:",
+    ":deciduous_tree:",
+    ":corn:",
     ":white_check_mark:",
     ":computer:",
     ":warning:",
@@ -21,7 +24,6 @@
     ":pensive:",
     ":globe_with_meridians:",
     ":sob:",
-    ":deciduous_tree:",
     ":evergreen_tree:",
     ":notebook_with_decorative_cover:",
     ":spiral_notepad:",
@@ -49,7 +51,6 @@
     ":arrow_lower_left:",
     ":large_orange_diamond:",
     ":notebook:",
-    ":newspaper:",
-    ":corn:"
+    ":newspaper:"
   ]
 }
