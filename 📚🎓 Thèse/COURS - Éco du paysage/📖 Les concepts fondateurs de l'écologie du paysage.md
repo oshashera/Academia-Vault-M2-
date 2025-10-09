@@ -147,6 +147,21 @@ Cependant les études récentes laissent supposer des effets plus contrastés qu
 >![[Pasted image 20251009100541.png|center]]
 >
 >
+>![[Pasted image 20251009102338.png|right|500]]
+>**Effet sur les populations** <br>
+>**\\=>** Vulnérabilité des populations de PETITE taille <br>
+>Le hasard a un fort impact sur le maintien des populations à faible effectif
+><br>
+>\+ sensibles aux fluctuations environnementales (précipitations, températures...)
+><br>
+>\+ sensibles aux catastrophes (sécheresse, incendies...) : variations environnementales rares et ponctuelles
+><br>
+>\+ sensibles aux variations démographiques
+><br>
+>\+ sensibles aux variations génétiques : diminution de la diversité génétique : pop moins adaptable
+
+>  
+>  
 
 
 
