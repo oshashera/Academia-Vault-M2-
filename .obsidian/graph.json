@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Excalidraw -path:Images  ",
+  "search": "-path:Excalidraw -path:Images  path:\"📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 11250603
       }
+    },
+    {
+      "query": "path:\"📚🎓 Thèse\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1217552
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.31301236302707836,
+  "scale": 0.8852141553160725,
   "close": false
 }

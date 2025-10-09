@@ -1,1 +1,1 @@
-Composante de la [[Diversité (biodiversité)|biodiversité]] 
+Composante de la [[Diversité dans les systèmes écologiques|biodiversité]], la diversité $\Large\beta$ mesure à quel point les systèmes locaux sont différents entre eux.

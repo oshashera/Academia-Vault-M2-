@@ -1,0 +1,1 @@
+La diversité des systèmes biologiques (et de leur biodiversité), peut être décomposée en deux composantes distinctes :  

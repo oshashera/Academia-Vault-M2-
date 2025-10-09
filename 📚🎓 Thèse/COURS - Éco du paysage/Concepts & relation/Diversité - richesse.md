@@ -1,0 +1,1 @@
+La richesse est le nombre (ou une fonction croissante du nombre) de classes différentes présentes dans le système étudié.
