@@ -201,7 +201,11 @@ Dans les paysages fragmentés, l’isolement diminue : <br>
 >![[Pasted image 20251009105912.png]] *Beninde et al 2015*
 >
 >>[!donc] Exemple 2 : Impact de la parte d'habitat sur la biodiversité des mammifères dans les agrosystèmes
->>Étude réalisée au Brésil, 55 paysages échantillonés
+>>Étude réalisée au Brésil, 55 paysages échantillonnés
+>>![[Pasted image 20251009110850.png]] *Ponzio et al 2023*
+>>**=>** Échelle du paysage : la richesse et la diversité des espèces natives augmentent avec la quantité d’habitats
+>>![[Pasted image 20251009111431.png]] *Ponzio et al 2023*
+>>**=>** Échelle du paysage : la richesse en espèces invasives diminue avec la quantité d'habitats "semi-naturels"
 
 
 
