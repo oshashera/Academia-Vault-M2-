@@ -159,7 +159,18 @@ Cependant les études récentes laissent supposer des effets plus contrastés qu
 >\+ sensibles aux variations démographiques
 ><br>
 >\+ sensibles aux variations génétiques : diminution de la diversité génétique : pop moins adaptable
-
+><br>
+><br>
+>Effets sur les populations
+ Vulnérabilité des populations ISOLEES
+Effets démographiques
+Dans les paysages fragmentés, l’isolement diminue :
+-> l’effet de sauvetage (rescue effect) : l’arrivée d’individus en provenance de
+populations en surproduction permet le sauvetage démographique de
+populations en déclin
+-> la recolonisation d’habitats vacants (après une extinction locale par
+exemple)
+ Importance de la dispersion
 >  
 >  
 
