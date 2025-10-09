@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -196,20 +197,20 @@
   },
   "active": "793048c25b45d50b",
   "lastOpenFiles": [
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité alpha.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de richesse spécifique S.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - richesse.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité beta.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Turnover (remplacement, substitution).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Nestedness (imbrication ou emboîtement).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de dissimilarité de Bray-Curtis.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Jaccard.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Sørensen.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité alpha.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité gamma.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice d'équitabilité de Piélou.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Simpson.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - équitabilité.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - richesse.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de richesse spécifique S.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Shannon.md",
     "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation",

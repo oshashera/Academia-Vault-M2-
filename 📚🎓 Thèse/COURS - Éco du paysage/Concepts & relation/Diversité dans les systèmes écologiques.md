@@ -1,3 +1,3 @@
 La diversité des systèmes biologiques (et de leur biodiversité), peut être décomposée en deux composantes distinctes principales : la [[Diversité - richesse|richesse]] et l'[[Diversité - équitabilité|équitabilité]].
 
-On observera également l'utilisation récurrente de 3 échelles d'études pour la diversité, la [[alph]]
+On observera également l'utilisation récurrente de 3 échelles d'études pour la diversité, la [[Diversité alpha|diversité alpha]], la [[Diversité beta|diversité beta]] et la [[Diversité gamma|diversité gamma]].

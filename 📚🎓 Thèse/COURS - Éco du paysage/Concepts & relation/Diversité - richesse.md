@@ -3,3 +3,5 @@ La richesse est le nombre (ou une fonction croissante du nombre) de classes diff
 La mesure la plus courante de cette richesse est l'[[Indice de richesse spécifique S|indice de richesse spécifique S]]
 
 Généralement la richesse spécifique augmente plus on approche de l'équateur, et diminue avec l'altitude. Sur les îles, elle décroît généralement avec la distance au continent.
+
+On mesure la richesse à l'échelle [[Diversité alpha|alpha]] et [[Diversité gamma|gamma]].
