@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - disparité.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diversité - disparité"
+              "title": "Diversité dans les systèmes écologiques"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - disparité.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diversité - disparité"
+              "title": "Backlinks for Diversité dans les systèmes écologiques"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - disparité.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Diversité - disparité"
+              "title": "Outgoing links from Diversité dans les systèmes écologiques"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - disparité.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diversité - disparité"
+              "title": "Outline of Diversité dans les systèmes écologiques"
             }
           },
           {
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 268,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +196,8 @@
   },
   "active": "793048c25b45d50b",
   "lastOpenFiles": [
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - disparité & régularité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - disparité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - équitabilité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indices de richesse spécifique.md",
     "Images/Pasted image 20251010152812.png",
