@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - richesse.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diversité - richesse"
+              "title": "Distribution de l'abondance des espèces (SAD)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - richesse.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diversité - richesse"
+              "title": "Backlinks for Distribution de l'abondance des espèces (SAD)"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - richesse.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Diversité - richesse"
+              "title": "Outgoing links from Distribution de l'abondance des espèces (SAD)"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - richesse.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diversité - richesse"
+              "title": "Outline of Distribution de l'abondance des espèces (SAD)"
             }
           },
           {
@@ -162,12 +161,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 268,
-    "collapsed": true
+    "width": 268
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +195,17 @@
   },
   "active": "793048c25b45d50b",
   "lastOpenFiles": [
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice d'équitabilité de Piélou.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - richesse.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - équitabilité.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Simpson.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de dissimilarité de Bray-Curtis.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Sørensen.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - disparité & régularité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indices de richesse spécifique.md",
     "Images/Pasted image 20251010152812.png",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Méta-communauté.md",
     "Images/Pasted image 20251010150220.png",
     "Images/Pasted image 20251010150053.png",
@@ -215,16 +219,11 @@
     "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO/URBANPOLL - Parallel adaptation to urban pollinators.md",
     "Images/Pasted image 20251010131032.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité alpha.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - richesse.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité beta.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Turnover (remplacement, substitution).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Nestedness (imbrication ou emboîtement).md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de dissimilarité de Bray-Curtis.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Jaccard.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Sørensen.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité gamma.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice d'équitabilité de Piélou.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Simpson.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Shannon.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation",
     "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO",
