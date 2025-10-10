@@ -40,8 +40,11 @@ How does urbanisation effect
 → flower traits
 → across different regions
 
-Effects of urba,i accr bioclma regions
+#### Effects of urbanization across bioclimatic regions
+↓↓↓↓
 
-Trifuolium repens
+| Region                 | Trifolium repens                                                            | Pollinators                                                 |
+| ---------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Baltic / center europe | No effect on floral traits and fitness<br>Divergent trends                  | No generalized trends<br>Standalone effect on floral traits |
+| Mediterranean europe   | Decreased flower size and fitness<br>Parallel trends<br>Evolutionary shifts | No generalized effect<br>.... *manque une ligne*            |
 
-No effect on floral traits and fit
