@@ -22,18 +22,17 @@
             }
           },
           {
-            "id": "f9707fc3871b74ff",
+            "id": "6b12ab36c3a7c6e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-10 13.07.47.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-10 13.07.47.excalidraw"
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,12 +206,14 @@
       "widgets:Add widget": false
     }
   },
-  "active": "793048c25b45d50b",
+  "active": "6b12ab36c3a7c6e1",
   "lastOpenFiles": [
-    "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO/URBANPOLL - Parallel adaptation to urban pollinators.md",
-    "Images/Pasted image 20251010131032.png",
+    "Calendar/2025-10-21 RDV CGT doctorant villejean 17h30.md",
+    "Calendar/2025-10-20 RDV psy.md",
     "Excalidraw/Drawing 2025-10-10 13.07.47.excalidraw.md",
     "🏡 Home.md",
+    "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO/URBANPOLL - Parallel adaptation to urban pollinators.md",
+    "Images/Pasted image 20251010131032.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité alpha.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de richesse spécifique S.md",
@@ -235,7 +236,6 @@
     "📚🎓 Thèse/Réunions/Réunion Alexandre Corbeau tinytag et données météo.md",
     "📚🎓 Thèse/Réunions/Première réu thèse.md",
     "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
-    "📚🎓 Thèse/Article melina tbw/Objectifs, plans etc.md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations",
     "📚🎓 Thèse/Formations, séminaires, présentations",
