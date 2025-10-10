@@ -11,4 +11,7 @@ Le RAC est utilisable pour reconnaître des distributions connues, dont les prin
 
 ### La distribution en log-séries
 
-Le nb d'espèces est lié au nb d'individus par $\large\mathbb{E}(S^{n})= \alpha \;ln(1+n/\alpha)$ avec $\large S^n$ le nb d'espèces observées dans un échantillon de $\large n$ individus. $\large \alpha$ est le paramètre qui fixe la pente d
+Le nb d'espèces est lié au nb d'individus par $\large\mathbb{E}(S^{n})= \alpha \;ln(1+n/\alpha)$ avec $\large S^n$ le nb d'espèces observées dans un échantillon de $\large n$ individus. $\large \alpha$ est le paramètre qui fixe la pente de la partie linéaire de la relation, valide dès que $\large n > > \alpha$, où le nb d'espèces $\large S^n$ augmente proportionnellement au logarithme du nb d'individus $\large ln(n)$.
+
+
+Ce modèle a été remis en valeur par la théorie neutre dans lequel la distribution de la méta-communauté est en log-séries.
