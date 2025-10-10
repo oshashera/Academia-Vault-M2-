@@ -34,4 +34,5 @@ Enfin, A. Stirling (2007) définit l’**agrégation** comme la capacité d’un
 #### Niveaux d'études de la biodiversité 
 
 On observe l'utilisation récurrente de 3 échelles d'études emboîtées pour la diversité, la [[Diversité alpha|diversité alpha]], la [[Diversité beta|diversité beta]] et la [[Diversité gamma|diversité gamma]].
-La diversité $\large \alpha$ correspond au niveau local, la diversité $\large \gamma$ correspond au paysage, et la diversité $\large \beta$ 
+La diversité $\large \alpha$ correspond au niveau local, la diversité $\large \gamma$ correspond au paysage, et la diversité $\large \beta$ correspond à la différence entre des systèmes locaux ($\large \alpha$).
+La **distinction entre les diversités α et β** dépend de la finesse de la **définition de l’habitat**. La distinction de nombreux habitats diminue la diversité α au profit de la β. Il est donc important de définir une mesure qui ne dépende pas de ce découpage, donc une mesure cumulative (additive ou multiplicative) décrivant la diversité totale, décomposable en la somme ou le produit convenablement pondérés de toutes les diversités α des habitats (diversité intra) et de la diversité β inter-habitat.
