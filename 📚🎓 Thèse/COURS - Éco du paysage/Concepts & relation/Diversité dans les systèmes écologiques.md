@@ -1,8 +1,8 @@
 La diversité des systèmes biologiques (et de leur biodiversité)
 
 ![[Pasted image 20251010152812.png|right|400]]
-<u>Figure : </u>Importance de la **richesse** (*en haut*) et de **l’équitabilité** (*en bas*) pour la définition de la diversité.  ^a190cd
-<br>
+<u>Figure : </u>Importance de la **richesse** (*en haut*) et de **l’équitabilité** (*en bas*) pour la définition de la diversité. 
+<br> ^75cacf
 
 Ligne du haut : toutes choses égales par ailleurs, une communauté de 7 espèces semble plus diverse qu’une communauté de 2 espèces. 
 <br>
@@ -30,5 +30,8 @@ La mesure de la différence entre deux classes est souvent une distance, mais pa
 Il faut ainsi tenir compte de la divergence entre espèces, via la **[[Diversité - disparité & régularité|disparité (et la régularité)]]**
 <br>
 Enfin, A. Stirling (2007) définit l’**agrégation** comme la capacité d’une mesure de diversité à combiner explicitement la **richesse**, **équitabilité**, et **disparité**. Cela ne signifie pas que les composantes contribuent indépendamment les unes des autres à la diversité.
+<br>
+#### Niveaux d'études de la biodiversité 
 
-On observera également l'utilisation récurrente de 3 échelles d'études pour la diversité, la [[Diversité alpha|diversité alpha]], la [[Diversité beta|diversité beta]] et la [[Diversité gamma|diversité gamma]].
+On observe l'utilisation récurrente de 3 échelles d'études emboîtées pour la diversité, la [[Diversité alpha|diversité alpha]], la [[Diversité beta|diversité beta]] et la [[Diversité gamma|diversité gamma]].
+La diversité $\large \alpha$ correspond au niveau local, la diversité $\large \gamma$ correspond au paysage, et la diversité $\large \beta$ 
