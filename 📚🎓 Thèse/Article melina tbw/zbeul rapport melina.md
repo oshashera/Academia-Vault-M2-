@@ -29,4 +29,13 @@ Hétérogénéité paysage
 
 Lorsque plusieurs signif, pas de var qui semble avoir de poids supérieur aux autres, sauf Bray cyrtis pour cropland commu (voir détail ds rapport)
 
->[!important] Favoriser une var plutôt qu'une autre n'est pas une app
+>[!important] Favoriser une var plutôt qu'une autre n'est pas une approche viable pour la conservation biodiv multi-groupe...
+
+#### 3. La réponse au paysage dépend du groupe taxo et de son habitat
+
+###### Oiseaux
+
+Répond avec evenness et proportion d'effet balancés →
+het comp ↑ evenness alpha ; densité hedgerow ↓ evenness gamma ; quantité grassland ↓ balanced change beta
+
+###### Ca
