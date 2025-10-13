@@ -14,5 +14,5 @@ Pourrait aussi être témoin de différences substantielles autre, genre la gest
 #### 2. Variables paysages → effets variés
 
 Quantité semi-habitat (grassland et hedgerows) :
-$\Large\mathbf{\textcolor{red}{\alpha}}$ : quand
-
+$\Large\mathbf{\textcolor{red}{\alpha}}$ : quand y a effet c'est en général positif, et fréquence effets grassland > hedgerow
+$\Large\mathbf{\textcolor{blue}{\gamma}}$: 
