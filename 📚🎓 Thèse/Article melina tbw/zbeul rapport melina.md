@@ -51,3 +51,5 @@ Impacté aux 3 échelles, souvent par plusieurs des 4 var simultanément; pour t
 
 
 Il n'y a **pas** de variable qui a le même effet sur ts les groupe taxo.
+Certaines on des effets contraires sur deux groupe taxo, même au sein du même habitat
+Pour chaque taxon, aucune des variable n'affecte le groupe pour tous les habitats considérés.
