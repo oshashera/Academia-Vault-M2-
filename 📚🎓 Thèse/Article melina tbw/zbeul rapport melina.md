@@ -19,6 +19,14 @@ $\Large\mathbf{\textcolor{red}{\alpha}}$ : quand y a effet c'est en général po
 $\Large\mathbf{\textcolor{blue}{\gamma}}$: fréquence effet sur biodiv hedgerows > grasslands, p'tet pcq écological corridors ? 
 
 
-Heterogénéité paysage
+Hétérogénéité paysage
+
+**Configuration :** 
+- fréquence effet moindre mais impact signif ? → quand signif, negatif à **alpha** pour plantes, positif pour carabes. Positif à **gamma** sauf carabes ds croplands.
+**Composition :**
+- Variable qui a le plus souvent des effets signif sur biodiv à TOUS SCALE, surtout positif à **alpha** et **gamma**
 
 
+Lorsque plusieurs signif, pas de var qui semble avoir de poids supérieur aux autres, sauf Bray cyrtis pour cropland commu (voir détail ds rapport)
+
+>[!important] Favoriser une var plutôt qu'une autre n'est pas une app
