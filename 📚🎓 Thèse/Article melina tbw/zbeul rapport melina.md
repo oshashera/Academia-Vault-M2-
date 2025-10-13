@@ -38,4 +38,16 @@ Lorsque plusieurs signif, pas de var qui semble avoir de poids supérieur aux au
 Répond avec evenness et proportion d'effet balancés →
 het comp ↑ evenness alpha ; densité hedgerow ↓ evenness gamma ; quantité grassland ↓ balanced change beta
 
-###### Ca
+###### Carabes encore ma némésis
+
+Sont plus sensibles au paysage : répond à alpha gamma mais pas beta. dans alpha gamma, répond à chaque var au moins 1 fois, et parfois à 2 en même temps.
+
+###### Plantes
+
+Sont les plus sensibles au paysage
+Impacté aux 3 échelles, souvent par plusieurs des 4 var simultanément; pour tous les indices d'1 habitat a minima.
+
+
+
+
+Il n'y a **pas** de variable qui a le même effet sur ts les groupe taxo.
