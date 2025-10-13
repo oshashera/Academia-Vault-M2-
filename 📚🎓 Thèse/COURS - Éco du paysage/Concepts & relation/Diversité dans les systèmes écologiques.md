@@ -39,11 +39,9 @@ La **distinction entre les diversités α et β** dépend de la finesse de la **
 
 <br>
 
-On utilisera enfin des outils pour l'étude de la diversité : les [[Courbes d'accumulation|courbes d'accumulation]], la [[Diversité asymptotique|diversité asymptotique]], le [[Taux de couverture (échantillonnage)|taux de couverture (échantillonnage)]] et la [[Distribution de l'abondance des espèces (SAD)|distribution de l'abondance des espèces (SAD)]]]
+On utilisera enfin des outils pour l'étude de la diversité : les [[Courbes d'accumulation|courbes d'accumulation (SAC)]], la [[Diversité asymptotique|diversité asymptotique]], le [[Taux de couverture (échantillonnage)|taux de couverture (échantillonnage)]] et la [[Distribution de l'abondance des espèces (SAD)|distribution de l'abondance des espèces (SAD)]]]
 
 
 
 
 
-doit y être à 15h15
-veut y être pour 15h05-10

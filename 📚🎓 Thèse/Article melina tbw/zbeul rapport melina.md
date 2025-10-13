@@ -8,3 +8,5 @@ Effets paysage biodiv
 
 → à $\Large\mathbf{\textcolor{green}{\beta}}$ scale, effets signif sur plantes (limitation capacité dispersion ?) → caractéristiques paysages modèrent échanges entre habitats et capacité colonisations et modif degré spécialisation commu (*pourrait expliquer plus bas piélou alpha??????*).
 Pourrait aussi être témoin de différences substantielles autre, genre la gestion des croplands (traitement, Itin techn, crop planté) ou des grasslands (paturées, tondues)
+Également, landscape joue sur éléments $\large \mathbf{\beta}$
+
