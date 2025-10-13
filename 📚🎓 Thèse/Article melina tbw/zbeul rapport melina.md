@@ -9,9 +9,10 @@ Effets paysage biodiv
 
 → à $\Large\mathbf{\textcolor{green}{\beta}}$ scale, effets signif sur plantes (limitation capacité dispersion ?) → caractéristiques paysages modèrent échanges entre habitats et capacité colonisations et modif degré spécialisation commu (*pourrait expliquer plus bas piélou alpha??????*).
 Pourrait aussi être témoin de différences substantielles autre, genre la gestion des croplands (traitement, Itin techn, crop planté) ou des grasslands (paturées, tondues)
-Également, landscape joue sur éléments $\large \mathbf{\beta}$ à savoir turnover (remplacement sp entre 2 commu) et imbrications (commu 1 = commu 2 + xxxx) → influence sur mécanismes qui amènent à dissimilarité entre commus et leurs rôles.
+Également, landscape joue sur éléments $\Large\mathbf{\beta}$ à savoir turnover (remplacement sp entre 2 commu) et imbrications (commu 1 = commu 2 + xxxx) → influence sur mécanismes qui amènent à dissimilarité entre commus et leurs rôles.
 
 #### 2. Variables paysages → effets variés
 
-
+Quantité semi-habitat (grassland et hedgerows) :
+$\Large\mathbf{\textcolor{red}{\alpha}}$ : quand
 
