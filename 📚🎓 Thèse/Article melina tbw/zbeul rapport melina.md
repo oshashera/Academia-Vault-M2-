@@ -13,6 +13,12 @@ Pourrait aussi être témoin de différences substantielles autre, genre la gest
 
 #### 2. Variables paysages → effets variés
 
-Quantité semi-habitat (grassland et hedgerows) :
-$\Large\mathbf{\textcolor{red}{\alpha}}$ : quand y a effet c'est en général positif, et fréquence effets grassland > hedgerow
-$\Large\mathbf{\textcolor{blue}{\gamma}}$: 
+**Quantité semi-habitat (grassland et hedgerows)** :
+$\Large\mathbf{\textcolor{red}{\alpha}}$ : quand y a effet c'est en général positif, et fréquence effets grassland > hedgerow p'tet pcq stabilité grasslands est plus grande
+
+$\Large\mathbf{\textcolor{blue}{\gamma}}$: fréquence effet sur biodiv hedgerows > grasslands, p'tet pcq écological corridors ? 
+
+
+Heterogénéité paysage
+
+
