@@ -21,4 +21,4 @@ Les *caractéristiques des perturbations* peuvent être résumées par 2 concept
 
 Le caractère universel des perturbations et de l'hétérogénéité dans les systèmes écologiques a remis en cause la définition du "climax" considéré comme état d'équilibre, phase ultime d'un processus successionnel.
 
-Le concept de dynamique des taches a donné naissance à la notion de méta
+Le concept de dynamique des taches a donné naissance à la notion de metaclimax.
