@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Untitled.md",
+                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 0 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Module 0 - Introduction"
             }
           }
         ],
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Untitled.md",
+                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 0 - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Module 0 - Introduction"
             }
           },
           {
@@ -152,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Untitled.md",
+                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 0 - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Module 0 - Introduction"
             }
           },
           {
@@ -181,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Untitled.md",
+                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 0 - Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Module 0 - Introduction"
             }
           },
           {
@@ -235,8 +236,9 @@
   },
   "active": "ad921384bcb26142",
   "lastOpenFiles": [
+    "Images/Pasted image 20251014102934.png",
+    "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Déclaration de Singapour (2010).md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 0 - Introduction.md",
-    "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Untitled.md",
     "🏡 Home.md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche",
     "Calendar/2025-10-14 MOOC ethique module 3 et 4.md",
@@ -264,7 +266,6 @@
     "Calendar/2026-04-01 Formation rendre sa recherche visible et accessible .md",
     "Calendar/2026-01-13 Formation Intro Data Management en Hard scienceBâtiment 40, salle de formation; Bibliothèque Beaulieu.md",
     "Calendar/2025-12-09 Formation Intro à l'éthique de la recherche (visio).md",
-    "Calendar/2025-10-21 RDV CGT doctorant villejean 17h30.md",
     "Images/Pasted image 20251010131032.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation",
     "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO",
