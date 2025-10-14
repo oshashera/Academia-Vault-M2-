@@ -24,6 +24,8 @@ Niveaux d'organisation quasi-autonomes, donc décomposables, mais **si trop de n
 
 >[!dot] Les niveaux **inférieurs** imposent des **conditions limitantes**
 
-Les études de paysages se font souvent en 2 niveaux : paysage et éléments du paysage, mais ca varie selon les objectifs.
+____
+
+Les études de paysages se font souvent en 2 niveaux : **paysage** et **éléments du paysage**, mais ca varie selon les objectifs.
 Le paysage est un système hiérarchisé (cf. niveaux d’organisations) qui peut être subdivisé en niveaux inférieurs (écosystèmes, communautés, populations, organismes) et intégré dans une succession de niveaux supérieurs (régions, biomes, continents, biosphères)
 
