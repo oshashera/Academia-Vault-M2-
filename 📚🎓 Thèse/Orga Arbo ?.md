@@ -27,30 +27,40 @@
 		- CM
 		- TD
 
+Obsidian → notes, donc presque même orga ? + wiki éco ↓↓↓↓↓
 
-
-
-
-
-Obsidian → notes, donc presque même orga ? + wiki éco
-
-- 01 - Administratif
-- 02 - Biblio / Wiki
-	- Wiki éco / éco paysage / éco fx
-	- Axe 1
-	- Axe 2
-	- Axe 3
-- 03 - Terrain
-	- Infos / SIG
-	- Protocoles
-	- Autres (outils, flores,...)
-- 04 - Data
-	- Axe 1
-	- Axe 2
-	- Axe 3
-- 05 - ZAAR
-	- Script Axe 1
-	- Script Axe 2
-	- 
+- Thèse
+	- 01 - Administratif
+	- 02 - Organisation 
+		- Planning
+		- Réunions
+			- Direction thèse
+			- Autres
+	- 03 - Biblio / Wiki
+		- Wiki éco / éco paysage / éco fx
+		- Axe 1
+		- Axe 2
+		- Axe 3
+	- 04 - Terrain
+		- Infos / SIG
+		- Protocoles
+		- Autres (outils, flores,...)
+	- 05 - Data
+		- Axe 1
+		- Axe 2
+		- Axe 3
+	- 06 - ZAAR
+		- Analyses Axe 1
+		- Analyses Axe 2
+	- 07 - ConservES
+		- Analyses Axe 3
+	- 08 - Production : articles, communications
+	- 09 - Séminaires / formations
+		- Réu paysabios
+		- Ecobio séminaires
+		- MOOC
+	- 10 - Enseignements
+		- CM
+		- TP/TD
 
 
