@@ -34,8 +34,33 @@
               "icon": "lucide-file",
               "title": "🏡 Home"
             }
+          },
+          {
+            "id": "4f53f2545133cca1",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ad921384bcb26142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -109,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
+                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for zbeul rapport melina"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -128,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
+                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from zbeul rapport melina"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -157,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
+                "file": "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of zbeul rapport melina"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -209,12 +233,18 @@
       "widgets:Add widget": false
     }
   },
-  "active": "793048c25b45d50b",
+  "active": "ad921384bcb26142",
   "lastOpenFiles": [
-    "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
-    "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
+    "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 0 - Introduction.md",
+    "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Untitled.md",
     "🏡 Home.md",
+    "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche",
+    "Calendar/2025-10-14 MOOC ethique module 3 et 4.md",
+    "Calendar/2025-10-14 Finir discu mélina.md",
+    "Calendar/2025-10-14 MOOC Ethique module 1 et 2.md",
+    "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
+    "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Taux de couverture (échantillonnage).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité asymptotique.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Courbes d'accumulation.md",
@@ -235,12 +265,7 @@
     "Calendar/2026-01-13 Formation Intro Data Management en Hard scienceBâtiment 40, salle de formation; Bibliothèque Beaulieu.md",
     "Calendar/2025-12-09 Formation Intro à l'éthique de la recherche (visio).md",
     "Calendar/2025-10-21 RDV CGT doctorant villejean 17h30.md",
-    "Calendar/2025-10-20 RDV psy.md",
-    "Excalidraw/Drawing 2025-10-10 13.07.47.excalidraw.md",
-    "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO/URBANPOLL - Parallel adaptation to urban pollinators.md",
     "Images/Pasted image 20251010131032.png",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité alpha.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité beta.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation",
     "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations",
@@ -259,7 +284,6 @@
     "synthèse biblio/Untitled",
     "synthèse biblio/V2 Synthèse.canvas",
     "synthèse biblio/Synthèse biblio.canvas",
-    "📚🎓 Thèse/COURS - Éco du paysage",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/Untitled.canvas",
     "🌳 Stage ECOBIO/📝 Rapport ?/🔴 Plan intro Version FINALE.canvas",
