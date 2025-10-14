@@ -32,35 +32,36 @@ Obsidian → notes, donc presque même orga ? + wiki éco ↓↓↓↓↓
 - Thèse
 	- 01 - Administratif
 	- 02 - Organisation 
-		- Planning
-		- Réunions
+		- A - Planning
+		- B - Réunions
 			- Direction thèse
 			- Autres
 	- 03 - Biblio / Wiki
-		- Wiki éco / éco paysage / éco fx
-		- Axe 1
-		- Axe 2
-		- Axe 3
+		- A - Wiki éco / éco paysage / éco fx
+		- B - Axe 1
+		- C - Axe 2
+		- D - Axe 3
 	- 04 - Terrain
-		- Infos / SIG
-		- Protocoles
-		- Autres (outils, flores,...)
+		- A - Infos / SIG
+		- B - Protocoles
+		- C - Autres (outils, flores,...)
 	- 05 - Data
-		- Axe 1
-		- Axe 2
-		- Axe 3
+		- A - Axe 1
+		- B - Axe 2
+		- C - Axe 3
 	- 06 - ZAAR
-		- Analyses Axe 1
-		- Analyses Axe 2
+		- A - Analyses Axe 1
+		- B - Analyses Axe 2
 	- 07 - ConservES
 		- Analyses Axe 3
 	- 08 - Production : articles, communications
 	- 09 - Séminaires / formations
-		- Réu paysabios
-		- Ecobio séminaires
-		- MOOC
+		- A - Réu paysabios
+		- B - Ecobio séminaires
+		- C - MOOC
 	- 10 - Enseignements
-		- CM
-		- TP/TD
+		- A - CM
+		- B - TP/TD
 
 
+:
