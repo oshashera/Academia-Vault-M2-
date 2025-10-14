@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "🌳🗺 Écologie du paysage"
             }
+          },
+          {
+            "id": "ce19e4b8cd944260",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Concept de métapopulation"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +138,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Concept de métapopulation"
+              "title": "Outgoing links"
             }
           },
           {
@@ -157,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Concept de métapopulation"
+              "title": "Outline"
             }
           },
           {
@@ -209,11 +217,11 @@
       "widgets:Add widget": false
     }
   },
-  "active": "793048c25b45d50b",
+  "active": "ce19e4b8cd944260",
   "lastOpenFiles": [
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
     "Images/Pasted image 20251014164437.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métacommunauté.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concepts de climax et meta-climax.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie de la percolation.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept d'écocomplexe.md",
@@ -249,7 +257,6 @@
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Déclaration de Singapour (2010).md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche",
     "Images/Pasted image 20251010152812.png",
-    "Images/Pasted image 20251010150220.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)",
     "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations",
