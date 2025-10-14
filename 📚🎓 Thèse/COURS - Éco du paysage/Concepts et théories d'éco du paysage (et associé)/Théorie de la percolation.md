@@ -1,3 +1,8 @@
+---
+sources:
+  - "Burel & Baudry, Écologie du paysage : concept, méthodes et applications (2nde édition)"
+  - https://jonathanlenoir.wordpress.com/wp-content/uploads/2013/12/ecologie-du-paysage.pdf
+---
 S'intéresse au processus physique de flux d’une « information » à travers un « réseau ». En écologie du paysage, ce sont les phénomènes de migration d’organismes ou de populations à travers le paysage, ce dernier étant comparé à un milieux poreux dans lequel chaque individu circule plus ou moins facilement (cost-distance analyses).
 - Description **géométrique** de la notion de **connectivité**
 - Description du **déplacement** à partir d’une **zone source** (invasions biologiques)

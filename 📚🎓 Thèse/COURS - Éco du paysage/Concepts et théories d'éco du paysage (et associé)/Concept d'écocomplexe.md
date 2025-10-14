@@ -1,3 +1,7 @@
+---
+sources:
+  - https://jonathanlenoir.wordpress.com/wp-content/uploads/2013/12/ecologie-du-paysage.pdf
+---
 ![[Pasted image 20251014163602.png|right|450]]
 Espace porteur d'un ensemble plus ou moins **anthropisé d’écosystèmes *interactifs*** » (Blandin & Lamotte 1985)
 

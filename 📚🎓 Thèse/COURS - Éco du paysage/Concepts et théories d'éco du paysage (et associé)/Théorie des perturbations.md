@@ -20,6 +20,6 @@ Les *caractéristiques des perturbations* peuvent être résumées par 2 concept
 
 <br>
 
-Le caractère universel des perturbations et de l'hétérogénéité dans les systèmes écologiques a remis en cause la définition du "**[[Climax et meta-climax#Climax|climax]]**" considéré comme état d'équilibre, phase ultime d'un processus successionnel.
+Le caractère universel des perturbations et de l'hétérogénéité dans les systèmes écologiques a remis en cause la définition du "**[[Concepts de climax et meta-climax#Climax|climax]]**" considéré comme état d'équilibre, phase ultime d'un processus successionnel.
 
-Le concept de dynamique des taches a donné naissance à la notion de **[[Climax et meta-climax#Meta-climax|meta-climax]]**.
+Le concept de dynamique des taches a donné naissance à la notion de **[[Concepts de climax et meta-climax#Meta-climax|meta-climax]]**.
