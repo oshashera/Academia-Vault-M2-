@@ -11,4 +11,4 @@ C'est la dernière étape d'une [[Successions écologiques|succession écologiqu
 
 Ensemble des sous-systèmes [[Successions écologiques|successionnels]] déphasés les uns par rapport aux autres, mais tous également nécessaire au fonctionnement du système à l'échelle du paysage (Blondel, 1986).
 Sa dynamique est entretenue par le régime régional de perturbations qui est une condition nécessaire au maintien de la diversité régionale, car la structuration de l'espace qui en résulte garantit la coexistence, à l'échelle du paysage, d'un grand nombre d'espèce.
-![[Pasted image 20251014163806.png]]
+![[Pasted image 20251014163806.png|center|700]]
