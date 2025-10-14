@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distribution de l'abondance des espèces (SAD)"
+              "title": "Théorie générale des systèmes"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Distribution de l'abondance des espèces (SAD)"
+              "title": "Backlinks for Théorie générale des systèmes"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Distribution de l'abondance des espèces (SAD)"
+              "title": "Outgoing links from Théorie générale des systèmes"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Distribution de l'abondance des espèces (SAD)"
+              "title": "Outline of Théorie générale des systèmes"
             }
           },
           {
@@ -197,12 +196,16 @@
   },
   "active": "793048c25b45d50b",
   "lastOpenFiles": [
+    "📚🎓 Thèse/COURS - Éco du paysage/Écologie du paysage (Jonathan lenoir).md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Distribution de l'abondance des espèces (SAD).md",
     "Images/Pasted image 20251014142808.png",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Taux de couverture (échantillonnage).md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité asymptotique.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Courbes d'accumulation.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Taux de couverture (échantillonnage).md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité asymptotique.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Courbes d'accumulation.md",
     "Images/Pasted image 20251014113713.png",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité dans les systèmes écologiques.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité dans les systèmes écologiques.md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 1 - Les enjeux de l'intégrité scientifique.md",
     "🏡 Home.md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 0 - Introduction.md",
@@ -214,36 +217,32 @@
     "Calendar/2025-10-14 MOOC Ethique module 1 et 2.md",
     "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
     "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Distribution de l'abondance des espèces (SAD).md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice d'équitabilité de Piélou.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - richesse.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - équitabilité.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Simpson.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de dissimilarité de Bray-Curtis.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indice de Sørensen.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Diversité - disparité & régularité.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Indices de richesse spécifique.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice d'équitabilité de Piélou.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - richesse.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - équitabilité.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice de Simpson.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice de dissimilarité de Bray-Curtis.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice de Sørensen.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - disparité & régularité.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indices de richesse spécifique.md",
     "Images/Pasted image 20251010152812.png",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation/Méta-communauté.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Méta-communauté.md",
     "Images/Pasted image 20251010150220.png",
     "Images/Pasted image 20251010150053.png",
     "Calendar/2026-04-01 Formation rendre sa recherche visible et accessible .md",
-    "Calendar/2026-01-13 Formation Intro Data Management en Hard scienceBâtiment 40, salle de formation; Bibliothèque Beaulieu.md",
     "Images/Pasted image 20251010131032.png",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)",
     "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations",
     "📚🎓 Thèse/Formations, séminaires, présentations",
     "Images/Pasted image 20251009111431.png",
     "Images/Pasted image 20251009110850.png",
     "Images/Pasted image 20251009105912.png",
-    "Images/Pasted image 20251009105553.png",
     "📚🎓 Thèse/Administratif/Ordres de mission",
     "Zbeul à ranger",
     "Calendar",
     "📚🎓 Thèse/Réunions",
     "🌳 Stage ECOBIO/méthodo.canvas",
-    "synthèse biblio/Untitled",
     "synthèse biblio/V2 Synthèse.canvas",
     "synthèse biblio/Synthèse biblio.canvas",
     "🌳 Stage ECOBIO/Soutenance ggggggoddddammmn/Canva des idées ?.canvas",

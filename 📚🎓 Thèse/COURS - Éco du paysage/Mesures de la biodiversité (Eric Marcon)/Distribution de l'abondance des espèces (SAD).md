@@ -43,6 +43,11 @@ La distribution log-normale décrit assez bien (mais pas exactement) une communa
 
 #### La distribution géométrique
 
+Si les espèces se partagent les ressources selon un algorithme _broken stick_ séquentiel (comme dans la distribution log-normale) mais de proportion fixe 0<k<1, alors la distribution obtenue est géométrique. Les abondances successives sont proportionnelles à k,k(1−k),k(1−k)2,…,k(1−k)s,…,k(1−k)S
+
+C’est la distribution qui traduit l’absence de relation entre la taille de l’échantillon et l’abondance des espèces ([Pueyo, He, et Zillio 2007](https://ericmarcon.github.io/MesuresBioDiv2/references.html#ref-Pueyo2007)) : la distribution du logarithme de ses probabilités est uniforme. En d’autre termes, l’ordre de grandeur de l’abondance d’une espèce est uniformément distribué.
+
+La distribution est observée dans les communautés pionnières ([Bazzaz 1975](https://ericmarcon.github.io/MesuresBioDiv2/references.html#ref-Bazzaz1975)), peu diverses, ou les communautés microbiennes ([Haegeman et al. 2013](https://ericmarcon.github.io/MesuresBioDiv2/references.html#ref-Haegeman2013)).
 
 ## Synthèse
 ![[Pasted image 20251014142808.png]]
