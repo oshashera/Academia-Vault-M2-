@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-path:Excalidraw -path:Images  path:\"📚🎓 Thèse/COURS - Éco du paysage/Concepts & relation\"  ",
+  "collapse-filter": true,
+  "search": "-path:Excalidraw -path:Images  path:\"📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4789319720744392,
+  "scale": 0.7183979581116587,
   "close": false
 }

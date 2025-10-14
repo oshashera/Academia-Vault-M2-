@@ -11,10 +11,14 @@
             "id": "793048c25b45d50b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Bioavailability of nutrients.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🟢 Bioavailability of nutrients"
             }
           },
           {
@@ -88,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -105,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Bioavailability of nutrients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 🟢 Bioavailability of nutrients"
             }
           },
           {
@@ -123,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Bioavailability of nutrients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 🟢 Bioavailability of nutrients"
             }
           },
           {
@@ -151,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Cours/🎓 Soil quality and Ecosystem Services/CM/🟢 Bioavailability of nutrients.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 🟢 Bioavailability of nutrients"
             }
           },
           {
@@ -205,6 +211,9 @@
   "active": "793048c25b45d50b",
   "lastOpenFiles": [
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité dans les systèmes écologiques.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - richesse.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité gamma.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indices de richesse spécifique.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Climax et meta-climax.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des perturbations.md",
@@ -234,9 +243,6 @@
     "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
     "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice d'équitabilité de Piélou.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - richesse.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - équitabilité.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice de Simpson.md",
     "Images/Pasted image 20251010152812.png",
     "Images/Pasted image 20251010150220.png",
     "Images/Pasted image 20251010150053.png",
