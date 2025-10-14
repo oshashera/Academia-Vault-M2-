@@ -2,3 +2,11 @@ La **succession écologique** est le processus naturel d'évolution et de dével
 
 ### Succession primaire
 
+Succession ayant eu lieu à 
+
+
+
+
+### Succession secondaire
+
+Succession ayant eu lieu à 

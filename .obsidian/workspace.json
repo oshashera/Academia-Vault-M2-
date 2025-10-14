@@ -11,14 +11,10 @@
             "id": "793048c25b45d50b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Successions écologiques"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -92,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -108,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Successions écologiques"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Successions écologiques"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Successions écologiques"
+              "title": "Outline"
             }
           },
           {
@@ -210,8 +204,9 @@
   },
   "active": "793048c25b45d50b",
   "lastOpenFiles": [
-    "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Climax et meta-climax.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité dans les systèmes écologiques.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Climax et meta-climax.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des perturbations.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random",
     "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
@@ -227,7 +222,6 @@
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité asymptotique.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Courbes d'accumulation.md",
     "Images/Pasted image 20251014113713.png",
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité dans les systèmes écologiques.md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 1 - Les enjeux de l'intégrité scientifique.md",
     "🏡 Home.md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 0 - Introduction.md",
