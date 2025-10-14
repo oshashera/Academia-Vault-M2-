@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Climax et meta-climax.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Climax et meta-climax"
+              "title": "Successions écologiques"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Climax et meta-climax.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Climax et meta-climax"
+              "title": "Backlinks for Successions écologiques"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Climax et meta-climax.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Climax et meta-climax"
+              "title": "Outgoing links from Successions écologiques"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Climax et meta-climax.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Climax et meta-climax"
+              "title": "Outline of Successions écologiques"
             }
           },
           {
@@ -210,8 +210,9 @@
   },
   "active": "793048c25b45d50b",
   "lastOpenFiles": [
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des perturbations.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Climax et meta-climax.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des perturbations.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random",
     "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/La théorie biogéographique des îles.md",
@@ -242,7 +243,6 @@
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - richesse.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - équitabilité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice de Simpson.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice de dissimilarité de Bray-Curtis.md",
     "Images/Pasted image 20251010152812.png",
     "Images/Pasted image 20251010150220.png",
     "Images/Pasted image 20251010150053.png",

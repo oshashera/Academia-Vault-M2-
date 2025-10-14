@@ -18,7 +18,8 @@ Les *caractéristiques des perturbations* peuvent être résumées par 2 concept
 >[!summary] 2. Dynamique des taches
 >Habitats considérés comme discrets, distribués en taches individualisées et différentes les unes des autres, des réseaux d'échanges existent entre les taches d'habitats, facilitant les processsus de recolonisation. Dans les paysages anthropisés, la dynamique est plus complexe et imprévisible.
 
+<br>
 
-Le caractère universel des perturbations et de l'hétérogénéité dans les systèmes écologiques a remis en cause la définition du "climax" considéré comme état d'équilibre, phase ultime d'un processus successionnel.
+Le caractère universel des perturbations et de l'hétérogénéité dans les systèmes écologiques a remis en cause la définition du "**[[Climax et meta-climax#Climax|climax]]**" considéré comme état d'équilibre, phase ultime d'un processus successionnel.
 
-Le concept de dynamique des taches a donné naissance à la notion de metaclimax.
+Le concept de dynamique des taches a donné naissance à la notion de **[[Climax et meta-climax#Meta-climax|meta-climax]]**.
