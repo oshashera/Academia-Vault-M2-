@@ -38,6 +38,7 @@ La diversité $\large \alpha$ correspond au niveau local, la diversité $\large 
 La **distinction entre les diversités α et β** dépend de la finesse de la **définition de l’habitat**. La distinction de nombreux habitats diminue la diversité α au profit de la β. Il est donc important de définir une mesure qui ne dépende pas de ce découpage, donc une mesure cumulative (additive ou multiplicative) décrivant la diversité totale, décomposable en la somme ou le produit convenablement pondérés de toutes les diversités α des habitats (diversité intra) et de la diversité β inter-habitat.
 
 <br>
+### Outils 
 
 On utilisera enfin des outils pour l'étude de la diversité : les [[Courbes d'accumulation|courbes d'accumulation (SAC)]], la [[Diversité asymptotique|diversité asymptotique]], le [[Taux de couverture (échantillonnage)|taux de couverture (échantillonnage)]] et la [[Distribution de l'abondance des espèces (SAD)|distribution de l'abondance des espèces (SAD)]]]
 
