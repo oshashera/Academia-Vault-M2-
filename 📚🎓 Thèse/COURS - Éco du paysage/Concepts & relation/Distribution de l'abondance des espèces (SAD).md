@@ -19,7 +19,10 @@ Ce modèle a été remis en valeur par la théorie neutre dans lequel la distrib
 
 #### La distribution Broken Stick
 
-Si les espèces se partagent les ressources ou l’espace des niches, représentées par un bâton, par un processus de cassure aléatoire et simultanée (précisément, les 𝑆 − 1 cassures du bâton sont distribuées uniformément sur sa longueur) et que leur abondance est proportionnelle à la quantité de ressources
+Si les espèces se partagent les ressources ou l’espace des niches, représentées par un bâton, par un processus de cassure aléatoire et simultanée (précisément, les $\Large s$ − 1 cassures du bâton sont distribuées uniformément sur sa longueur) et que leur abondance est proportionnelle à la quantité de ressources
 ou d’espace de niche obtenus, alors leur distribution suit le modèle Broken Stick de MacArthur.
-Parmi les distributions classiques, c’est la plus équitable : la distribution uniforme des probabilités ($\large{ p_{s}=} \frac{1}{S}$pour tout $\large s$) n’est jamais approchée.
+Parmi les distributions classiques, c’est la plus équitable : la distribution uniforme des probabilités ($\large{ p_{s}=} \frac{1}{S}$pour tout $\Large s$) n’est jamais approchée.
 Elle est peu observée empiriquement.
+
+
+#### La distribution log-normale

@@ -1,4 +1,2 @@
-#### Fréquences de Good-Turing
-
-En absence de toute information sur la loi de distribution des espèces, et en supposant
+Satan a créé les probas, et pour plus d'info, aller se faire voir **[ICI](https://ericmarcon.github.io/MesuresBioDiv2/chap-Outils.html#sec-Couverture)**
 
