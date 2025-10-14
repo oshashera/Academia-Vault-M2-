@@ -26,3 +26,25 @@ Elle est peu observée empiriquement.
 
 
 #### La distribution log-normale
+
+Dans une distribution log-normale, le logarithme des probabilités des espèces (notées ps pour l’espèce s) suit une loi normale. L’écart-type σ de cette distribution règle l’équitabilité de la distribution. Son espérance est obtenue à partir du nombre d’espèces et de σ, pour que la somme des probabilités égale 1.
+
+La distribution est aussi le résultat d’un algorithme de bâton brisé (_broken stick_) hiérarchique ([Bulmer 1974](https://ericmarcon.github.io/MesuresBioDiv2/references.html#ref-Bulmer1974)) :
+
+- Si les ressources (représentées par un bâton) sont partagées une première fois aléatoirement, selon une loi quelconque,
+- Si chaque bâton obtenu est partagé à nouveau selon le même procédé, et que l’opération est répétée un assez grand nombre de fois,
+- Si l’abondance de chaque espèce est proportionnelle aux ressources dont elle dispose,
+- Alors la distribution des espèces est log-normale
+
+Ce mécanisme décrit assez bien un mécanisme de partage successif des ressources, par exemple entre groupes d’espèces de plus en plus petits, correspondant à des niches écologiques de plus en plus étroites.
+
+La distribution log-normale décrit assez bien (mais pas exactement) une communauté locale dans le cadre de la théorie neutre ([Stephen P. Hubbell 2001](https://ericmarcon.github.io/MesuresBioDiv2/references.html#ref-Hubbell2001)) comme le montre la figure. Le nombre d’espèces rares est un peu surestimé. La distribution exacte est donnée par Volkov et al. ([2003](https://ericmarcon.github.io/MesuresBioDiv2/references.html#ref-Volkov2003)).
+
+
+#### La distribution géométrique
+
+
+## Synthèse
+![[Pasted image 20251014142808.png]]
+Montre bien une gradation en termes de décroissance de probabilité entre des distributions de même richesse : de la plus équitable (broken stick) à la plus inéquitable (géométrique). Elle doit être nuancée : la proportion k de la distribution géométrique fixe la pente de la droite qui la représente sur la figure. k=10% sur la figure : une valeur plus faible diminuerait la pente. De même, l’écart-type de la distribution log-normale décrit sa dispersion. Une valeur supérieure augmenterait sa décroissance.
+
