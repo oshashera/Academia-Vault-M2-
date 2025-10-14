@@ -63,5 +63,3 @@ Obsidian → notes, donc presque même orga ? + wiki éco ↓↓↓↓↓
 		- A - CM
 		- B - TP/TD
 
-
-:
