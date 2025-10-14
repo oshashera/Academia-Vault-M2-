@@ -17,8 +17,15 @@ En découlent notamment les idées de :
 >
 >Le taux d'immigration diminue plus on a d'espèce sur l'île (= proche de la composition spécifique du continent (=pool d'espèce)), alors que le taux d'extinction augmente, du fait de la petite taille des populations plus vulnérables aux accidents démographiques ou environnementaux
 
+NB d'sp dans île A = équilibre entre <font color="#00b050">immigration de nouvelles espèces</font> depuis le continent et îles environnantes (==effet distance==) + <font color="#c00000">extinction des espèces présentes sur l'îles A</font> (==effet surface==)
+
+
+
+
+
+
 Cette théorie est transposable à de nombreux cas d’étude en écologie du paysage : par exemple, l’étude de fragments forestiers dans une matrice de champs cultivés.
 
 > [!donc] Ca part d'une idée ou la mer (ou la matrice de champs cultivé par ex) est un milieu *absolument* hostile; or, on peut considérer que les différents fragments de différentes occupations de sols ne sont pas toutes hostiles de manière binaire, mais peut-être sur un gradient d'habitabilité ?
 
-*à lire/check : The fragmented forest : island biogeography theory and the preservation of biotic diversity, par Larry D *
+*à lire/check : The fragmented forest : island biogeography theory and the preservation of biotic diversity, par Larry D Harris*
