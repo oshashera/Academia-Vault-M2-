@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -209,8 +208,9 @@
       "widgets:Add widget": false
     }
   },
-  "active": "793048c25b45d50b",
+  "active": "2916e548f1597d52",
   "lastOpenFiles": [
+    "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random",
     "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des perturbations.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/La théorie biogéographique des îles.md",
@@ -242,7 +242,6 @@
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - équitabilité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice de Simpson.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice de dissimilarité de Bray-Curtis.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Indice de Sørensen.md",
     "Images/Pasted image 20251010152812.png",
     "Images/Pasted image 20251010150220.png",
     "Images/Pasted image 20251010150053.png",

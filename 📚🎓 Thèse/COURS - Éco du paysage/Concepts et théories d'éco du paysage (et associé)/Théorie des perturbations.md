@@ -12,3 +12,13 @@ Par exemple : Tempêtes, incendies, épidémies, éruptions, agriculture/sylvicu
 
 Les *caractéristiques des perturbations* peuvent être résumées par 2 concepts :
 
+>[!summary] 1. Régime des perturbations
+> Organisation spatiale et temporelle de la création de tache.
+
+>[!summary] 2. Dynamique des taches
+>Habitats considérés comme discrets, distribués en taches individualisées et différentes les unes des autres, des réseaux d'échanges existent entre les taches d'habitats, facilitant les processsus de recolonisation. Dans les paysages anthropisés, la dynamique est plus complexe et imprévisible.
+
+
+Le caractère universel des perturbations et de l'hétérogénéité dans les systèmes écologiques a remis en cause la définition du "climax" considéré comme état d'équilibre, phase ultime d'un processus successionnel.
+
+Le concept de dynamique des taches a donné naissance à la notion de méta
