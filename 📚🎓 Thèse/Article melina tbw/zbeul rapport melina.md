@@ -57,5 +57,9 @@ Certaines on des effets contraires sur deux groupe taxo, même au sein du même 
 Ces contrastes pourraient être expliquées par des diff dans traits d'histoire de vie, d'utilisation des ressources, et de capacité de dispersion
 
 Pour chaque taxon, aucune des variable n'affecte le groupe pour tous les habitats considérés.
-Quand un indice de biodiv est impacté par la même variable paysagère dans plusieurs habitats pour un taxon, les réponses sont souvent convergentes.
+Quand un indice de biodiv est impacté par la même variable paysagère dans plusieurs habitats pour un taxon, les réponses sont souvent convergentes. Même si ca peut être parfois divergent entre habitats
+
+Sp croplands sont les plus sensibles à landscape variables
+
+#### 4. Dans un groupe taxo, les espèces à dispersion courte sont plus sensible à la structure du paysage
 
