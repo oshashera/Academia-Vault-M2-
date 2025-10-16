@@ -50,8 +50,12 @@ Impacté aux 3 échelles, souvent par plusieurs des 4 var simultanément; pour t
 
 
 
+
+
 Il n'y a **pas** de variable qui a le même effet sur ts les groupe taxo.
 Certaines on des effets contraires sur deux groupe taxo, même au sein du même habitat
 Ces contrastes pourraient être expliquées par des diff dans traits d'histoire de vie, d'utilisation des ressources, et de capacité de dispersion
 
 Pour chaque taxon, aucune des variable n'affecte le groupe pour tous les habitats considérés.
+Quand un indice de biodiv est impacté par la même variable paysagère dans plusieurs habitats pour un taxon, les réponses sont souvent convergentes.
+
