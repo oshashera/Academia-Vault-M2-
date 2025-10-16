@@ -9,23 +9,23 @@
 	- 03 Terrain
 		- 01 Infos / SIG / déjà fait
 		- 02 Protocoles
-		- 02Autres (flores, outils, etc)
+		- 03 Autres (flores, outils, etc)
 	- 04 Data
-		- Axe 1
-		- Axe 2
-		- Axe 3
+		- 01 Axe 1
+		- 02 Axe 2
+		- 03 Axe 3
 	- 05 Axe 1 /2 (Zaar)
-		- Scripts Axe 1
-		- Scripts Axe 2
+		- 01 Scripts Axe 1
+		- 02 Scripts Axe 2
 	- 06 Axe 3 (ConservES)
-		- Scripts
+		- 01 Scripts
 	- 07 Formations / séminaires
-		- MOOC
-		- Ecobio séminaires 
-		- Réu paysabios
+		- 01 MOOC
+		- 02 Ecobio séminaires 
+		- 03 Réu paysabios
 	- 08 Enseignements
-		- CM
-		- TD
+		- 01 CM
+		- 02 TD/TP
 
 Obsidian → notes, donc presque même orga ? + wiki éco ↓↓↓↓↓
 
