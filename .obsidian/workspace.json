@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zbeul rapport melina"
+              "title": "Les lisières (edges)"
             }
           },
           {
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for zbeul rapport melina"
+              "title": "Backlinks for Les lisières (edges)"
             }
           },
           {
@@ -167,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from zbeul rapport melina"
+              "title": "Outgoing links from Les lisières (edges)"
             }
           },
           {
@@ -196,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of zbeul rapport melina"
+              "title": "Outline of Les lisières (edges)"
             }
           },
           {
@@ -250,8 +249,14 @@
   },
   "active": "fe702ee20631779e",
   "lastOpenFiles": [
-    "Packages R a apprendre.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Structure en matrice-tâches.md",
+    "Images/Pasted image 20251016155640.png",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Structures en tâches (patches).md",
+    "Images/Pasted image 20251016155520.png",
     "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
+    "Packages R a apprendre.md",
     "📚🎓 Thèse/🗂️ Orga Arbo ?.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
     "Calendar/2025-10-17 Script satan comprendre.md",
@@ -281,14 +286,8 @@
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Distribution de l'abondance des espèces (SAD).md",
     "Images/Pasted image 20251014142808.png",
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Taux de couverture (échantillonnage).md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité asymptotique.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Courbes d'accumulation.md",
     "Images/Pasted image 20251014113713.png",
-    "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 1 - Les enjeux de l'intégrité scientifique.md",
-    "Images/Pasted image 20251014102934.png",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche",
-    "Images/Pasted image 20251010152812.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)",
     "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations",
