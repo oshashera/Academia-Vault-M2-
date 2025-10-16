@@ -51,28 +51,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité et connectivité.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Hétérogénéité.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connectivité et connectivité"
-            }
-          },
-          {
-            "id": "d40c9b70d1cfa76c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-16 16.39.24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-16 16.39.24.excalidraw"
+              "title": "Hétérogénéité"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-16 16.39.24.excalidraw.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Hétérogénéité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-10-16 16.39.24.excalidraw"
+              "title": "Backlinks for Hétérogénéité"
             }
           },
           {
@@ -165,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-16 16.39.24.excalidraw.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Hétérogénéité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-10-16 16.39.24.excalidraw"
+              "title": "Outgoing links from Hétérogénéité"
             }
           },
           {
@@ -194,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-16 16.39.24.excalidraw.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Hétérogénéité.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-10-16 16.39.24.excalidraw"
+              "title": "Outline of Hétérogénéité"
             }
           },
           {
@@ -246,11 +233,15 @@
       "widgets:Add widget": false
     }
   },
-  "active": "d40c9b70d1cfa76c",
+  "active": "fe702ee20631779e",
   "lastOpenFiles": [
-    "🏡 Home.md",
-    "Excalidraw/Drawing 2025-10-16 16.39.24.excalidraw.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Hétérogénéité.md",
+    "Images/Pasted image 20251016170853.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité et connectivité.md",
+    "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
+    "Excalidraw/Drawing 2025-10-16 16.39.24.excalidraw.md",
+    "🏡 Home.md",
     "Packages R a apprendre.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/SIG (my beloved).md",
     "Images/Pasted image 20251016162620.png",
@@ -268,7 +259,6 @@
     "Images/Pasted image 20251016160251.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Structure en matrice-tâches.md",
-    "Images/Pasted image 20251016155640.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Structures en tâches (patches).md",
     "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
     "📚🎓 Thèse/🗂️ Orga Arbo ?.md",
@@ -281,9 +271,6 @@
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concepts de climax et meta-climax.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie de la percolation.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept d'écocomplexe.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie de la hiérarchie.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie biogéographique des îles.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche",
