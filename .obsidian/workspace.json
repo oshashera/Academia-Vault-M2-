@@ -59,8 +59,7 @@
               "title": "🗂️ Orga Arbo ?"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/🗂️ Orga Arbo ?.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🗂️ Orga Arbo ?"
+              "title": "Backlinks for Concept de métapopulation"
             }
           },
           {
@@ -153,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/🗂️ Orga Arbo ?.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🗂️ Orga Arbo ?"
+              "title": "Outgoing links from Concept de métapopulation"
             }
           },
           {
@@ -182,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/🗂️ Orga Arbo ?.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🗂️ Orga Arbo ?"
+              "title": "Outline of Concept de métapopulation"
             }
           },
           {
@@ -234,10 +233,11 @@
       "widgets:Add widget": false
     }
   },
-  "active": "fe702ee20631779e",
+  "active": "793048c25b45d50b",
   "lastOpenFiles": [
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - richesse.md",
+    "Calendar/2025-10-17 Script satan comprendre.md",
     "📚🎓 Thèse/🗂️ Orga Arbo ?.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - richesse.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité dans les systèmes écologiques.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
@@ -272,7 +272,6 @@
     "🏡 Home.md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Module 0 - Introduction.md",
     "Images/Pasted image 20251014102934.png",
-    "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche/Déclaration de Singapour (2010).md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche",
     "Images/Pasted image 20251010152812.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)",
