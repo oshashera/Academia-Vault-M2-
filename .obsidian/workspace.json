@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -235,9 +236,13 @@
   },
   "active": "fe702ee20631779e",
   "lastOpenFiles": [
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Hétérogénéité.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Propriétés émergentes du système.md",
+    "Images/Pasted image 20251016174101.png",
+    "Images/Pasted image 20251016174031.png",
+    "Images/Pasted image 20251016173811.png",
     "Images/Pasted image 20251016171349.png",
+    "Images/Pasted image 20251016173549.png",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Propriétés émergentes du système.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Hétérogénéité.md",
     "Images/Pasted image 20251016171330.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
     "Images/Pasted image 20251016170853.png",
@@ -251,10 +256,7 @@
     "Images/Pasted image 20251016162511.png",
     "Images/Pasted image 20251016162318.png",
     "Images/Pasted image 20251016162127.png",
-    "Images/Pasted image 20251016161750.png",
-    "Images/Pasted image 20251016161640.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Etendues (extents) et grains (grains).md",
-    "Images/Pasted image 20251016161025.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Relation entre lisière, zone centrale et surface des taches.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Zones centrales (cores).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
@@ -270,7 +272,6 @@
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métacommunauté.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concepts de climax et meta-climax.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie de la percolation.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche",
