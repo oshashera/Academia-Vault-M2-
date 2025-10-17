@@ -11,20 +11,9 @@ Un paysage, c'est un ensemble de types d'éléments plus ou moins [[Fragmentatio
 >Il s'agit respectivement de l'hétérogénéité de **composition** et de l'hétérogénéité de **configuration**
 >![[Drawing 2025-10-17 12.02.54.excalidraw|center|550]]
 
+### Mesure de l'hétérogénéité
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Formule 
 Indice fonction du nombre d'habitats et de la surface cumulée de chaque habitat.
 $$\Large H=\frac{-\sum\limits^{S}_{i=1}{(p_i)ln(p_i)}}{ln(s)}$$
 avec $\large p_i$ = proportion du paysage occupé par le type d'habitat

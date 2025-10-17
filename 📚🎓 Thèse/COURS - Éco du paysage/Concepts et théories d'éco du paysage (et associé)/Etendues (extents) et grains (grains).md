@@ -25,4 +25,7 @@ Ils ne doivent pas être fixé par des capacités technologiques, mais en foncti
 tandis que
 >[!warning] Les **étendues plus vastes** comportant **moins de détails** sont cartographiées pour les **espèces qui se déplacent rapidement**.
 
-Enfin, on remarque qu'il y a souvent une [[Théorie de la hiérarchie|]corrélation entre échelle spatiale et temporelle]].
+>[!quote] Selon Kotliar et Wiens (1990), le ***grain d'une espèce*** est la plus petite échelle à laquelle l'organisme opère des différenciations dans l'espace.
+>A des échelles plus fines il perçoit l'espace comme homogène
+
+Enfin, on remarque qu'il y a souvent une [[Théorie de la hiérarchie|corrélation entre échelle spatiale et temporelle]].
