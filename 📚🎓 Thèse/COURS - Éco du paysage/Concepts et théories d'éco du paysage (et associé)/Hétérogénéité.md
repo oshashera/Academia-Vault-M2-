@@ -7,7 +7,9 @@ sources:
 Un paysage, c'est un ensemble de types d'éléments plus ou moins fragmentés ou connectés : c'est la mosaïque paysagère que l'on reconnaît comme un ensemble spatialement hétérogène.
 
 >[!summary] L'hétérogénéité a deux composantes :
->La diversité des élements (taches)
+>La **diversité** des éléments (taches) du paysage, et la **complexité** de leurs relations spatiales.
+>Il s'agit respectivement de l'hétérogénéité de **composition** et de l'hétérogénéité de **configuration**
+>
 
 
 
