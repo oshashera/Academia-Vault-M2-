@@ -4,7 +4,7 @@ sources:
   - "Burel & Baudry, Écologie du paysage : concept, méthodes et applications (2nde édition)"
 ---
 
-Un paysage, c'est un ensemble de types d'éléments plus ou moins [[Fragmentation|]] ou connectés : c'est la [[Structures en tâches (patches)|mosaïque paysagère]] que l'on reconnaît comme un ensemble spatialement hétérogène.
+Un paysage, c'est un ensemble de types d'éléments plus ou moins [[Fragmentation|fragmentés]] ou [[Connectivité spatiale et fonctionnelle|connectés]] : c'est la [[Structures en tâches (patches)|mosaïque paysagère]] que l'on reconnaît comme un ensemble spatialement hétérogène.
 
 >[!summary] L'hétérogénéité a deux composantes :
 >La **diversité** des éléments (taches) du paysage, et la **complexité** de leurs relations spatiales.
