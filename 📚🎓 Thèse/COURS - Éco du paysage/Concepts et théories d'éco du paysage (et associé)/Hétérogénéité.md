@@ -21,4 +21,11 @@ $\large s$ = nombre de types d'habitat dans le paysage.
 H varie entre 0 (hétérogénéité) et 1 (homogénéité).
 ![[Pasted image 20251016171330.png|left|300]]![[Pasted image 20251016171349.png|170]] avec ici H=$\large \frac{-0,43*ln(0,43)+0,07*ln(0,07)+0,07*ln(0,07)+0,16*ln(0,16)+0,16*ln(0,16)+0,11*ln(0,11)}{ln(6)}$=0,87
 
-Ou (selon Burel et Baudry)
+
+**==OU==** (selon Burel et Baudry), on a $$H=-\sum p(i,j)\;log\;p(i,j)$$
+avec "i" et "j" 2 types de 2 pixels adjacents horizontalement et verticalement, appartenant à l'ensemble $\mathbf{U}$ des types d'unités dans un paysage.
+La prise en compte de couples de pixels (i,j) équivaut à une mesure de leur connectivité spatiale, connectivité intra et inter taches.
+Cette définition permet l'utilisation de concept de la théorie de l'information :
+- La *self-information* de la classe (i,j) = $\large -p(i,j)\;log_{a}[p(i,j)]$ c'est la **contribution de la classe (i,j)** à l'hétérogénéité globale.
+- L'**hétérogénéité maximale**, cas de l'équirépartition $\large H_{max} = log_{a}(U^2)$.
+- La **redondance**, $\large \mathbf{R} = 1-H/H_{max}$. Varie entre 0 et 1. Elle augmente avec la répétition d'un motif dans le paysage. 
