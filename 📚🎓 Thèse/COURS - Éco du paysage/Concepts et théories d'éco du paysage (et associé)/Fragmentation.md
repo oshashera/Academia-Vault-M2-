@@ -9,3 +9,4 @@ Modification des flux biologiques.
 ![[Drawing 2025-10-17 11.08.42.excalidraw|center|600]]
 
 La sensibilité des individus d'une espèce à la fragmentation dépend de leur rayon de déplacement quotidien, de leur échelle d'activité.
+
