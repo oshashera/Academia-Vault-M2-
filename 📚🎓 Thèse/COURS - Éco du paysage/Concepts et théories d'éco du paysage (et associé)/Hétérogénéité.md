@@ -35,3 +35,4 @@ Cette définition permet l'utilisation de concept de la théorie de l'informatio
 La valeur de l'hétérogénéité varie aussi avec le [[Etendues (extents) et grains (grains)|grain]] : 
 ![[Pasted image 20251017151922.png]]On construit ici (↑) des cartes en prenant un pixel sur 2,10,30.... Donc une perte d'information. On observe d'abord une augmentation de l'hétérogénéité puis une fluctuation aléatoire due principalement au faible nombre de pixel sur la carte.
 Si on observe initialement une augmentation de l'hétérogénéité, c'est du fait de l'éclaircissement des pixels qui amène à une diminution de la taille des taches et donc la connectivité intra élément, et augmenter la fréquence des relations inter-éléments. Ensuite les 2 types de connections sont réduites alternativement.
+
