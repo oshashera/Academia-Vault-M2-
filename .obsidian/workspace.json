@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Typologies des taches et corridors.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Typologies des taches et corridors"
+              "title": "Fragmentation"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Typologies des taches et corridors.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Typologies des taches et corridors"
+              "title": "Backlinks for Fragmentation"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Typologies des taches et corridors.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Typologies des taches et corridors"
+              "title": "Outgoing links from Fragmentation"
             }
           },
           {
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Typologies des taches et corridors.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Typologies des taches et corridors"
+              "title": "Outline of Fragmentation"
             }
           },
           {
@@ -235,8 +235,10 @@
   },
   "active": "fe702ee20631779e",
   "lastOpenFiles": [
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Structure en matrice-tâches.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Typologies des taches et corridors.md",
+    "Excalidraw/Drawing 2025-10-17 11.08.42.excalidraw.md",
+    "🏡 Home.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Structure en matrice-tâches.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Relation entre lisière, zone centrale et surface des taches.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
@@ -261,7 +263,6 @@
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité et connectivité.md",
     "🌳 Stage ECOBIO/🌳🗺 Écologie du paysage.md",
     "Excalidraw/Drawing 2025-10-16 16.39.24.excalidraw.md",
-    "🏡 Home.md",
     "Packages R a apprendre.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/SIG (my beloved).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Etendues (extents) et grains (grains).md",
@@ -270,7 +271,6 @@
     "📚🎓 Thèse/🗂️ Orga Arbo ?.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
     "Calendar/2025-10-17 Script satan comprendre.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - richesse.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche",
