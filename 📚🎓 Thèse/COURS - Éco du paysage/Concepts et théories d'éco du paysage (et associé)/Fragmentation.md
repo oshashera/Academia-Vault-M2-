@@ -12,3 +12,13 @@ La sensibilité des individus d'une espèce à la fragmentation dépend de leur 
 
 
 Au delà des effets de taille et de lisière, la fragmentation cause des changement dans l'hétérogénéité interne des habitats (Freemark & Merriam, 1986). Ainsi, plus grande est une forêt, plus elle a de chance d'être diversifiée. Enfin, la fragmentation affect les échanges entre îles et la probabilité d'être colonisé par des propagules venant d'autres îles.
+
+
+>[!important] Les effets d'une évolution linéaire d'un paysage amène à de nombreux phénomènes non linéaires !
+
+Le cas d'un paysage forestier (gradient de fragmentation)
+![[Pasted image 20251017165146.png|left|550]] ![[Pasted image 20251017165236.png|350]]
+Au fil du temps, bien que la **fragmentation** soit ***linéaire*** :
+- La surface totale de forêt diminue de façon constante
+- Le **nombre de fragments augmente, puis se stabilise** (pour enfin diminuer), pendant que leur s**urface moyenne diminue** abruptement puis plus doucement
+- Le périmètre des fragments 
