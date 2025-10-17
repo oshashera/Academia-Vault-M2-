@@ -29,3 +29,9 @@ Cette définition permet l'utilisation de concept de la théorie de l'informatio
 - La *self-information* de la classe (i,j) = $\large -p(i,j)\;log_{a}[p(i,j)]$ c'est la **contribution de la classe (i,j)** à l'hétérogénéité globale.
 - L'**hétérogénéité maximale**, cas de l'équirépartition $\large H_{max} = log_{a}(U^2)$.
 - La **redondance**, $\large \mathbf{R} = 1-H/H_{max}$. Varie entre 0 et 1. Elle augmente avec la répétition d'un motif dans le paysage. 
+
+<br>
+<br>La valeur de l'hétérogénéité dépend de l'[[Etendues (extents) et grains (grains)|extension]] de l'espace étudié.
+La valeur de l'hétérogénéité varie aussi avec le [[Etendues (extents) et grains (grains)|grain]] : 
+![[Pasted image 20251017151922.png]]On construit ici (↑) des cartes en prenant un pixel sur 2,10,30.... Donc une perte d'information. On observe d'abord une augmentation de l'hétérogénéité puis une fluctuation aléatoire due principalement au faible nombre de pixel sur la carte.
+Si on observe initialement une augmentation de l'hétérogénéité, c'est du fait de l'éclaircissement des pixels qui amène à une diminution de la taille des taches et donc la connectivité intra élément, et augmenter la fréquence des relations inter-éléments. Ensuite les 2 types de connections sont réduites alternativement.
