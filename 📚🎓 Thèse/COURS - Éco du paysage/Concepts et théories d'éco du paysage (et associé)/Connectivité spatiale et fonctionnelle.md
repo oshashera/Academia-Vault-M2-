@@ -9,11 +9,16 @@ S'ils ont lieu entre type différents, c'est soit du à des activités différen
 La capacité des individus d'une population de quitter une tache pour en coloniser une autre de même type est le processus fondamental de maintien des [[Concept de métapopulation|métapopulations]].
 C'est également un processus essentiel de la dynamique des paysages après [[Théorie des perturbations|perturbation]] ou abandon des terres agricoles.
 
->[!summary] Nous appelons *connectivité **spatiale*** le fait que deux taches de même type soient adjacentes, jointes, dans l'espace
+>[!summary] Nous appelons *connectivité* ***spatiale*** le fait que deux taches de même type soient adjacentes, jointes, dans l'espace
 - Connectivité spatiale : proximité spatiale entre les tâches d’un habitat 
 
 
-![[Drawing 2025-10-16 16.39.24.excalidraw|center|650]]
+![[Drawing 2025-10-16 16.39.24.excalidraw|center|850]]
+![[Drawing 2025-10-17 11.27.16.excalidraw|center|600]]
 
->[!summary] Nous appelons *connectivité **fonctionnelle*** le fait qu'un idividu ou les propagules d'une espèce puissent passer d'une tache à l'autre même si elles sont éloignées.
+>[!summary] Nous appelons *connectivité* ***fonctionnelle*** le fait qu'un idividu ou les propagules d'une espèce puissent passer d'une tache à l'autre même si elles sont éloignées.
 - Connectivité fonctionnelle : facilité avec laquelle un organisme peut migrer ([[Théorie de la percolation|percoler]]) d’une tâche à l’autre (organisme dépendant)
+
+
+
+Une facon de quantifier la connectivité spatiale est de compter les couples de pixel de même nature sur les lignes et les colonnes d'une grille
