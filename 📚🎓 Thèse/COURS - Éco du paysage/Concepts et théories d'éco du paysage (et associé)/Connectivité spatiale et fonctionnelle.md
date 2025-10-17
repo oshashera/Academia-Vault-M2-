@@ -10,7 +10,10 @@ La capacité des individus d'une population de quitter une tache pour en colonis
 C'est également un processus essentiel de la dynamique des paysages après [[Théorie des perturbations|perturbation]] ou abandon des terres agricoles.
 
 >[!summary] Nous appelons *connectivité **spatiale*** le fait que deux taches de même type soient adjacentes, jointes, dans l'espace
+- Connectivité spatiale : proximité spatiale entre les tâches d’un habitat 
 
-![[Drawing 2025-10-16 16.39.24.excalidraw|center|550]]
+
+![[Drawing 2025-10-16 16.39.24.excalidraw|center|650]]
+
 >[!summary] Nous appelons *connectivité **fonctionnelle*** le fait qu'un idividu ou les propagules d'une espèce puissent passer d'une tache à l'autre même si elles sont éloignées.
-
+- Connectivité fonctionnelle : facilité avec laquelle un organisme peut migrer ([[Théorie de la percolation|percoler]]) d’une tâche à l’autre (organisme dépendant)
