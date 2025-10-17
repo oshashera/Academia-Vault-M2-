@@ -10,12 +10,19 @@ Modèle numérique de terrain (MNT)
 - Grain (30m2)
 - Etendue (1km2)
 
+<br>
+<br>
+<br>
 
+##### Choix du grain et de l'étendue.
 
+Ils ne doivent pas être fixé par des capacités technologiques, mais en fonctions des objectifs poursuivi.
 
+![[Pasted image 20251017134816.png]]*↑ Avec un **grain fin**, toutes les **petites taches** sont discernables. Avec un grain grossier, elles ne sont plus perceptibles. Cependant, le **grain grossier** rendra apparentes les **continuités spatiales** dans un espace très fragmenté.*
 
+>[!warning] Les **étendues restreintes** comportant de **nombreux détails** sont cartographiés pour les **espèces qui se déplacent lentement**
 
+tandis que
+>[!warning] Les **étendues plus vastes** comportant **moins de détails** sont cartographiées pour les **espèces qui se déplacent rapidement**.
 
-##### Choix du grain
-
-- Le niveau de résolution du paysage étudié ne doit pas être fixé par des capacités technologiques, mais en fonctions des objectifs poursuivi
+Enfin, on remarque qu'il y a souvent une [[Théorie de la hiérarchie|]corrélation entre échelle spatiale et temporelle]].
