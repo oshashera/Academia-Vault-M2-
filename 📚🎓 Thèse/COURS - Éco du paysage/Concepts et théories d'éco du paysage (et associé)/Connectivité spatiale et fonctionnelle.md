@@ -21,4 +21,4 @@ C'est également un processus essentiel de la dynamique des paysages après [[Th
 
 
 
-Une facon de quantifier la connectivité spatiale est de compter les couples de pixel de même nature sur les lignes et les colonnes d'une grille
+Une façon de quantifier la connectivité spatiale est de compter les couples de pixel de même nature sur les lignes et les colonnes d'une grille
