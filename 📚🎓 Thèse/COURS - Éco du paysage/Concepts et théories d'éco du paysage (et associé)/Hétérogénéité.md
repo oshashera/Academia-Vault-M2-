@@ -9,7 +9,7 @@ Un paysage, c'est un ensemble de types d'éléments plus ou moins fragmentés ou
 >[!summary] L'hétérogénéité a deux composantes :
 >La **diversité** des éléments (taches) du paysage, et la **complexité** de leurs relations spatiales.
 >Il s'agit respectivement de l'hétérogénéité de **composition** et de l'hétérogénéité de **configuration**
->
+>![[Drawing 2025-10-17 12.02.54.excalidraw|center|550]]
 
 
 
