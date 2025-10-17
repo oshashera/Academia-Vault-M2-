@@ -4,6 +4,8 @@ sources:
   - https://www.paca.developpement-durable.gouv.fr/IMG/pdf/1_ecologie_paysage_tatoni_IMEP_cle76786e.pdf
 ---
 >[!summary] Réduction et destruction partielle des habitats, avec comme conséquence l'augmentation de l'effet lisière du fait de la relation [[Relation entre lisière, zone centrale et surface des taches|aire/lisière]] des tâches, ainsi que l'augmentation de l'isolation des tâches produites.
+>On observe majoritairement la relation suivante : ↑fragmentation = ↓richesse
+
 Modification des flux biologiques.
 
 ![[Drawing 2025-10-17 11.08.42.excalidraw|center|600]]
@@ -27,3 +29,7 @@ Au fil du temps, bien que la **fragmentation** soit ***linéaire*** :
 - L'**hétérogénéité globale augmente puis diminue** lorsque l'habitat non-boisé devient dominant
 
 >[!info] Les espèces ayant un plus grand territoire seront logiquement plus affectées par la fragmentation que celles ayant un plus petit territoire
+
+![[Drawing 2025-10-17 17.06.17.excalidraw|center|700]]
+↑ Les espèces qui ont besoin de 10% d'espaces boisés pour vivre ont des habitats dispo aux 5 étapes de la fragmentation de cet exemple, alors que celles nécessitant 75% de surface boisées sont rapidement a court d'habitat, et encore plus si leur territoire est large.
+
