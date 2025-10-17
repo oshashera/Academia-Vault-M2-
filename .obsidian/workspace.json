@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/SLOSS - Single Large Or Several Small 🔴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Théorie générale des systèmes"
+              "title": "SLOSS - Single Large Or Several Small 🔴"
             }
           }
         ],
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/SLOSS - Single Large Or Several Small 🔴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Théorie générale des systèmes"
+              "title": "Backlinks for SLOSS - Single Large Or Several Small 🔴"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/SLOSS - Single Large Or Several Small 🔴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Théorie générale des systèmes"
+              "title": "Outgoing links from SLOSS - Single Large Or Several Small 🔴"
             }
           },
           {
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/SLOSS - Single Large Or Several Small 🔴.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Théorie générale des systèmes"
+              "title": "Outline of SLOSS - Single Large Or Several Small 🔴"
             }
           },
           {
@@ -236,6 +236,13 @@
   },
   "active": "fe702ee20631779e",
   "lastOpenFiles": [
+    "Images/Pasted image 20251017102407.png",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/SLOSS - Single Large Or Several Small 🔴.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Relation entre lisière, zone centrale et surface des taches.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie générale des systèmes.md",
+    "Images/Pasted image 20251017101500.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Propriétés émergentes du système.md",
     "Images/Pasted image 20251016182633.png",
     "Images/Pasted image 20251016182618.png",
@@ -254,12 +261,9 @@
     "🏡 Home.md",
     "Packages R a apprendre.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/SIG (my beloved).md",
-    "Images/Pasted image 20251016162620.png",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Etendues (extents) et grains (grains).md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Relation entre lisière, zone centrale et surface des taches.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Zones centrales (cores).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Structure en matrice-tâches.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Structures en tâches (patches).md",
     "📚🎓 Thèse/Article melina tbw/zbeul rapport melina.md",
@@ -268,9 +272,6 @@
     "Calendar/2025-10-17 Script satan comprendre.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité - richesse.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Mesures de la biodiversité (Eric Marcon)/Diversité dans les systèmes écologiques.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random/Successions écologiques.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métacommunauté.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concepts de climax et meta-climax.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche",
