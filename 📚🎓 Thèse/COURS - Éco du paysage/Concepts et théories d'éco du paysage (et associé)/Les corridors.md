@@ -51,3 +51,8 @@ alors que le nb de pixels boisés n'est multiplié que par environ 1,8, le nb de
 >Des orientations privilégiées dans les départs signifient que les insectes "perçoivent" la perméabilité. Des origines différenciées selon les directions signifient que les insectes se sont accommodés de perméabilités différentes.
 
 ### Variation de la connectivité au cours du temps en zone agricole
+
+(se référer à l'exemple p100-101 de Burel et Baudry (fr) pour plus d'infos sur l'exemple testé)
+
+La succession culturale a un impact importnat sur la connectivité. 
+Pour les espèces vivant dans les cultures, les mouvements peuvent être beaucoup plus contraints par la rotation des cultures et leur distribution spatiale que par les surfaces cultivées.
