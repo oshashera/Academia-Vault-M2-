@@ -39,6 +39,13 @@ alors que le nb de pixels boisés n'est multiplié que par environ 1,8, le nb de
 >>![[Drawing 2025-10-20 14.32.37.excalidraw|center|1400]]
 >
 >La figure (↑) présente une analyse structurale de la perméabilité d'un paysage pour des sp d'insectes inféodés aux milieux herbacés.
->- On part d'une carte des prairies (A)
->- On considère que les espaces intermédiaires sont +/- perméables (B) ou introduisent une viscosité +/- grande qui vient s'oopposer aux mouvements des insectes d'une tache de prairie à l'autre.
-
+>- On part d'une carte des prairies (A) qui permet de calculer les distances *euclidiennes* entre patchs
+>- On considère que les espaces intermédiaires sont +/- perméables (B) ou introduisent une viscosité +/- grande qui vient s'opposer aux mouvements des insectes d'une tache de prairie à l'autre (C).
+>- Lorsqu'on tient compte de cette rugosité dans le calcul des distances, on a un coût de déplacement qui s'ajoute à la distance euclidienne, permettant de donner une *distance fonctionnelle* (D).
+>Ici, la rugosité est forte pour tous les espaces boisés, et varie pour les cultures selon la hauteur potentielle.
+>On observe ainsi (zones entourées) que des espaces proches peuvent être séparés par des éléments très peu perméables. La distance est faible et la rugosité élevée, donc la perméabilité est très faible, *même s'il est rare que la probabilité de traverser soit nulle pour un propagule ou animal*.
+>Ainsi, **alors que la connectivité spatiale est forte**, la **connectivité fonctionnelle** entre deux éléments de même nature peut devenir **très faible**.
+>On décèle ainsi des zones de forte ou faible résistance à la circulation dans un paysage, qui peuvent permettre de poser des hypothèses sur les relations privilégiées entre certaines prairies entre lesquelles des échanges d'insectes sont plus fréquents qu'entre autres.
+>On peut aussi rechercher les directions privilégiées **de départ** (pas les échanges cette fois ci) à partir d'une tâche donnée. 
+>Ce type d'analyses structurale a seulement pour objectif de poser des hypothèses, comme savoir si les insectes floricoles présents dans une prairies se dispersent au hasard ou selon une direction privilégiée.
+>Des orientations privilégiées dans les départs signifient que les insectes "perçoivent" la perméabilité. Des origines différenciées selon les directions 
