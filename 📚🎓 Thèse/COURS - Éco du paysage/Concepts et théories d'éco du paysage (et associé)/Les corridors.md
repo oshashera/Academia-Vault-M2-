@@ -30,3 +30,10 @@ Reprenant les sades 4 et 5 de fragmentation, on a ajouté un réseau de haie. La
 Au stade le plus avancé de la fragmentation, la présence de corridor a un plus grand effet :
 alors que le nb de pixels boisés n'est multiplié que par environ 1,8, le nb de pixels fonctionnels est multiplié par plus de 2 voir 3 (↓)
 ![[Pasted image 20251020141340.png|center|600]]
+
+### Analyse de la [[Connectivité spatiale et fonctionnelle|connectivité]] par la recherche de zones de plus grande perméabilité
+
+>[!info] La matrice, environnement parfois non-hostile
+>Si initialement la matrice était considérée comme un milieu hostile (comme l'océan dans la [[Théorie biogéographique des îles|théorie biogéographique des îles]]), cette perception a évoluée.
+>En effet, l'espace entre les taches du type d'élément de paysage étudié est différencié. Ainsi, **même en l'absence de corridor matérialisé**, il peut exister des **espaces ayant une fonctionnalité de corridor**, càd qui augmentent la connectivité.
+
