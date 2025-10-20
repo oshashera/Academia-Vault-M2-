@@ -25,5 +25,6 @@ Corridors souvent organisés en réseaux : réseaux de haies, réseaux hydrograp
 
 ### Effet de la présence de corridors boisés sur la connectivité entre bosquets
 
-Reprenant les sades 4 et 5 de fragmentation, on a ajouté un réseau de haie. La distance entre bois avec et sans haies a été calculée en considérant que les sp pouvaient traverser les trouvées ayant une largeur égale à trois fois celle des corridors (haies). On en a ensuite ajouté aux cartes (↓↓↓) les
+Reprenant les sades 4 et 5 de fragmentation, on a ajouté un réseau de haie. La distance entre bois avec et sans haies a été calculée en considérant que les sp pouvaient traverser les trouvées ayant une largeur égale à trois fois celle des corridors (haies). On en a ensuite ajouté aux cartes (↓↓↓) des clusters de pixels liés "fonctionnellement".
 ![[Pasted image 20251020132004.png|center|600]]
+Au stade le plus avancé de la fragmentation, la présence de corridor a un plus grand effet :
