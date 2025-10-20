@@ -21,5 +21,9 @@ Corridors souvent organisés en réseaux : réseaux de haies, réseaux hydrograp
 ><br> 
 >
 >Quand les corridors ont es qualités différentes, on peut représenter des portions de réseaux de qualité similaire comme un groupe (**cluster**), qui aura une fonctionnalité particulière. Ainsi (↓), on passe d'une structure à ce qui peut être un ensemble fonctionnel de haies ayant une qualité particulière. Pour aller du nœud A au nœud B, le chemin ne pourra être celui de la haie reliant directement les deux points, l'animal devra faire un détour par les haies "efficaces". Pour les carabiques (coléoptères), Charrier *et al*. (1997) ont montré que les haies à fort couvert végétal avaient un rôle de corridor bien meilleur que les autres haies ; on peut ainsi les différencier et repérer des réseaux "efficaces".
->>![[Drawing 2025-10-20 13.03.58.excalidraw|center]]
+>>![[Drawing 2025-10-20 13.03.58.excalidraw|center|900]]
 
+### Effet de la présence de corridors boisés sur la connectivité entre bosquets
+
+Reprenant les sades 4 et 5 de fragmentation, on a ajouté un réseau de haie. La distance entre bois avec et sans haies a été calculée en considérant que les sp pouvaient traverser les trouvées ayant une largeur égale à trois fois celle des corridors (haies). On en a ensuite ajouté aux cartes (↓↓↓) les
+![[Pasted image 20251020132004.png|center|600]]
