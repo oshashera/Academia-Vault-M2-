@@ -48,4 +48,6 @@ alors que le nb de pixels boisés n'est multiplié que par environ 1,8, le nb de
 >On décèle ainsi des zones de forte ou faible résistance à la circulation dans un paysage, qui peuvent permettre de poser des hypothèses sur les relations privilégiées entre certaines prairies entre lesquelles des échanges d'insectes sont plus fréquents qu'entre autres.
 >On peut aussi rechercher les directions privilégiées **de départ** (pas les échanges cette fois ci) à partir d'une tâche donnée. 
 >Ce type d'analyses structurale a seulement pour objectif de poser des hypothèses, comme savoir si les insectes floricoles présents dans une prairies se dispersent au hasard ou selon une direction privilégiée.
->Des orientations privilégiées dans les départs signifient que les insectes "perçoivent" la perméabilité. Des origines différenciées selon les directions 
+>Des orientations privilégiées dans les départs signifient que les insectes "perçoivent" la perméabilité. Des origines différenciées selon les directions signifient que les insectes se sont accommodés de perméabilités différentes.
+
+### Variation de la connectivité au cours du temps en zone agricole
