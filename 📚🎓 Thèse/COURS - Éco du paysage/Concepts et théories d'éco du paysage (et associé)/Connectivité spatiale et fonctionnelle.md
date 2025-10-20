@@ -19,6 +19,7 @@ C'est également un processus essentiel de la dynamique des paysages après [[Th
 >[!summary] Nous appelons *connectivité* ***fonctionnelle*** le fait qu'un idividu ou les propagules d'une espèce puissent passer d'une tache à l'autre même si elles sont éloignées.
 - Connectivité fonctionnelle : facilité avec laquelle un organisme peut migrer ([[Théorie de la percolation|percoler]]) d’une tâche à l’autre (organisme dépendant)
 <br>
+La perméabilité d'un paysage due au fait que la matrice n'est pas nécessairement un environnement absolument hostile, mais plutôt un [[Les corridors#Analyse de la Connectivité spatiale et fonctionnelle connectivité par la recherche de zones de plus grande perméabilité|environnement différencié]] permet la dissociation de la connectivité spatiale et fonctionnelle
 <br>
 
 Une façon de quantifier la connectivité spatiale est de compter les couples de pixel de même nature sur les lignes et les colonnes d'une grille.
@@ -29,6 +30,8 @@ Une façon de quantifier la connectivité spatiale est de compter les couples de
 >  
 >  Les barrières sont souvent des corridors comme les haies.
 >  Corridors et barrières renvoient à la [[Théorie de la percolation|théorie de la percolation]]
-
-
 Les corridors ont plus d'effet à des [[Les corridors#Effet de la présence de corridors boisés sur la connectivité entre bosquets|stades élevés de fragmentation]].
+
+### Conclusion (burel & baudry)
+
+L'approche de la connectivité au sein d'un paysage peut se faire de différentes façons. Selon le type d'espèce, leur mode de déplacement, il existe des connectivités différentes. La simulation de structures générées par des déplacements est un outil important pour tester des hypothèses et, surtout, pour aider à élaborer une démarche de construction d'un plan d'échantillonnage du matériel biologique dans un paysage pour tester des déplacements effectifs.
