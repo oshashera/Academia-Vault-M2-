@@ -35,4 +35,11 @@ Au fil du temps, bien que la **fragmentation** soit ***linéaire*** :
 
 **La caractérisation des pixels dépends de leur contexte**.
 
-Un pixel peut ne pas appartenir à la catégorie "bois" mais pourtant permettre de 
+Un pixel peut ne appartenir à la catégorie "bois" mais appartenir à une fenêtre (ensemble de pixel) catégorisée comme boisée (% de boisement minimum par ex).
+Dans ce cas de pixels situés dans de grandes fenetres à faible taux de boisement, la quantité d'habitat "utilisable" est supérieure à la quantité d'habitat cartographiée.
+
+
+### Conclusion (burel & baudry)
+
+La fragmentation est d'abord un phénomène spatial qui conduit à une modification non corrélée de divers paramètres décrivant les structures.
+En suite, c'est un phénomène qui peut être, *a priori*, perçu de façon très différente selon les espèces. La figure 22 rend bien compte u fait que les espèces "intérieures" (gds mammifères forestiers) voient leur habitat diminuer très rapidement (cf [[Relation entre lisière, zone centrale et surface des taches]]) et disparaissent en premiers, alors que les espèces de lisière ne perçoivent les changements que bcp plus tardivement.
