@@ -36,4 +36,9 @@ alors que le nb de pixels boisés n'est multiplié que par environ 1,8, le nb de
 >[!info] La matrice, environnement parfois non-hostile
 >Si initialement la matrice était considérée comme un milieu hostile (comme l'océan dans la [[Théorie biogéographique des îles|théorie biogéographique des îles]]), cette perception a évoluée.
 >En effet, l'espace entre les taches du type d'élément de paysage étudié est différencié. Ainsi, **même en l'absence de corridor matérialisé**, il peut exister des **espaces ayant une fonctionnalité de corridor**, càd qui augmentent la connectivité.
+>>![[Drawing 2025-10-20 14.32.37.excalidraw|center|1400]]
+>
+>La figure (↑) présente une analyse structurale de la perméabilité d'un paysage pour des sp d'insectes inféodés aux milieux herbacés.
+>- On part d'une carte des prairies (A)
+>- On considère que les espaces intermédiaires sont +/- perméables (B) ou introduisent une viscosité +/- grande qui vient s'oopposer aux mouvements des insectes d'une tache de prairie à l'autre.
 
