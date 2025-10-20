@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fragmentation"
+              "title": "Connectivité spatiale et fonctionnelle"
             }
           },
           {
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fragmentation"
+              "title": "Backlinks for Connectivité spatiale et fonctionnelle"
             }
           },
           {
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fragmentation"
+              "title": "Outgoing links from Connectivité spatiale et fonctionnelle"
             }
           },
           {
@@ -205,12 +206,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Etendues (extents) et grains (grains).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/SIG (my beloved).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Hétérogénéité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Propriétés émergentes du système.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/SLOSS - Single Large Or Several Small 🔴.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Trames.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Typologies des taches et corridors.md",

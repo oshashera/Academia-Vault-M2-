@@ -18,7 +18,9 @@ C'est également un processus essentiel de la dynamique des paysages après [[Th
 
 >[!summary] Nous appelons *connectivité* ***fonctionnelle*** le fait qu'un idividu ou les propagules d'une espèce puissent passer d'une tache à l'autre même si elles sont éloignées.
 - Connectivité fonctionnelle : facilité avec laquelle un organisme peut migrer ([[Théorie de la percolation|percoler]]) d’une tâche à l’autre (organisme dépendant)
+<br>
+<br>
+
+Une façon de quantifier la connectivité spatiale est de compter les couples de pixel de même nature sur les lignes et les colonnes d'une grille.
 
 
-
-Une façon de quantifier la connectivité spatiale est de compter les couples de pixel de même nature sur les lignes et les colonnes d'une grille
