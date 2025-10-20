@@ -15,4 +15,9 @@ L'arrangement spatial de la [[Structures en tâches (patches)|mosaïque]] et des
 Corridors souvent organisés en réseaux : réseaux de haies, réseaux hydrographiques, réseaux routiers...
 >[!summary] La description de ces réseaux fait appel à 2 paramètres particuliers : le **nombre de connexions** et le nombre d'**intersections**
 >- Le nombre d'**intersection** est le nombre de **nœuds** dans le réseau, nombre de lieux où les corridors s'entrecroisent. Aux intersections, on a souvent une végétation plus complexe, une quantité d'habitat disponible plus grande qui peut amener une richesse biologique particulière.
->- Le nombre de **connexions** se rapporte au nombre de liens entre corridos, à une intersection.
+>- Le nombre de **connexions** se rapporte au nombre de liens entre corridors, à une intersection. Ainsi (↓), on peut avoir un nombre différent de connexions selon la configuration des intersections. On peut aussi qualifier ces différentes configurations. une connexion avec un bois est un nœud essentiel qui va relier le réseau à la source potentielle d'espèces forestières. Une connexion en *T* assure les liens entre 3 haies, une connexion en *L* entre deux, et une connexion en *X*, rare, entre quatre haies. la connexion *0* représente un cul de sac.
+>![[Drawing 2025-10-20 12.52.03.excalidraw|center]]
+>
+><br> 
+>Quand les corridors ont es qualités différentes, on peut représenter des portions de réseaux de qualité similaire comme un groupe (**cluster**), qui aura une fonctionnalité particulière. Ainsi (↓), on passe d'une structure à ce qui peut être un ensemble fonctionnel de haies ayant une qualité particulière. Pour aller du nœud A au nœud B, le chemin ne pourra être celui de la haie reliant directement les deux points, l'animal devra faire un détour par les haies "efficaces". Pour les carabiques (coléoptères), Charrier *et al*. (1997) ont montré que les haies à fort couvert végétal avaient un rôle de corridor bien meilleur que les autres haies ; on peut ainsi les di
+
