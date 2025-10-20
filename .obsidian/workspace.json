@@ -56,8 +56,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-10-20 14.32.37.excalidraw"
             }
+          },
+          {
+            "id": "4d167f2ba8a09d87",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-20 16.39.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-20 16.39.26.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
+                "file": "Excalidraw/Drawing 2025-10-20 16.39.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Théorie des fractales et autosimilarité"
+              "title": "Backlinks for Drawing 2025-10-20 16.39.26.excalidraw"
             }
           },
           {
@@ -150,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
+                "file": "Excalidraw/Drawing 2025-10-20 16.39.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Théorie des fractales et autosimilarité"
+              "title": "Outgoing links from Drawing 2025-10-20 16.39.26.excalidraw"
             }
           },
           {
@@ -179,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
+                "file": "Excalidraw/Drawing 2025-10-20 16.39.26.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Théorie des fractales et autosimilarité"
+              "title": "Outline of Drawing 2025-10-20 16.39.26.excalidraw"
             }
           },
           {
@@ -230,15 +243,17 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4d167f2ba8a09d87",
   "lastOpenFiles": [
+    "🏡 Home.md",
+    "Excalidraw/Drawing 2025-10-20 14.32.37.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-20 16.39.26.excalidraw.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
     "Calendar/2025-10-21 ptn de script aah.md",
     "Calendar/2025-10-21 GRR PC RECUP PC GRRR.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
-    "Excalidraw/Drawing 2025-10-20 14.32.37.excalidraw.md",
-    "🏡 Home.md",
     "Excalidraw/Drawing 2025-10-20 13.03.58.excalidraw.md",
     "Images/Pasted Image 20251020143319_843.png",
     "Images/Pasted Image 20251020143241_670.png",
@@ -247,7 +262,6 @@
     "Excalidraw/Drawing 2025-10-20 12.52.03.excalidraw.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Etendues (extents) et grains (grains).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/SIG (my beloved).md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Hétérogénéité.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Propriétés émergentes du système.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/SLOSS - Single Large Or Several Small 🔴.md",
@@ -267,7 +281,6 @@
     "Excalidraw/Drawing 2025-10-17 16.59.18.excalidraw.md",
     "Images/Pasted Image 20251017170203_910.png",
     "Images/Pasted Image 20251017170122_475.png",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept d'écocomplexe.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)",
     "📚🎓 Thèse/Formations, séminaires, présentations/Formations/(UNIV BORDEAUX) MOOC - Intégrité scientifique ds les métiers de la recherche",
