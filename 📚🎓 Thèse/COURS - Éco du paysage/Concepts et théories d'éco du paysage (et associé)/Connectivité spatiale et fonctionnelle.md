@@ -23,4 +23,10 @@ C'est également un processus essentiel de la dynamique des paysages après [[Th
 
 Une façon de quantifier la connectivité spatiale est de compter les couples de pixel de même nature sur les lignes et les colonnes d'une grille.
 
+>[!info] Il existe des structures qui relient des éléments de même natures ([[Les corridors|corridors]]), et des **barrières**
+>- Les **barrières** peuvent avoir des effets négatifs (limitation/impossibilité pour des populations d'une même sp de se rencontrer (réseau routier par ex))
+>- Elles peuvent également avoir des effets positifs (coupe-vent, limitation de la circulation des polluants, limitation de la propagation des maladies).
+>  
+>  Les barrières sont souvent des corridors comme les haies.
+>  Corridors et barrières renvoient à la [[Théorie de la percolation|théorie de la percolation]]
 
