@@ -33,3 +33,6 @@ Au fil du temps, bien que la **fragmentation** soit ***linéaire*** :
 ![[Drawing 2025-10-17 17.06.17.excalidraw|center|700]]
 ↑ Les espèces qui ont besoin de 10% d'espaces boisés pour vivre ont des habitats dispo aux 5 étapes de la fragmentation de cet exemple, alors que celles nécessitant 75% de surface boisées sont rapidement a court d'habitat, et encore plus si leur territoire est large.
 
+**La caractérisation des pixels dépends de leur contexte**.
+
+Un pixel peut ne pas appartenir à la catégorie "bois" mais pourtant permettre de 

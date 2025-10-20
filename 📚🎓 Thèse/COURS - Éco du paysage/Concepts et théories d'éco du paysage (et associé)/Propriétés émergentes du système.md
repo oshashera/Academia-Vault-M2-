@@ -4,13 +4,13 @@
 <br>
 >[!summary] L’**effet inducteur de dispersion** favorise l’**émigration de nouveaux individus** dans la tâche cible mais cela augmente également le **risque d’extinction** si la tâche cible constitue un **habitat moins favorable**.
 
-### [[Les corridors|Corridor]] avec **effet entonnoir**
+### Corridor avec **effet entonnoir**
 
 ![[Pasted image 20251016174031.png|left|200]]![[Pasted image 20251016174101.png|470]]
 <br>
 >[!summary] L’**effet entonnoir** peut biaiser la **direction** que prennent des individus migrants et, donc, **diminuer la probabilité qu’ils migrent vers des habitats** qui leurs seraient plus **favorables** autrement, **augmentant ainsi la probabilité d’extinction**.
 
-### [[Les corridors|Corridor]] avec **effet barrière**
+### Corridor avec **effet barrière**
 
 L’effet barrière à pour principe d’intercepter des individus migrant s et de les véhiculer vers des tâches cibles.
 
