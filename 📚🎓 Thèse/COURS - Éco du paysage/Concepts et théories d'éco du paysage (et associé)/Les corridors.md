@@ -54,5 +54,9 @@ alors que le nb de pixels boisés n'est multiplié que par environ 1,8, le nb de
 
 (se référer à l'exemple p100-101 de Burel et Baudry (fr) pour plus d'infos sur l'exemple testé)
 
-La succession culturale a un impact importnat sur la connectivité. 
-Pour les espèces vivant dans les cultures, les mouvements peuvent être beaucoup plus contraints par la rotation des cultures et leur distribution spatiale que par les surfaces cultivées.
+La succession culturale a un impact important sur la connectivité. 
+Pour les espèces vivant dans les cultures, les mouvements peuvent être beaucoup plus contraints par la rotation des cultures et leur distribution spatiale que par les surfaces cultivées. 
+Comme -du fait des successions- une culture peut être présente au cours du temps dans beaucoup de lieux d'un paysage, toutes les parcelles portant cette culture peuvent finir par être connectées (à travers le temps). Donc, une espèce peut être présent dans de nombreux endroits ans corrélation apparente avec la structure du paysage.
+La distribution des espèces inféodées aux cultures dépends au moins de 2 facteurs : 
+1. Les possibilité de trouver un refuge hors de la culture pedant un temps pouvant dépasser le temps de retour de la culture.
+2. La façon dont les cultures sont spatialement organisées à travers l'action collective, *mais non concertée*, des agriculteurs d'une région.
