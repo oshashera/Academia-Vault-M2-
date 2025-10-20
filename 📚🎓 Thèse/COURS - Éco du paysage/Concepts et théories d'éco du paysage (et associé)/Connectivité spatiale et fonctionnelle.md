@@ -30,3 +30,5 @@ Une façon de quantifier la connectivité spatiale est de compter les couples de
 >  Les barrières sont souvent des corridors comme les haies.
 >  Corridors et barrières renvoient à la [[Théorie de la percolation|théorie de la percolation]]
 
+
+Les corridors ont plus d'effet à des [[Les corridors#Effet de la présence de corridors boisés sur la connectivité entre bosquets|stades élevés de fragmentation]].
