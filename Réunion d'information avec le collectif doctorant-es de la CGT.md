@@ -118,3 +118,9 @@ Signalement sst a pas envenimé, registre controlé par plein de gens, ca semble
 Voir ca aussi comment ca pourrait passer coté RH cnrs
 Signalement seul RSST pas suffisant mais avec garde fou supplémentaire ca peut être ok ?
 
+on peut tous écrire des signalements dans les Rsst qui seront envoyé après vers f3cst si j'ai bien compris ?
+
+
+
+
+
