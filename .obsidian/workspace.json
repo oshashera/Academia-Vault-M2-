@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "f460af83c5f53aef",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "98f1de968100be3e",
             "type": "leaf",
             "state": {
@@ -57,7 +67,8 @@
               "title": "Drawing 2025-10-20 16.39.26.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +242,7 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f460af83c5f53aef",
   "lastOpenFiles": [
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
     "Excalidraw/Drawing 2025-10-20 16.39.26.excalidraw.md",
