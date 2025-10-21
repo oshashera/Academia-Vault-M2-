@@ -17,5 +17,33 @@ Souvent doctorants se considèrent + comme étudiants que comme personnels/trava
 
 Collectifs syndicaux locaux et nationaux (avantage national est de regrouper les expertises pcq on est pas bcp de thésards au final)
 
+Campagnes lancées dans le passé
+- Campagne vacataires (mission enseignement qq heures par ci par là (payées), peut s'accumuler avec bcp travail → souvent gens sont pas payé ou avec mois et années de retard → illégal).
+- Vacataires moins payés que doctorants souvent, doivent engager frais transports régulièrement.
+- ont développé des toolkits juridique pour foutre la pression aux univs.
+- création de guide de représentation de doctorants.
 
 
+#### Comment agir ?
+
+##### Représentation dans les instances
+
+Guide de la représentation des doctorant.es (toutes les instances ou on peut jouer)
+Exemples de victoires obtenues dans le guide
+
+##### Reprise des campagnes nationales à l'échelle locale
+Campagne vacataire
+Campagne d'ATER
+
+diffusion des nouveaux guides : 
+droit des doctorants ET droits des doctorant.es étranger.es
+
+##### accompagnement individuel
+
+Harcelement moral
+Non droit à la déconnexion
+trop de banalisation, il faut partager les infos
+
+Exemple labo lyon, conflit avec encadrement et direction du laboratoire
+→ lancer enquete F3SCT (instance de représentation pas spécifique aux doctorants ui peut faire des enquètes)
+→ sanction discilpl
