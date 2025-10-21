@@ -29,10 +29,24 @@ Data loading + libraries ✅
 >
 récup les infos de windows et point (même si idc_point prends pt et windows alors que windows prends que windows (uniques))
 >
-> le reste de la fx → alpha(s) simple ✅
+> le reste de la fx → 
+> alpha(s) simple :
 >> richesse spé : somme du nb de colonnes sup à 0 (=nb sp présentes) pour la ligne.
->> abondance totale : arrondi du nb
-> beta → pour chaque window unique (windows), subset de data général (genre hedgerows) par window, création d'une matrice de 
+>> abondance totale : arrondi de la somme totale des colonnes sp d'une ligne = arrondi de la somme des abondances de chaque sp
+>> Index de Shannon et indice d'équitabilité de piélou:
+>>> Shannon : package vegan, fx diversity(data avec juste col sp, index="shannon")
+>>> Pielou : Shannon / log richesse spé
+>
+> beta :
+>> pour chaque window unique (windows), subset de data général (genre hedgerows) par window qui garde que les sp.
+>> `Br = beta.multi.abund(matrix_i, index.family = "bray")` → fonction beta.multi.abund (famille "bray" pour Bray-Curtis) du package *betapart* qui permet de calculer et récup dans une matrice les éléments suivants :
+>>>- `Br$beta.BRAY` : dissimilarité totale de Bray–Curtis
+>>>- `Br$beta.BRAY.BAL` : composante “turnover” (remplacement d’espèces, équilibrée)
+>>>- `Br$beta.BRAY.GRA` : composante “nestedness” (perte/gain d’abondance graduelle)
+>>pour chaque window, on crée une colonne pour les 3 indices, avec un nom différent, avec *en plus* une colonne qui indique quelle proportion de la dissimilarité est due au turnover (BAL/BRAY).
+>
+>gamma : 
+
 
 ### Taxonomic approach
 
