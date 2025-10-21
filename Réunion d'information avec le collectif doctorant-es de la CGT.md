@@ -109,3 +109,12 @@ R2 particulier, blocage marchent plus, tjrs argument du déficit, besoin d'utili
 Pour le harcelement moral, que faire, comment, quelles ressources ? 
 >réu cas par cas et voir après, important de récup le témoignage, y a des piges,
 >faut sortir le harcelement du labo, pcq c'est trop un entresoi, y a qq outils mais c'est sous conditions (rsst signalement)
+
+
+***Situation TB***
+
+Signalement sst a pas envenimé, registre controlé par plein de gens, ca semble être un outil de pression ok, après y a eu mobilisation pour soutenir la doctorante a qui c'était arrivé (complexe de mettre ca)
+
+Voir ca aussi comment ca pourrait passer coté RH cnrs
+Signalement seul RSST pas suffisant mais avec garde fou supplémentaire ca peut être ok ?
+
