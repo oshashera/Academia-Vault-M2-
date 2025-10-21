@@ -103,4 +103,9 @@ est-ce qu'on a le droit à la prime TT (+2,4€ /j)
 
 >multiplicité status doctorants (contrat / pas contrat / type contrat) mais aménagements existent oui
 
+R2 particulier, blocage marchent plus, tjrs argument du déficit, besoin d'utiliser la multiplicité des orgas ? 
 
+
+Pour le harcelement moral, que faire, comment, quelles ressources ? 
+>réu cas par cas et voir après, important de récup le témoignage, y a des piges,
+>faut sortir le harcelement du labo, pcq c'est trop un entresoi, y a qq outils mais c'est sous conditions (rsst signalement)
