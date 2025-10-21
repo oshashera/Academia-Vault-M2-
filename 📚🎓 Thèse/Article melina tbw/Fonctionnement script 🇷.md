@@ -83,4 +83,6 @@ Utilise **mixed model** pour garder compte de l'effet window
 
 - si overdisp on utilise négative binomiale, et on re teste pour dispersion
 - check de vallidité via plot de pearson résiduals vs fitted → tendance ok ?
-- pour le modèle on fait anova type 2
+- pour le modèle on fait anova type 2, pour tester significativité globale de chaque var prédictive et corriger pr présence d’autres var ds modèle
+- summary du modèle pour avoir les coeffs estimés, qui sont les effets estimé des var expli sur var rep (ici richesse spé)
+- r2 calculé avec `r.squaredGLMM` du modèle, et on a utilisé le r2 conditionnel (=effets fixe + aléatoire, alors que r2 marginal que effet fixe) calculé avec la méthode delta (standard a priori ?)
