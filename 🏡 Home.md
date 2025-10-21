@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
 banner: "![[1632213678884.jpg]]"
-banner_y: 0.512
+banner_y: 0.74
 ---
 ```widgets
 type: clock 
