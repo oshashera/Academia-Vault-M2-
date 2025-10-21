@@ -15,6 +15,11 @@ indices climatiques → déjà fait / sélec ds article uroy (cascading effects.
 
 Data loading + libraries ✅
 
+>[!info] Preliminary analysis
+>check les sp les plus fréquentes
+>check les sp les plus abondantes
+>check les lignes (donc pt / windows) et scan un ou la moyenne de tt les colonnes de relevé d'sp = 0 soit seulement possible si 0 species dedans.
+
 > [!info] Fonction ==indice_calc==
 >prends "data" en source (tableau donné taxon, genre plants_hedgerows)
 >>``` r
@@ -25,7 +30,12 @@ Data loading + libraries ✅
 récup les infos de windows et point (même si idc_point prends pt et windows alors que windows prends que windows (uniques))
 >
 > le reste de la fx → alpha(s) simple ✅
+>> richesse spé : somme du nb de colonnes sup à 0 (=nb sp présentes) pour la ligne.
+>> abondance totale : arrondi du nb
 > beta → pour chaque window unique (windows), subset de data général (genre hedgerows) par window, création d'une matrice de 
+
+### Taxonomic approach
+
 
 >[!important] Important
 > testdispersion() → si pas précisé "alternative=" ca fait two sided aka test over et underdispersion

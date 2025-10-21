@@ -27,3 +27,7 @@ A ce type d’objet fractale, on peut associer une dimension fractale qui corres
 - Méthode des grilles pour le calcul de la dimension fractale
 ![[Pasted image 20251016170853.png|center|550]]
 
+
+
+blabla burel & baudry à récup
+![[Drawing 2025-10-20 16.39.26.excalidraw]]
