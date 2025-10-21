@@ -38,12 +38,56 @@ Campagne d'ATER
 diffusion des nouveaux guides : 
 droit des doctorants ET droits des doctorant.es étranger.es
 
-##### accompagnement individuel
+##### Accompagnement individuel
 
-Harcelement moral
+###### Harcelement moral
 Non droit à la déconnexion
 trop de banalisation, il faut partager les infos
 
 Exemple labo lyon, conflit avec encadrement et direction du laboratoire
-→ lancer enquete F3SCT (instance de représentation pas spécifique aux doctorants ui peut faire des enquètes)
-→ sanction discilpl
+→ lancer enquete **F3SCT** (instance de représentation pas spécifique aux doctorants ui peut faire des enquètes)
+→ sanction disciplinaire, directeur labo plus en poste
+
+###### VSS
+**Collectif CLASCHES** → site internet super, quoi faire quand victime, quand témoin
+
+
+
+
+### Le collectif CGT doctorant à rennes
+
+##### Pq cette réu ? pq un collectif ?
+Créer un espace d'échange, d'entraide et d'organisation
+- échanger sur nos conditions de travail
+- partager des ressources
+- se former collectivement
+- soutenir et mener des luttes localement
+
+##### L'intérêt du lien syndical
+- outil des luttes collectives potent
+- partage d'expérience
+- accès à des formations syndicales
+
+##### Rejoindre le collectif ?
+- pas besoin d'être expert ou déjà formé
+- chacun peut apporter ce qu'il/elle peut
+- on se forme en chemin
+
+
+pas d'obligation de présence constante ou autre, mais possibilité de s'entraider, ouvert à tous les établissement
+
+
+##### Prochaines étapes : proposition
+Liste de diffusion
+
+Prochaine réu :
+- bilan d'ajd
+- réflexion sur les modalité d'organisation du collectif
+- création d'ateliers : vacations, direction de thèse, VSS?
+- point juridique sur les vacations et comment gérer les défauts de paiement?
+
+____
+Critique de mister SUD EDUC (valide mais pourrait mieux mettre les formes)
+→ action plus large notamment en collab SUD EDUC / CGT 
+→ faire lien avec austérité ?
+→ souvent justification de l'univ pour paiement tardifs etc etc → "ggnégnégné c plus dur techniquement de payer tlm à temps" 
