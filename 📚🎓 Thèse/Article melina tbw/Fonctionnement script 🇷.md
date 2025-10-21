@@ -86,3 +86,9 @@ Utilise **mixed model** pour garder compte de l'effet window
 - pour le modèle on fait anova type 2, pour tester significativité globale de chaque var prédictive et corriger pr présence d’autres var ds modèle
 - summary du modèle pour avoir les coeffs estimés, qui sont les effets estimé des var expli sur var rep (ici richesse spé)
 - r2 calculé avec `r.squaredGLMM` du modèle, et on a utilisé le r2 conditionnel (=effets fixe + aléatoire, alors que r2 marginal que effet fixe) calculé avec la méthode delta (standard a priori ?)
+
+##### Piélou (varie entre 0 et 1)
+- pareil plot avec fx glmm
+- If there are proportion equal to 0 or 1, they are transformed according to the recommended method by Smithson and Verkuilen (2006).
+	- stocke dans n le nb de lignes du tableau data_Point →→→ transfo colomn pielou tq new pielou = (old pielou ×(n−1)+0.5​ ) / n
+- GLMM fait avec `glmmTMB` qui sert à "fitting generalized linear mixed models" dont les **betaregression**, employée ici dans le cas de pielou pcq compris entre 0 et 1
