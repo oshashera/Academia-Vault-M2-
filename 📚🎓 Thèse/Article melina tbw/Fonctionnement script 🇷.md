@@ -82,7 +82,7 @@ Utilise **mixed model** pour garder compte de l'effet window
 > => si dispersion sup à 1 et que signif (inf au seuil) → over disp (qui peut poser pb de faux positif en augmentant les pvalues), si signif et disp inf à 1 → underdisp
 
 - si overdisp on utilise négative binomiale, et on re teste pour dispersion
-- check de vallidité via plot de pearson résiduals vs fitted → tendance ok ?
+- check de validité via plot de pearson résiduals vs fitted → tendance ok ?
 - pour le modèle on fait anova type 2, pour tester significativité globale de chaque var prédictive et corriger pr présence d’autres var ds modèle
 - summary du modèle pour avoir les coeffs estimés, qui sont les effets estimé des var expli sur var rep (ici richesse spé)
 - r2 calculé avec `r.squaredGLMM` du modèle, et on a utilisé le r2 conditionnel (=effets fixe + aléatoire, alors que r2 marginal que effet fixe) calculé avec la méthode delta (standard a priori ?)
@@ -92,3 +92,22 @@ Utilise **mixed model** pour garder compte de l'effet window
 - If there are proportion equal to 0 or 1, they are transformed according to the recommended method by Smithson and Verkuilen (2006).
 	- stocke dans n le nb de lignes du tableau data_Point →→→ transfo colomn pielou tq new pielou = (old pielou ×(n−1)+0.5​ ) / n
 - GLMM fait avec `glmmTMB` qui sert à "fitting generalized linear mixed models" dont les **betaregression**, employée ici dans le cas de pielou pcq compris entre 0 et 1
+reste comme avant :
+- check de validité via plot de pearson résiduals vs fitted → tendance ok ?
+- pour le modèle on fait anova type 2, pour tester significativité globale de chaque var prédictive et corriger pr présence d’autres var ds modèle
+- summary du modèle pour avoir les coeffs estimés, qui sont les effets estimé des var expli sur var rep (ici richesse spé)
+- r2 calculé avec `r.squaredGLMM` du modèle, et on a utilisé le r2 conditionnel (=effets fixe + aléatoire, alors que r2 marginal que effet fixe) calculé avec la méthode delta (standard a priori ?)
+
+### Gamma 
+
+##### Richesse spé :
+
+glm (pas glmm pcq pas effet window) 
+- modèle glm poisson (comptages)
+- testdispersion
+- plot
+- → si overdisp, refaire glm avec modèle négative binomiale
+- check check de validité via plot de pearson résiduals vs fitted → tendance ok ?
+- pour le modèle on fait anova type 2, pour tester significativité globale de chaque var prédictive et corriger pr présence d’autres var ds modèle
+- summary du modèle pour avoir les coeffs estimés, qui sont les effets estimé des var expli sur var rep (ici richesse spé)
+- r2 calculé avec ==**`pseudoR2=100*(mod_lin_Sg$null.deviance-mod_lin_Sg$deviance)/mod_lin_Sg$deviance)`!!!**== → la _déviance nulle_ = la déviance d’un modèle **sans prédicteurs**, seulement avec une constante (la moyenne) et `mod_lin_Sg$deviance` → la _déviance résiduelle_ = la déviance du **modèle ajusté** avec var expli
