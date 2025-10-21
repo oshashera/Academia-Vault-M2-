@@ -30,7 +30,7 @@ Data loading + libraries ✅
 récup les infos de windows et point (même si idc_point prends pt et windows alors que windows prends que windows (uniques))
 >
 > le reste de la fx → 
-> alpha(s) simple :
+> alpha(s) simple : pour chaque **point, pas window (window beta ou gamma)**
 >> richesse spé : somme du nb de colonnes sup à 0 (=nb sp présentes) pour la ligne.
 >> abondance totale : arrondi de la somme totale des colonnes sp d'une ligne = arrondi de la somme des abondances de chaque sp
 >> Index de Shannon et indice d'équitabilité de piélou:
@@ -46,9 +46,23 @@ récup les infos de windows et point (même si idc_point prends pt et windows al
 >>pour chaque window, on crée une colonne pour les 3 indices, avec un nom différent, avec *en plus* une colonne qui indique quelle proportion de la dissimilarité est due au turnover (BAL/BRAY).
 >
 >gamma : 
-
+>>Occurence :
+>>>On supprime la 2è colonne (le site), car on veut agréger par fenêtre
+>>>On transforme toutes les abondances ≠ 0 en **1** → **matrice de présence/absence** (1 = espèce présente, 0 = absente), enregistré dans `data_sspt_p_a`
+>>>occurence moyenne par window = aggrégation des lignes par `Window`→ on prends la moy des vals de présence pour chaque sp → proportion de sites ou sp présente ds fenêtre
+>>Richesse spé :
+>>> somme pour chaque window de cb d'sp ont une occurrence > 0.
+>>Shannon et Pielou
+>>> Comme pour alpha mais sur data ***window*** pas point cette fois
 
 ### Taxonomic approach
+
+##### Table indices et landscape fusion
+→ tableau d'indice utilisant fx décrite plus haut
+Sous tableaux / liste
+
+
+
 
 
 >[!important] Important
