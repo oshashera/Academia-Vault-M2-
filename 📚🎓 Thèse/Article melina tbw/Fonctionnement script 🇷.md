@@ -57,13 +57,25 @@ récup les infos de windows et point (même si idc_point prends pt et windows al
 
 ### Taxonomic approach
 
+#### Prélim
 ##### Table indices et landscape fusion
-→ tableau d'indice utilisant fx décrite plus haut
-Sous tableaux / liste
+- tableau d'indice utilisant fx décrite plus haut
+- Sous tableaux séparés pour indices site et window
+- merge des tableaux indices sites et window avec landscape avec la clé commune de window à chaque fois
 
+##### Analyses préliminaires
+- moyenne de la richesse spé par points
+- Analyses de corrélation (cor) pour éviter colinéarité entre variables étudiées, par site et par window
 
+### Alpha
 
+##### Richesse spé 
+>[!important] Comptage donc loi de poissson, ou binomiale négative si overdispersion
 
+Utilise **mixed model** pour garder compte de l'effet window
+
+- plot (utilise formule modèle mixte) pour check les tendances
+- `mod_lin_S = glmer(specific_richness ~ SHDI + pNC.hete + pNV_2 + Sum_Length + (1 | Window), family = "poisson", data = data_Point)` aka le lmm avec loi de poisson et avec en effet aléatoire la window.
 
 >[!important] Important
 > testdispersion() → si pas précisé "alternative=" ca fait two sided aka test over et underdispersion
