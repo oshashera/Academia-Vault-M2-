@@ -76,13 +76,11 @@ Utilise **mixed model** pour garder compte de l'effet window
 
 - plot (utilise formule modèle mixte) pour check les tendances
 - `mod_lin_S = glmer(specific_richness ~ SHDI + pNC.hete + pNV_2 + Sum_Length + (1 | Window), family = "poisson", data = data_Point)` aka le lmm avec loi de poisson et avec en effet aléatoire la window.
-
->[!important] Important
+- test de dispersion ↓↓↓
+>[!important] testdispersion()
 > testdispersion() → si pas précisé "alternative=" ca fait two sided aka test over et underdispersion
-> => si dispersion sup à 1et que signif → over disp (qui peut poser pb de faux positif en augmentant les pvalues), si signif et disp inf à 1 → underdisp
+> => si dispersion sup à 1 et que signif (inf au seuil) → over disp (qui peut poser pb de faux positif en augmentant les pvalues), si signif et disp inf à 1 → underdisp
 
->[!question] QUESTIONLAND AAAAAH
->
-??? testdispersion() utilisé pour tester overdispersion mais y a jamais d'alternative indiquée donc ca test en "two.sided" aka over/underdispersion donc jsp si c'est le bon test? je présume qu'on veut pas d'under nn plus mais le script mentionne que le over
-
-
+- si overdisp on utilise négative binomiale, et on re teste pour dispersion
+- check de vallidité via plot de pearson résiduals vs fitted → tendance ok ?
+- pour le modèle on fait anova type 2
