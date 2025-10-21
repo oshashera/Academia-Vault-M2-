@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "f460af83c5f53aef",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "98f1de968100be3e",
             "type": "leaf",
             "state": {
@@ -54,21 +44,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "4d167f2ba8a09d87",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-20 16.39.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-20 16.39.26.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,10 +219,11 @@
       "widgets:Add widget": false
     }
   },
-  "active": "f460af83c5f53aef",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
     "Excalidraw/Drawing 2025-10-20 16.39.26.excalidraw.md",
+    "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
     "Excalidraw/Drawing 2025-10-20 14.32.37.excalidraw.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
     "A récup -.md",
@@ -273,7 +251,6 @@
     "Calendar/2025-10-22 FINIR SCRIPT SI PAS FINI.md",
     "Calendar/2025-10-21 PTN DE SCRIPT AAAAAh.md",
     "Calendar/2025-10-22 Zoom HDR didier Michot.md",
-    "Excalidraw/Drawing 2025-10-17 17.06.17.excalidraw.md",
     "Images/Pasted Image 20251017170810_827.png",
     "Images/Pasted Image 20251017170735_018.png",
     "Images/Pasted Image 20251017170657_278.png",
