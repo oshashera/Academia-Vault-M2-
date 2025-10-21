@@ -95,7 +95,7 @@ Utilise **mixed model** pour garder compte de l'effet window
 reste comme avant :
 - check de validité via plot de pearson résiduals vs fitted → tendance ok ?
 - pour le modèle on fait anova type 2, pour tester significativité globale de chaque var prédictive et corriger pr présence d’autres var ds modèle
-- summary du modèle pour avoir les coeffs estimés, qui sont les effets estimé des var expli sur var rep (ici richesse spé)
+- summary du modèle pour avoir les coeffs estimés, qui sont les effets estimé des var expli sur var rep (ici pielou)
 - r2 calculé avec `r.squaredGLMM` du modèle, et on a utilisé le r2 conditionnel (=effets fixe + aléatoire, alors que r2 marginal que effet fixe) calculé avec la méthode delta (standard a priori ?)
 
 ### Gamma 
@@ -107,7 +107,33 @@ glm (pas glmm pcq pas effet window)
 - testdispersion
 - plot
 - → si overdisp, refaire glm avec modèle négative binomiale
-- check check de validité via plot de pearson résiduals vs fitted → tendance ok ?
+- check check de validité via plot resid?
 - pour le modèle on fait anova type 2, pour tester significativité globale de chaque var prédictive et corriger pr présence d’autres var ds modèle
 - summary du modèle pour avoir les coeffs estimés, qui sont les effets estimé des var expli sur var rep (ici richesse spé)
-- r2 calculé avec ==**`pseudoR2=100*(mod_lin_Sg$null.deviance-mod_lin_Sg$deviance)/mod_lin_Sg$deviance)`!!!**== → la _déviance nulle_ = la déviance d’un modèle **sans prédicteurs**, seulement avec une constante (la moyenne) et `mod_lin_Sg$deviance` → la _déviance résiduelle_ = la déviance du **modèle ajusté** avec var expli
+- r2 calculé avec ==**`pseudoR2=100*(mod_lin_Sg$null.deviance-mod_lin_Sg$deviance)/mod_lin_Sg$deviance)`!!!**== → la _déviance nulle_ = la déviance d’un modèle **sans prédicteurs**, juste avec une constante (la moyenne) et `mod_lin_Sg$deviance` → la _déviance résiduelle_ = la déviance du **modèle ajusté** avec var expli.
+
+##### Pielou
+- plot formule glm
+- `betareg` modèle linéaire
+- plot résiduals → check validité
+- pour le modèle on fait anova type 2, pour tester significativité globale de chaque var prédictive et corriger pr présence d’autres var ds modèle
+- summary du modèle pour avoir les coeffs estimés, qui sont les effets estimé des var expli sur var rep (ici pielou) et pseudo r2
+
+
+### Beta
+
+##### Total Bray Curtis Dissimilarity Index
+
+- plot formule glm
+- bray curtis entre 0 et 1 donc betaregression comme pielou avant
+- plotresid validité
+- anova II pour signif
+- summary pour coeff et pseudo R2
+
+##### Proportion de balanced change component
+
+- plot formule glm
+- betaregression
+- plotresid validité
+- anova II pour signif
+- summary coeffs et psuedo r2
