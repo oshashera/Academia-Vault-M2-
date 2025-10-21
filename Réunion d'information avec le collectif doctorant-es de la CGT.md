@@ -90,4 +90,17 @@ ____
 Critique de mister SUD EDUC (valide mais pourrait mieux mettre les formes)
 → action plus large notamment en collab SUD EDUC / CGT 
 → faire lien avec austérité ?
-→ souvent justification de l'univ pour paiement tardifs etc etc → "ggnégnégné c plus dur techniquement de payer tlm à temps" 
+→ souvent justification de l'univ pour paiement tardifs etc etc → "gnégnégné c plus dur techniquement de payer tlm à temps" 
+→ est ce que ce qui est proposé ici est que sous l'étiquette cgt ?
+
+>réponse : tout n'est pas sous le sticker cgt, on s'empare des expertises dispo quoi.
+> faut créer espace pour les doctorants pour qu'ils s'emparent des outils, et que la première étape de la lutte c'est de se réunir même si ca peut sembler corpo, avant d'élargir
+
+
+Question sujet télétravail / OM
+Question qui revient souvent → peut-il faire du tt ? pour les congés ? (pb surtout à r2 du coup?)
+est-ce qu'on a le droit à la prime TT (+2,4€ /j)
+
+>multiplicité status doctorants (contrat / pas contrat / type contrat) mais aménagements existent oui
+
+
