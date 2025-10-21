@@ -6,4 +6,11 @@ Laurent Berges HDR ? https://hal.inrae.fr/tel-04426718v1
 
 
 
-**IZ1760974369.2649.81414**
+### Trucs à check aussi
+
+Concepts :
+- dynamique source-puits
+- métaécosystème
+- métapop (approfondir)
+- métacom (approfondir)
+- 

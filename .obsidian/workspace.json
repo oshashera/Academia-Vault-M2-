@@ -45,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
+                "file": "A récup -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fonctionnement script 🇷"
+              "title": "Backlinks for A récup -"
             }
           },
           {
@@ -138,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
+                "file": "A récup -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fonctionnement script 🇷"
+              "title": "Outgoing links from A récup -"
             }
           },
           {
@@ -167,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
+                "file": "A récup -.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fonctionnement script 🇷"
+              "title": "Outline of A récup -"
             }
           },
           {
@@ -219,10 +220,10 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "98f1de968100be3e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-20 16.39.26.excalidraw.md",
     "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
+    "Excalidraw/Drawing 2025-10-20 16.39.26.excalidraw.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Théorie des fractales et autosimilarité.md",
     "Excalidraw/Drawing 2025-10-20 14.32.37.excalidraw.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
