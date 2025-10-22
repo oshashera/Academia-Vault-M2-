@@ -27,26 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/Réunions/Réu 22 oct 2025.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Réu 22 oct 2025"
-            }
-          },
-          {
-            "id": "ca487d29e696df9c",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "title": "Fragmentation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,8 +210,11 @@
       "widgets:Add widget": false
     }
   },
-  "active": "ca487d29e696df9c",
+  "active": "07e713315f6842af",
   "lastOpenFiles": [
+    "📚🎓 Thèse/Réunions/Réu 22 oct 2025.md",
+    "Full Calendar/Formation - Visio/2026-01-13 Formation Intro Data Management en Hard scienceBâtiment 40, salle de formation; Bibliothèque Beaulieu.md",
+    "Full Calendar/Formation - Visio/2025-12-09 Formation intro à l'éthique de la recherche (visio).md",
     "Full Calendar/Reunion/2025-11-28 Réunion thèse aude et cendrine.md",
     "Full Calendar/Reunion/2025-11-27 Journée nouveaux entrants ecobio.md",
     "Full Calendar/Reunion/2025-11-20 Journée nouveaux entrant ED EGAAL à l'institut agro je crois.md",
@@ -245,10 +238,7 @@
     "Full Calendar/Reunion/2025-10-22 Réunion thèse Aude et cendrine.md",
     "Full Calendar/Bureau/2025-10-22 Finir script si pas fini.md",
     "Full Calendar/Formation - Visio/2025-10-22 HDR Didier Michot.md",
-    "Full Calendar/Bureau/2025-10-21 Script melina satan.md",
-    "Full Calendar/Externe/2025-10-20 RDV Psy.md",
     "Full Calendar/Formation - Visio",
-    "Full Calendar/Bureau/2025-10-20 script melina satan .md",
     "Full Calendar/Externe",
     "Full Calendar/Bureau",
     "Full Calendar/Présentation",
