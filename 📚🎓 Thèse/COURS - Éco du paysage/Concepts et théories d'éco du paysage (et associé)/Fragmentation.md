@@ -43,3 +43,5 @@ Dans ce cas de pixels situés dans de grandes fenetres à faible taux de boiseme
 
 La fragmentation est d'abord un phénomène spatial qui conduit à une modification non corrélée de divers paramètres décrivant les structures.
 En suite, c'est un phénomène qui peut être, *a priori*, perçu de façon très différente selon les espèces. La figure 22 rend bien compte u fait que les espèces "intérieures" (gds mammifères forestiers) voient leur habitat diminuer très rapidement (cf [[Relation entre lisière, zone centrale et surface des taches]]) et disparaissent en premiers, alors que les espèces de lisière ne perçoivent les changements que bcp plus tardivement.
+
+
