@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -209,7 +210,7 @@
       "widgets:Add widget": false
     }
   },
-  "active": "2916e548f1597d52",
+  "active": "07e713315f6842af",
   "lastOpenFiles": [
     "📚🎓 Thèse/Articles Zotero import",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/la dispersion.md",
