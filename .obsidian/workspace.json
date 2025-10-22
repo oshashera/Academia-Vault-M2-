@@ -45,7 +45,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 488,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -218,8 +220,10 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fa09317248a56ba6",
   "lastOpenFiles": [
+    "Calendar/2025-10-23 Fahrig 1997 - Cain 2000.md",
+    "Calendar/2025-10-22 HDr lecture suite et planif biblio.md",
     "📚🎓 Thèse/Réunions/Réu 22 oct 2025.md",
     "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
     "Calendar/2025-11-27 réu nouveaux entrants tt journée ?.md",
@@ -245,12 +249,10 @@
     "Calendar/2025-10-21 ptn de script aah.md",
     "Calendar/2025-10-21 GRR PC RECUP PC GRRR.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
-    "Excalidraw/Drawing 2025-10-20 13.03.58.excalidraw.md",
     "Images/Pasted Image 20251020143319_843.png",
     "Images/Pasted Image 20251020143241_670.png",
     "Images/Pasted image 20251020141340.png",
     "Images/Pasted image 20251020132004.png",
-    "Excalidraw/Drawing 2025-10-20 12.52.03.excalidraw.md",
     "Images/Pasted Image 20251017170810_827.png",
     "Images/Pasted Image 20251017170735_018.png",
     "Images/Pasted Image 20251017170657_278.png",
