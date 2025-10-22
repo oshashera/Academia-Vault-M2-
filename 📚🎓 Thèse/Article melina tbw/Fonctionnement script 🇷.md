@@ -154,7 +154,7 @@ Window/point/Sp/abondance = 4 col
 
 #### Calcul des % par point puis window
 
-Fonction `summary_table()` = résumé statistique selon une échelle (`scale`_Window_, _Point_,), → calcule % de richesse et d’abondance par classe de dispersion (`disp_class`)
+Fonction `summary_table()` = résumé statistique selon une échelle (`scale`_Window_ OU _Point_ (tableaux correspondants pris en entréé)), → calcule % de richesse et d’abondance par classe de dispersion (`disp_class`)
 
 1. nettoie les données avec `filter(!is.na(disp_class))`, ou on vire tt ceux qui ont pas de disp class
 2. ```R
@@ -165,8 +165,13 @@ summarise(
   .groups = "drop"
 )```
 donc là pour chaque couple scale/disp_class on récup somme abondance et richesse spé (nb sp distinctes)
-3. pour scale uniquement 
-- richesse totale (somme des richesses de chaque classe), l’abondance totale, puis les pourcentages de richesse et d’abondance pour chaque `disp_class`.
-4. 
-`
+3. pour scale uniquement  
+richesse totale (somme des richesses de chaque classe), l’abondance totale, puis les pourcentages de richesse et d’abondance pour chaque `disp_class`.
+4. On réorganise le tableau tq chaque ligne correspond à un niveau de scale (ex. un point)et chaque colonne donne les % de richesse et d’abondance par classe de dispersion 
+↓↓ (pct = pourcentage)
+
+| Point | pct_richness_long | pct_richness_short | pct_abundance_long | pct_abundance_short |
+| ----- | ----------------- | ------------------ | ------------------ | ------------------- |
+| 001A  | 66.7              | 33.3               | 95.7               | 4.32                |
+Ensuite, summary de la summary_table(Point,data_merged) ou (Window,data_merged).
 
