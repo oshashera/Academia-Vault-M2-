@@ -35,3 +35,12 @@ Les corridors ont plus d'effet à des [[Les corridors#Effet de la présence de c
 ### Conclusion (burel & baudry)
 
 L'approche de la connectivité au sein d'un paysage peut se faire de différentes façons. Selon le type d'espèce, leur mode de déplacement, il existe des connectivités différentes. La simulation de structures générées par des déplacements est un outil important pour tester des hypothèses et, surtout, pour aider à élaborer une démarche de construction d'un plan d'échantillonnage du matériel biologique dans un paysage pour tester des déplacements effectifs.
+
+
+____
+# ==A restructurer / intégrer==
+
+“Ainsi, différents types de corridors écologiques peuvent interagir dans un paysage. Par exemple, les corridors de prairie entre taches forestières pourraient renforcer l'effet des corridors boisés entre taches forestières connectées, mais uniquement pour les espèces forestières généralistes. Ces interactions entre types de corridors peuvent aller de la complémentarité potentielle pour les espèces généralistes à l'antagonisme potentiel pour les espèces spécialisées, où un type de corridor écologique est favorable, tandis que l'autre constitue une barrière [77]. Ainsi, il est intéressant d'analyser la complémentarité entre différents types de corridors écologiques dans les études sur la réponse des communautés végétales à la connectivité paysagère [704]” (Bergès, 2022, p. 104)
+
+
+“Une synthèse des travaux sur la question dans différents types de milieux (forêts, prairies, landes, bords de routes, fossés, voir Table 1 dans [77]) souligne que les plantes répondent à la connectivité paysagère au travers des traits de vie associés à [[la dispersion]] [71, 78, 697, 700, 702, 706-709]. Une autre synthèse sur le sujet souligne que les traits fonctionnels liés à la persistance des espèces mériteraient d'être mieux étudiés [710].” (Bergès, 2022, p. 104)

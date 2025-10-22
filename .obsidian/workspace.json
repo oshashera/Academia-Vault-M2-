@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fragmentation"
+              "title": "Connectivité spatiale et fonctionnelle"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -210,8 +209,13 @@
       "widgets:Add widget": false
     }
   },
-  "active": "07e713315f6842af",
+  "active": "2916e548f1597d52",
   "lastOpenFiles": [
+    "📚🎓 Thèse/Articles Zotero import",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/la dispersion.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
     "📚🎓 Thèse/Réunions/Réu 22 oct 2025.md",
     "Full Calendar/Formation - Visio/2026-01-13 Formation Intro Data Management en Hard scienceBâtiment 40, salle de formation; Bibliothèque Beaulieu.md",
     "Full Calendar/Formation - Visio/2025-12-09 Formation intro à l'éthique de la recherche (visio).md",
@@ -233,11 +237,6 @@
     "Full Calendar/Bureau/2025-10-24 Chase 2005 - Soons 2005 - Logue 2011.md",
     "Full Calendar/Bureau/2025-10-24 Mouquet 2003 - Murphy 2004.md",
     "Full Calendar/Bureau/2025-10-23 Holoyak 2000 - Fahrig 2002 - Fahrig 2003.md",
-    "Full Calendar/Bureau/2025-10-23 Fahrig 1997 - Cain 2000.md",
-    "Full Calendar/Bureau/2025-10-22 Planif articles + lecture hdr suite.md",
-    "Full Calendar/Reunion/2025-10-22 Réunion thèse Aude et cendrine.md",
-    "Full Calendar/Bureau/2025-10-22 Finir script si pas fini.md",
-    "Full Calendar/Formation - Visio/2025-10-22 HDR Didier Michot.md",
     "Full Calendar/Formation - Visio",
     "Full Calendar/Externe",
     "Full Calendar/Bureau",
