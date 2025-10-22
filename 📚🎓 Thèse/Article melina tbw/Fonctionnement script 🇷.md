@@ -175,3 +175,17 @@ richesse totale (somme des richesses de chaque classe), l’abondance totale, pu
 | 001A  | 66.7              | 33.3               | 95.7               | 4.32                |
 Ensuite, summary de la summary_table(Point,data_merged) ou (Window,data_merged).
 
+### Analyse de proportions
+
+#### Alpha
+
+##### Abondance
+
+sans les indivs qui ont aps de disp class, on fait un résumé par window et point de l'abondance totale (sum), de l'abondance de disp long (sum abundance disp class \=="long"), et de la proportion de long dans le total
+into summary
+
+##### Merge avec les infos de landscape
+via clé primaire window en utilisant window comme facteur.
+
+
+##### Modelisation → glmM pour tenir compte de window effect, mais comme proportions (0 à 1) → beta reg avec transfo si besoin comme pour Pielou
