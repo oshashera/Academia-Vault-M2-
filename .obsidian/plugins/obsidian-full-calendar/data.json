@@ -2,35 +2,40 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#b87400",
-      "directory": "Full Calendar/Brown - Terrain"
+      "color": "#0caadf",
+      "directory": "Full Calendar/Bureau"
     },
     {
       "type": "local",
-      "color": "#0cc8ed",
-      "directory": "Full Calendar/Cyan - Bureau"
+      "color": "#f7a922",
+      "directory": "Full Calendar/Reunion"
     },
     {
       "type": "local",
-      "color": "#16c533",
-      "directory": "Full Calendar/Green - Reunion"
+      "color": "#fb1818",
+      "directory": "Full Calendar/Présentation"
     },
     {
       "type": "local",
-      "color": "#d63d3d",
-      "directory": "Full Calendar/Red - Présentation"
+      "color": "#c97b22",
+      "directory": "Full Calendar/Terrain"
     },
     {
       "type": "local",
-      "color": "#30e8ab",
-      "directory": "Full Calendar/Teal - Externe"
+      "color": "#0ff0a5",
+      "directory": "Full Calendar/Externe"
+    },
+    {
+      "type": "local",
+      "color": "#aedae5",
+      "directory": "Full Calendar/Formation - Visio"
     }
   ],
   "defaultCalendar": 0,
-  "firstDay": 0,
+  "firstDay": 1,
   "initialView": {
     "desktop": "timeGridWeek",
     "mobile": "timeGrid3Days"
   },
-  "timeFormat24h": false
+  "timeFormat24h": true
 }
