@@ -2,15 +2,35 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#2287b9",
-      "directory": "Calendar"
+      "color": "#b87400",
+      "directory": "Full Calendar/Brown - Terrain"
+    },
+    {
+      "type": "local",
+      "color": "#0cc8ed",
+      "directory": "Full Calendar/Cyan - Bureau"
+    },
+    {
+      "type": "local",
+      "color": "#16c533",
+      "directory": "Full Calendar/Green - Reunion"
+    },
+    {
+      "type": "local",
+      "color": "#d63d3d",
+      "directory": "Full Calendar/Red - Présentation"
+    },
+    {
+      "type": "local",
+      "color": "#30e8ab",
+      "directory": "Full Calendar/Teal - Externe"
     }
   ],
   "defaultCalendar": 0,
-  "firstDay": 1,
+  "firstDay": 0,
   "initialView": {
     "desktop": "timeGridWeek",
     "mobile": "timeGrid3Days"
   },
-  "timeFormat24h": true
+  "timeFormat24h": false
 }
