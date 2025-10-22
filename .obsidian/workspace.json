@@ -45,8 +45,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488,
-    "collapsed": true
+    "width": 488
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -220,10 +218,10 @@
       "widgets:Add widget": false
     }
   },
-  "active": "07e713315f6842af",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
     "📚🎓 Thèse/Réunions/Réu 22 oct 2025.md",
+    "📚🎓 Thèse/Article melina tbw/Fonctionnement script 🇷.md",
     "Calendar/2025-11-27 réu nouveaux entrants tt journée ?.md",
     "Calendar/2025-11-20 réu egal tt journée.md",
     "Calendar/2025-11-04 terrain tinytag.md",
