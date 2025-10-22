@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +220,7 @@
       "widgets:Add widget": false
     }
   },
-  "active": "fa09317248a56ba6",
+  "active": "07e713315f6842af",
   "lastOpenFiles": [
     "Calendar/2025-11-04 terrain tinytag.md",
     "Calendar/2025-11-03 terrain tinytag.md",
