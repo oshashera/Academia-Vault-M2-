@@ -44,6 +44,19 @@ Div 10 à 82x sup dans zones tropicales (pour araignées) par rapport à zones t
 
 
 
-Identification to species level needed ? Morphospecies and Surrogate taxa concepts
+- Identification to species level needed ? *Morphospecies (def à check) and Surrogate taxa (taxon dont var de div vont refléter ceux d'autres taxons ou utiliser un niveau taxonomique supérieur qui va informer sur la div des niveaux inférieurs) concepts*
 Oliver & Beattie 1993 // Conservation biology
 Cadroso et al 2005 // Biological conservation
+
+- Local, landscape and global drivers of (local) taxonomic diversity (including evenness), main?
+Local>landscape : Lafage et al 2015 // Ecological research
+Low vs High Lat : Privet & Pétillon 2020 // Ecology and Evolution
+Inter-taxa : Hacala et al 2021 // Oecologia
+
+##### $\Large \beta$ diversité
+
+plein d'indices....
+
+
+Species turnover beta t et nestedness Bn
+Loiseau et al 2021 // Plos biology
