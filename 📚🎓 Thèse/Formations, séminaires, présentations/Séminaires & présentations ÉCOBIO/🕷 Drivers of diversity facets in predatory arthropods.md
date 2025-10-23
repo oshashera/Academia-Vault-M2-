@@ -21,6 +21,7 @@ Community ecology framework but some applications in conservation biology may ar
 
 Species, Evolutionary unit, Traits
 
+## Species
 ###### $\Large\alpha$ diversity
 
 Nb of species S
@@ -70,7 +71,7 @@ Obviously big differences between taxa...
 Laval et al 2015
 
 
-TRAITS
+## TRAITS
 reflects the community assembly processe responding to biotic and abiotic constraints
 
 Indices
@@ -103,3 +104,32 @@ Ex plantes :
 Leaf area → primary production
 Bee tongue → pollination ? 
 spider size vs pest regulation ?
+
+
+
+
+## Evolutionary units
+
+- Phylogeny mostly derived from existing trees or using sequences available (genbank or so), but differences among species can also be based on multiplex barcoding of specimens 
+
+
+#### Rarefaction methods
+
+Several indices have been developed over time to estimate local diversity, regardless of sampling effort (e.g. nb of replicates, sampling area) and / or nb of indivuduals
+
+They can be used separately or averaged
+Most widely used : chao1 and chao2
+
+
+chao & jost  2012 // ecology
+
+↑
+check nb hill conversion et tt
+↓
+Hacala et al 2024 / ecological indicators
+
+
+chao et al 2023 // ecological monographs ; package inext.beta3D
+
+
+
