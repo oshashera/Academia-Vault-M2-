@@ -25,6 +25,25 @@ Species, Evolutionary unit, Traits
 
 Nb of species S
 Shannon
-Pielou, Simpson, Men
+Pielou, Simpson, **Menhinick, Hill, Margalef....**
 
 
+Comportement des indices
+https://www.jstor.org/stable/1932674
+
+
+Theoriquement, gradient latitudinal de la diversité → relation décroissante linéaire entre équateur (+) et Pôles (-)
+
+MAIS
+![[Drawing 2025-10-23 11.35.45.excalidraw|1300]]
+
+
+Données sur omnivores et phytophages mais quasi r sur prédateurs
+
+Div 10 à 82x sup dans zones tropicales (pour araignées) par rapport à zones tempérées
+
+
+
+Identification to species level needed ? Morphospecies and Surrogate taxa concepts
+Oliver & Beattie 1993 // Conservation biology
+Cadroso et al 2005 // Biological conservation
