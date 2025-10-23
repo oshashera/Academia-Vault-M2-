@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/Articles Zotero import/Untitled.md",
-                "mode": "source",
+                "file": "🏡 Home.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "🏡 Home"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fahrigRelativeEffectsHabitat1997.md",
+                "file": "📚🎓 Thèse/Articles Zotero import/fahrigRelativeEffectsHabitat1997.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "fahrigRelativeEffectsHabitat1997"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,12 +209,13 @@
       "widgets:Add widget": false
     }
   },
-  "active": "9df104d47893b49a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚🎓 Thèse/Articles Zotero import/Untitled.md",
-    "fahrigRelativeEffectsHabitat1997.md",
-    "Images/2NIPHYLS.png",
+    "📚🎓 Thèse/Articles Zotero import/foucaultWhichLandscapeIndicators2025.md",
     "🏡 Home.md",
+    "📚🎓 Thèse/Articles Zotero import/Untitled.md",
+    "📚🎓 Thèse/Articles Zotero import/fahrigRelativeEffectsHabitat1997.md",
+    "Images/2NIPHYLS.png",
     "Untitled.md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO/🕷 Drivers of diversity facets in predatory arthropods.md",
     "🌳 Stage ECOBIO/Besoins ? Facteurs  ?.md",
@@ -239,7 +239,6 @@
     "Full Calendar/Bureau/2025-10-30 Phd Uroy 2020.md",
     "Full Calendar/Bureau/2025-10-30 Phd Grill 2024.md",
     "Full Calendar/Bureau/2025-10-29 Phd Lecoq 2022.md",
-    "Full Calendar/Bureau/2025-10-29 Manning 2018 - Riva 2024 - Uroy 2025.md",
     "Full Calendar/Formation - Visio",
     "Full Calendar/Externe",
     "Full Calendar/Bureau",
