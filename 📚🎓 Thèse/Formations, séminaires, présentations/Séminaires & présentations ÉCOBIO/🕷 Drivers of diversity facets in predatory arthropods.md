@@ -58,5 +58,48 @@ Inter-taxa : Hacala et al 2021 // Oecologia
 plein d'indices....
 
 
-Species turnover beta t et nestedness Bn
-Loiseau et al 2021 // Plos biology
+Species turnover $\beta$t et nestedness $\beta$n
+Loiseau et al 2021 // Plos biology → figure
+package "betapart" Baselga et al 2018
+
+
+Obviously latitudinal impact of beta-diversity (see sp nb per area in tropical forests)
+But "high spatial variation in terrestrial arthropod species diversity and composition near the greenland ice cap" (article)
+
+Obviously big differences between taxa...
+Laval et al 2015
+
+
+TRAITS
+reflects the community assembly processe responding to biotic and abiotic constraints
+
+Indices
+
+Richness
+Contribution Originality Uniqueness
+
+**Mammola et al 2021 // Functional ecology**
+**Package Laliberte et al 2014**
+
+
+FD based on a combination of traits, with attributes based on individual measurements, population / species knowledge, or both....
+
+Body size : ressource use, starvation, desiccation resistance
+
+Hunging guilds → ecological niche → def attributs (donc mon idée en M2 était bonne, on peut pas donner le régime sp/famille mais la manière de chasser !)
+
+
+Palacio // ecography
+
+
+
+- functional traits, supposedly related to an ecosystem function
+Plant and microbes : work well
+Phytophagous and decomposers : quite Ok
+Predators : **???**
+
+Ex plantes : 
+
+Leaf area → primary production
+Bee tongue → pollination ? 
+spider size vs pest regulation ?
