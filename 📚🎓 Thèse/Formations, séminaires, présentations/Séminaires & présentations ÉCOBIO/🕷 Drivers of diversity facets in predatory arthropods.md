@@ -132,4 +132,29 @@ Hacala et al 2024 / ecological indicators
 chao et al 2023 // ecological monographs ; package inext.beta3D
 
 
+#### Questions left
+Influence of Hill numbers on diversity patterns (for a given facet) identical among habitat? 
+Marec et al// in prep
+
+Are diversity patterns related between facets ? habitat / taxa effects on correlation ?
+Kaina privet 2021 // phd thesis UR (not PD)
+
+Are the drivers of alpha / beta the same between facets of a taxon or between taxa for a given facet
+denis lafage 2015 // phd (only td)
+Helwan areski // phd (Small scale)
+
+Spatial correlation of diversity hotspot
+Robuchon et al 2021 // Nature communication
+
+
+1) Inter taxa comparisons of TD-FD-PD at both small and large spatial scale 
+2) Inter taxa comparisons of TD-FD-PD
+3) Non independence of FD vs PD
+4) Relationships between FD (not mf) and ES / NCP
+5) Predicting changes in FD and PD
+
+
+
+
+
 
