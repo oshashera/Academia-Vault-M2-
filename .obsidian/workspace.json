@@ -31,8 +31,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +205,7 @@
       "widgets:Add widget": false
     }
   },
-  "active": "de31bf40aef8d9e7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
     "📚🎓 Thèse/Articles Zotero import",
