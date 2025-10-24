@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "🏡 Home"
             }
-          },
-          {
-            "id": "14b1fc4fd04780bf",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,10 +195,10 @@
       "widgets:Add widget": false
     }
   },
-  "active": "14b1fc4fd04780bf",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Full Calendar/Bureau/2025-10-24 Murphy 2004 - Chase 2005 - Soons 2005.md",
-    "Full Calendar/Bureau/2025-10-24 Fahrig 2003- Mouquet 2003.md",
+    "Full Calendar/Bureau/2025-10-24 Fahrig 2002 & 2003- Mouquet 2003.md",
     "📚🎓 Thèse/Articles Zotero import/fahrigRelativeEffectsHabitat1997.md",
     "📚🎓 Thèse/Articles Zotero import/cainLongdistanceSeedDispersal2000.md",
     "🏡 Home.md",
