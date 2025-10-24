@@ -18,6 +18,16 @@
               "icon": "excalidraw-icon",
               "title": "Objectifs 6 premiers mois thèse.excalidraw"
             }
+          },
+          {
+            "id": "7c7c701eccfb8265",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ]
       }
