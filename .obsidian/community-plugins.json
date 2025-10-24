@@ -32,5 +32,6 @@
   "text-extractor",
   "widgets",
   "obsidian-zotero-desktop-connector",
-  "obsidian-full-calendar"
+  "obsidian-full-calendar",
+  "quickadd"
 ]
