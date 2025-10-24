@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md"
+                "file": "🏡 Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Objectifs 6 premiers mois thèse.excalidraw"
+              "icon": "lucide-file",
+              "title": "🏡 Home"
             }
           },
           {
@@ -29,7 +31,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,16 +206,26 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7c7c701eccfb8265",
   "lastOpenFiles": [
+    "Full Calendar/Externe/2025-10-25 Mail orga satan question penser + DOSSIER REMBOURSEMENT.md",
+    "Full Calendar/Bureau/2025-10-25 Soons 2005.md",
     "🏡 Home.md",
+    "Full Calendar/Bureau/2025-10-26 Chase 2005.md",
+    "Full Calendar/Bureau/2025-10-26 Murphy 2004.md",
+    "Full Calendar/Bureau/2025-10-24 Fahrig 2003 - Mouquet 2003.md",
+    "📚🎓 Thèse/Articles Zotero import/Refacted.md",
+    "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌",
+    "📚🎓 Thèse/Articles Zotero import/Refacted/Untitled",
+    "📚🎓 Thèse/Articles Zotero import 📰/Refacted ✅",
+    "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/holyoakHabitatPatchArrangement2000.md",
+    "Images/33DK6Y34.png",
     "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md",
-    "Full Calendar/Bureau/2025-10-24 Murphy 2004 - Chase 2005 - Soons 2005.md",
-    "Full Calendar/Bureau/2025-10-24 Fahrig 2002 & 2003- Mouquet 2003.md",
-    "📚🎓 Thèse/Articles Zotero import/fahrigRelativeEffectsHabitat1997.md",
-    "📚🎓 Thèse/Articles Zotero import/cainLongdistanceSeedDispersal2000.md",
+    "Full Calendar/Bureau/2025-10-25 Murphy 2004 - Chase 2005 - Soons 2005.md",
+    "Full Calendar/Bureau/2025-10-24 Fahrig 2002 & 2003.md",
+    "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/fahrigRelativeEffectsHabitat1997.md",
+    "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/cainLongdistanceSeedDispersal2000.md",
     "📚🎓 Thèse/Articles Zotero import/foucaultWhichLandscapeIndicators2025.md",
-    "📚🎓 Thèse/Articles Zotero import/Untitled.md",
     "Images/2NIPHYLS.png",
     "Untitled.md",
     "📚🎓 Thèse/Formations, séminaires, présentations/Séminaires & présentations ÉCOBIO/🕷 Drivers of diversity facets in predatory arthropods.md",
@@ -220,26 +233,19 @@
     "Excalidraw/Drawing 2025-10-23 11.35.45.excalidraw.md",
     "Packages R a apprendre.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
-    "📚🎓 Thèse/Articles Zotero import",
+    "📚🎓 Thèse/Articles Zotero import 📰",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/la dispersion.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
     "📚🎓 Thèse/Réunions/Réu 22 oct 2025.md",
     "Full Calendar/Formation - Visio/2026-01-13 Formation Intro Data Management en Hard scienceBâtiment 40, salle de formation; Bibliothèque Beaulieu.md",
     "Full Calendar/Formation - Visio/2025-12-09 Formation intro à l'éthique de la recherche (visio).md",
-    "Full Calendar/Reunion/2025-11-28 Réunion thèse aude et cendrine.md",
-    "Full Calendar/Reunion/2025-11-27 Journée nouveaux entrants ecobio.md",
-    "Full Calendar/Reunion/2025-11-20 Journée nouveaux entrant ED EGAAL à l'institut agro je crois.md",
-    "Full Calendar/Reunion/2025-11-12 Réu thèse ds aprèm HORAIRE ????.md",
-    "Full Calendar/Bureau/2025-10-31 Début biblio climat + présentation lea uroy à lire.md",
-    "Full Calendar/Terrain/2025-11-04 TinyTag Terrain J2.md",
     "Full Calendar/Formation - Visio",
     "Full Calendar/Externe",
     "Full Calendar/Bureau",
     "Full Calendar/Présentation",
     "Full Calendar/Reunion",
     "Full Calendar/Terrain",
-    "Full Calendar",
     "Images/Pasted image 20251022111341.png",
     "Images/Pasted Image 20251020143319_843.png",
     "Images/Pasted Image 20251020143241_670.png",
@@ -248,9 +254,6 @@
     "Images/Pasted Image 20251017170810_827.png",
     "Images/Pasted Image 20251017170735_018.png",
     "Images/Pasted Image 20251017170657_278.png",
-    "Images/Pasted Image 20251017170622_691.png",
-    "📚🎓 Thèse/COURS - Éco du paysage/Ecologie random",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)",
     "🌳 Stage ECOBIO/méthodo.canvas",
     "synthèse biblio/V2 Synthèse.canvas",
     "synthèse biblio/Synthèse biblio.canvas",

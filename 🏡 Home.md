@@ -22,7 +22,6 @@ author: Noam Chomsky
 - [ ] **==Comprendre jdd bruts ←→ propre==**
 
 
-
 # Recherche
 - Méthode Lamanda ==alternative== 
 - Méthode stage M2 update ?

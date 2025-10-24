@@ -4,8 +4,11 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
-    ":spider:",
+    ":spiral_notepad:",
+    ":fountain_pen:",
+    ":newspaper:",
     ":white_check_mark:",
+    ":spider:",
     ":alarm_clock:",
     ":timer_clock:",
     ":red_circle:",
@@ -31,7 +34,6 @@
     ":sob:",
     ":evergreen_tree:",
     ":notebook_with_decorative_cover:",
-    ":spiral_notepad:",
     ":world_map:",
     ":arrow_lower_right:",
     ":arrow_right:",
@@ -54,7 +56,6 @@
     ":heavy_check_mark:",
     ":arrow_lower_left:",
     ":large_orange_diamond:",
-    ":notebook:",
-    ":newspaper:"
+    ":notebook:"
   ]
 }
