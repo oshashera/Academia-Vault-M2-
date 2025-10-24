@@ -9,3 +9,5 @@ Si modèle stochastique : quantité d'habitat minimum, en dessous de laquelle la
 ![[Pasted image 20251024141937.png|center|300]]
 
 Le seuil d'extinction a lieu lorsque la quantité d'habitat est tel que la mortalité équilibre la reproduction dans l'ensemble du paysage.
+
+==**récup refact fahrig 2002**==
