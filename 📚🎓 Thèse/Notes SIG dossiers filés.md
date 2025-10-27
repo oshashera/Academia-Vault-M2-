@@ -39,18 +39,18 @@ Points carabes tjrs a coté des points botas (fin même fenêtres) → climahaie
 | **SUPP** | que 0, sauf pour la **fenêtre 30** ou y a écrit "1". → est-ce l'info de la fenêtre remplacée ? si oui, ca veut dire que la 1???? |
 #### Tinytags
 
-| Colonne     | Info                                                                                          |
-| ----------- | --------------------------------------------------------------------------------------------- |
-| Commentaire | Donne maille + A ou B ou BH (b = bh si j'me souviens bien ce que alexandre corbeau avait dit) |
-| X           | coordonnée gps                                                                                |
-| Y           | coordonnée gps                                                                                |
-| Near_dist   |                                                                                               |
-| rel_fev_21  |                                                                                               |
-| Code_agri   |                                                                                               |
-| rel_jui_21  |                                                                                               |
-| mars_22     |                                                                                               |
-| nov_21      |                                                                                               |
-| juin_22     |                                                                                               |
-| nov_2022    |                                                                                               |
-| mars_2023   |                                                                                               |
-| juin_2023   |                                                                                               |
+| Colonne     | Info                                                                                                                                                                  |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Commentaire | Donne maille + A ou B ou BH (b = bh si j'me souviens bien ce que alexandre corbeau avait dit)                                                                         |
+| X           | coordonnée gps                                                                                                                                                        |
+| Y           | coordonnée gps                                                                                                                                                        |
+| Near_dist   | **?????????????????????????**                                                                                                                                         |
+| rel_fev_21  | check statut + récupération des données (réussite/échec/pb technique)                                                                                                 |
+| Code_agri   | **???** j'imagine permet d'identifier si on est dans une parcelle d'agri, et si oui a qui ca appartient ? (culture et prairies)                                       |
+| rel_jui_21  | check statut + récupération des données (réussite/échec/pb technique) **????????? en 452 (maille) y a "decalé maille finie", du coup c'est elle la maille virée? ma** |
+| mars_22     | check statut + récupération des données (réussite/échec/pb technique)                                                                                                 |
+| nov_21      | check statut + récupération des données (réussite/échec/pb technique)                                                                                                 |
+| juin_22     | check statut + récupération des données (réussite/échec/pb technique)                                                                                                 |
+| nov_2022    | check statut + récupération des données (réussite/échec/pb technique)                                                                                                 |
+| mars_2023   | check statut + récupération des données (réussite/échec/pb technique)                                                                                                 |
+| juin_2023   | check statut + récupération des données (réussite/échec/pb technique)                                                                                                 |
