@@ -90,7 +90,18 @@ Points carabes tjrs a coté des points botas (fin même fenêtres) → climahaie
 | Commentaire | donne info de déplacement potentiel de pts par ex                                  |
 ##### Points bota
 
-| Colonne | Info                                                                                 |
-| ------- | ------------------------------------------------------------------------------------ |
-| Pt_Car  | **null ou 1 ??????? correspondance relative avec endroit échantillonnage carabes ?** |
-| Code 2  |                                                                                      |
+| Colonne     | Info                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------ |
+| Pt_Car      | **null ou 1 ??????? correspondance relative avec endroit échantillonnage carabes ?** |
+| Code 2      | Id de maille                                                                         |
+| ID_CER_2    | **??????**                                                                           |
+| Code_maille | Code_2 + Id_CER_2                                                                    |
+#### OCCSOL (pareil entre années)
+
+| Colonne    | Info                                                       |
+| ---------- | ---------------------------------------------------------- |
+| fid        | Id de la feature (au global), **constant entre années**    |
+| code_occ_s | N°de la classe theia pour cette catégorie (large) d'occsol |
+| Surface    | surface en m² (probablement)                               |
+| Cod_Maille | N° maille                                                  |
+
