@@ -69,6 +69,28 @@ Points carabes tjrs a coté des points botas (fin même fenêtres) → climahaie
 | Adj_LU    | Occsol adjacente (des 2 cotés)  |
 ##### Prairies échantillonnées
 
-| Colonne | Info |
-| ------- | ---- |
-|         |      |
+| Colonne      | Info                                                                                                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Maille       | N° maille                                                                                                                                              |
+| Id prairies  | id de chaque prairie échantillonnée ds cette fenêtre                                                                                                   |
+| Code_Agri    | **encore un truc pour identifier a qui ca appartient ?**                                                                                               |
+| Gestion      | modalités de gestion si elles existent (et qu'on a l'info)                                                                                             |
+| Age          | age de la prairie depuis sa création par l'homme ou son origine naturelle                                                                              |
+| Commentaires | **pas d'info pour la 452 car "maille supprimée ensuite"?????**<br>diversité de commentaire (gestion, appréciation agri, doute sur ??? (par renseigné)) |
+#### Climahaie : pt bota et pt carabe
+
+##### Points carabes
+
+| Colonne     | Info                                                                               |
+| ----------- | ---------------------------------------------------------------------------------- |
+| Code_maille | **????**                                                                           |
+| ID_CER      | n° maille                                                                          |
+| Long_haie   | Longueur de haie (***parfois vide, probablement si pas échantillonné ds haie ?***) |
+| Nature      | **H ou A, correspond à Haie ou Autre ???**                                         |
+| Commentaire | donne info de déplacement potentiel de pts par ex                                  |
+##### Points bota
+
+| Colonne | Info                                                                                 |
+| ------- | ------------------------------------------------------------------------------------ |
+| Pt_Car  | **null ou 1 ??????? correspondance relative avec endroit échantillonnage carabes ?** |
+| Code 2  |                                                                                      |
