@@ -32,8 +32,25 @@ Points carabes tjrs a coté des points botas (fin même fenêtres) → climahaie
 
 #### Mailles paysagères
 
-| Colonne  | Info                               |
-| -------- | ---------------------------------- |
-| Code     | Numéro de la maille                |
-| Area     | Surface (km² semblerait-il)        |
-| **SUPP** | que 0, sauf pour la **fenêtre 30** |
+| Colonne  | Info                                                                                                                             |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Code     | Numéro de la maille                                                                                                              |
+| Area     | Surface (km² semblerait-il)                                                                                                      |
+| **SUPP** | que 0, sauf pour la **fenêtre 30** ou y a écrit "1". → est-ce l'info de la fenêtre remplacée ? si oui, ca veut dire que la 1???? |
+#### Tinytags
+
+| Colonne     | Info                                                                                          |
+| ----------- | --------------------------------------------------------------------------------------------- |
+| Commentaire | Donne maille + A ou B ou BH (b = bh si j'me souviens bien ce que alexandre corbeau avait dit) |
+| X           | coordonnée gps                                                                                |
+| Y           | coordonnée gps                                                                                |
+| Near_dist   |                                                                                               |
+| rel_fev_21  |                                                                                               |
+| Code_agri   |                                                                                               |
+| rel_jui_21  |                                                                                               |
+| mars_22     |                                                                                               |
+| nov_21      |                                                                                               |
+| juin_22     |                                                                                               |
+| nov_2022    |                                                                                               |
+| mars_2023   |                                                                                               |
+| juin_2023   |                                                                                               |
