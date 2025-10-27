@@ -10,6 +10,7 @@ Points carabes tjrs a coté des points botas (fin même fenêtres) → climahaie
 
 
 
+## Identifier et lier par mailles 
 
 | SIG                      | Numérotation exemple                                                                                                      |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
@@ -21,7 +22,18 @@ Points carabes tjrs a coté des points botas (fin même fenêtres) → climahaie
 | Pts botanique            | Au sein d'une même maille, le code_2 est celui de la maille, et ID_CER_2 jsp ce que c'est ? y en a 3/4 dans chaque maille |
 | Pts carabes              | ID_CER c'est la même merde, pour se repérer a quelle fenêtre, c'est la première partie du "Code_maille"                   |
 | Haies 2022               | juste un intersect de celui fourni par l'ign, pas d'id de maille                                                          |
-|                          |                                                                                                                           |
+| Haies 2017               | idem, d'ailleurs y a l'air d'avoir quasi 0 diff entre 2017 et 2022                                                        |
+| Occ_sol 2023             | Cod_Maille = n° maille, ID spécifique par parcelle                                                                        |
+| Occ_sol 2022             | Cod_Maille = n° maille, ID spécifique par parcelle (le même que pour 2023)                                                |
+| Occ_sol 2021             | IDEM                                                                                                                      |
+| Occ_sol 2017             | IDEM                                                                                                                      |
 
+## Infos table attribut ?
 
+#### Mailles paysagères
 
+| Colonne  | Info                               |
+| -------- | ---------------------------------- |
+| Code     | Numéro de la maille                |
+| Area     | Surface (km² semblerait-il)        |
+| **SUPP** | que 0, sauf pour la **fenêtre 30** |
