@@ -30,63 +30,9 @@
               "icon": "lucide-file",
               "title": "Extinction treshold"
             }
-          },
-          {
-            "id": "9ad17bd6893206af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏡 Home.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🏡 Home"
-            }
-          },
-          {
-            "id": "ba360b32f00b0116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚🎓 Thèse/Notes SIG dossiers filés.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes SIG dossiers filés"
-            }
-          },
-          {
-            "id": "d002ef184b8e8334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚🎓 Thèse/Réunions/Réunion Alexandre Corbeau tinytag et données météo.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Réunion Alexandre Corbeau tinytag et données météo"
-            }
-          },
-          {
-            "id": "29acd24248a7e29f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Objectifs 6 premiers mois thèse.excalidraw"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,11 +206,13 @@
       "widgets:Add widget": false
     }
   },
-  "active": "29acd24248a7e29f",
+  "active": "b29d04373cae3949",
   "lastOpenFiles": [
+    "Images/Pasted image 20251027143948.png",
     "🏡 Home.md",
-    "📚🎓 Thèse/Réunions/Réunion Alexandre Corbeau tinytag et données météo.md",
     "📚🎓 Thèse/Notes SIG dossiers filés.md",
+    "📚🎓 Thèse/Réunions/Réunion Alexandre Corbeau tinytag et données météo.md",
+    "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Extinction treshold.md",
     "Full Calendar/Présentation/2025-10-31 permis.md",
     "Templater/remove zotero links.md",
@@ -291,10 +239,8 @@
     "📚🎓 Thèse/Articles Zotero import/Refacted/Untitled",
     "📚🎓 Thèse/Articles Zotero import 📰/Refacted ✅",
     "Images/33DK6Y34.png",
-    "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md",
     "Full Calendar/Bureau/2025-10-25 Murphy 2004 - Chase 2005 - Soons 2005.md",
     "Full Calendar/Bureau/2025-10-24 Fahrig 2002 & 2003.md",
-    "📚🎓 Thèse/Articles Zotero import/foucaultWhichLandscapeIndicators2025.md",
     "Images/2NIPHYLS.png",
     "📚🎓 Thèse/Articles Zotero import 📰",
     "Full Calendar/Formation - Visio",
