@@ -86,7 +86,7 @@ Points carabes tjrs a coté des points botas (fin même fenêtres) → climahaie
 | Code_maille | **????**                                                                           |
 | ID_CER      | n° maille                                                                          |
 | Long_haie   | Longueur de haie (***parfois vide, probablement si pas échantillonné ds haie ?***) |
-| Nature      | **H ou A, correspond à Haie ou Autre ???**                                         |
+| Nature      | **H ou A, correspond à Haie ou Autre ???** → proche haie et pas haie               |
 | Commentaire | donne info de déplacement potentiel de pts par ex                                  |
 ##### Points bota
 
