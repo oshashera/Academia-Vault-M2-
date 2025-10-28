@@ -5,6 +5,7 @@
 
 Mailles carabes correspondent pas tjrs aux mailles ou y a les points carabes pcq **Landbio // climahaie**
 
+==**452 → 30**==
 
 Points carabes tjrs a coté des points botas (fin même fenêtres) → climahaies
 
@@ -39,21 +40,21 @@ Points carabes tjrs a coté des points botas (fin même fenêtres) → climahaie
 | **SUPP** | que 0, sauf pour la **fenêtre 30** ou y a écrit "1". → est-ce l'info de la fenêtre remplacée ? si oui, ca veut dire que la 1???? **NON** |
 #### Tinytags
 
-| Colonne     | Info                                                                                                                                                                                                                                          |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Commentaire | Donne maille + A ou B ou BH (b = bh si j'me souviens bien ce que alexandre corbeau avait dit)                                                                                                                                                 |
-| X           | coordonnée gps                                                                                                                                                                                                                                |
-| Y           | coordonnée gps                                                                                                                                                                                                                                |
-| Near_dist   | **?????????????????????????**                                                                                                                                                                                                                 |
-| rel_fev_21  | check statut + récupération des données (réussite/échec/pb technique) **non changement maille en remplacement 452 pour la maille 30, est-ce le changement de maille ?**                                                                       |
-| Code_agri   | **???** j'imagine permet d'identifier si on est dans une parcelle d'agri, et si oui a qui ca appartient ? (culture et prairies)                                                                                                               |
-| rel_jui_21  | check statut + récupération des données (réussite/échec/pb technique) **????????? en 452 (maille) y a "decalé maille finie", du coup c'est elle la nouvelle maille? mais y a du "ok en fev 21 pour cette maille donc elle existait déjà ???** |
-| mars_22     | check statut + récupération des données (réussite/échec/pb technique)                                                                                                                                                                         |
-| nov_21      | check statut + récupération des données (réussite/échec/pb technique)                                                                                                                                                                         |
-| juin_22     | check statut + récupération des données (réussite/échec/pb technique)                                                                                                                                                                         |
-| nov_2022    | check statut + récupération des données (réussite/échec/pb technique)                                                                                                                                                                         |
-| mars_2023   | check statut + récupération des données (réussite/échec/pb technique)                                                                                                                                                                         |
-| juin_2023   | check statut + récupération des données (réussite/échec/pb technique)                                                                                                                                                                         |
+| Colonne     | Info                                                                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Commentaire | Donne maille + A ou B ou BH (b = bh si j'me souviens bien ce que alexandre corbeau avait dit)                                   |
+| X           | coordonnée gps                                                                                                                  |
+| Y           | coordonnée gps                                                                                                                  |
+| Near_dist   | → lien potentiel à la station météo la plus proche **(osef)** (pas confirmé)                                                    |
+| rel_fev_21  | check statut + récupération des données (réussite/échec/pb technique)                                                           |
+| Code_agri   | **???** j'imagine permet d'identifier si on est dans une parcelle d'agri, et si oui a qui ca appartient ? (culture et prairies) |
+| rel_jui_21  | check statut + récupération des données (réussite/échec/pb technique)                                                           |
+| mars_22     | check statut + récupération des données (réussite/échec/pb technique)                                                           |
+| nov_21      | check statut + récupération des données (réussite/échec/pb technique)                                                           |
+| juin_22     | check statut + récupération des données (réussite/échec/pb technique)                                                           |
+| nov_2022    | check statut + récupération des données (réussite/échec/pb technique)                                                           |
+| mars_2023   | check statut + récupération des données (réussite/échec/pb technique)                                                           |
+| juin_2023   | check statut + récupération des données (réussite/échec/pb technique)                                                           |
 #### LANDBIO : Prairies échantillonnées et Haies échantillonnées et Mailles échantillonnées
 
 ##### Maille échantillonnée
@@ -69,33 +70,33 @@ Points carabes tjrs a coté des points botas (fin même fenêtres) → climahaie
 | Adj_LU    | Occsol adjacente (des 2 cotés)  |
 ##### Prairies échantillonnées
 
-| Colonne      | Info                                                                                                                                                   |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Maille       | N° maille                                                                                                                                              |
-| Id prairies  | id de chaque prairie échantillonnée ds cette fenêtre                                                                                                   |
-| Code_Agri    | **encore un truc pour identifier a qui ca appartient ?**                                                                                               |
-| Gestion      | modalités de gestion si elles existent (et qu'on a l'info)                                                                                             |
-| Age          | age de la prairie depuis sa création par l'homme ou son origine naturelle                                                                              |
-| Commentaires | **pas d'info pour la 452 car "maille supprimée ensuite"?????**<br>diversité de commentaire (gestion, appréciation agri, doute sur ??? (par renseigné)) |
+| Colonne      | Info                                                                                 |
+| ------------ | ------------------------------------------------------------------------------------ |
+| Maille       | N° maille                                                                            |
+| Id prairies  | id de chaque prairie échantillonnée ds cette fenêtre                                 |
+| Code_Agri    | **encore un truc pour identifier a qui ca appartient ?**                             |
+| Gestion      | modalités de gestion si elles existent (et qu'on a l'info)                           |
+| Age          | age de la prairie depuis sa création par l'homme ou son origine naturelle            |
+| Commentaires | diversité de commentaire (gestion, appréciation agri, doute sur ??? (par renseigné)) |
 #### Climahaie : pt bota et pt carabe
 
 ##### Points carabes
 
 | Colonne     | Info                                                                               |
 | ----------- | ---------------------------------------------------------------------------------- |
-| Code_maille | **????**                                                                           |
-| ID_CER      | n° maille                                                                          |
+| Code_maille | **????** numéro maille _ numéro parcelle                                           |
+| ID_CER      | n° parcelle potentiellement issu du rpg                                            |
 | Long_haie   | Longueur de haie (***parfois vide, probablement si pas échantillonné ds haie ?***) |
 | Nature      | **H ou A, correspond à Haie ou Autre ???** → proche haie et pas haie               |
 | Commentaire | donne info de déplacement potentiel de pts par ex                                  |
 ##### Points bota
 
-| Colonne     | Info                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------ |
-| Pt_Car      | **null ou 1 ??????? correspondance relative avec endroit échantillonnage carabes ?** |
-| Code 2      | Id de maille                                                                         |
-| ID_CER_2    | **??????**                                                                           |
-| Code_maille | Code_2 + Id_CER_2                                                                    |
+| Colonne     | Info                                                                                                                        |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Pt_Car      | **null ou 1 ??????? correspondance relative avec endroit échantillonnage carabes ?** aux endroit des 3 pots barber en ligne |
+| Code 2      | Id de maille                                                                                                                |
+| ID_CER_2    | **??????** num parcelle                                                                                                     |
+| Code_maille | Code_2 + Id_CER_2                                                                                                           |
 #### OCCSOL (pareil entre années)
 
 | Colonne    | Info                                                       |
