@@ -1,49 +1,81 @@
 {
 	"nodes":[
-		{"id":"483ff8ffecff600c","type":"group","x":-220,"y":-580,"width":265,"height":390,"color":"6","label":"🖋 Noter"},
-		{"id":"30bef9b831150bb4","type":"group","x":-440,"y":-580,"width":180,"height":390,"color":"1","label":"📰 Biblio"},
-		{
-			"id":"db1fee043e500f95",
-			"type":"text",
-			"text":"📁Conserver\n/ organiser",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-600,
-			"y":-708,
-			"width":148,
-			"height":60,
-			"color":"3"
-		},
+		{"id":"e67b644d3327184f","type":"group","x":120,"y":-580,"width":620,"height":480,"color":"#595959","label":"🖥 Analyser"},
+		{"id":"9326fe8aadb93020","type":"group","x":160,"y":-520,"width":280,"height":390,"color":"5","label":"Stats"},
+		{"id":"483ff8ffecff600c","type":"group","x":-220,"y":-520,"width":265,"height":390,"color":"6","label":"🖋 Noter"},
+		{"id":"1558cecbdca79375","type":"group","x":480,"y":-520,"width":220,"height":390,"color":"4","label":"Carto"},
+		{"id":"30bef9b831150bb4","type":"group","x":-440,"y":-520,"width":180,"height":390,"color":"1","label":"📰 Biblio"},
 		{
 			"id":"57bc6b424e789b8f",
 			"type":"text",
-			"text":"🖥 Analyser",
+			"text":"",
 			"styleAttributes":{"textAlign":"center"},
-			"x":160,
-			"y":-700,
+			"x":102,
+			"y":-738,
 			"width":116,
 			"height":60
+		},
+		{
+			"id":"b19661e2d3ff3e00",
+			"type":"text",
+			"text":"Rédaction interprétation, explication, méthodo, voir début article (QUARTO)",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":178,
+			"y":-255,
+			"width":240,
+			"height":90
 		},
 		{
 			"id":"dd67b547da5f84c8",
 			"type":"text",
 			"text":"📟 Rstudio ",
 			"styleAttributes":{"textAlign":"center","shape":"diamond"},
-			"x":140,
-			"y":-560,
+			"x":228,
+			"y":-500,
 			"width":128,
 			"height":60,
 			"color":"5"
+		},
+		{
+			"id":"e531efe75c8a6e10",
+			"type":"text",
+			"text":"Analyse stats",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":228,
+			"y":-390,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"d46534bc08a74586",
+			"type":"text",
+			"text":"Analyses spatiales",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":506,
+			"y":-270,
+			"width":180,
+			"height":60
 		},
 		{
 			"id":"c305afd1d417b20b",
 			"type":"text",
 			"text":"🗺 QGIS",
 			"styleAttributes":{"textAlign":"center","shape":"diamond"},
-			"x":400,
-			"y":-560,
+			"x":540,
+			"y":-500,
 			"width":111,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"13966ae600be0c63",
+			"type":"text",
+			"text":"Carto",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":540,
+			"y":-390,
+			"width":111,
+			"height":60
 		},
 		{
 			"id":"12e35cecdedc090c",
@@ -55,10 +87,20 @@
 				"shape":"diamond"
 			},
 			"x":-152,
-			"y":-560,
+			"y":-500,
 			"width":160,
 			"height":60,
 			"color":"6"
+		},
+		{
+			"id":"2043626540807293",
+			"type":"text",
+			"text":"Wiki écologie",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-143,
+			"y":-390,
+			"width":160,
+			"height":60
 		},
 		{
 			"id":"c9bd32dcf42bdd97",
@@ -66,7 +108,7 @@
 			"text":"Notes analyses stats / méthodo",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-143,
-			"y":-360,
+			"y":-300,
 			"width":174,
 			"height":60
 		},
@@ -76,67 +118,17 @@
 			"text":"Rédaction article ?",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-143,
-			"y":-270,
+			"y":-210,
 			"width":176,
-			"height":60
-		},
-		{
-			"id":"2043626540807293",
-			"type":"text",
-			"text":"Wiki écologie",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-143,
-			"y":-450,
-			"width":160,
-			"height":60
-		},
-		{
-			"id":"e531efe75c8a6e10",
-			"type":"text",
-			"text":"Analyse stats",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":140,
-			"y":-450,
-			"width":140,
-			"height":60
-		},
-		{
-			"id":"b19661e2d3ff3e00",
-			"type":"text",
-			"text":"Rédaction interprétation, explication, méthodo, voir début article",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":100,
-			"y":-330,
-			"width":220,
-			"height":120
-		},
-		{
-			"id":"13966ae600be0c63",
-			"type":"text",
-			"text":"Carto",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":400,
-			"y":-450,
-			"width":111,
-			"height":60
-		},
-		{
-			"id":"d46534bc08a74586",
-			"type":"text",
-			"text":"Analyses spatiales",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":366,
-			"y":-330,
-			"width":180,
 			"height":60
 		},
 		{
 			"id":"a12078c805f47c1d",
 			"type":"text",
 			"text":"File from annotation",
-			"styleAttributes":{"textAlign":"center"},
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
 			"x":-420,
-			"y":-300,
+			"y":-240,
 			"width":140,
 			"height":60
 		},
@@ -146,7 +138,7 @@
 			"text":"🗒 Zotero",
 			"styleAttributes":{"textAlign":"center","shape":"diamond"},
 			"x":-410,
-			"y":-560,
+			"y":-500,
 			"width":120,
 			"height":60,
 			"color":"1"
@@ -155,32 +147,35 @@
 			"id":"2200107dc9696ab5",
 			"type":"text",
 			"text":"Notation articles",
-			"styleAttributes":{"textAlign":"center"},
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
 			"x":-410,
-			"y":-420,
+			"y":-360,
 			"width":120,
+			"height":60
+		},
+		{
+			"id":"db1fee043e500f95",
+			"type":"text",
+			"text":"📁Conserver\n/ organiser",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-660,
+			"y":-560,
+			"width":148,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"31e4c8d2df2bf4d7",
+			"type":"text",
+			"text":"backup git",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-620,
+			"y":-420,
+			"width":140,
 			"height":60
 		}
 	],
 	"edges":[
-		{
-			"id":"0c88f0d32184b099",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"57bc6b424e789b8f",
-			"fromSide":"bottom",
-			"toNode":"dd67b547da5f84c8",
-			"toSide":"top"
-		},
-		{
-			"id":"8a78f7b705063cd4",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"57bc6b424e789b8f",
-			"fromSide":"bottom",
-			"toNode":"c305afd1d417b20b",
-			"toSide":"top"
-		},
 		{
 			"id":"6511b3e5ecc26c58",
 			"styleAttributes":{"pathfindingMethod":"direct"},
@@ -266,6 +261,55 @@
 			"fromSide":"bottom",
 			"toNode":"d46534bc08a74586",
 			"toSide":"top"
+		},
+		{
+			"id":"1f18f8a13a1e2481",
+			"styleAttributes":{"path":"short-dashed","pathfindingMethod":"direct"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"12e35cecdedc090c",
+			"fromSide":"bottom",
+			"toNode":"31e4c8d2df2bf4d7",
+			"toSide":"right"
+		},
+		{
+			"id":"9245a0a3cdca293a",
+			"styleAttributes":{"path":"short-dashed","pathfindingMethod":"direct"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d46534bc08a74586",
+			"fromSide":"left",
+			"toNode":"e531efe75c8a6e10",
+			"toSide":"right"
+		},
+		{
+			"id":"7510a12702767d70",
+			"styleAttributes":{"pathfindingMethod":"direct","path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b19661e2d3ff3e00",
+			"fromSide":"left",
+			"toNode":"9c2aa46a6134a767",
+			"toSide":"right"
+		},
+		{
+			"id":"20c4d866a13b9a41",
+			"styleAttributes":{"path":"short-dashed","pathfindingMethod":"direct"},
+			"toFloating":false,
+			"fromNode":"a12078c805f47c1d",
+			"fromSide":"right",
+			"toNode":"2043626540807293",
+			"toSide":"left"
+		},
+		{
+			"id":"a731d092b7890881",
+			"styleAttributes":{"pathfindingMethod":"direct","path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a12078c805f47c1d",
+			"fromSide":"right",
+			"toNode":"c9bd32dcf42bdd97",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
