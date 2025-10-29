@@ -1,47 +1,71 @@
 {
 	"nodes":[
 		{
-			"id":"97cbe911fca9cd65",
-			"type":"text",
-			"text":"Biblio",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-79,
-			"y":-768,
-			"width":90,
-			"height":60
-		},
-		{
 			"id":"db1fee043e500f95",
 			"type":"text",
-			"text":"Conserver\n/organiser",
+			"text":"📁Conserver\n/ organiser",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-617,
-			"y":-768,
-			"width":125,
-			"height":60
+			"x":-600,
+			"y":-708,
+			"width":148,
+			"height":60,
+			"color":"3"
 		},
 		{
-			"id":"57bc6b424e789b8f",
+			"id":"97cbe911fca9cd65",
 			"type":"text",
-			"text":"Analyser",
+			"text":"📰 Biblio",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-136,
+			"x":-340,
 			"y":-708,
-			"width":114,
-			"height":60
+			"width":101,
+			"height":60,
+			"color":"1"
 		},
 		{
 			"id":"1d4be9e3f18ed3e8",
 			"type":"text",
-			"text":"Noter",
+			"text":"🖋 Noter",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-181,
-			"y":-785,
-			"width":90,
+			"x":-121,
+			"y":-708,
+			"width":98,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"57bc6b424e789b8f",
+			"type":"text",
+			"text":"🖥 Analyser",
+			"styleAttributes":{"textAlign":"center"},
+			"x":100,
+			"y":-708,
+			"width":116,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"dd67b547da5f84c8",
+			"type":"text",
+			"text":"Rstudio :r",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-580,
+			"width":260,
 			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"0c88f0d32184b099",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"57bc6b424e789b8f",
+			"fromSide":"bottom",
+			"toNode":"dd67b547da5f84c8",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
