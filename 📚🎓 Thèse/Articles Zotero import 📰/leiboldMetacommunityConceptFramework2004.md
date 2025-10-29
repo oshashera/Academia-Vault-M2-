@@ -1,5 +1,4 @@
-# Annotations  
-(10/29/2025, 12:04:41 PM)
+# The metacommunity concept: a framework  for multi-scale community ecology
 
  “definition as a set of local communities that are linked by dispersal of multiple potentially interacting species.”
 
