@@ -38,8 +38,8 @@
 			"type":"text",
 			"text":"🖥 Analyser",
 			"styleAttributes":{"textAlign":"center"},
-			"x":100,
-			"y":-708,
+			"x":160,
+			"y":-700,
 			"width":116,
 			"height":60,
 			"color":"5"
@@ -47,11 +47,68 @@
 		{
 			"id":"dd67b547da5f84c8",
 			"type":"text",
-			"text":"Rstudio :r",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-580,
-			"width":260,
+			"text":"📟 Rstudio ",
+			"styleAttributes":{"textAlign":"center","shape":"diamond"},
+			"x":140,
+			"y":-560,
+			"width":128,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"c305afd1d417b20b",
+			"type":"text",
+			"text":"🗺 QGIS",
+			"styleAttributes":{"textAlign":"center","shape":"diamond"},
+			"x":400,
+			"y":-560,
+			"width":111,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"53c5246703a6dafd",
+			"type":"text",
+			"text":"🗒 Zotero",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-350,
+			"y":-560,
+			"width":120,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"2200107dc9696ab5",
+			"type":"text",
+			"text":"Notation articles",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-350,
+			"y":-420,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"a12078c805f47c1d",
+			"type":"text",
+			"text":"File from annotation",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-360,
+			"y":-300,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"12e35cecdedc090c",
+			"type":"text",
+			"text":"🟣 Obsidian",
+			"styleAttributes":{
+				"textAlign":"center",
+				"border":null,
+				"shape":"diamond"
+			},
+			"x":-152,
+			"y":-560,
+			"width":160,
 			"height":60
 		}
 	],
@@ -63,6 +120,51 @@
 			"fromNode":"57bc6b424e789b8f",
 			"fromSide":"bottom",
 			"toNode":"dd67b547da5f84c8",
+			"toSide":"top"
+		},
+		{
+			"id":"8a78f7b705063cd4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"57bc6b424e789b8f",
+			"fromSide":"bottom",
+			"toNode":"c305afd1d417b20b",
+			"toSide":"top"
+		},
+		{
+			"id":"cb342d4210fcb630",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"97cbe911fca9cd65",
+			"fromSide":"bottom",
+			"toNode":"53c5246703a6dafd",
+			"toSide":"top"
+		},
+		{
+			"id":"6511b3e5ecc26c58",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"53c5246703a6dafd",
+			"fromSide":"bottom",
+			"toNode":"2200107dc9696ab5",
+			"toSide":"top"
+		},
+		{
+			"id":"f4b6d2a0925dc305",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2200107dc9696ab5",
+			"fromSide":"bottom",
+			"toNode":"a12078c805f47c1d",
+			"toSide":"top"
+		},
+		{
+			"id":"d61eeef4da6c83d6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1d4be9e3f18ed3e8",
+			"fromSide":"bottom",
+			"toNode":"12e35cecdedc090c",
 			"toSide":"top"
 		}
 	],
