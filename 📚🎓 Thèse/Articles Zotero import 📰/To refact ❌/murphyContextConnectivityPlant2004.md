@@ -62,21 +62,17 @@
 
  “‘‘Context’’ determines the rate of immigration into a patch, through (1) the amount of occupied habitat in the area around the patch that is within the dispersal range of the organism; and (2) the quality of the intervening non-habitat area / the matrix / for survival and dispersing individuals (Fahrig 2001)”
 
- “Habitat proximal to a patch may be more important in determining dispersal rates than habitat farther away, since proximal habitat must be crossed in order to migrate, whereas more distal habitat is less likely to lie within the realised migration route of any particular individual”
+ “Habitat proximal to a patch may be more important in determining dispersal rates than habitat farther away, since proximal habitat must be crossed in order to migrate, whereas more distal habitat is less likely to lie within the realised migration route of any particular individual” 🖋
 
  “Thus a further context-related variable having potentially important influences on movement of organisms or propagules is ‘edge context’”
 
- “Furthermore, the permeability of the edge itself may be just as important as the permeability of the environment between two patches in determining the probability of success of emigration or immigration. Patches may be bounded by an impenetrable boundary that dispersing individuals virtually never cross”
+ “Furthermore, the permeability of the edge itself may be just as important as the permeability of the environment between two patches in determining the probability of success of emigration or immigration. Patches may be bounded by an impenetrable boundary that dispersing individuals virtually never cross” 🖋
 
  “Clearly, relevant spatial scale is species specific. Different species perceive a landscape at different scales”
 
- “Furthermore, the same species might perceive its environment at different scales during different life stages. Plants of most species live parts of their lives at two different spatial scales: the relatively broad, dispersal scale of the seed and pollen grain, and the relatively fine scale of the sessile adult”
+ “Furthermore, the same species might perceive its environment at different scales during different life stages. Plants of most species live parts of their lives at two different spatial scales: the relatively broad, dispersal scale of the seed and pollen grain, and the relatively fine scale of the sessile adult”🖋
 
- “For adults, day-to-day growth may depend only on immediate microsite conditions,”
-
- “But reproductive success may depend on processes operating at broader scales”
-
- “Hence spatial scale is also processspecific.”
+ “For adults, day-to-day growth may depend only on immediate microsite conditions,”  “But reproductive success may depend on processes operating at broader scales”  “Hence spatial scale is also process specific.”🖋
 
  “Despite the fact that terrestrial habitat patches tend to be surrounded by a complex mosaic of other landcover types (Forman 1995), which may differ in their resistance to the movement of individuals among patches, the landscape matrix has mostly been assumed to be uniform, and most connectivity measures in the literature of population ecology are based on simple nearest-neighbour distances (Moilanen and Neiminen 2002), or negative exponential distances with population size or area as weighting functions”
 
