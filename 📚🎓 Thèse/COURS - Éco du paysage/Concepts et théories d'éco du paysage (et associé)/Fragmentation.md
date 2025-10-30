@@ -17,8 +17,11 @@ La sensibilité des individus d'une espèce à la fragmentation dépend de leur 
 >- Débat en éco du paysage : fragmentation = fragmentation per se (éloignement/dispersion des taches) avec ou sans la perte d'habitat ?
 >Fahrig (et je suis d'accord) dit que la perte d'habitat n'est pas de la fragmentation parce que la fragmentation est un processus qui joue sur la configuration, et la perte d'habitat c'est de la configuration. Ce n'est malgré tout pas un consensus et la majorité des articles considèrent la fragmentation comme fragmentation per se + habitat loss.
 >![[Images/2NIPHYLS.png|center|350]]
->Fahrig estime aussi qu'en *terme d'effet sur la biodiversité*, en général **==perte d'habitat >> configuration==**[^1] 
-
+>Fahrig estime aussi qu'en *terme d'effet sur la biodiversité*, en général **==perte d'habitat >> configuration==**[^1] :
+>>McGarigal et McComb ont constaté qu'« à l'exception de quelques espèces « marginales », les variations d'abondance entre les paysages étaient davantage liées aux changements dans la superficie de l'habitat ; la configuration de l'habitat était d'importance secondaire ». [^1]
+>
+>>[!info] Il faut aussi dissocier **isolation** des habitats et **fragmentation**.
+>>Si la perte d'habitat entraîne la formation d'un *nombre constant* de parcelles plus petites, les effets liés à la taille des parcelles sont alors uniquement dus à la perte d'habitat. Si des parcelles entières sont supprimées du paysage, l'*isolement des parcelles restantes augmente, mais la fragmentation en soi diminue, car il y a moins de parcelles*.[^1]
 
 Au delà des effets de taille et de lisière, la fragmentation cause des changement dans l'hétérogénéité interne des habitats (Freemark & Merriam, 1986). Ainsi, plus grande est une forêt, plus elle a de chance d'être diversifiée. Enfin, la fragmentation affect les échanges entre îles et la probabilité d'être colonisé par des propagules venant d'autres îles.
 
@@ -37,7 +40,7 @@ Au fil du temps, bien que la **fragmentation** soit ***linéaire*** :
 
 >[!info] Les espèces ayant un plus grand territoire seront logiquement plus affectées par la fragmentation que celles ayant un plus petit territoire
 
-La perte et la fragmentation d'habitat amène à des tailles de population réduites, ce qui augmente la probabilité d'une extinction par stochasticité (aléatoire) environnementale ou démographique[^1]
+La perte et la fragmentation d'habitat amène à des *tailles de population réduites*, ce qui augmente la *probabilité d'une extinction* par stochasticité (aléatoire) environnementale ou démographique (Burkel 1995)[^1]
 
 ![[Drawing 2025-10-17 17.06.17.excalidraw|center|700]]
 ↑ Les espèces qui ont besoin de 10% d'espaces boisés pour vivre ont des habitats dispo aux 5 étapes de la fragmentation de cet exemple, alors que celles nécessitant 75% de surface boisées sont rapidement a court d'habitat, et encore plus si leur territoire est large.
@@ -61,4 +64,3 @@ ____
 “espèces spécialistes devraient être plus affectées par la perte de connectivité que les espèces généralistes, car les corridors seraient pour les spécialistes des habitats de moindre qualité que les habitats environnants” (Bergès, 2022, p. 104)
 
 [^1]: Fahrig 1997 [[fahrigRelativeEffectsHabitat1997]]
-	
