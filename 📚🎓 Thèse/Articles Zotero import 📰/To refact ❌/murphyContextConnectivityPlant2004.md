@@ -10,7 +10,7 @@
 
  “landscape ecology considers a variety of subjects, including population dynamics, however its general goal is often summarized as the effects of landscape structure and spatial configuration on ecological processes”
 
- “The major theoretical models of both landscape ecology and metapopulation ecology assume a binary landscape, composed of ‘‘habitat’’ and ‘‘matrix’’ (i.e. the non-habitat surrounding native habitat patches,”
+ “The major theoretical models of both landscape ecology and metapopulation ecology assume a binary landscape, composed of ‘‘habitat’’ and ‘‘matrix’’ (i.e. the non-habitat surrounding native habitat patches,” 🖋
 
  “An important distinction between the metapopulation approach and the spatially-explicit population approach of landscape ecology is that metapopulation models essentially ignore the characteristics of the non-habitat, or matrix portion of the landscape”
 
@@ -26,7 +26,7 @@
 
  “For example, the existence of long-lived life cycle stages (seeds, vegetative ramets) means that local populations may persist for a long time even though a patch has become unsuitable”
 
- “In animalpollinated plants, reproductive success may be negatively related to the distance between flowering patches”
+ “In animal pollinated plants, reproductive success may be negatively related to the distance between flowering patches”
 
  “Furthermore, even when pollinators successfully travel long distances between patches, the quality of the pollen transferred may decline. For example, generalist pollinators may visit a variety of species when travelling longer distances, and heterospecific pollen may clog stigmas and lower reproductive success”
 
