@@ -30,9 +30,9 @@
 
  “Furthermore, even when pollinators successfully travel long distances between patches, the quality of the pollen transferred may decline. For example, generalist pollinators may visit a variety of species when travelling longer distances, and heterospecific pollen may clog stigmas and lower reproductive success”
 
- “For example, suitable habitat may be relatively easily defined for obligate epiphytes growing on tree trunks, or for hemiparasitic mistletoes growing in tree canopies. However for many other species, in particular those having relatively broad limits of physiological tolerance, there is often no clear distinction between habitat and matrix, and defining distinct habitat patches becomes difficult or impossible”
+ “For example, suitable habitat may be relatively easily defined for obligate epiphytes growing on tree trunks, or for hemiparasitic mistletoes growing in tree canopies. However for many other species, in particular those having relatively broad limits of physiological tolerance, there is often no clear distinction between habitat and matrix, and defining distinct habitat patches becomes difficult or impossible” 🖋
 
- “Most plants probably respond to gradients of resource quality (With et al. 1997). For these species, suitable habitat lies along some environmental continuum, from optimal habitat, through suitable, and sub-optimal, with many biotic and abiotic parameters contributing toward suitability. Where a species does not perceive sharp and distinct boundaries, patch properties become less important and the nature of the overall landscape mosaic becomes increasingly significant in species’ dynamics”
+ “Most plants probably respond to gradients of resource quality (With et al. 1997). For these species, suitable habitat lies along some environmental continuum, from optimal habitat, through suitable, and sub-optimal, with many biotic and abiotic parameters contributing toward suitability. Where a species does not perceive sharp and distinct boundaries, patch properties become less important and the nature of the overall landscape mosaic becomes increasingly significant in species’ dynamics” 🖋
 
  “many plants appear not to be arranged as metapopulations”
 
@@ -46,7 +46,7 @@
 
  “In this case the matrix should have a strong influence on the between-patch processes of dispersal and colonization, as well as the within-patch processes of extinction, population growth and density dependence”
 
- “The matrix has at least three potential roles in between-patch processes: (1) reducing or enhancing dispersal and colonization rates; (2) providing alternative, though possibly sub-optimal, habitat; and (3) as a source of novel invading species competing for patch space”
+ “The matrix has at least three potential roles in between-patch processes: (1) reducing or enhancing dispersal and colonization rates; (2) providing alternative, though possibly sub-optimal, habitat; and (3) as a source of novel invading species competing for patch space” 🖋
 
  “In principle, the matrix begins at the edge of a patch and is composed of an array of natural and anthropogenically-derived features which tend to act as barriers to, or conduits for, biotic movement”
 

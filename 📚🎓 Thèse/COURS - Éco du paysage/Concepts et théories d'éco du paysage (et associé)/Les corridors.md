@@ -5,6 +5,8 @@ sources:
 ---
 Éléments **linéaires** dont l'ensemble forme **un réseau** à travers la matrice, permettant de relier des tâches entre elles (fonctions fortes) et constituant un habitat.
 
+ >[!info] Lidicker (1999) propose que ceux-ci soient considérés d'un point de vue fonctionnel, comme tout endroit étroitement délimité dans l'environnement qui facilite le déplacement des organismes entre les parcelles, par rapport à la matrice.
+
 Leur efficacité est variable, selon les caractéristiques de dispersion de l'espèce considérée...
 ![[Pasted image 20251017102917.png|300]]
 <br>
