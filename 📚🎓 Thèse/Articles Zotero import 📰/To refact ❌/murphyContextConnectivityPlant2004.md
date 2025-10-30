@@ -54,15 +54,11 @@
 
  “According to Lidicker, corridors should not be construed as linear strips of habitat independently supporting breeding populations of focal species, and they need not necessarily be of the same habitat quality as the patches they connect” 🖋
 
- “a focus on corridors as the defining element of connectedness in a matrix tends to perpetuate the simplistic patch-matrix view of landscapes and obscures some of the richness of detail that characterises landscape mosaics”
+ “a focus on corridors as the defining element of connectedness in a matrix tends to perpetuate the simplistic patch-matrix view of landscapes and obscures some of the richness of detail that characterises landscape mosaics” 🖋
 
- “‘‘Connectivity’’”
+ “‘‘Connectivity’’” “is an aggregate property of the structural configuration and composition of elements in a landscape mosaic; it is the relative permeability of their boundaries to species”  “Connectivity is a functional measure of landscape structure / the degree to which the landscape facilitates or impedes the movement of individuals among patches” 🖋
 
- “is an aggregate property of the structural configuration and composition of elements in a landscape mosaic; it is the relative permeability of their boundaries to species”
-
- “Connectivity is a functional measure of landscape structure / the degree to which the landscape facilitates or impedes the movement of individuals among patches”
-
- “Although a boundary, or ecotone, may have properties of its own, the nature of a boundary is largely contextual, determined by the surrounding environment (Wiens 2002a).”
+ “Although a boundary, or ecotone, may have properties of its own, the nature of a boundary is largely contextual, determined by the surrounding environment (Wiens 2002a).” 🖋
 
  “‘‘Context’’ determines the rate of immigration into a patch, through (1) the amount of occupied habitat in the area around the patch that is within the dispersal range of the organism; and (2) the quality of the intervening non-habitat area / the matrix / for survival and dispersing individuals (Fahrig 2001)”
 

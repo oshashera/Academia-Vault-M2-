@@ -21,6 +21,7 @@ C'est également un processus essentiel de la dynamique des paysages après [[Th
 <br>
 La perméabilité d'un paysage due au fait que la matrice n'est pas nécessairement un environnement absolument hostile, mais plutôt un [[Les corridors#Analyse de la Connectivité spatiale et fonctionnelle connectivité par la recherche de zones de plus grande perméabilité|environnement différencié]] permet la dissociation de la connectivité spatiale et fonctionnelle
 <br>
+>La connectivité est une propriété globale de la configuration structurelle et de la composition des éléments d'une mosaïque paysagère ; elle correspond à la perméabilité relative de leurs limites aux espèces. La connectivité est une mesure fonctionnelle de la structure du paysage / du degré auquel le paysage facilite ou entrave le déplacement des individus entre les parcelles.[^1]
 
 Une façon de quantifier la connectivité spatiale est de compter les couples de pixel de même nature sur les lignes et les colonnes d'une grille.
 
@@ -46,3 +47,4 @@ ____
 “Une synthèse des travaux sur la question dans différents types de milieux (forêts, prairies, landes, bords de routes, fossés, voir Table 1 dans [77]) souligne que les plantes répondent à la connectivité paysagère au travers des traits de vie associés à [[La dispersion]] [71, 78, 697, 700, 702, 706-709]. Une autre synthèse sur le sujet souligne que les traits fonctionnels liés à la persistance des espèces mériteraient d'être mieux étudiés [710].” (Bergès, 2022, p. 104)
 
 
+[^1]: Murphy, 2004 [[murphyContextConnectivityPlant2004]]
