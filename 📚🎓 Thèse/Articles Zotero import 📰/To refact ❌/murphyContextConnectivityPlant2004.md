@@ -2,7 +2,7 @@
 
  “Separate but related paradigms from the disciplines of landscape ecology and metapopulation ecology exist for understanding patterns of regional population variation. The major models of both paradigms assume a binary landscape mosaic composed of ‘‘suitable habitat’’ and background ‘‘matrix.’’”
 
- “An important distinction between the two approaches is that metapopulation models essentially ignore features of the matrix. A binary approach to the landscape seems inappropriate for plants for several reasons. First, plants probably do not have a binary perception of the landscape, but rather respond to gradients of resource quality.”
+ “An important distinction between the two approaches is that metapopulation models essentially ignore features of the matrix. A binary approach to the landscape seems inappropriate for plants for several reasons. First, plants probably do not have a binary perception of the landscape, but rather respond to gradients of resource quality.” 🖋
 
  “Secondly, many plants rely on a range of other agents for dispersal of pollen and seed, all of which are also affected by their environment in terms of connectivity. Furthermore the various components of the mosaic, including physical, spatial and functional elements can significantly influence plant movements.”
 
@@ -78,7 +78,7 @@
 
  “In fact, although it is widely held that species having high mobilities are more tolerant of habitat loss and fragmentation (due to the potential for increased colonization rates), the high emigration rates in these species may also increase the overall population mortality rate, by placing such individuals in a perilous matrix more frequently. Therefore, as Fahrig (2001) argued, the concept of dispersal ability may only be applicable in a species’ optimal environment and not necessarily in a human-altered, fragmented landscape”
 
- “Movement between patches has been mostly thought of in terms of corridors (Tischendorf and Fahrig 2000a), however it is perhaps more usefully envisioned as a complex product of particular patch qualities (e.g. resistance to movement, or patch residence time), boundary properties, and context”
+ “Movement between patches has been mostly thought of in terms of corridors (Tischendorf and Fahrig 2000a), however it is perhaps more usefully envisioned as a complex product of particular patch qualities (e.g. resistance to movement, or patch residence time), boundary properties, and context”🖋
 
  “Ricketts’s results suggest that the surrounding matrix may significantly influence the effective isolation of habitat patches, rendering them more or less isolated than simple distance would indicate.”
 
