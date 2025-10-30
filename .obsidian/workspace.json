@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "Concept de métapopulation"
             }
+          },
+          {
+            "id": "31c1b96f555c0310",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -251,11 +261,13 @@
       "widgets:Add widget": false
     }
   },
-  "active": "f94487048bc191d6",
+  "active": "31c1b96f555c0310",
   "lastOpenFiles": [
+    "Full Calendar/Bureau/2025-10-30 Phd Grill 2024.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
+    "Full Calendar/Terrain/2025-11-05 Terrain tinytag.md",
     "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/leiboldMetacommunityConceptFramework2004.md",
     "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/murphyContextConnectivityPlant2004.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Capacité de dispersion.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
@@ -277,8 +289,6 @@
     "🌳 Stage ECOBIO/Traits fx dans l'index de TRY.md",
     "📚🎓 Thèse/Journal de bord de mes avis sur l'écologie.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Extinction treshold.md",
-    "📚🎓 Thèse/Notes SIG dossiers filés.md",
-    "📚🎓 Thèse/Article melina tbw 🗒🖋/Fonctionnement script 🇷.md",
     "Images/QJ2MQWYA.png",
     "Images/2Y864SEI.png",
     "📚🎓 Thèse/workflows.canvas",
