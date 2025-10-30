@@ -50,9 +50,9 @@
 
  “In principle, the matrix begins at the edge of a patch and is composed of an array of natural and anthropogenically-derived features which tend to act as barriers to, or conduits for, biotic movement”
 
- “Lidicker (1999) pointed out that difficulties arise due to an unclear definition of corridors, and proposed that corridors should be viewed functionally, as any narrowly delimited place in the environment that facilitates movement of organisms between patches, relative to the matrix.”
+ “Lidicker (1999) pointed out that difficulties arise due to an unclear definition of corridors, and proposed that corridors should be viewed functionally, as any narrowly delimited place in the environment that facilitates movement of organisms between patches, relative to the matrix.” 🖋
 
- “According to Lidicker, corridors should not be construed as linear strips of habitat independently supporting breeding populations of focal species, and they need not necessarily be of the same habitat quality as the patches they connect”
+ “According to Lidicker, corridors should not be construed as linear strips of habitat independently supporting breeding populations of focal species, and they need not necessarily be of the same habitat quality as the patches they connect” 🖋
 
  “a focus on corridors as the defining element of connectedness in a matrix tends to perpetuate the simplistic patch-matrix view of landscapes and obscures some of the richness of detail that characterises landscape mosaics”
 

@@ -5,12 +5,14 @@ sources:
 ---
 Éléments **linéaires** dont l'ensemble forme **un réseau** à travers la matrice, permettant de relier des tâches entre elles (fonctions fortes) et constituant un habitat.
 
- >[!info] Lidicker (1999) propose que ceux-ci soient considérés d'un point de vue fonctionnel, comme tout endroit étroitement délimité dans l'environnement qui facilite le déplacement des organismes entre les parcelles, par rapport à la matrice.
+ >[!info] Lidicker (1999) propose que les corridors soient considérés d'un point de vue fonctionnel, comme tout endroit étroitement délimité dans l'environnement qui facilite le déplacement des organismes entre les parcelles, par rapport à la matrice. Selon lui, les corridors ne doivent pas être considérés comme des bandes linéaires d'habitat soutenant indépendamment les populations reproductrices d'espèces cibles, et ils ne doivent pas nécessairement présenter la même qualité d'habitat que les parcelles qu'ils relient.[^1]
 
 Leur efficacité est variable, selon les caractéristiques de dispersion de l'espèce considérée...
 ![[Pasted image 20251017102917.png|300]]
 <br>
 L'arrangement spatial de la [[Structures en tâches (patches)|mosaïque]] et des [[Les corridors|réseaux]] constitue le **patron paysager**. Permet de distinguer ou rapprocher deux paysages du pt de vue structural, *à condition d'avoir des [[Typologies des taches et corridors|typologies adaptées]]*.
+
+Attention cependant : « Se concentrer sur les corridors comme élément déterminant de la connectivité dans une matrice tend à perpétuer une vision simpliste du paysage comme une mosaïque et occulte une partie de la richesse des détails qui caractérisent les mosaïques paysagères. »[^1]
 
 ### Les réseaux de corridor
 
@@ -62,3 +64,5 @@ Comme -du fait des successions- une culture peut être présente au cours du tem
 La distribution des espèces inféodées aux cultures dépends au moins de 2 facteurs : 
 1. Les possibilité de trouver un refuge hors de la culture pedant un temps pouvant dépasser le temps de retour de la culture.
 2. La façon dont les cultures sont spatialement organisées à travers l'action collective, *mais non concertée*, des agriculteurs d'une région.
+
+[^1]: Murphy, 2004 [[murphyContextConnectivityPlant2004]]
