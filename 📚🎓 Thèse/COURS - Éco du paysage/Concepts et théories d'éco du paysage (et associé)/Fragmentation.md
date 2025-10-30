@@ -7,6 +7,9 @@ sources:
 >[!summary] Réduction et destruction partielle des habitats, avec comme conséquence l'augmentation de l'effet lisière du fait de la relation [[Relation entre lisière, zone centrale et surface des taches|aire/lisière]] des tâches, ainsi que l'augmentation de l'isolation des tâches produites.
 >On observe majoritairement la relation suivante : ↑fragmentation = ↓richesse
 
+>[!important] Fragmentation per se : ne comprends pas la perte d'habitat
+>Débat en éco du paysage : fragmentation = fra
+
 Modification des flux biologiques.
 
 ![[Drawing 2025-10-17 11.08.42.excalidraw|center|600]]
