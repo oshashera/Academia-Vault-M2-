@@ -11,12 +11,14 @@ Groupe de **populations** d’un **même organisme**, **séparées spatialement*
 
 Une **distinction** importante entre l'approche **métapopulationnelle** et l'approche populationnelle spatialement explicite de l'**écologie du paysage** réside dans le fait que les modèles métapopulationnels ignorent essentiellement les caractéristiques du non-habitat, ou partie matricielle du paysage. [^1]
 
->Les 4 visions principales :
+>[!summary] Les 4 visions principales : [^1]
 >1) Patch dynamics perspective : part du principe que les *parcelles sont identiques* et que chacune d'entre elles est *capable d'abriter des populations*. Les parcelles peuvent être *occupées ou inoccupées*. La *diversité locale des espèces est limitée par la dispersion*. La **dynamique spatiale est dominée par l'extinction locale et la colonisation**.
 >
 >2) Species sorting perspective : met l'accent sur le fait que les *gradients de ressources ou les types de parcelles* entraînent des *différences* suffisamment importantes dans la *démographie locale des espèces et les résultats des interactions locales entre les espèces* pour que la **qualité des parcelles et la dispersion affectent conjointement la composition de la communauté** locale. Cette perspective met l'**accent sur la séparation spatiale des niches** au-delà de la dynamique spatiale. La *dispersion* est importante car elle permet aux changements de composition de suivre les changements des conditions environnementales locales.
 >   
->3) Mass effect perspective (source-sink ou mass effect): met l'accent sur l'**effet de l'immigration et de l'émigration sur la dynamique des populations locales**. Dans un tel système, les espèces peuvent être sauvées de l'exclusion compétitive locale dans les communautés où elles sont de mauvaises concurrentes, en immigrant depuis des communautés où elles sont de bonnes concurrentes. Cette perspective souligne le rôle que joue la dynamique spatiale sur les densités de population locales.
+>3) Mass effect perspective (source-sink ou mass effect): met l'accent sur l'**effet de l'immigration et de l'émigration sur la dynamique des populations locales**. Dans un tel système, les *espèces peuvent être sauvées de l'exclusion compétitive locale* dans les communautés où elles sont de mauvaises concurrentes, en *immigrant depuis des communautés où elles sont de bonnes concurrentes*. Cette perspective souligne le **rôle que joue la dynamique spatiale sur les densités de population locales**.
+>
+>4) Neutral perspective : **toutes les espèces sont similaires en termes de capacité concurrentielle, de mobilité et d'aptitude physique** (Hubbell 2001). Les interactions entre les populations des différentes espèces consistent en des mouvements **aléatoires** qui modifient la fréquence relative des espèces. La **dynamique** de la diversité des espèces découle alors à la fois des **probabilités** de perte (extinction, émigration) et de gain (immigration, spéciation) d'espèces.
 
 
 Le concept de métapopulation ne peut pas s'appliquer partout :
