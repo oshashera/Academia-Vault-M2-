@@ -56,7 +56,7 @@
 
  “Although a boundary, or ecotone, may have properties of its own, the nature of a boundary is largely contextual, determined by the surrounding environment (Wiens 2002a).” 🖋
 
- “‘‘Context’’ determines the rate of immigration into a patch, through (1) the amount of occupied habitat in the area around the patch that is within the dispersal range of the organism; and (2) the quality of the intervening non-habitat area / the matrix / for survival and dispersing individuals (Fahrig 2001)”
+ “‘‘Context’’ determines the rate of immigration into a patch, through (1) the amount of occupied habitat in the area around the patch that is within the dispersal range of the organism; and (2) the quality of the intervening non-habitat area / the matrix / for survival and dispersing individuals (Fahrig 2001)” 🖋
 
  “Habitat proximal to a patch may be more important in determining dispersal rates than habitat farther away, since proximal habitat must be crossed in order to migrate, whereas more distal habitat is less likely to lie within the realised migration route of any particular individual” 🖋
 

@@ -16,7 +16,9 @@ La matrice constitue l'ensemble dominant du paysage qui englobe les tâches.
 >(2) fournir un habitat alternatif, bien que potentiellement sous-optimal 
 >(3) servir de source de nouvelles espèces invasives en concurrence pour l'espace disponible dans les parcelles.
 
-
+Le « **contexte paysager** » détermine le taux d'immigration dans une parcelle, à travers 
+(1) la superficie de l'habitat occupé dans la zone autour de la parcelle qui se trouve dans la zone de dispersion de l'organisme
+(2) la qualité de la zone intermédiaire non habitable / la matrice / pour la survie et la dispersion des individus (Fahrig 2001)[^1]
 
 
 
