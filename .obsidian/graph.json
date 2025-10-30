@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Excalidraw -path:Images  path:\"📚🎓 Thèse/COURS - Éco du paysage\"  ",
+  "search": "-path:Excalidraw -path:Images  path:\"📚🎓 Thèse\" ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.949574215480233,
+  "scale": 0.4220329846578813,
   "close": false
 }

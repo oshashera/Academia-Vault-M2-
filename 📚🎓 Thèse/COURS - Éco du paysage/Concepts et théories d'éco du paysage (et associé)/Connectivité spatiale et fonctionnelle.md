@@ -33,8 +33,9 @@ Une façon de quantifier la connectivité spatiale est de compter les couples de
 >  Corridors et barrières renvoient à la [[Théorie de la percolation|théorie de la percolation]]
 Les corridors ont plus d'effet à des [[Les corridors#Effet de la présence de corridors boisés sur la connectivité entre bosquets|stades élevés de fragmentation]].
 
-[!important] Malgré tout,
+>[!important] Malgré tout,
 Les déplacements entre les parcelles ont principalement été envisagés en termes de corridors (Tischendorf et Fahrig 2000a), mais il serait peut-être plus utile de les considérer comme le **résultat complexe des caractéristiques particulières des patchs** (par exemple, la résistance au déplacement ou le temps de séjour dans la parcelle), des propriétés des bordures et du contexte.[^1]
+>L'habitat proche d'une parcelle peut être plus important pour déterminer les taux de dispersion que l'habitat plus éloigné, car l'habitat proche doit être traversé pour migrer, tandis que l'habitat plus distant est moins susceptible de se trouver sur la route de migration réelle d'un individu particulier.[^1]
 ### Conclusion (burel & baudry)
 
 L'approche de la connectivité au sein d'un paysage peut se faire de différentes façons. Selon le type d'espèce, leur mode de déplacement, il existe des connectivités différentes. La simulation de structures générées par des déplacements est un outil important pour tester des hypothèses et, surtout, pour aider à élaborer une démarche de construction d'un plan d'échantillonnage du matériel biologique dans un paysage pour tester des déplacements effectifs.

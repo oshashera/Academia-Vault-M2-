@@ -8,7 +8,7 @@ L'habitat est souvent perçu comme par le prisme de [[Structures en tâches (pat
 
 <br>
 
->La distinction de ce qui constitue un habitat, et la différentiation avec la matrice est complexe: Par exemple, l'habitat adapté peut être relativement facile à définir pour les épiphytes obligatoires qui poussent sur les troncs d'arbres ou pour les gui hémiparasites qui poussent dans la canopée. *Cependant, pour de nombreuses autres espèces, en particulier celles qui ont des limites de tolérance physiologique relativement larges, il **n'y a souvent pas de distinction claire entre l'habitat et la matrice***, et il devient difficile, voire impossible, de définir des parcelles d'habitat distinctes.[^2]
+>La distinction de ce qui constitue un habitat, et la différentiation avec la matrice est complexe: Par exemple, l'habitat adapté peut être relativement facile à définir pour les épiphytes obligatoires qui poussent sur les troncs d'arbres ou pour les gui hémiparasites qui poussent dans la canopée. *Cependant, pour de nombreuses autres espèces, en particulier celles qui ont des limites de tolérance physiologique relativement larges, il* **n'y a souvent pas de distinction claire entre l'habitat et la matrice**, et il devient difficile, voire impossible, de définir des parcelles d'habitat distinctes.[^2]
 
 <br>
 
