@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/murphyContextConnectivityPlant2004.md",
+                "file": "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/leiboldMetacommunityConceptFramework2004.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "murphyContextConnectivityPlant2004"
+              "title": "leiboldMetacommunityConceptFramework2004"
             }
           },
           {
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 332,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -252,9 +253,10 @@
   },
   "active": "f94487048bc191d6",
   "lastOpenFiles": [
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
+    "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/leiboldMetacommunityConceptFramework2004.md",
     "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/murphyContextConnectivityPlant2004.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Capacité de dispersion.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Habitat.md",
@@ -269,7 +271,6 @@
     "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/fahrigEFFECTHABITATFRAGMENTATION2002.md",
     "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/fahrigEffectsHabitatFragmentation2003.md",
     "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/mouquetCommunityPatternsSourceSink2003.md",
-    "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/leiboldMetacommunityConceptFramework2004.md",
     "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/chaseReallyUnifiedTheory2005.md",
     "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/fahrigRelativeEffectsHabitat1997.md",
     "🏡 Home.md",
