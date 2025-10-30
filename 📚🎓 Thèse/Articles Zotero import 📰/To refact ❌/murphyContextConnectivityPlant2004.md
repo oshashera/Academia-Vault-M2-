@@ -34,15 +34,11 @@
 
  “Most plants probably respond to gradients of resource quality (With et al. 1997). For these species, suitable habitat lies along some environmental continuum, from optimal habitat, through suitable, and sub-optimal, with many biotic and abiotic parameters contributing toward suitability. Where a species does not perceive sharp and distinct boundaries, patch properties become less important and the nature of the overall landscape mosaic becomes increasingly significant in species’ dynamics” 🖋
 
- “many plants appear not to be arranged as metapopulations”
-
- “some species appear to exist as metapopulations in the classic sense, where regional persistence is governed by the processes of patch colonization, extinction and recolonization.”
-
- “However according to Freckleton and Watkinson other species exist as regional ensembles, systems of essentially unconnected local populations persisting in an illdefined mosaic of suitable and unsuitable habitat; while still others exist as spatially extended populations, essentially a single, extended population occupying large tracts of suitable habitat,”
+ “many plants appear not to be arranged as metapopulations” “some species appear to exist as metapopulations in the classic sense, where regional persistence is governed by the processes of patch colonization, extinction and recolonization.” “However according to Freckleton and Watkinson other species exist as regional ensembles, systems of essentially unconnected local populations persisting in an illdefined mosaic of suitable and unsuitable habitat; while still others exist as spatially extended populations, essentially a single, extended population occupying large tracts of suitable habitat,” 🖋
 
  “The assumption in metapopulation ecology that properties of the matrix are unimportant is probably only really true for terrestrial organisms inhabiting oceanic islands.”
 
- “One feature that distinguishes terrestrial habitat fragmentation from the true island model (of MacArthur and Wilson 1967) is that the matrix may, for some species, actually be hospitable to varying degrees.”
+ “One feature that distinguishes terrestrial habitat fragmentation from the true island model (of MacArthur and Wilson 1967) is that the matrix may, for some species, actually be hospitable to varying degrees.” 🖋
 
  “In this case the matrix should have a strong influence on the between-patch processes of dispersal and colonization, as well as the within-patch processes of extinction, population growth and density dependence”
 

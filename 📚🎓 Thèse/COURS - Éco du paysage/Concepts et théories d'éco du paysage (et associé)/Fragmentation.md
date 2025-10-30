@@ -7,6 +7,8 @@ sources:
 >[!summary] Réduction et destruction partielle des habitats, avec comme conséquence l'augmentation de l'effet lisière du fait de la relation [[Relation entre lisière, zone centrale et surface des taches|aire/lisière]] des tâches, ainsi que l'augmentation de l'isolation des tâches produites.
 >On observe majoritairement la relation suivante : ↑fragmentation = ↓richesse
 
+>Une caractéristique qui distingue la fragmentation des habitats terrestres du véritable modèle insulaire (de MacArthur et Wilson, 1967) est que la matrice peut, pour certaines espèces, être en réalité hospitable à des degrés divers.[^2] (Voir critiques [[Habitat|habitat]])
+
 Modification des flux biologiques.
 
 ![[Drawing 2025-10-17 11.08.42.excalidraw|center|600]]
@@ -64,3 +66,5 @@ ____
 “espèces spécialistes devraient être plus affectées par la perte de connectivité que les espèces généralistes, car les corridors seraient pour les spécialistes des habitats de moindre qualité que les habitats environnants” (Bergès, 2022, p. 104)
 
 [^1]: Fahrig 1997 [[fahrigRelativeEffectsHabitat1997]]
+
+[^2]: Murphy, 2004 [[murphyContextConnectivityPlant2004]]
