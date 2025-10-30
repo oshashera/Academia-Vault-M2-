@@ -78,9 +78,7 @@
 
  “Ricketts’s results suggest that the surrounding matrix may significantly influence the effective isolation of habitat patches, rendering them more or less isolated than simple distance would indicate.”
 
- “For mobile organisms which tend to migrate only short distances between patches, resistance parameters may be relatively straight-forward to calculate and incorporate into metapopulation models.”
-
- “However measures of the effect of a heterogeneous matrix on migration or dispersal are not so easy to estimate for organisms such as plants / which rely on a variety of other organisms and agents (water, wind), to disperse propagules and gametes between patches”
+ “For mobile organisms which tend to migrate only short distances between patches, resistance parameters may be relatively straight-forward to calculate and incorporate into metapopulation models.” “However measures of the effect of a heterogeneous matrix on migration or dispersal are not so easy to estimate for organisms such as plants / which rely on a variety of other organisms and agents (water, wind), to disperse propagules and gametes between patches”
 
  “Landscape context, boundary effects and the matrix all importantly influence connectivity and ultimately individual success,”
 

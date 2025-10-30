@@ -14,4 +14,7 @@ Le concept de métapopulation ne peut pas s'appliquer partout :
 À l'échelle régionale, certaines espèces semblent exister sous forme de métapopulations au sens classique du terme, où la persistance régionale est régie par les processus de colonisation, d'extinction et de recolonisation des parcelles. 
 Cependant, selon Freckleton et Watkinson, d'autres espèces existent sous forme d'ensembles régionaux, c'est-à-dire des *systèmes de populations locales essentiellement non connectées qui persistent dans une mosaïque mal définie d'habitats appropriés et inappropriés ; tandis que d'autres encore existent sous forme de populations spatialement étendues, c'est-à-dire essentiellement une seule population étendue occupant de vastes étendues d'habitat approprié, mais dont la dynamique régionale existe comme une simple extension de la dynamique locale.* [^1]
 
+
+> Pour les organismes mobiles qui ont tendance à migrer sur de courtes distances entre les parcelles, les paramètres de résistance peuvent être relativement simples à calculer et à intégrer dans les modèles de métapopulation. Cependant, les mesures de l'effet d'une matrice hétérogène sur la migration ou la dispersion ne sont pas si faciles à estimer pour des organismes tels que les plantes, qui dépendent d'une variété d'autres organismes et agents (eau, vent) pour disperser leurs propagules et leurs gamètes entre les parcelles. [^1]
+
 [^1]: Murphy, 2004 [[murphyContextConnectivityPlant2004]]

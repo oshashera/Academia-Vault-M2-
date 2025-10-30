@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept de métapopulation"
+              "title": "Connectivité spatiale et fonctionnelle"
             }
           },
           {
@@ -55,26 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connectivité spatiale et fonctionnelle"
+              "title": "Les lisières (edges)"
             }
           },
           {
             "id": "f94487048bc191d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concept de métapopulation"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"📚🎓 Thèse/COURS - Éco du paysage\" mig",
+                "query": "path:\"📚🎓 Thèse/COURS - Éco du paysage\" migrat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,12 +131,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 488
+    "width": 332
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -247,14 +250,15 @@
       "widgets:Add widget": false
     }
   },
-  "active": "b497b532f413f2d3",
+  "active": "f94487048bc191d6",
   "lastOpenFiles": [
-    "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/murphyContextConnectivityPlant2004.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Habitat.md",
+    "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/murphyContextConnectivityPlant2004.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Capacité de dispersion.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Habitat.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les corridors.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Structure en matrice-tâches.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Fragmentation.md",
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Structures en tâches (patches).md",
@@ -274,7 +278,6 @@
     "📚🎓 Thèse/COURS - Éco du paysage/Extinction treshold.md",
     "📚🎓 Thèse/Notes SIG dossiers filés.md",
     "📚🎓 Thèse/Article melina tbw 🗒🖋/Fonctionnement script 🇷.md",
-    "📚🎓 Thèse/Article melina tbw 🗒🖋/Notes Thèse Lucie Lecoq (2021).md",
     "Images/QJ2MQWYA.png",
     "Images/2Y864SEI.png",
     "📚🎓 Thèse/workflows.canvas",
