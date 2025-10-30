@@ -9,6 +9,7 @@
 
 “Loss and fragmentation of habitat result in reduced population sizes, which increases the probability of extinction by demographic and/or environmental stochasticity (Burkey 1995)”
 
+
  “effects of habitat amount and fragmentation are confounded in many studies that claim to show an effect of fragmentation. This arises through frequent use of the term "fragmentation" to mean simultaneously both loss and fragmentation of habitats”
 
  “Furthermore, negative effects of decreasing size and increasing isolation of habitat patches often are interpreted as fragmentation effects”
