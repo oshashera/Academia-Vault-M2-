@@ -15,7 +15,7 @@
 
  “The spatial arrangement of habitat patches is also relevant to metapopulation persistence because it influences the number of adjacent patches that are sources of colonists, the likelihood of interpatch movement, and the degree of independence of dynamics in patches separated by different distances”
 
- “ore considering the effects of habitat patch arrangement, it is useful to consider how the amount of habitat and patch number affect metapopulation persistence. These two factors have separate effects on persistence, although they are frequently confounded”
+ “before considering the effects of habitat patch arrangement, it is useful to consider how the amount of habitat and patch number affect metapopulation persistence. These two factors have separate effects on persistence, although they are frequently confounded”
 
  “A limited amount of habitat can restrict regional population size, which may interact with stochasticity to increase the likelihood of extinction”
 
@@ -33,7 +33,7 @@
 
  “than linear patch arrangements”
 
- “imulations with large numbers of habitat patches show that predators and prey persist longer in systems with more patches (and, hence, more total habitat)”
+ “simulations with large numbers of habitat patches show that predators and prey persist longer in systems with more patches (and, hence, more total habitat)”
 
  “persistence is longer when within-patch dynamics are more independent in different patches, providing that recolonization is possible”
 
