@@ -13,82 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Habitat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Habitat"
-            }
-          },
-          {
-            "id": "a28b18368e6b66ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/leiboldMetacommunityConceptFramework2004.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "leiboldMetacommunityConceptFramework2004"
-            }
-          },
-          {
-            "id": "9cbd19e98f110207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
+                "file": "🏡 Home.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connectivité spatiale et fonctionnelle"
+              "title": "🏡 Home"
             }
           },
           {
-            "id": "db33feef59a90cbe",
+            "id": "7131825018fb6fb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Les lisières (edges).md",
+                "file": "Tinytag data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Les lisières (edges)"
-            }
-          },
-          {
-            "id": "f94487048bc191d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concept de métapopulation"
-            }
-          },
-          {
-            "id": "31c1b96f555c0310",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "title": "Tinytag data"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,8 +209,11 @@
       "widgets:Add widget": false
     }
   },
-  "active": "31c1b96f555c0310",
+  "active": "7131825018fb6fb2",
   "lastOpenFiles": [
+    "Images/Pasted image 20251106110501.png",
+    "🏡 Home.md",
+    "Tinytag data.md",
     "Full Calendar/Bureau/2025-11-21 climat sur R ?.md",
     "Full Calendar/Bureau/2025-11-19 lecocq thèse uroy sinon.md",
     "Full Calendar/Bureau/2025-11-18 lecoq thèse ?.md",
@@ -286,9 +237,6 @@
     "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Concept de métapopulation.md",
     "Full Calendar/Terrain/2025-11-05 Terrain tinytag.md",
     "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/leiboldMetacommunityConceptFramework2004.md",
-    "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌/murphyContextConnectivityPlant2004.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Connectivité spatiale et fonctionnelle.md",
-    "📚🎓 Thèse/COURS - Éco du paysage/Concepts et théories d'éco du paysage (et associé)/Capacité de dispersion.md",
     "Images/QJ2MQWYA.png",
     "Images/2Y864SEI.png",
     "📚🎓 Thèse/workflows.canvas",
