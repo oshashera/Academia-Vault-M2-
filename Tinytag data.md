@@ -13,4 +13,7 @@ On peut dans ce cas supposer que le fuseau horaire n'est updaté que lors du rel
 Cela signifie que la prochaine salve de données récupérées seront  *a priori* bien au format GMT+1h.
 Nonobstant, les données récupérées ne sont vraisemblablement non plus basées au format GMT, qui incluerait un relevé entre 13h20 et 14h20 comme présenté avant.
 
-Le dernier relevé, noté à 12h53, est donc dans la tranche horaire 12h20-13h20, ce qui significe 1h de d
+Le dernier relevé, noté à 12h53, est donc dans la tranche horaire 12h20-13h20, ce qui significe 1h de retard par rapport au GMT (probablement donc le fuseau horaire de l'ordi au dernier relancage en juillet), et de 2h par rapport aux prochaines données qui (cf paragraphe au dessus) seront vraisemblablement en GMT+1.
+
+En résumé:  données Juillet-Novembre = GMT-1h, et données Novembres-Prochains relevés = GMT+1
+
