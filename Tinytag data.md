@@ -16,6 +16,3 @@ Nonobstant, les données récupérées ne sont vraisemblablement non plus basée
 Le dernier relevé, noté à 12h53, est donc dans la tranche horaire 12h20-13h20, ce qui significe 1h de retard par rapport au GMT (probablement donc le fuseau horaire de l'ordi au dernier relancage en juillet), et de 2h par rapport aux prochaines données qui (cf paragraphe au dessus) seront vraisemblablement en GMT+1.
 
 En résumé:  données Juillet-Novembre = GMT-1h, et données Novembres-Prochains relevés = GMT+1
-
-posix
-année-mois-jour 
