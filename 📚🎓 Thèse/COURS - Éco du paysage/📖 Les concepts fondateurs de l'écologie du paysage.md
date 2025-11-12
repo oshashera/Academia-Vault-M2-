@@ -230,3 +230,24 @@ Majorité des études : fragmentation per se pas d’effet sur la biodiversité
 Quand effet avéré : généralement positif
 **=> Question largement débattue actuellement**
 
+Perte d’habitat et fragmentation per se ne sont donc pas synonymes et peuvent avoir des implications différentes pour la conservation des populations (With, 2019).
+**Importance relative de la quantité d’habitat/ Isolement : application à la gestion** :
+<center>Seuil de réponse</center>
+![[Drawing 2025-11-12 11.49.51.excalidraw|center|450]]
+
+**Application à la gestion : débat sur [[SLOSS - Single Large Or Several Small 🔴|SLOSS]] (Single Large ou Several Small)**
+
+1. Si la fragmentation *per se* a un effet négatif sur l'abondance, l'occurrence et la richesse des communautés
+=> les directives de gestion doivent se focaliser sur la préservation de taches d'habitat larges et continues
+
+2. Si la fragmentation *per se* a des effets négligeables sur les espèces,
+=> la conservation devra focaliser sur l’ensemble des habitats quelque soit leur surface.
+
+3. Si la fragmentation *per se* a un effet positif sur les espèces
+=> se focaliser sur la préservation d’un grand nombre de parcelles de petites tailles.
+
+Si l’hypothèse de Fahrig (2017) est validée : préférable en terme de gestion de la biodiversité à l’échelle du paysage de protéger de nombreux fragments d’habitat de taille moyenne plutôt que quelques larges taches d’habitats
+=> en débat
+
+**Importance de séparer la notion de quantité d’habitat de la notion fragmentation per se pour comprendre les mécanismes structurant les assemblages d’espèces mis en place dernière ce processus de fragmentation.** 
+![[Pasted image 20251112120251.png|550]]
