@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "📖 Les concepts fondateurs de l'écologie du paysage"
             }
+          },
+          {
+            "id": "108d2a0d1ed13e0d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-12 11.49.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-12 11.49.51.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,11 +207,52 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "floating": {
+    "id": "daaa8fc5cac07c44",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5bf5b157d367103d",
+        "type": "window",
+        "children": [
+          {
+            "id": "85bb251113b67e4b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "17c7639494798bd6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "📖 Les concepts fondateurs de l'écologie du paysage"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 403,
+        "y": 361,
+        "width": 1024,
+        "height": 719,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "108d2a0d1ed13e0d",
   "lastOpenFiles": [
+    "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
+    "Excalidraw/Drawing 2025-11-12 11.49.51.excalidraw.md",
+    "🏡 Home.md",
     "Images/Pasted image 20251112114507.png",
     "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md",
-    "🏡 Home.md",
     "Tinytag data.md",
     "📚🎓 Thèse/🗂️ Orga Arbo ?.md",
     "PC.md",
@@ -222,7 +276,6 @@
     "Full Calendar/Bureau/2025-11-06 Raffiner notes, intégrer citations, raffiner notes.md",
     "Full Calendar/Bureau/2025-11-07 Logue 2011.md",
     "Full Calendar/Bureau/2025-11-06 Jackson 2010.md",
-    "Full Calendar/Bureau/2025-10-30 Phd Grill 2024.md",
     "Images/QJ2MQWYA.png",
     "Images/2Y864SEI.png",
     "📚🎓 Thèse/workflows.canvas",
@@ -233,7 +286,6 @@
     "Images/CE44QFUY.png",
     "Images/Pasted image 20251027143948.png",
     "📚🎓 Thèse/Articles Zotero import",
-    "Images/Pasted image 20251024141937.png",
     "📚🎓 Thèse/Articles Zotero import 📰/To refact ❌",
     "📚🎓 Thèse/Articles Zotero import/Refacted/Untitled",
     "📚🎓 Thèse/Articles Zotero import 📰/Refacted ✅",

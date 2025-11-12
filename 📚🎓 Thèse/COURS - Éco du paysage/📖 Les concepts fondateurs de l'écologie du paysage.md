@@ -209,10 +209,14 @@ Dans les paysages fragmentés, l’isolement diminue : <br>
 
 Moins d'études s'intéressent à la fragmentation *per se*
 ![[Pasted image 20251112114507.png|right|500]]
+
+<br>
+
 Diminution de la taille moyenne des taches :
 - réduction des ressources à l’intérieur des taches
 - Réduction de l’accessibilité aux ressources
 **=> effets généralement négatifs sur la biodiversité**
+<br>
 
 Augmentation du nombre de taches :
 - division des ressources et des refuges
@@ -220,3 +224,9 @@ Augmentation du nombre de taches :
 - diminution de la compétition
 - diminution de l’isolement entre taches
 **=> effets positifs sur la biodiversité**
+
+Revue de *Fahrig (2017)* à l’échelle des communautés :
+Majorité des études : fragmentation per se pas d’effet sur la biodiversité
+Quand effet avéré : généralement positif
+**=> Question largement débattue actuellement**
+
