@@ -208,8 +208,15 @@ Dans les paysages fragmentés, l’isolement diminue : <br>
 >>**=>** Échelle du paysage : la richesse en espèces invasives diminue avec la quantité d'habitats "semi-naturels"
 
 Moins d'études s'intéressent à la fragmentation *per se*
-
+![[Pasted image 20251112114507.png|right|500]]
 Diminution de la taille moyenne des taches :
 - réduction des ressources à l’intérieur des taches
 - Réduction de l’accessibilité aux ressources
-- 
+**=> effets généralement négatifs sur la biodiversité**
+
+Augmentation du nombre de taches :
+- division des ressources et des refuges
+- meilleure répartition des risques
+- diminution de la compétition
+- diminution de l’isolement entre taches
+**=> effets positifs sur la biodiversité**
