@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "ae30434edfc4703e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚🎓 Thèse/Articles Zotero import 📰/frickeLandscapeDiversityLocal2022.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "frickeLandscapeDiversityLocal2022"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,10 +261,12 @@
       }
     ]
   },
-  "active": "9db5ab2fb358544e",
+  "active": "ae30434edfc4703e",
   "lastOpenFiles": [
-    "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
+    "📚🎓 Thèse/Articles Zotero import 📰/cainLongdistanceSeedDispersal2000.md",
+    "📚🎓 Thèse/Articles Zotero import 📰/frickeLandscapeDiversityLocal2022.md",
     "Untitled 1.md",
+    "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
     "Cours/🎓 \"Yield gap\" les GxE/🟢 Interactions Génotype x Environnement.md",
     "Excalidraw/Drawing 2025-11-12 11.49.51.excalidraw.md",
     "Images/Pasted image 20251112120251.png",
@@ -276,8 +292,6 @@
     "Full Calendar/Bureau/2025-11-11 Fahrig 2013.md",
     "Full Calendar/Bureau/2025-11-10 Cooper 2012.md",
     "Full Calendar/Reunion/2025-11-06 mail clémence.md",
-    "Full Calendar/Bureau/2025-11-07 raffiner notes, citation, raffiner notes.md",
-    "Full Calendar/Bureau/2025-11-06 Raffiner notes, intégrer citations, raffiner notes.md",
     "Images/QJ2MQWYA.png",
     "Images/2Y864SEI.png",
     "📚🎓 Thèse/workflows.canvas",
