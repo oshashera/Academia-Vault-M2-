@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "108d2a0d1ed13e0d",
+            "id": "9db5ab2fb358544e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-11-12 11.49.51.excalidraw.md"
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-12 11.49.51.excalidraw"
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ],
@@ -245,11 +247,13 @@
       }
     ]
   },
-  "active": "108d2a0d1ed13e0d",
+  "active": "9db5ab2fb358544e",
   "lastOpenFiles": [
     "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
-    "Images/Pasted image 20251112120251.png",
+    "Untitled 1.md",
+    "Cours/🎓 \"Yield gap\" les GxE/🟢 Interactions Génotype x Environnement.md",
     "Excalidraw/Drawing 2025-11-12 11.49.51.excalidraw.md",
+    "Images/Pasted image 20251112120251.png",
     "🏡 Home.md",
     "Images/Pasted image 20251112114507.png",
     "Excalidraw/Objectifs 6 premiers mois thèse.excalidraw.md",
@@ -274,7 +278,6 @@
     "Full Calendar/Reunion/2025-11-06 mail clémence.md",
     "Full Calendar/Bureau/2025-11-07 raffiner notes, citation, raffiner notes.md",
     "Full Calendar/Bureau/2025-11-06 Raffiner notes, intégrer citations, raffiner notes.md",
-    "Full Calendar/Bureau/2025-11-07 Logue 2011.md",
     "Images/QJ2MQWYA.png",
     "Images/2Y864SEI.png",
     "📚🎓 Thèse/workflows.canvas",
