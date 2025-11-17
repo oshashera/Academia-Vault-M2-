@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 332,
+    "collapsed": true
   },
   "right": {
     "id": "aefffbc1d1c9796f",
@@ -208,7 +209,7 @@
       "widgets:Add widget": false
     }
   },
-  "active": "2916e548f1597d52",
+  "active": "d03efa5e082ed995",
   "lastOpenFiles": [
     "🏡 Home.md",
     "Zaar.md",
