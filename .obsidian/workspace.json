@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "8b472c1b8f3621db",
+            "id": "d03efa5e082ed995",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Zaar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Zaar"
             }
           }
         ],
@@ -206,10 +208,11 @@
       "widgets:Add widget": false
     }
   },
-  "active": "8b472c1b8f3621db",
+  "active": "2916e548f1597d52",
   "lastOpenFiles": [
-    "📚🎓 Thèse/Articles Zotero import 📰/fahrigEffectsHabitatFragmentation2003.md",
     "🏡 Home.md",
+    "Zaar.md",
+    "📚🎓 Thèse/Articles Zotero import 📰/fahrigEffectsHabitatFragmentation2003.md",
     "📚🎓 Thèse/COURS - Éco du paysage/📖 Les concepts fondateurs de l'écologie du paysage.md",
     "📚🎓 Thèse/Articles Zotero import 📰/frickeLandscapeDiversityLocal2022.md",
     "📚🎓 Thèse/Articles Zotero import 📰/cainLongdistanceSeedDispersal2000.md",
@@ -236,7 +239,6 @@
     "Full Calendar/Bureau/2025-11-10 biblio climat.md",
     "Full Calendar/Bureau/2025-11-12 Fahrig 2017.md",
     "Full Calendar/Bureau/2025-11-11 Fahrig 2013.md",
-    "Full Calendar/Bureau/2025-11-10 Cooper 2012.md",
     "Images/QJ2MQWYA.png",
     "Images/2Y864SEI.png",
     "📚🎓 Thèse/workflows.canvas",
